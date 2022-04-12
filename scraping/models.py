@@ -46,6 +46,7 @@ def Hierarchy(cfg, learning_rate=None):
   print('[ATTENTION!] emb_trainable: ', emb_trainable)
   print('[ATTENTION!] decoder_trainable: ', decoder_trainable)
   print('[INFO] learning_rate: ', lr)
+  print('[INFO] dropout_fine_tuning: ', fine_tuning)
   print('[INFO] dense_1_dropout_ratio: ', dense_1_dropout_ratio)
   print('[INFO] dense_2_dropout_ratio: ', dense_2_dropout_ratio)
   print('[INFO] detail_content_outdrop_3_ratio: ', detail_content_outdrop_3_ratio)

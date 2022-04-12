@@ -72,7 +72,7 @@ from scraping.transformer import transform_top_level_nodes_to_sequence
 #     url = parse.unquote(obj['url'])
 #     new_fpath = p.sub(repl, url) + 'jl'
 #     new_fpath = new_fpath.replace('/', '.')
-#     new_fpath = f'parser/dataset/{SPLIT_NAME}/{new_fpath}'
+#     new_fpath = f'parser/htmlsecreg-dataset/{SPLIT_NAME}/{new_fpath}'
 #     print(new_fpath)
 
 #     opmode = 'a' if os.path.exists(new_fpath) else 'x'
@@ -84,15 +84,15 @@ from scraping.transformer import transform_top_level_nodes_to_sequence
 ```python
 cfg = {
     'pretrained_emb_vers': 'v5x10u03',
-    'pretrained_version': 'v3x24x00x00r06',
-    'new_version': 'v3x24x00x00r07',
-    'dropout_fine_tuning': 0.06,
+    'pretrained_version': 'v3x24x00x00r07',
+    'new_version': 'v3x24x00x00r08',
+    'dropout_fine_tuning': 0,
     'max_length': 75000,
     'sequence_clip_ratio': 0.07,
-    'batch_size': 43,
+    'batch_size': 59,
     'num_classes': char_emb_training_specs['NUM_CLASSES'],
     'num_categories': 501, #  to validate dataset does not have item's value exceed this
-    'epochs': 701,
+    'epochs': 201,
     'optimizer': Nadam,
     'learning_rate': 5e-4,
     'buffer_size': 17,
@@ -174,15 +174,15 @@ def load_dataset(source_path, split=None):
 
   return dataset
 
-validating_dataset_file = 'parser/dataset/tmp/validating_dataset.pickle'
-training_dataset_file = 'parser/dataset/tmp/training_dataset.pickle'
+validating_dataset_file = 'parser/htmlsecreg-dataset/tmp/validating_dataset.pickle'
+training_dataset_file = 'parser/htmlsecreg-dataset/tmp/training_dataset.pickle'
 
-validating_dataset = load_dataset('parser/dataset/validating', cfg)
+validating_dataset = load_dataset('parser/htmlsecreg-dataset/validating', cfg)
 random.shuffle(validating_dataset)
 # with open(validating_dataset_file, 'wb') as f:
 #     pickle.dump(validating_dataset, f, pickle.HIGHEST_PROTOCOL)
 
-training_dataset = load_dataset('parser/dataset/training', cfg)
+training_dataset = load_dataset('parser/htmlsecreg-dataset/training', cfg)
 random.shuffle(training_dataset)
 # with open(training_dataset_file, 'wb') as f:
 #     pickle.dump(training_dataset, f, pickle.HIGHEST_PROTOCOL)
