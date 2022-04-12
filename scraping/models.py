@@ -34,7 +34,7 @@ def Hierarchy(cfg, learning_rate=None):
   abs_content_dense_3_size = 16
   dense_4_size = 8
 
-  fine_tuning = 0
+  fine_tuning = cfg.get('dropout_fine_tuning', 0)
   dense_1_dropout_ratio = 0.75 - fine_tuning
   dense_2_dropout_ratio = 0.50 - fine_tuning
   detail_content_outdrop_3_ratio = 0.50 - fine_tuning

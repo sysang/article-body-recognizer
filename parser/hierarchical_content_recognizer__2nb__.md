@@ -13,7 +13,7 @@ jupyter:
 
 ```python
 import os
-os.chdir('/workspace/upwork/martien_brouver/mylapi/scraping/')
+os.chdir('/workspace/HtmlSecReg/')
 ```
 ```python
 import re
@@ -84,11 +84,12 @@ from scraping.transformer import transform_top_level_nodes_to_sequence
 ```python
 cfg = {
     'pretrained_emb_vers': 'v5x10u03',
-    'pretrained_version': 'v3x24x00x00r05',
-    'new_version': 'v3x24x00x00r06',
+    'pretrained_version': 'v3x24x00x00r06',
+    'new_version': 'v3x24x00x00r07',
+    'dropout_fine_tuning': 0.06,
     'max_length': 75000,
     'sequence_clip_ratio': 0.07,
-    'batch_size': 61,
+    'batch_size': 43,
     'num_classes': char_emb_training_specs['NUM_CLASSES'],
     'num_categories': 501, #  to validate dataset does not have item's value exceed this
     'epochs': 701,
