@@ -1,0 +1,500 @@
+<div><div><p>Bloomberg's Zainub Amir:</p></div></div>
+<div><div><h3><div>Workforce report</div></h3></div></div>
+<div><div><p>Google will pay top execs $1 million each after declining to boost workers’ pay (The Verge)</p></div></div>
+<div><div><p>Elizabeth Holmes learned all the wrong lessons from Silicon Valley (Nitasha Tiku and Rachel Lerman)</p></div></div>
+<div><div><h3><div>Privacy monitor</div></h3></div></div>
+<div><div><p>Come the Metaverse, can privacy exist? (Wall Street Journal)</p></div></div>
+<div><div><h3><div>Mentions</div></h3></div></div>
+<li>Joe Kane has joined the Information Technology and Innovation Foundation as director of broadband and spectrum policy. Kane was previously a technology policy fellow at the R Street Institute.</li>
+<div><div><h3><div>Trending</div></h3></div></div>
+<div><div><p>Chinese state media releases video mocking Western fears of Huawei (Gizmodo)</p></div></div>
+<div><div><h3><div>Daybook</div></h3></div></div>
+<div><ul><li>Intel CEO Patrick Gelsinger speaks at an Atlantic Council event Monday at 10 a.m.</li></ul></div>
+<div><div><h3><div>Before you log off</div></h3></div></div>
+<div><div>The Cybersecurity 202<div><div>Analysis</div><div>Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events</div></div></div></div>
+<div><div><p>A newsletter briefing on cybersecurity news and policy.</p></div></div>
+<div><h1>Maricopa officials punch back against Arizona's partisan election audit</h1></div>
+<div><p>A newsletter briefing on cybersecurity news and policy.</p></div>
+<div><div><div><span><div><span><div><div>By Joseph Marks</div></div></span></div></span><p>with research by Aaron Schaffer</p></div></div><div>Today at 7:49 a.m. EST</div></div>
+<div><div><p>Welcome to The Cybersecurity 202! Today marks one year since the Jan. 6 attack on the U.S. Capitol building. </p></div></div>
+<div><div><p>Below: The Jan. 6 attack raised major questions about Congress's cybersecurity, and MyPillow CEO Mike Lindell was subpoenaed by the committee investigating it.</p></div></div>
+<div><div><h4><div>Maricopa County has 93 pages of pushback to that partisan election audit</div></h4></div></div>
+<div><div><p>Officials in Maricopa County, Az. have delivered a stinging rebuke to the partisan audit that state Republicans forced on their 2020 election results.</p></div></div>
+<div><div><h5><div>The background</div></h5></div></div>
+<div><div><p>Over the past year, the Maricopa County audit has stood as a prime example of Republicans sowing mistrust in the election process despite no substantial evidence of fraud.</p></div></div>
+<div><div><h5><div>The rebuttal</div></h5></div></div>
+<div><div><p>Claims of election fraud can be dangerous, Gates said at a county board meeting, linking the Maricopa audit to the Capitol attack launched by Trump supporters.</p></div></div>
+<div><p>“We have seen how people react when they think that an election has been stolen. They storm the U.S. Capitol. They threaten to kill and hang and shoot election workers. And they called other Americans traitors,” he said.</p></div>
+<div><div><p>The county report is a point-by-point refutation of allegations in the Cyber Ninjas audit. </p></div></div>
+<div><div><p>The tally:</p></div></div>
+<li>The report cites 22 Cyber Ninjas claims it describes as “misleading”</li>
+<li>Forty-one that were “inaccurate”</li>
+<li>Thirteen that were “demonstrably false”</li>
+<li>It also outlines faulty claims and analysis affecting more than 53,000 ballots</li>
+<div><div><p>“This audit is being held up as an example for other states to use for post-election audits and this is why it’s important to highlight these issues,” Jarrett told commissioners. </p></div></div>
+<div><div><p>But the Maricopa County report’s brand of careful analysis isn’t winning the day.</p></div></div>
+<div><div><p>Similarly partisan audits are underway in Texas and Wisconsin and are being pushed in Pennsylvania and elsewhere. </p></div></div>
+<div><div><h3><div>The keys</div></h3></div></div>
+<div><div><h4><div>Jan. 6 attack raised big questions about congressional cybersecurity</div></h4></div></div>
+<div><div><p>Prosecutors have charged one woman from Pennsylvania, Riley June Williams, with stealing a laptop from House Speaker Nancy Pelosi’s office. A laptop was also allegedly stolen from the office of Sen. Jeff Merkley (D-Ore.).</p></div></div>
+<div><div><p>Check out more of our colleagues’ coverage of the Jan. 6 anniversary:</p></div></div>
+<li>Jan. 6 lessons: Biden White House works to avoid repeat</li>
+<li>Garland: Justice Dept. will hold those responsible for Jan. 6 riot accountable</li>
+<li>How Republicans became the party of Trump’s election lie after Jan. 6</li>
+<li>How Jan. 6 could shape the 2022 midterm elections</li>
+<li>The battle to prevent another Jan. 6 features a new weapon: The algorithm</li>
+<div><div><h4><div>MyPillow CEO Mike Lindell says his phone records were subpoenaed by the House committee investigating the Capitol attack</div></h4></div></div>
+<div><div><h4><div>New York’s attorney general alerted major retailers and restaurants about 1.1 million compromised customer accounts</div></h4></div></div>
+<div><div><p>Her office found the hacked accounts after monitoring shady online communities where hackers discuss a type of cyberattack that involves logging in to customer accounts by using stolen passwords from other services.</p></div></div>
+<div><div><h3><div>Chat room</div></h3></div></div>
+<div><div><p>The first major reported ransomware breach of a local government this year hit Bernalillo County, N.M. — home to the state’s most populous city, Albuquerque — Emsisoft’s Brett Callow noted:</p></div></div>
+<div><div><p>StateScoop’s Benjamin Freed:</p></div></div>
+<div><div><h3><div>Government scan</div></h3></div></div>
+<div><div><h4><div>Biden strongly considering appointing official with cybersecurity experience to top banking post</div></h4></div></div>
+<div><div><p>FTC settles with data analytics firm after millions of Americans’ mortgage files exposed – TechCrunch (TechCrunch)</p></div></div>
+<div><div><h3><div>Cyber insecurity</div></h3></div></div>
+<div><div><p>F.B.I. arrests man accused of stealing unpublished book manuscripts (The New York Times)</p></div></div>
+<div><div><p>Cyberattack hits agency that oversees troubled insurance companies for state (Chicago Tribune)</p></div></div>
+<div><div><h3><div>Global cyberspace</div></h3></div></div>
+<div><div><p>Government military secretary spotted partying with NSO executives (Times of Israel)</p></div></div>
+<div><div><p>Russian businessman pleads not guilty in U.S. to insider trading through hacking (Reuters)</p></div></div>
+<div><div><p>Israeli cyber chief Unna steps down after four years in role (The Jerusalem Post)</p></div></div>
+<div><div><h3><div>Privacy patch</div></h3></div></div>
+<div><div><p>Google tech remotely wipes prisoner’s Samsung of possible evidence, FBI says (Forbes)</p></div></div>
+<div><div><h3><div>Daybook</div></h3></div></div>
+<li>The House Oversight and Reform Committee holds a hearing on proposed changes to the Federal Information Security Modernization Act on Tuesday at 10 a.m.</li>
+<li>Damian Collins, who chairs the U.K. Parliament’s Joint Committee on the Draft Online Safety Bill, discusses disinformation at a Washington Post Live event with former Rep. Will Hurd, a Republican who represented Texas, on Tuesday at 11 a.m.</li>
+<div><div><h3><div>Secure log off</div></h3></div></div>
+<h2>Maricopa officials punch back against Arizona's partisan election audit</h2>
+<div><p>County officials released a point-by-point refutation of a partisan audit imposed by GOP lawmakers</p></div>
+<div> <div> <ul> <li> Joseph Marks and Aaron Schaffer </li> <li>·</li> </ul> </div> </div>
+<div><p>An election audit found only found minor and expected discrepancies in ballot counts.</p></div>
+<div><p>Any military action is sure to be accompanied by cyber strikes.</p></div>
+<div> <p>You might also like...</p> </div>
+<h2>Cyber world is starting 2022 in crisis mode with the log4j bug</h2>
+<div><p>Such cataclysms are becoming the norm for cybersecurity.</p></div>
+<h2>It's unclear whether Russia is cracking down on cyber attacks</h2>
+<div><p>It's been six months since Biden pressured Putin, but progress is hard to see.</p></div>
+<div><p>Expect more of the same in 2022.</p></div>
+<h2>The Postal Service secretly built a risky mobile voting system</h2>
+<div><p>Outside researchers found many security problems.</p></div>
+<div><p>A Saudi women’s rights activist was imprisoned after being tracked with spyware.</p></div>
+<h2>Louisiana's the final state with a paperless voting system</h2>
+<div><p>The state is still trying to switch to paper ballots far more secure against hacking.</p></div>
+<div><p>A bipartisan and popular cyber incident reporting provision is out of the defense bill</p></div>
+<div><p>Google and Microsoft both announced takedown operations in the past 24 hours.</p></div>
+<h2>Vast majority of our Network cyber experts favor mandates to report hacks</h2>
+<div><p>They say letting critical industries report cyber incidents voluntarily isn’t working.</p></div>
+<h2>Rail and air have new cyber requirements -- but they're minor</h2>
+<div><p>DHS is taking an incremental approach to cybersecurity mandates.</p></div>
+<h2>The Planned Parenthood hack compromised intensely personal information</h2>
+<div><p>The attackers stole information from about roughly 400,000 patients.</p></div>
+<div> <div> <ul> <li> Aaron Schaffer and Joseph Marks </li> <li>·</li> </ul> </div> </div>
+<h2>GOP lawmakers fear China could hack U.S. government computing clouds</h2>
+<div><p>Sen. Rob Portman wants stronger protections in a plan to expand cloud computing.</p></div>
+<h2>Hackers wanted by the U.S. are profiting handsomely in Russia</h2>
+<div><p>One of the United States’s most wanted cyber criminals is living there in ease.</p></div>
+<div><p>Israeli is heightening restrictions on cyber vendors amid international pressure.</p></div>
+<h2>Happy Hacksgiving: Officials warn of a surge of cyber threats</h2>
+<div><p>Hackers routinely pounce during holidays when companies are understaffed and consumers are vulnerable.</p></div>
+<h2>A foreign government could be trying to hack U.S. biomedical companies</h2>
+<div><p>It’s not clear what the new bug is meant to do but it’s very powerful.</p></div>
+<h2>Voting machines are a casualty of unnecessary election audits</h2>
+<div><p>Maricopa County, Ariz., is on the hook for $2.8 million to replace its machines. </p></div>
+<div><div>The Technology 202<div><div>Analysis</div><div>Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events</div></div></div></div>
+<div><div><p>A newsletter briefing on the intersection of technology and politics.</p></div></div>
+<div><h1>Tech giants swore off donations to those who denied Biden’s win. Their cash is still likely getting through.</h1></div>
+<div><p>A newsletter briefing on the intersection of technology and politics.</p></div>
+<div><div><div><span><div><span><div><div>By Cristiano Lima</div></div></span></div></span><p>with research by Aaron Schaffer</p></div></div><div>Today at 9:30 a.m. EST</div></div>
+<div><div><h4><div>Tech giants swore off donations to those who denied Biden’s win. Their cash is still likely getting through.</div></h4></div></div>
+<div><div><p>A year later, major companies in the sector have largely stuck by the letter of their word, not giving funds altogether or to those specific candidates for much of the 2022 election cycle.</p></div></div>
+<div><div><p>But critics on the left say many of these organizations violated the spirit of the commitments by donating to GOP national organizations, which made no such assurances about who will or won’t receive the funds.</p></div></div>
+<div><div><p>This means their money could still end up supporting the candidates they rebuffed. </p></div></div>
+<div><div><p>It’s one of the many issues for which tech companies are still answering to policymakers about their actions leading up to and in the wake of the insurrection at the Capitol. </p></div></div>
+<div><div><p>It also shows that while some Republican tech critics are urging their colleagues to stop taking money from Silicon Valley as a sign of protest, that movement has been slow to gain steam.</p></div></div>
+<div><div><p>Now, companies are again facing pressure from liberal watchdogs to honor or expand their donation halts, signaling that scrutiny is likely to live on beyond the anniversary.</p></div></div>
+<div><div><p>Here’s a breakdown of how much companies have stuck to their commitments, according to federal disclosure filings reviewed by The Technology 202, confirming past reporting:</p></div></div>
+<div><div><p>Verizon: Like ATT and Google, the wireless carrier pledged to halt contributions to objectors and has not made any since, but it did contribute $15,000 apiece to the NRCC and NRSC.</p></div></div>
+<div><div><p>Spokespeople for Oracle, ATT, Verizon, Comcast and T-Mobile did not return requests for comment on the donations.</p></div></div>
+<div><div><p>Few companies, however, have explicitly said whether they plan to swear off donations for certification objectors for good, leaving open the possibility they quietly resume in the future.</p></div></div>
+<div><div><h3><div>Our top tabs</div></h3></div></div>
+<div><div><h4><div>Twitter set up a team to monitor its site for Jan. 6 anniversary</div></h4></div></div>
+<div><p>Facebook parent Meta is “continuing to actively monitor threats on our platform and will respond accordingly,” the company told Reuters. YouTube said the company continues to look for election misinformation on its platform.</p></div>
+<div><div><h4><div>Lawmakers say Google rival's critique of the search giant shows the need for legislation</div></h4></div></div>
+<div><div><p>Lawmakers seized on search engine DuckDuckGo’s allegations detailed in Wednesday's Technology 202 that Google has been subtly manipulating users and abusing its browser extensions to stifle competitors. </p></div></div>
+<div><div><h4><div>Elizabeth Warren asked Google to stop going after Jonathan Kanter</div></h4></div></div>
+<div><div><p>Jonathan Kanter is an ally of Warren and Jayapal, who praised his nomination last year. Kanter reportedly advised Warren when she ran for president in 2020.</p></div></div>
+<div><div><h3><div>Rant and rave</div></h3></div></div>
+<div><div><p>Instagram has begun testing a long-awaited chronological feed, according to Instagram head Adam Mosseri. Offline Ventures's Dave Morin:</p></div></div>
+<div><div><p>Economist Robert Marchini:</p></div></div>
+<div><div><p>Kelly Rippin, an anchor at Cincinnati television station WLWT:</p></div></div>
+<div><div><p>TechCrunch's Taylor Hatmaker:</p></div></div>
+<div><div><h3><div>Inside the industry</div></h3></div></div>
+<div><div><p>The battle to prevent another Jan. 6 features a new weapon: The algorithm (Steven Zeitchik)</p></div></div>
+<div><div><p>Google subject to new, tougher supervision by German regulator (Bloomberg)</p></div></div>
+<div><div><p>Google, Facebook face big privacy fines in France (Politico Europe)</p></div></div>
+<div><div><h3><div>Hill happenings</div></h3></div></div>
+<div><div><p>NFTs move to influence Congress, even if lawmakers have no clue what they are (Politico)</p></div></div>
+<div><div><p>Turning Point is quietly building the next generation of conservative influencers (The Verge)</p></div></div>
+<div><div><h3><div>Workforce report</div></h3></div></div>
+<div><div><p>Facebook moderators have been told they can work from home after employee protests (BuzzFeed News)</p></div></div>
+<div><div><h3><div>Competition watch</div></h3></div></div>
+<div><div><p>Facebook-owner Meta sets out grounds for UK appeal on Giphy (Reuters)</p></div></div>
+<div><div><h3><div>Trending</div></h3></div></div>
+<div><div><p>Google Maps helps Italian police capture mafia fugitive (Reuters)</p></div></div>
+<div><div><h3><div>Mentions</div></h3></div></div>
+<li>John Perrino has joined the Stanford Internet Observatory. He previously worked as a director of the Glen Echo Group.</li>
+<div><div><h3><div>Daybook</div></h3></div></div>
+<li>Intel CEO Patrick Gelsinger speaks at an Atlantic Council event on Monday at 10 a.m.</li>
+<li>FCC Commissioner Geoffrey Starks discusses infrastructure funding at an Information Technology Industry Council and Bridge for Innovation event on Tuesday at 1 p.m.</li>
+<li>Damian Collins, who chairs the U.K. Parliament’s Joint Committee on the Draft Online Safety Bill, discusses disinformation at a Washington Post Live event with former Rep. Will Hurd, a Republican who represented Texas, on Tuesday at 11 a.m.</li>
+<div><div><h3><div>Before you log off</div></h3></div></div>
+<h2>Tech giants swore off donations to those who denied Biden’s win. Their cash is still likely getting through.</h2>
+<div><p>Here are what tech and telecom companies stuck to their commitments.</p></div>
+<div> <div> <ul> <li> Cristiano Lima and Aaron Schaffer </li> <li>·</li> </ul> </div> </div>
+<h2>Google is manipulating browser extensions to stifle competitors, DuckDuckGo CEO says</h2>
+<div><p>The rival executive said Google is using "dark patterns" to keep users from switching search engines.</p></div>
+<h2>Biden’s coronavirus testing push will need to face the ghost of websites past</h2>
+<div><p>The federal government has a checkered history when it comes to standing up public health sites.</p></div>
+<div> <p>You might also like...</p> </div>
+<h2>Why 2022 could be a ‘watershed year’ for tech regulation</h2>
+<div><p>Threats to Silicon Valley giants are piling up in Washington.</p></div>
+<div><p>Aggressive new enforcers and looming legislative threats piled up over the course of the year.</p></div>
+<h2>Biden’s Commerce chief is under fire from Warren, progressives for defending U.S. tech giants</h2>
+<div><p>The senator and advocacy groups are calling on Raimondo to clarify remarks on European tech rules.</p></div>
+<h2>Facebook’s latest defense: Social media doesn’t hurt people. People hurt people.</h2>
+<div><p>The company is "saying the quiet part out loud" on how it views misinformation, one senator said.</p></div>
+<div><p>The latest roadblock: GOP concerns over a nominee’s possible conflicts.</p></div>
+<h2>The world is closing the gap with Europe on digital rules, E.U. competition chief says</h2>
+<div><p>Margrethe Vestager says the E.U. and U.S. are converging on competition regulations, too.</p></div>
+<h2>Instagram’s chief is testifying. Here’s what child safety advocates want answered.</h2>
+<div><p>Key questions for Adam Mosseri in his first congressional outing.</p></div>
+<h2>Sen. Warren says tech giants like Amazon are helping to drive up prices</h2>
+<div><p>She's holding a hearing featuring prominent critics of the digital behemoths Tuesday.</p></div>
+<h2>Hate speech lawsuit against Facebook gains powerful ally: D.C.’s attorney general</h2>
+<div><p>The case is the latest test of tech companies' protections under Section 230.</p></div>
+<h2>Push to crack down on tech giants faces tough voting math in Congress</h2>
+<div><p>Key holdouts threaten lawmakers' bipartisan antitrust agenda.</p></div>
+<h2>Lawmakers spar over Biden’s FCC pick and Section 230 in latest tech hearings</h2>
+<div><p>Partisan divisions flared at a pair of nomination and legislative sessions.</p></div>
+<h2>Can Congress unite on Section 230 reform? This top Democrat has hope.</h2>
+<div><p>But partisan feuding could derail those plans.</p></div>
+<h2>Jack Dorsey’s legacy in Washington: Polarizing calls and historic scrutiny</h2>
+<div><p>“Twitter has been willing to be out in front, even when they get egg on their face,” one researcher said.</p></div>
+<h2>Congress is weighing changes to Section 230, again. Here are what bills stand a chance.</h2>
+<div><p>Bills targeting platforms' algorithms are picking up steam. </p></div>
+<h2>Here’s where civil right advocates say Facebook is still falling short</h2>
+<div><p>Advocates want more resources for its civil rights unit and less influence for executive Joel Kaplan.</p></div>
+<h2>Conservatives accuse social networks of prejudging Kyle Rittenhouse case</h2>
+<div><p>GOP critics are calling on platforms to relax restrictions on what can be said about the shootings.</p></div>
+<div><p> In today's newsletter: new revelations about Facebook's algorithm and a delay in the company's plans to roll out encryption.</p></div>
+<div> <div> <ul> <li> <a> Gerrit De Vynck</a> </li> <li>·</li> </ul> </div> </div>
+<div><div>Your Data and Privacy</div><div><h1>Android privacy settings to change now</h1><h2>Here’s how to make your Android device as private as possible </h2></div></div>
+<div><div><span><div><span><div><div>By Chris Velazco</div></div></span></div></span></div><div>November 29, 2021 at 8:00 a.m. EST</div></div>
+<div><p>Privacy Reset: A guide to the important settings you should change now.</p></div>
+<div><div><h3><div>If you only do one thing</div></h3></div></div>
+<div><div><p><b>Audit your apps</b></p></div></div>
+<div><div><p>What makes an Android smartphone or tablet truly yours is the apps you use on it, but it’s common for people to install apps without thinking about what they have access to.</p></div></div>
+<li>If you find any apps that you don’t use frequently, just uninstall them. Go to Settings → Apps → See all apps, then find the app you want to get rid of. Tap its name, followed by the “Uninstall” button.</li>
+<div><div><h3><div>If you’re still concerned about privacy</div></h3></div></div>
+<div><div><p><b>Rethink your unlocks</b></p></div></div>
+<div><div><p>If you’re a stickler for security, you many want to avoid unlock patterns and face recognition — some versions can be surprisingly easy to fool. Here’s how to change your unlock method:</p></div></div>
+<div><ul><li>Go to Settings → Security → Screen Lock and select a new screen lock type.</li></ul></div>
+<div><div><p><b>Hide your sensitive notifications</b></p></div></div>
+<div><ul><li>Go to Settings → Apps and Notifications → Notifications and make sure the “Sensitive notifications” is unticked. (If done correctly, the toggle will appear gray.)</li></ul></div>
+<div><div><h3><div>If you want to be extra cautious</div></h3></div></div>
+<div><div><p><b>Make sure your phone is encrypted</b></p></div></div>
+<div><div><p><b>Use Chrome wisely, or not at all</b></p></div></div>
+<h3>Help Desk: Making tech work for you</h3>
+<p><a><b>Help Desk</b></a> is a new destination built for readers looking to better understand and take control of the technology used in everyday life. <a><b>Meet the Help Desk team</b></a>.</p>
+<p><b>Go deeper:</b> Tech in Your Life | <a>Tech at Work</a> | <a>Your Data and Privacy</a> | <a>Internet Access</a> | <a>What’s New</a> | <a>Ethical Issues</a></p>
+<a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the
+<b> </b>settings for the most popular (and problematic) services to give you recommendations.
+<p><b>Ask a question: </b><a>Send the Help Desk your personal technology questions</a>.</p>
+<div><div><div>MORE ON DATA AND PRIVACY</div><div><div>HAND CURATED</div></div></div></div>
+<div><div>Your Data and Privacy</div><div><h1>Apple iOS privacy settings to change now</h1><h2>How to make your iPhone and iPad as private as possible</h2></div></div>
+<div><div><span><div><span><div><div>By Heather Kelly</div></div></span></div></span></div><div>November 26, 2021|Updated December 14, 2021 at 6:55 p.m. EST</div></div>
+<p>Privacy is a central part of Apple’s marketing campaigns and it sounds great in the company’s ads and product announcements. But actually making things as private as possible on Apple devices does require a bit of effort and time.</p>
+<p>We’ve assembled all the settings you can change on your iPhone and iPad to make the devices as private as possible. These instructions are all based on iOS 15, the newest version of the operating system, but details can vary between updates.</p>
+<div><div><p>There’s only so much that can be done on the device-side, so make sure you’re also keeping an eye on settings for the most popular apps themselves with the rest of our privacy guide.</p></div></div>
+<div><div><p><b>Disable ad tracking</b></p></div></div>
+<div><div><p><b>Record what your apps are up to</b></p></div></div>
+<li>To turn it on go to Settings → Privacy → (scroll to bottom) App Privacy Report → Turn on App Privacy Report</li>
+<div><p>Big Tech is pushing apps on your devices. Here’s how to take back control of your apps</p></div>
+<div><div><p><b>Revoke access to your data liberally</b></p></div></div>
+<div><div><p>This is one of the best things you can do for your privacy. Apps can access huge swath of data about you and your device, but Apple has included a way to control who sees what.</p></div></div>
+<b> </b>You can turn off Location Services and revoke access for all apps, but that might stops key features from working on certain apps like Weather or Uber. Instead, go down the list and manage them one-by-one
+<div><div><p><b>Stop Apple from targeting its own ads</b></p></div></div>
+<div><p>Apple makes a big fuss about other companies targeting ads, but it does it as well. The company’s ads appear in places like the App Store, Apple News and the Stocks app. There’s an easy way to turn off Apple’s targeting.</p></div>
+<div><ul><li>Go to Settings → Privacy → Apple Advertising (at the bottom of the screen). Toggle off the option for Personalized Ads so it is gray.</li></ul></div>
+<div><div><p><b>Stop sharing data for analytics</b></p></div></div>
+<div><div><p>Apple and its developers collect data about how you use your device and their products to improve products and services, but if you want, you can cut off access. (You may already have opted out when you set up your device.)</p></div></div>
+<div><div><p><b>Browse the Internet while sharing less</b></p></div></div>
+<div><div><p>These settings can make Safari more private, though you also have the option to use a third-party browser app on iOS, such as Firefox.</p></div></div>
+<li>Go to Settings → Safari → Search Engine. Change your default search engine from Google to a more private option like DuckDuckGo.</li>
+<li>Tap on “Clear History and Website Data” if you want a clean slate, but you may need to log on again to some sites.</li>
+<li>Turn on an ad blocker. Under Settings → Safari → General, tap on Extensions. You can view Safari extensions in the app store and look for content blockers that you want to install, such as Adblock, Wipr or Crystal.</li>
+<li>Feel free to use the Private Browsing mode in Safari, but remember it is just hiding your search history on the phone or connected devices.</li>
+<div><div><p><b>Open emails in peace</b></p></div></div>
+<div><div><p>New in iOS 15, this feature stops companies that send you emails from getting your IP address or knowing if you’ve opened their message.</p></div></div>
+<div><ul><li><span>Go to Settings → Mail → Privacy Protection.<b> </b>Turn on the toggle for Protect Mail Activity.</span></li></ul></div>
+<div><div><p><b>Lock down Siri</b></p></div></div>
+<li>Scroll down to Siri Dictation History and hit the option to Delete Siri Dictation History.</li>
+<div><p>How to keep your intimate, embarrassing or damaging text messages as private as possible</p></div>
+<div><div><h3><div>If you want to be extra cautious</div></h3></div></div>
+<div><div><p><b>Turn on iCloud Private Relay</b></p></div></div>
+<h3>Help Desk: Making tech work for you</h3>
+<p><a><b>Help Desk</b></a> is a new destination built for readers looking to better understand and take control of the technology used in everyday life. <a><b>Meet the Help Desk team</b></a>.</p>
+<p><b>Go deeper:</b> <a>Tech in Your Life</a> | <a>Tech at Work</a> | <a>Your Data and Privacy</a> | <a>Internet Access</a> | <a>What’s New</a> | <a>Ethical Issues</a></p>
+<a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the
+<b> </b>settings for the most popular (and problematic) services to give you recommendations.
+<p><b>Ask a question: </b><a>Send the Help Desk your personal technology questions</a>.</p>
+<div><div><div>MORE ON DATA AND PRIVACY</div><div><div>HAND CURATED</div></div></div></div>
+<div><div>Your Data and Privacy</div><div><h1>Venmo privacy settings to change now</h1><h2>If you pay for things using Venmo you might be shocked at what information you’re sharing publicly</h2></div></div>
+<div><div><span><div><span><div><div>By Heather Kelly</div></div></span></div></span></div><div>September 23, 2021 at 5:30 a.m. EDT</div></div>
+<div><div><div><div> Introducing Help Desk: Technology coverage that makes tech work for you </div></div></div></div>
+<div><div><p>If you’re using Venmo, which is owned by PayPal, you should hightail it to the settings screen and start making these changes. All of these settings can be accessed on the Android or iOS apps.</p></div></div>
+<div><div><h3><div>If you only do one thing</div></h3></div></div>
+<div><div><h5><div>Make sure all your payments are private</div></h5></div></div>
+<div><div><p>By default, any time you pay for a babysitter or reimburse a friend on Venmo, that amount and description are public and shown to your other friends on the app. Here’s how to make it private.</p></div></div>
+<div><ul><li>In the smartphone app, click on the profile icon, then the settings icon (looks like a gear). Select Privacy and set the Default Privacy Settings to Private (not Public or Friends).</li></ul></div>
+<div><div><h3><div>If you’re still concerned about privacy</div></h3></div></div>
+<div><div><h5><div>Hide past transactions</div></h5></div></div>
+<div><div><p>That first setting only changed what people can see going forward, so you’ll have to take another step to hide past payments.</p></div></div>
+<div><ul><li>In the same screen, scroll down to More and click Past Transactions. Tap on “Change All to Private”</li></ul></div>
+<div><div><h5><div>Hide your friends list</div></h5></div></div>
+<div><div><p>This may be one of the app’s sneakiest defaults, and it’s the one that got President Biden. Hide all your contacts ASAP.</p></div></div>
+<div><ul><li>Go back to the main Privacy screen, select Friends List under More. Set to Private, then toggle off the switch at the bottom for “Appear in Other Users’ Friends Lists.”</li></ul></div>
+<div><div><h5><div>Don’t share location information</div></h5></div></div>
+<div><div><p>There are also some things you can do to limit what data Venmo can get about you to share or make public. Starting with your location, which is not required to make a payment.</p></div></div>
+<div><ul><li>Go back to the main Privacy screen, select Location under More, if available. This will reroute you to your smartphone settings where you can make sure it doesn’t have location access.</li></ul></div>
+<div><div><h5><div>Don’t share your personal contacts with Venmo</div></h5></div></div>
+<div><div><p>You can also limit which contacts are imported into the app. (It’s still easy to find people by their name or using the built in codes.)</p></div></div>
+<div><div><p>Consider using a different payment app. We’ve run down all the options and different use cases here.</p></div></div>
+<div><p>Breaking up with Venmo: The best payment apps for privacy and low fees</p></div>
+<div><div><div>MORE ON PRIVACY SETTINGS</div><div><div>HAND CURATED</div></div></div></div>
+<div><div>Your Data and Privacy</div><div><h1>Facebook privacy settings to change now</h1><h2>If you can’t quit Facebook, you can try to reclaim some control by changing these key privacy settings</h2></div></div>
+<div><div><p>Let’s face it. Facebook is hard to quit.</p></div></div>
+<div><div><p>But Facebook is also the connective tissue between nearly 3 billion people around the world. If you can’t leave, at least you can make your data as private as possible.</p></div></div>
+<div><div><h5><div>Stop Facebook from targeting ads based on what you do online.</div></h5></div></div>
+<ul><li>Go to Settings Privacy → Settings → Ads → Ad Settings → “Data about your activity from partners.”</li><li>Turn this off for your Facebook and Instagram accounts. (The toggle is gray if off, blue if on.)</li></ul>
+<li>Go Settings Privacy → Privacy Checkup → “Who can see what you share.”</li>
+<li>On the first screen, scroll down and make sure all your profile information is set to “Friends of Only Me” unless you have a reason for it being public.</li>
+<div><div><h5><div>Turn off Face Recognition for photos and videos</div></h5></div></div>
+<div><div><p>Facial recognition is a fast-growing feature that has unknown privacy implications for the future. Stay safe and turn it off now.</p></div></div>
+<div><ul><li>Settings Privacy → Settings → Face Recognition: set to “No”</li></ul></div>
+<div><div><h5><div>Don’t let anyone tag you in a photo without approval</div></h5></div></div>
+<div><ul><li>Settings Privacy → Settings → Profile and Tagging → Reviewing: set to “On” for both items.</li></ul></div>
+<div><div><h5><div>Stop Facebook from tracking your location</div></h5></div></div>
+<div><ul><li>Settings Privacy → Settings → Location → Location History: set to “Off”</li></ul></div>
+<div><div><h5><div>Lock down your other ad settings</div></h5></div></div>
+<div><div><p>Even if Facebook can’t target ads based on what you do off the site, it can still use the data it already collected about you on the site. You can limit that with these settings.</p></div></div>
+<li>Settings and Privacy → Settings → Ads (you’ll have to scroll down) → Ad Settings.</li>
+<li>Under “Categories used to reach you” make sure to de-select all details about yourself.</li>
+<li>Under “Interest categories” and “Other categories,” remove anything listed.</li>
+<li>Click “Ads shown off Facebook” and change the toggle to “Not Allowed.”</li>
+<li>And under “Social” select “Only me” for who can see what ads you have liked.</li>
+<b> </b>if you have ample free time.
+<div><div><h3><div>If you want to be extra cautious</div></h3></div></div>
+<div><div><h5><div>First, save your old posts and photos someplace other than Facebook.</div></h5></div></div>
+<div><div><p>Deleting old Facebook content cannot be undone, so if you want to have a record of your years of Facebook posts, likes and photos, back it up first. Do this before deleting an account forever or the next step.</p></div></div>
+<li>Settings Privacy → Settings → Your Facebook Information → Transfer a Copy of Your Information. Here you can send photos, posts and notes to Google, Dropbox or other services.</li>
+<div><div><h5><div>Delete all your past Facebook activity</div></h5></div></div>
+<div><div><h5><div>“Disconnect” and delete “Off-Facebook” activity</div></h5></div></div>
+<div><div><p>Outside businesses also share data with Facebook. You can cut down on those transactions with this setting.</p></div></div>
+<li>Settings Privacy → Settings → Your Facebook Information → Off-Facebook Activity.</li>
+<li>Go back to Settings Privacy → Settings → Your Facebook Information → Off-Facebook Activity.</li>
+<li>Now click on the link on the right that says “Clear History.” You’ll be shown a warning and another button that says “Clear History.” Click and you are done. For now.</li>
+<h3>Help Desk: Making tech work for you</h3>
+<p><a><b>Help Desk</b></a> is a new destination built for readers looking to better understand and take control of the technology used in everyday life. <a><b>Meet the Help Desk team</b></a>.</p>
+<p><b>Go deeper:</b> Tech in Your Life | <a>Tech at Work</a> | <a>Your Data and Privacy</a> | <a>Internet Access</a> | <a>What’s New</a> | <a>Ethical Issues</a></p>
+<a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the
+<b> </b>settings for the most popular (and problematic) services to give you recommendations.
+<p><b>Ask a question: </b><a>Send the Help Desk your personal technology questions</a>.</p>
+<div><div><div>MORE ON PRIVACY SETTINGS</div><div><div>HAND CURATED</div></div></div></div>
+<div><div>Your Data and Privacy</div><div><h1>Amazon privacy settings to change now</h1><h2>From shopping online to smart speaker Alexa, Amazon’s products have a number of privacy defaults you can and probably should change</h2></div></div>
+<div><div><span><div><span><div><div>By Heather Kelly</div></div></span></div></span></div><div>September 23, 2021 at 5:30 a.m. EDT</div></div>
+<div><div>Help Desk: Technology coverage that makes tech work for you</div></div>
+<div><div><h3><div>If you only do one thing</div></h3></div></div>
+<div><p>We all have hopes, dreams and wishes. But you may not realize that some of those are publicly listed on Amazon’s website. Take a moment to make your Amazon Wish Lists private (unless you don’t mind; that’s fine, too).</p></div>
+<div><ul><li>Go to this link or the Amazon homepage → All → Help Settings→ Your Account → Your lists. For each list, click on the three dots on the right and select Manage List. Set the Privacy setting to Private.</li></ul></div>
+<div><p>Amazon may be sharing your Internet connection with neighbors. Here’s how to turn it off.</p></div>
+<div><div><h3><div>If you’re still concerned about privacy (and use Alexa)</div></h3></div></div>
+<div><div><p>If you use Amazon’s voice assistant Alexa you should start by tightening up its various privacy controls.</p></div></div>
+<div><div><h5><div>Turn off Amazon Sidewalk</div></h5></div></div>
+<div><ul><li>Open the Alexa app on a phone, tap the More icon → Settings → Account Settings → Amazon Sidewalk. Turn off Enabled. It should now say Disabled.</li></ul></div>
+<div><div><h5><div>Clear and stop Alexa voice recordings</div></h5></div></div>
+<div><div><p>Alexa works by listening for commands, then saving those audio recordings to improve the underlying AI technology. You can stop the recordings from being saved.</p></div></div>
+<li>In the app, go to Settings → Alexa Privacy → Manage Your Alexa Data → Choose How Long to Save Voice Recordings, then select Don’t Save Recordings.</li>
+<li>Amazon claims this will “degrade” its ability to understand you. If you’re worried, you can just set it to auto delete more often.</li>
+<li>Or you can do it in the Alexa app in Settings → Alexa Privacy → Review Voice History.</li>
+<li>Turn on this setting to delete voice recordings at any time by voice. In the Alexa app, go to Settings → Alexa Privacy → Manage Your Alexa Data and toggle on Enable Deletion by Voice</li>
+<div><div><div><div><a> Introducing Help Desk: Technology coverage that makes tech work for you </a></div></div></div></div>
+<div><div><h5><div>Stop Amazon from saving your search history</div></h5></div></div>
+<div><div><p>This just takes away a possibly revealing trail of everything you’ve looked up on Amazon. It’s a necessity if you share a computer.</p></div></div>
+<div><ul><li>Log in to Amazon on the web. Under the search bar, click Browsing History → View and Edit → Manage history → Off. You will no longer get personalized recommendations.</li></ul></div>
+<div><div><h3><div>If you want to be extra cautious</div></h3></div></div>
+<div><div><p>Mute or unplug all your Alexa devices when not in use, and don’t buy a Halo band.</p></div></div>
+<p><b>Go deeper:</b> <a>Tech in Your Life</a> | <a>Tech at Work</a> | <a>Your Data and Privacy</a> | <a>Internet Access</a> | <a>What’s New</a> | <a>Ethical Issues</a></p>
+<div><div>Privacy Reset</div><div><h1>Google privacy settings to change now</h1><h2>Whether you have a little or a lot of Google in your life, you should stay on top of these account settings.</h2></div></div>
+<b> </b>YouTube at the same time.
+<div><div><div><div> Introducing Help Desk: Technology coverage that makes tech work for you </div></div></div></div>
+<p>These privacy setting recommendations are based on your Google Account settings on the Web. You can also access them through individual Google apps or your settings on an Android phone by going to Settings → Google (or Google Services).</p>
+<div><div><p>Start with the one setting that does the most to stop Google from tracking your search and browsing activity.</p></div></div>
+<div><div><h3><div>If you’re still concerned about privacy</div></h3></div></div>
+<div><div><p>Start in that same settings screen and take control of more of your data.</p></div></div>
+<div><div><h5><div>Stop location and YouTube data collection</div></h5></div></div>
+<li>From the Activity controls page, scroll down and turn off the toggle by Location History so it is gray. (Curious what location information Google already has about you? Go to timeline.google.com)</li>
+<li>Continue scrolling down to YouTube History and toggle the switch off so that it is gray.</li>
+<div><div><h5><div>Delete old activity</div></h5></div></div>
+<div><div><p>In addition to stopping future data collection in all those categories, you can delete all previously gathered information.</p></div></div>
+<div><div><h5><div>Hide your product reviews</div></h5></div></div>
+<div><ul><li>In your Google Account settings, go to People sharing → Manage shared endorsements. Make sure the box on this page is unchecked.</li></ul></div>
+<div><div><h5><div>Lock down your profile</div></h5></div></div>
+<div><ul><li>In your account settings go to People sharing → Choose what others see → About me. Make sure any sensitive details about you are set to “Only you” instead of “Anyone.”</li></ul></div>
+<div><div><h5><div>Turn off ad-personalization</div></h5></div></div>
+<div><ul><li>Go to your Ad Settings, either through the link at the end of the My Activity page or directly at adssettings.google.com. Turn off the toggle so it is gray.</li></ul></div>
+<div><div><h5><div>Cut off outside apps</div></h5></div></div>
+<a>search engine with an alternative like DuckDuckGo</a>.
+<div><p>Goodbye, Chrome: Google’s Web browser has become spy software</p></div>
+<h3>Help Desk: Making tech work for you</h3>
+<p><a><b>Help Desk</b></a> is a new destination built for readers looking to better understand and take control of the technology used in everyday life. <a><b>Meet the Help Desk team</b></a>.</p>
+<a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the
+<b> </b>settings for the most popular (and problematic) services to give you recommendations.
+<p><b>Ask a question: </b><a>Send the Help Desk your personal technology questions</a>.</p>
+<div><div><div>MORE ON PRIVACY SETTINGS</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><div><div><div>Your Data and Privacy</div></div><h1>Privacy Reset: A guide to the important settings you should change now<div>Privacy Reset: A guide to the important settings you should change now</div></h1></div></div></div>
+<h2>From Facebook to Venmo, staying on top of your privacy starts with these key settings</h2>
+<div><div><div><span><div><span><div>By <div><div>Heather Kelly</div></div></div> and</span></div><div><span><div><div><div>Geoffrey A. Fowler</div></div></div></span></div></span></div></div></div>
+<div>Updated Sept. 23 at 5:45 a.m.Originally published Sept. 23, 2021</div>
+<p>We all know it’s important to protect our privacy online to prevent things as simple as our birth date or as detailed as our search history from being used by companies, strangers and even governments.</p>
+<p>Unfortunately, it’s hard to know where to start.</p>
+<p>Our personal information feeds an entire ecosystem that taps into our likes and unconscious habits to sell us things, shape our relationships and even manipulate our politics. Once that data is out of our hands, we lose power.</p>
+<p>Bookmark this page and take five minutes of your day to clean up your settings. Take back power over your information. We will regularly add more companies, tools and tips.</p>
+<div><div>Updated October 25, 2021</div><div><h3>Help Desk: Making tech work for you</h3></div></div>
+<p><b>Go deeper:</b> Tech in Your Life | Tech at Work | Your Data and Privacy | Internet Access | What’s New | Ethical Issues</p>
+<p><b>Data and Privacy:</b> <a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the<b> </b>settings for the most popular (and problematic) services to give you recommendations. Google | Amazon | Facebook | Venmo</p>
+<p><b>Ask a question: </b>Send the Help Desk your personal technology questions.</p>Show More
+<div><div><div><div>Heather KellyFollow</div>Heather Kelly is a San Francisco-based reporter covering the ways technology affects everyday life. </div></div></div>
+<div>Geoffrey A. FowlerFollow</div>
+<header><div><div><div><div><h4>Help Desk</h4></div><h1>ETHICAL ISSUES</h1></div></div></div></header>
+<a><h3>Your drawer full of old tech could have a new life — or start a fire. Here’s how to handle it.</h3></a>
+<p>E-waste is a growing problem, but there are ways to avoid making it worse. Here's what you should know.</p>By Chris VelazcoSeptember 28, 2021
+<a><h3>Anyone with an iPhone can now make deepfakes. We aren’t ready for what happens next.</h3></a>
+<p>Realistic videos of people doing things that never really happened have become shockingly easy to create. Now is the time to put in some safety guardrails.</p>By Geoffrey FowlerMarch 25, 2021
+<a><h3>Everyone’s AirPods will die. We’ve got the trick to replacing them.</h3></a>
+<p>We shouldn’t let Apple turn headphones into expensive, disposable products because of bad battery design.</p>By Geoffrey FowlerOctober 8, 2019
+<a><h3>Not all iPhones are the same. These cost less and are better for the Earth.</h3></a>
+<p>Used electronics are in fashion. Our tech columnist shows how to buy refurbished gadgdets — and not get a lemon.</p>By Geoffrey FowlerApril 12, 2019
+<a><h3>The explosive problem with recycling iPads, iPhones and other gadgets: They literally catch fire.</h3></a>
+<p>Before you buy that new iPhone, iPad or other device, take a look inside the recycling centers catching fire as they struggle to dispose the lithium-ion batteries in your old stuff.</p>
+<header><div><div><div><div><h4>Help Desk</h4></div><h1>INTERNET ACCESS</h1></div></div></div></header>
+<div><a><h3>The latest space race is all about improving Internet access. Here’s what you should know.</h3></a><p>Satellite internet isn’t very good, but SpaceX and Amazon are hoping to change that.</p>By Chris VelazcoNovember 3, 2021</div>
+<a><h3>5G is a little better than before, but don’t rush to upgrade your phone just yet.</h3></a>
+<p>Is 5G finally starting to live up to the hype? In some cases, yes, but big changes are coming soon.</p>By Chris Velazco and Geoffrey FowlerSeptember 24, 2021
+<a><h3>How Internet and TV providers get away with jacking up your bill</h3></a>
+<p>Service providers use their lock on neighborhoods — and a lack of rules — to take advantage of us. Here’s how to spot their tricks.</p>By Geoffrey FowlerJuly 13, 2021
+<div><div>Perspective</div><a><h3>5 tricks to lower your Internet bill</h3></a><p>You can threaten to drop service — or cut some non-essential parts of your bill — if switching isn’t a real option</p>By Geoffrey FowlerJuly 13, 2021</div>
+<div>What's NewPerspective</div>
+<a><h3>The government has a program to cut your Internet bill. Verizon was using it to force you onto a new data plan.</h3></a>
+<a><h3>The government wants to pay your Internet bill for a few months. Here’s what you need to do.</h3></a>
+<p>A surprising number of Americans can get $50 each month from the new $3.2 billion Emergency Broadband Benefit. That includes tens of millions who lost work during the pandemic.</p>By Geoffrey FowlerMay 14, 2021
+<a><h3>Gatekeepers: These tech firms control what’s allowed online</h3></a>
+<a><h3>Bad WiFi is slowing you down. Fix yours without spending a dime.</h3></a>
+<p>Our five-step guide will help you speed up your Internet connection and eliminate wireless dead zones while you’re stuck at home</p>By Geoffrey Fowler
+<header><div><div><div><div><h4>Help Desk</h4></div><h1>TECH AT WORK</h1></div></div></div></header>
+<a><h3>Future of Work: Computer vision and machine learning may soon bolster restaurant jobs</h3></a>
+<p>Chipotle CEO Brian Niccol expects the restaurant industry to adopt more emerging technologies to deal with challenges like supply chain snags, worker turnover and inefficiency.</p>By Danielle AbrilJanuary 4, 2022
+<a><h3>Future of Work: Requiring workers to return to the office is a ‘doomed approach’</h3></a>
+<p>Slack's CEO Stewart Butterfield says the future of work is heavily being dictated by workers, many of whom want more flexibility and better tech tools to improve their workflows and make their jobs easier.</p>By Danielle AbrilDecember 13, 2021
+<a><h3>Ask Help Desk: How to fix that dreaded echo when you’re on a video conference</h3></a>
+<p>Your friendly Help Desk tackles how to prevent that endless echo that occurs when in-person office workers are on the same video call.</p>By Danielle AbrilDecember 10, 2021
+<a><h3>Video calls can be a pain for hybrid offices. Tech companies say relief is coming.</h3></a>
+<p>Zoom, Google, Microsoft and others say new features and tools will help improve the headaches of hybrid work meetings.</p>By Danielle AbrilDecember 2, 2021
+<a><h3>Big Tech is pushing smart home devices as the latest work-from-home tools </h3></a>
+<p>Amazon, Facebook and Google are pushing work applications for smart home devices, but security risks for companies and workers may complicate matters.</p>By Danielle AbrilNovember 22, 2021
+<a><h3>Facebook pushes its Workplace software with new Microsoft Teams integration</h3></a>
+<p>Social media giant Facebook, which recently changed its corporate name to Meta, is teaming up with Microsoft to strengthen its enterprise offering.</p>By Danielle AbrilNovember 10, 2021
+<a><h3>Can’t get a call back from a job? You might be making one of these common mistakes.</h3></a>
+<a><h3>So you’ve quit. Here are the tech tools that can help you land a new job.</h3></a>
+<p>Workers on the job hunt are finding aid in services like LinkedIn, ZipRecruiter and Instawork, as well as online communities and networking tools.</p>By Danielle AbrilNovember 1, 2021
+<a><h3>Ask Help Desk: How remote workers can separate work and home lives </h3></a>
+<div><a><h3>Powering the picket line: Workers are turning to tech in their labor battles</h3></a><p>Employee activists are using digital tools like Facebook, Twitter, Signal, and Zoom to fuel solidarity.</p>By Danielle AbrilOctober 18, 2021</div>
+<a><h3>Virtual pizza parties, pet adoption fees and on-demand babysitters: How the pandemic changed employee perks</h3></a>
+<p>Employers are investing more in digital perks as workers continue to work from home — some permanently.</p>By Danielle AbrilOctober 13, 2021
+<a><h3>Back in the classroom, teachers are finding pandemic tech has changed their jobs forever</h3></a>
+<p>Teachers are grappling with the best way to educate students in a partial or fully virtual environment — options they say may be here to stay.</p>By Danielle AbrilOctober 1, 2021
+<li><div><div><div>Analysis</div><a><h3>Need a new monitor for your computer? You can wear one on your face.</h3></a><p>Some new wearable displays are trying to make your office more portable.</p>By Chris VelazcoSeptember 27, 2021</div></div></li>
+<a><h3>Workers are putting on pants to return to the office only to be on Zoom all day</h3></a>
+<p>Pandemic-era safety procedures have created a new dynamic at work, in which many employees say they’re operating at work the same way they were at home.</p>By Danielle AbrilSeptember 27, 2021
+<li><div><div><a><h3>Here are all the ways your boss can legally monitor you</h3></a><p>Companies can access personal emails, social media accounts and instant messages.</p>By Tatum HunterSeptember 24, 2021</div></div></li>
+<a><h3>Keystroke tracking, screenshots, and facial recognition: The boss may be watching long after the pandemic ends</h3></a>
+<p>Companies are increasingly turning to surveillance software tools as they consider permanent remote work policies.</p>By Danielle Abril and Drew HarwellSeptember 24, 2021
+<a><h3>Texas wanted to be the tech haven of the U.S. Its new abortion bill and other measures are causing workers to rethink their moves.</h3></a>
+<p>Tech workers are marking Texas off the list of places they'd consider working after the state passed the nation's most restrictive abortion law.</p>By Danielle Abril and Gerrit De VynckSeptember 13, 2021
+<a><h3>As delta variant spreads, some companies with vaccine mandates deploy tech to verify records</h3></a>
+<p>Eager to bring back their employees, companies are wrestling with how best to verify vaccination status, and some are using tech tools to help.</p>By Danielle AbrilAugust 19, 2021
+<a><h3>Facebook pushes VR for remote work but practicality, cost and nausea may stand in its way</h3></a>
+<p>The company unveiled virtual reality workplace app Horizon Workrooms, a remote collaboration tool for Oculus Quest 2 headsets.</p>By Danielle AbrilAugust 19, 2021
+<a><h3>Don’t be that employee: How to avoid ransomware attacks at work</h3></a>
+<p>Ransomware attacks are getting bigger and more frequent, and that places a burden on companies. Here's how employees and employers can guard against hackers' most common tactics.</p>By Tatum Hunter
+<div><div><a>Help Desk</a></div><div><h1>Meet your new Tech Help Desk</h1></div></div>
+<div><div><span><div><span><div><div>By Geoffrey A. Fowler</div></div></span></div></span></div><div>September 23, 2021 at 6:00 a.m. EDT</div></div>
+<div><div><p>Too often, instead of us using technology, technology uses us.</p></div></div>
+<a>consumer advocacy</a>. Today, I’m excited to introduce you to the Help Desk, a whole new team of Washington Post journalists who will provide trusted advice about personal tech.
+<a>Help Desk</a>, we answer the important questions: How does tech impact your
+<a>environment</a> and — yes — even
+<a>democracy</a>? We offer how-tos, step-by-step guides, deep dives on your data and truly independent reviews. We hold Big Tech accountable where it matters most: the products you use every day.
+<div><div><p>I wanted to be the first to introduce you to the rest of the Help Desk team.</p></div></div>
+<div><div><h3><div>Heather Kelly</div></h3></div></div>
+<a>Heather</a> is a veteran journalist who covers the intersection of humans and gadgets, and offers humorous advice on our digital lives. Her guide to the terrible
+<a>default privacy settings</a> you need to change right now may be the most useful tech article in years.
+<div><div><h3><div>Chris Velazco</div></h3></div></div>
+<a>Chris</a> is the guy you’d want to take shopping with you for deep knowledge about what’s new, what’s a rip-off, and what’s actually right for you and your family. Check out what he says you should do
+<a>if you might have been affected by a data breach</a>.
+<div><div><h3><div>Tatum Hunter</div></h3></div></div>
+<p><a>Tatum</a> goes deep into how apps, websites and other technology actually work to help you get the most out of them. Don’t miss our piece on <a>how iPhone apps still snoop on you</a>, even after you tap “Ask app not to track.”</p>
+<div><div><h3><div>Danielle Abril</div></h3></div></div>
+<a>Danielle</a> covers how technology is affecting the way we work and how companies are using artificial intelligence and other tools to exert more control over us. Check out her recent dive into
+<a>Facebook’s virtual reality workplace</a>: She got nauseous, so you don’t have to.
+<a>telling us</a> about the technology that’s failing you, or that you think warrants some classic Washington Post investigation. Email us at
+<div><div><p>It’s time for your smartphones, apps, and social networks to work for you. And we’re here to help.</p></div></div>
+<div><div><p>Sincerely,</p></div></div>
+<div><div><p>Geoffrey A. Fowler</p></div></div>
+<div><div><div>MORE FROM THE HELP DESK</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><h1>Help Desk</h1><h2>Making tech work for you</h2></div></div>
+<div><h2><a>The weirdest and most interesting tech at CES 2022</a></h2></div>
+<div>CES salutes 2022 with some of the strangest technologies we’ve seen in a while. Here are the highlights.</div>
+<div>By Chris Velazco and <a>Tatum Hunter</a></div>
+<div><div><div><div><h2><a>What it’s like at one of the world’s biggest tech trade shows as omicron surges </a></h2></div><div>By <a>Chris Velazco</a></div></div></div></div>
+<div><div><h2><a>The biggest tech trends to watch for in 2022 </a></h2></div><div>Join us as we break out the crystal balls and suss out what the new year will mean for the tech in your life.</div><div>By Tatum Hunter and <a>Chris Velazco</a></div></div>
+<div><h2><a>Future of Work: Computer vision and machine learning may soon bolster restaurant jobs</a></h2></div>
+<div>Chipotle CEO Brian Niccol expects the restaurant industry to adopt more emerging technologies to deal with challenges like supply chain snags, worker turnover and inefficiency.</div>
+<div><h2><a>The next generation of home robots will be more capable — and perhaps more social</a></h2></div>
+<div>By <a>Chris Velazco</a></div>
+<div><h2><a>Privacy Reset: A guide to the important settings you should change now</a></h2></div>
+<div>From Facebook to Venmo, staying on top of your privacy starts with these key settings.</div>
+<div>By Heather Kelly and <a>Geoffrey A. Fowler</a></div>
+<div><div><a>THE HELP DESK TEAM</a></div></div>
+<div><div><div><div><a><span><b>Geoffrey Fowler</b> has for more than a decade been holding tech companies accountable where it matters most: the products you use every day.</span></a></div></div></div></div>
+<div><div><div><div><a><span><b>Heather Kelly</b> is a veteran journalist on the intersection of humans and gadgets, and offers humorous advice on our digital lives.</span></a></div></div></div></div>
+<div><div><div><a><span><b>Chris Velazco</b> is the guy you’d want to take shopping with you for deep knowledge about what’s new, what’s a rip-off and what’s actually right for you and your family.</span></a></div></div></div>
+<div><div><div><div><a><span><b>Tatum Hunter</b> goes deep into how apps, websites and other technology actually works to help you get the most out of it.</span></a></div></div></div></div>
+<div><div><div><div><a><span><b>Danielle Abril</b> covers how technology is impacting the way we work and how companies are using artificial intelligence and other tools to exert more control over us.</span></a></div></div></div></div>
+<div><h2>Ask us your personal tech questions</h2></div>
+<div>We want to hear your questions about the phones, computers, apps and speakers that we surround ourselves with.</div>
+<div><div><a>TECH IN YOUR LIFE</a></div></div>
+<div><div><div><div><h2>The weirdest and most interesting tech at CES 2022</h2></div><div>By Chris Velazco and <a>Tatum Hunter</a></div></div></div></div>
+<div><div><div><div><h2><a>Some voice mails are unspeakably precious. Here’s how to save them. </a></h2></div><div>By Chris Velazco</div></div></div></div>
+<div><div><div><div><h2><a>Ask Help Desk: Big phones, big problems</a></h2></div><div>By <a>Chris Velazco</a></div></div></div></div>
+<div><div><a>TECH AT WORK</a></div></div>
+<div><div><div><div><h2><a>Future of Work: Computer vision and machine learning may soon bolster restaurant jobs</a></h2></div><div>By Danielle Abril</div></div></div></div>
+<div><div><div><div><h2><a>Future of Work: Requiring workers to return to the office is a ‘doomed approach’</a></h2></div><div>By <a>Danielle Abril</a></div></div></div></div>
+<div><div><div><div><h2><a>Ask Help Desk: How to fix that dreaded echo when you’re on a video conference</a></h2></div><div>By Danielle Abril</div></div></div></div>
+<div><div><div><div><h2><a>Video calls can be a pain for hybrid offices. Tech companies say relief is coming.</a></h2></div><div>By <a>Danielle Abril</a></div></div></div></div>
+<div><div>Your Data and PRIVACY</div></div>
+<div><div><div><div><h2>The ultimate guide to secure passwords</h2></div><div>By Tatum Hunter</div></div></div></div>
+<div><div><div><div><h2><a>How to read and understand Apple’s new iOS App Privacy Report</a></h2></div><div>By <a>Heather Kelly</a></div></div></div></div>
+<div><div><div><div><h2><a>Apple iOS privacy settings to change now</a></h2></div><div>By Heather Kelly</div></div></div></div>
+<div><div><div><div><h2><a>Your next smartphone might have a camera that’s always watching</a></h2></div><div>By <a>Chris Velazco</a></div></div></div></div>
+<div><div><a>Internet Access</a></div></div>

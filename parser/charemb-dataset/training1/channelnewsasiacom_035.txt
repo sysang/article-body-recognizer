@@ -1,0 +1,500 @@
+<p>SINGAPORE: Singapore is developing an initiative to help organisations establish best practices to better manage cybersecurity risks across the supply chain, including vendors that support their operations.</p>
+<p>This relates to Singapore’s Critical Information Infrastructure (CII) – referring to 11 sectors responsible for the delivery of the country’s essential services, including government, energy and healthcare.</p>
+<p>Announcing the initiative on Tuesday (Mar 2), Senior Minister of State for Communications and Information Janil Puthucheary noted that all CII owners are currently required to maintain a mandatory level of cybersecurity under the Cybersecurity Act.</p>
+<p>“However, we also recognise that most organisations - including CII owners - engage vendors to support their operations. Therefore, we also need to manage cybersecurity risks across the supply chain,” he said in Parliament.</p>
+<p>This requires infrastructure owners to have a better understanding of their vendors to identify systemic risks and improve their level of “cyber hygiene”, he added. </p>
+<p>The initiative, called the CII Supply Chain Programme, will involve the Cyber Security Agency (CSA), CII owners, as well as their vendors.</p>
+<p>It will provide recommended processes and sound practices for all stakeholders to manage cybersecurity risks in the supply chain, said Dr Puthucheary. </p>
+<p>He said discussions with stakeholders will help the Government improve policies around supply chain risks.</p>
+<p>“In the longer term, our CII sectors and companies will also need to adopt a zero-trust cybersecurity posture,” he added.</p>
+<h3><a>READ: ‘No indication’ that SolarWinds hack adversely affected Singapore, says Iswaran</a></h3>
+<p>This is necessary to defend against supply chain attacks by “highly sophisticated threat actors” such as those behind the SolarWinds breach, said Dr Puthucheary.</p>
+<p>The breach, first reported in December last year, involved hackers breaking into Solarwinds’ systems and adding a malicious code into its software system, using the company as a springboard to jump deep into US government and corporate networks.</p>
+<p>Solarwinds is a leading provider of information technology management software based in Texas. Its clients include US government agencies and large companies, such as Microsoft, FireEye and Cisco Systems.</p>
+<p>The programme will also enable vendors to maintain an adequate level of cybersecurity, it added. </p>
+<p>More details on the programme will be announced in the third quarter of this year, MCI said.</p>
+<p>Separately, CSA will support companies in strengthening their cybersecurity with the launch of the SG Cyber Safe Programme, as part of the Safer Cyberspace Masterplan.</p>
+<p>“First, we will provide informational resources and educational material for key roles including C-suite executives, cybersecurity teams and frontline employees, based on their specific roles and knowledge needs,” said Dr Puthucheary.</p>
+<p>An employee cybersecurity toolkit will be introduced by the end of this year. </p>
+<h3><a>READ: Nearly 130,000 Singtel customers' personal information, including NRIC details, stolen in data breach </a></h3>
+<p>CYBERSECURITY “TRUSTMARK” FOR FIRMS</p>
+<p>CSA will also introduce tools for enterprises to self-assess their cybersecurity posture.</p>
+<p>A voluntary SG Cyber Safe Trustmark will also be introduced as a mark of distinction for companies that have invested significantly in cybersecurity. </p>
+<p>Industry consultations on the specifics of the trustmark will begin in April, he added. </p>
+<p>MCI noted that the SG Cyber Safe Trustmark is expected to be introduced by early next year. </p>
+<p>Singapore’s success in digitalisation has exposed new vulnerabilities, which will only grow as technologies evolve and become more complex, said Dr Puthucheary. </p>
+<p>“Trust in our digital systems is key to the success of our digital economy efforts. Without trust to transact, or to innovate, our best efforts to develop our digital ecosystem and reap the dividends will fall short,” he said. </p>
+<p>“Strong foundations, such as I've described, will fortify our defences against online threats, and support this trust. But they are not sufficient,” he added. </p>
+<p>“We need our companies and people to be aware of the risks, vigilant of their manifestations, and make informed choices to protect our safety.”</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Business </a> </p> <h5> New Zealand health systems hackers release patient details to the media </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> Business </a> </p> <h1> New Zealand health systems hackers release patient details to the media </h1> </div> </section> </div> </div>
+<p>WELLINGTON: Hackers who targeted hospitals in New Zealand's Waikato district have released what appears to be private patient information to media outlets, as health systems struggled to come back online more than a week after the attack.</p>
+<p>The media outlets decided not to report the details and referred the email to the police.</p>
+<p>Authorities would not comment on whether the cyber attackers had put forward any demands.</p>
+<p>"We are aware that malicious actors can see what is being said in the media, and that this can influence their behaviour. On that basis, we can make no further comment on this," Waikato DHB Chief Executive Kevin Snee said in a statement.</p>
+<p>The government has refused to pay any ransom to the hackers.</p>
+<p>Waikato DHB cares for a population of more than 425,000 people.</p>
+<p>The breach comes after Ireland's health service operator was hit by a ransomware attack that was executed by international cyber criminals.</p>
+<p>But it was not clear if the attack in New Zealand was by the same group.</p>
+<p>The Federal Bureau of Investigation said this week that the cyber criminals who hit the Irish health system used a malicious software dubbed "Conti", had targeted at least 16 US medical and first response networks in the past year.</p>
+<p>New Zealand's stock market was hit by a cyber attack last year and the central bank's data systems were also breached in an attack on a file sharing service provided by California-based Accellion.</p>
+<div> <div> <p> <a> Business </a> </p> <h5> Meatpacker JBS paid equivalent of US$11 million in ransomware attack, CEO says </h5> </div> </div>
+<div> <div> <section> <div> <p> <a> Business </a> </p> <h1> Meatpacker JBS paid equivalent of US$11 million in ransomware attack, CEO says </h1> </div> </section> </div> </div>
+<p>Meatpacker JBS USA paid the equivalent of US$11 million ransom in a cyberattack that disrupted its North American and Australian operations, the company's CEO said in a statement on Wednesday.</p>
+<p>The subsidiary of Brazilian firm JBS SA halted cattle slaughtering at all of its U.S. plants for a day last week in response to the cyberattack, which threatened to disrupt food supply chains and further inflate already high food prices.</p>
+<p>The cyberattack followed one last month on Colonial Pipeline, the largest fuel pipeline in the United States. It disrupted fuel delivery for several days in the U.S. Southeast.</p>
+<p>The JBS meat plants, producing nearly a quarter of America's beef, recovered faster than some meat buyers and analysts expected.</p>
+<p>"This was a very difficult decision to make for our company and for me personally," said Andre Nogueira, CEO of JBS USA of the ransom payment. "However, we felt this decision had to be made to prevent any potential risk for our customers."</p>
+<p>The Brazilian meatpacker's arm in the United States and Pilgrims Pride Corp, a U.S. chicken company mostly owned by JBS, lost less than one day's worth of food production. JBS is the world's largest meat producer.</p>
+<p>Third parties are carrying out forensic investigations and no final determinations have been made, JBS said. No company, customer or employee data was compromised in the attack, it said.</p>
+<p>A Russia-linked hacking group is behind the cyberattack against JBS, a source familiar with the matter said last week. The Russia-linked cyber gang goes by the name REvil and Sodinokibi, the source said.</p>
+<p>The Wall Street Journal reported on Wednesday that the JBS ransom payment was made in bitcoin.</p>
+<p>The Justice Department on Monday recovered some US$2.3 million in cryptocurrency ransom paid by Colonial Pipeline Co, cracking down on hackers who launched the attack.</p>
+<div> <div> <p> <a> Singapore </a> </p> <h5> ‘No indication’ that SolarWinds hack adversely affected Singapore, says Iswaran </h5> </div> </div>
+<div> <div> <section> <div> <p> <a> Singapore </a> </p> <h1> ‘No indication’ that SolarWinds hack adversely affected Singapore, says Iswaran </h1> </div> </section> </div> </div>
+<div> <div> <a> Tang See Kit </a> </div> </div>
+<a>hacking of American software maker SolarWinds</a>, said Minister for Communications and Information S Iswaran on Tuesday (Feb 2).
+<p>Even so, the Government is adopting a cautious approach. </p>
+<p>The CSA has also issued public advisories to enterprises and organisations on steps to safeguard their systems, such as having full visibility of their networks and detecting unusual activity in a timely manner, he told the House.</p>
+<p>Solarwinds is a leading provider of information technology management software based in Texas. Its clients include US government agencies and large companies, such as Microsoft, FireEye and Cisco Systems.</p>
+<p>SolarWinds has said that about 18,000 users of its Orion software downloaded the compromised updates, which sent signals back to the hackers.</p>
+<h3><a>READ: US Treasury confirms SolarWinds hack as more officials blame Russia</a></h3>
+<h3><a>READ: Hackers used SolarWinds' dominance against it in sprawling spy campaign</a></h3>
+<p>This breach is also “especially noteworthy” given that SolarWinds’ software, being part of the network control and management infrastructure, “was trusted and had privileged access to internal networks”, he added.</p>
+<p>SINGAPORE SHOULD ADOPT "ZERO-TRUST" CYBERSECURITY POSTURE</p>
+<p>In the longer run, said Mr Iswaran, a “fundamental shift” towards a “zero-trust” cybersecurity posture will be required to deal with such sophisticated cyberthreats.</p>
+<p>This means the observation of two key principles.</p>
+<p>“First, we should not trust any activity without first verifying it; and second, ensure constant monitoring and vigilance for suspicious activities,” he said.</p>
+<p>“This includes compartmentalising and restricting access to different segments of the network, validating transactions across segments, reconciling any escalation of user privileges, and actively and regularly hunting for threats.”</p>
+<h3><a>READ: New guidelines for financial institutions in Singapore to combat risks of cyberattacks</a></h3>
+<p>The minister went on to say that the cyberattack on SolarWinds underscores the global and transborder nature of cyber threats.</p>
+<p>Such cyber incidents “will happen from time to time” given the nature of the digital domain, but while difficult to prevent entirely, Singapore will need “deliberate, targeted and consistent efforts” to strengthen its cyber defences.</p>
+<p>“Our critical information infrastructure, enterprises and citizens must also maintain their vigilance against cyber threats, as we mitigate the risks while leveraging the opportunities of digitalisation,” said Mr Iswaran.</p>
+<a>revised guidelines</a> for financial institutions to better mitigate cyber risks, which includes requiring them to have strong oversight of their third-party service providers and technology vendors.
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Business </a> </p> <h5> SolarWinds hack was 'largest and most sophisticated attack' ever - Microsoft president </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> Business </a> </p> <h1> SolarWinds hack was 'largest and most sophisticated attack' ever - Microsoft president </h1> </div> </section> </div> </div>
+<p>WASHINGTON: A hacking campaign that used a U.S. tech company as a springboard to compromise a raft of U.S. government agencies is "the largest and most sophisticated attack the world has ever seen," Microsoft Corp President Brad Smith said.</p>
+<p>The hackers got access to emails at the U.S. Treasury, Justice and Commerce departments and other agencies.</p>
+<p>Cybersecurity experts have said it could take months to identify the compromised systems and expel the hackers.</p>
+<p>"I think from a software engineering perspective, it's probably fair to say that this is the largest and most sophisticated attack the world has ever seen," Smith said during an interview that aired on Sunday on the CBS program "60 Minutes."</p>
+<p>The breach could have compromised up to 18,000 SolarWinds customers that used the company's Orion network monitoring software, and likely relied on hundreds of engineers.</p>
+<p>"When we analyzed everything that we saw at Microsoft, we asked ourselves how many engineers have probably worked on these attacks. And the answer we came to was, well, certainly more than 1,000," Smith said.</p>
+<p>U.S. intelligence services said last month that Russia was "likely" behind the SolarWinds breach, which they said appeared to be aimed at collecting intelligence rather than destructive acts.</p>
+<p>Russia has denied responsibility for the hacking campaign.</p>
+<p>(Reporting by Brad Heath; Editing by Heather Timmons and Peter Cooney)</p>
+<div> <div> <p> <a> World </a> </p> <h5> US intelligence says hack of federal agencies 'likely Russian in origin' </h5> </div> </div>
+<div> <div> <section> <div> <p> <a> World </a> </p> <h1> US intelligence says hack of federal agencies 'likely Russian in origin' </h1> </div> </section> </div> </div>
+<p>SAN FRANCISCO: The office of the US Director of National Intelligence on Tuesday (Jan 5) said Russia was "likely" behind a string of hacks identified last month that gained access to several federal agencies.</p>
+<p>They said the hackers' goal appeared to be collecting intelligence, rather than any destructive acts.</p>
+<p>The agencies said that the actor, "likely Russian in origin, was responsible for most or all of the recently discovered, ongoing cyber compromises of both government and non-governmental networks".</p>
+<p>The investigation is continuing, they said, and could turn up additional government victims.</p>
+<p>“This is a serious compromise that will require a sustained and dedicated effort to remediate,” said the joint statement.</p>
+<p>"At this time, we believe this was, and continues to be, an intelligence gathering effort. We are taking all necessary steps to understand the full scope of this campaign and respond accordingly,” the statement said.</p>
+<h3><a>READ: IT firm at centre of global hack says fewer than 18,000 customers compromised</a></h3>
+<p>It was the first formal statement of attribution by the Trump administration.</p>
+<p>Elected officials briefed on the inquiry and Secretary of State Mike Pompeo had previously said Russia was behind the hacking spree, but President Donald Trump said it could have been China.</p>
+<p>According to CISA, the hack is focused on the Orion security software produced by the US firm SolarWinds, widely found in government and private sector computers across the globe.</p>
+<p>About 18,000 public and private customers of SolarWinds would be vulnerable to the hack, the statement said.</p>
+<p>But it said that out of that number, "a much smaller number have been compromised by follow-on activity on their systems."</p>
+<h3><a>READ: US Treasury confirms SolarWinds hack as more officials blame Russia</a></h3>
+<p>So far investigators have found fewer than 10 US government agencies whose systems were compromised, the statement said.</p>
+<p>The statement did not identify which agencies. But some have admitted they were targets, including the State Department, Commerce Department, Treasury, Homeland Security Department, Defense Department, and the National Institutes of Health.</p>
+<p>The security company FireEye, which was itself breached, discovered the new round of attacks.</p>
+<h3><a>READ: Hackers at center of sprawling spy campaign turned SolarWinds' dominance against it</a></h3>
+<p>It remains unknown how the hackers got deep inside SolarWinds' production system as long as a year ago. Once there, they were able to slip "back doors" into two digitally signed updates of the company's flagship Orion software.</p>
+<p>The attackers also hacked sellers of Microsoft services, which often maintain access to customers, to go after email at non-SolarWinds customers, according to security company CrowdStrike Holdings and Microsoft employees.</p>
+<p>Microsoft and federal investigators have not said how many resellers were hacked or how many customers were impacted.</p>
+<p>The overall strategy of electronic infiltration through vendors, known as a supply-chain attack, is especially effective, and officials fear the success of the current wave will encourage more of them.</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Singapore </a> </p> <h5> Cybercrime made up 43% of overall crime in 2020; more online threats linked to COVID-19 </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> Singapore </a> </p> <h1> Cybercrime made up 43% of overall crime in 2020; more online threats linked to COVID-19 </h1> </div> </section> </div> </div>
+<div> <div> <a> Cindy Co </a> </div> </div>
+<p>SINGAPORE: Cybercrime accounted for 43 per cent of all crime in Singapore last year, with the COVID-19 pandemic being a key factor in online threats.</p>
+<p>According to an annual report released by the Cyber Security Agency of Singapore (CSA) on Thursday (Jul 8), there were 16,117 cases of cybercrime last year, up from 9,349 cases recorded in 2019.</p>
+<p>The top category of cybercrime relates to online cheating, with 12,251 cases last year, a 62 per cent rise from 7,580 cases in 2019. </p>
+<p>“This trend is attributed to the rapid growth of e-commerce, the proliferation of community marketplace platforms and social media platforms as Singaporeans carried out more online transactions due to COVID-19,” said CSA.</p>
+<p>Of the remaining cybercrime cases, 3,621 fell under the Computer Misuse Act and 245 were cyber extortion cases.</p>
+<p>In its annual Singapore Cyber Landscape report, CSA noted that globally, a significant portion of malicious cyber activities “fed off and took advantage of the coronavirus outbreak”.</p>
+<p>“Throughout 2020, CSA observed that global threat actors had capitalised on the anxiety and fear wrought by the pandemic, with repercussions felt by individuals and businesses,” said CSA.</p>
+<p>“Some of these trends were mirrored locally, where a surge in ransomware incidents as well as the emergence of COVID-19-related phishing activities were seen,” it added.</p>
+<p>“These also coincided with the rise of work from home arrangements, as individuals and businesses adopted new technologies to maintain business continuity.”</p>
+<p>The report noted, for instance, that when Singapore’s “circuit breaker” kicked in, Zoom for home-based learning was suspended after <a>breaches involving obscene images</a>.</p>
+<h3><a>READ: MSO app vendor hit by 'cyber incident', OneService app users not affected</a></h3>
+<h3><a>READ: Cybercrime jumps more than 50% in 2019, new threats emerge from COVID-19 pandemic</a></h3>
+<p>RANSOMWARE, MALICIOUS COMMAND AND CONTROL</p>
+<p>Other than cybercrime, ransomware cases also increased.</p>
+<p>A total of 89 ransomware cases were reported to the CSA last year, a “sharp rise” of 154 per cent from the 35 cases reported in 2019.</p>
+<p>They mainly affected small- and medium-size enterprises (SMEs) from sectors such as manufacturing, retail and healthcare. </p>
+<p>“The significant increase in local ransomware cases was likely influenced by the global ransomware outbreak, where three distinct characteristics were observed as ransomware operators deployed increasingly sophisticated tactics,” said CSA.</p>
+<p>The characteristics include shifting from “indiscriminate, opportunistic attacks” to “targeted ‘Big Game Hunting’”. This involves targeting large businesses in hope of higher ransom pay-outs.</p>
+<p>There were also “leak and shame” tactics, as well as a rise in “Ransomware-as-a-Service” models, which made sophisticated ransomware strains accessible to less technically-adept cybercriminals.</p>
+<p>CSA also said there were 1,026 malicious command and control (CC) servers hosted in Singapore last year, a 94 per cent increase from 530 servers in 2019.</p>
+<p>About 6,600 botnet drones with Singapore IP addresses were detected daily last year, up from the daily average of 2,300 in 2019.</p>
+<h3><a>READ: Singapore joining Interpol-led global financial crime task force looking into COVID-19 vaccine scams </a></h3>
+<h3><a>READ: Interpol warns of 'alarming' cybercrime rate during COVID-19 pandemic</a></h3>
+<p>CC servers are centralised devices operated by attackers to maintain communications with compromised systems - known as botnets - within a targeted network.</p>
+<p>The number of phishing URLs remained largely the same. In 2020, there were about 47,000 unique Singapore-hosted phishing URLs - or those with a .sg domain. This is a 1 per cent decrease from the 47,500 URLs in 2019.</p>
+<p>“COVID-19 themes very likely accounted for over 4,700 of malicious URLs spoofing local entities and services that were in greater demand during Singapore’s circuit breaker period, which included online retail and payment portals,” said CSA.</p>
+<p>This was part of a global surge in COVID-19-related phishing campaigns in 2020, the agency noted.</p>
+<p>In 2020, 495 “.sg” websites were defaced, a 43 per cent drop from 873 in 2019. </p>
+<p>According to CSA, the majority of victims were SMEs. Government websites were unaffected.</p>
+<p>UPCOMING CYBERSECURITY TRENDS</p>
+<p>As the cyber landscape becomes “increasingly complex and dynamic”, CSA cautioned against three emerging cybersecurity trends - ransomware, the targeting of a remote workforce and increased targeting of supply chains.</p>
+<p>“Ransomware has evolved into a massive and systemic threat, and is no longer restricted to the sporadic and isolated incidents observed,” said CSA.</p>
+<p>“The proliferation of such attacks spells an urgency for businesses to review their cybersecurity posture and ensure that they build their systems to be resilient in recovering from any successful cyberattacks.”</p>
+<h3><a>READ: SolarWinds hack was 'largest and most sophisticated attack' ever - Microsoft president</a></h3>
+<h3><a>READ: US, Russia at odds as UN Council confronts threat of cyberattacks</a> </h3>
+<p>As remote working became more common during the pandemic, poorly configured network and software systems have “widened the attack surface” and put organisations at greater risk of cyberattacks, added CSA.</p>
+<p>Supply chain breaches are also becoming more sophisticated.</p>
+<p>“The compromise of a trusted supplier of software can result in widespread repercussions worldwide, as victims could include major vendors with huge customer bases,” the agency added.</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Singapore </a> </p> <h5> Singtel third-party vendor hacked, customer information 'may have been compromised' </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<h1> Singtel third-party vendor hacked, customer information 'may have been compromised' </h1>
+<div> <p>The vendor, Accellion, says this incident is part of a "wider concerted attack" against users of their file-sharing system.</p> </div>
+<p>SINGAPORE: Singtel is assessing the nature and extent of a potential data breach on a third-party file system used to share information after it was attacked by hackers.</p>
+<p>In a media statement on Thursday (Feb 11), Singtel said it was informed by third-party vendor Accellion that its file-sharing system FTA was “illegally attacked by unidentified hackers”.</p>
+<p>FTA is a standalone system used to share information internally and with external stakeholders, said Singtel.</p>
+<p>“Accellion has informed that this incident is part of a wider concerted attack against users of their file-sharing system,” it added.</p>
+<p>“Customer information may have been compromised. Our priority is to work directly with customers and stakeholders whose information may have been compromised to keep them supported and help them manage any risks.</p>
+<p>“We will reach out to them at the earliest opportunity once we identify which files relevant to them were illegally accessed.”</p>
+<p>The company has since suspended the use of the system, it added. It has also started investigations, and is working closely with cyber security experts and relevant authorities, including the Cyber Security Agency of Singapore.</p>
+<p>In a press release, Accellion said it has patched all known vulnerabilities exploited by the hackers and added new monitoring and alerting capabilities to flag anomalies associated with the attack vectors.</p>
+<p>It said it informed all FTA customers of the attack on Dec 23 last year.</p>
+<p>“Accellion continues to work closely with FTA customers to mitigate the impact of the attack and monitor for anomalies,” it added.</p>
+<p>Singtel said the incident was isolated and that its “core operations remain unaffected and sound”.</p>
+<div> <div> <p> <a> Singapore </a> </p> <h5> Nearly 130,000 Singtel customers' personal information, including NRIC details, stolen in data breach </h5> </div> </div>
+<div> <div> <section> <div> <p> <a> Singapore </a> </p> <h1> Nearly 130,000 Singtel customers' personal information, including NRIC details, stolen in data breach </h1> </div> </section> </div> </div>
+<p>SINGAPORE: Personal information of nearly 130,000 Singtel customers was stolen after a recent data breach of a third-party file-sharing system, the local telco said on Wednesday (Feb 17).</p>
+<p>Singtel has completed initial investigations into the breach and established which files on the Accellion file transfer appliance were accessed illegally, the company said in a news release.</p>
+<h3><a>READ: Singtel third-party vendor hacked, customer information 'may have been compromised'</a></h3>
+<p>The personal information taken includes about 129,000 customers' NRIC numbers and a combination of names, dates of birth, mobile numbers and addresses, said Singtel.</p>
+<p>In addition, bank account details of 28 former Singtel employees and credit card details of 45 staff members of a corporate customer with Singtel mobile lines were taken.</p>
+<p>"Some information" from 23 enterprises, including suppliers, partners and corporate customers, was also stolen.</p>
+<p>The telco has started notifying all affected individuals and enterprises to help them and their staff manage the possible risks involved and take appropriate follow-up action, it said.</p>
+<p>Singtel's Group CEO Yuen Kuan Moon said: "While this data theft was committed by unknown parties, I’m very sorry this has happened to our customers and apologise unreservedly to everyone impacted. </p>
+<p>"Data privacy is paramount, we have disappointed our stakeholders and not met the standards we have set for ourselves.</p>
+<p>Singtel said a "large part" of the leaked data includes its "internal information that is non-sensitive", such as data logs, test data, reports and emails.</p>
+<p>In response to queries from CNA, the Personal Data Protection Commission said it is aware of the data breach and is investigating.</p>
+<p>"SOPHISTICATED" CYBERATTACK ON ACCELLION</p>
+<p>Accellion, which Singtel used as a third-party file-sharing system, was the target of a "sophisticated" cyberattack exploiting a "previously unknown vulnerability", said the telco.</p>
+<p>When it was first alerted to exploits against the system in December last year, Singtel "promptly applied" a series of patches provided by Accellion to "plug the vulnerability", it said. The last patch was on Dec 27 last year.</p>
+<p>On Jan 23, Accellion advised that a new vulnerability had emerged that rendered the earlier patches previously applied in December ineffective.</p>
+<p>Singtel immediately took the system offline, and the FTA system has been kept offline since Jan 23, said the company.</p>
+<p>"On Jan 30, Singtel's attempt to patch the new vulnerability in the FTA system triggered an anomaly alert. Accellion informed thereafter that the system could have been breached," said Singtel.</p>
+<p>The telco's investigations later confirmed the breach and identified Jan 20 as the date it had occurred.</p>
+<p>"On Feb 9, Singtel established that files were taken as a result of the breach and informed the public two days later on Feb 11," said the company.</p>
+<p>IDENTITY MONITORING SERVICES FOR AFFECTED CUSTOMERS</p>
+<p>On Wednesday, Singtel said it is appointing a global data and information service provider to provide identity monitoring services at no cost to affected customers to help them "manage potential risks".</p>
+<p>This service monitors public websites and "non-public places" on the Internet, and notifies users of any unusual activity related to their personal information, the telco explained.</p>
+<h3><a>READ: PDPC fines IHiS, SingHealth combined S$1 million for data breach following cyberattack</a></h3>
+<p>Affected individual customers will be notified via email or post about what personal details were accessed and how they can best manage the risks involved, Singtel said in an FAQ on its website.</p>
+<p>"We are working with the utmost urgency to ascertain the nature and extent of data that has been potentially accessed. We will reach out to individuals and organisations whose information may have been illegally downloaded," it added in the FAQ.</p>
+<p>Singtel's core operations and functions remain "unaffected and sound" as the incident involves a standalone system provided by a third-party vendor, said Mr Yuen. </p>
+<p>He thanked customers and partners for their "patience and understanding" as it continued its cyber and criminal investigations to "understand the full extent of this breach".</p>
+<p>"Information security remains our highest priority and you have my commitment that we are conducting a thorough review of our systems and processes to strengthen them," he added.</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Business </a> </p> <h5> US pipeline company halts operations after cyberattack </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> Business </a> </p> <h1> US pipeline company halts operations after cyberattack </h1> </div> </section> </div> </div>
+<p>WASHINGTON: A US energy company says a cyberattack forced it to temporarily halt all operations on a major pipeline that delivers roughly 45 per cent of all fuel consumed on the East Coast.</p>
+<p>Colonial Pipeline said the attack took place Friday (May 7) and also affected some of its information technology systems.</p>
+<p>The company transports gasoline, diesel, jet fuel and home heating oil from refineries primarily located on the Gulf Coast through pipelines running from Texas to New Jersey.</p>
+<p>The Alpharetta, Georgia-based company said it hired an outside cybersecurity firm to investigate the nature and scope of the attack and has also contacted law enforcement and federal agencies.</p>
+<p>While there have long been fears about US adversaries disrupting American energy suppliers, ransomware attacks by criminal syndicates are much more common and have been soaring lately.</p>
+<p>In a statement late Friday, Colonial Pipeline said it was “taking steps to understand and resolve this issue", focused primarily on ”the safe and efficient restoration of our service and our efforts to return to normal operation".</p>
+<p>It said it was "working diligently to address this matter and to minimize disruption to our customers and those who rely on Colonial Pipeline".</p>
+<p>Oil analyst Andy Lipow said the impact of the attack on fuel supplies and prices depends on how long the pipeline is down.</p>
+<p>An outage of one or two days would be minimal, he said, but an outage of five or six days could causes shortages and price hikes, particularly in an area stretching from central Alabama to the Washington, DC, area.</p>
+<p>Lipow said a key concern about a lengthy delay would be the supply of jet fuel needed to keep major airports operating, like those in Atlanta and Charlotte, North Carolina.</p>
+<p>A leading expert in industrial control systems, CEO Robert Lee of Dragos, said everything points to a ransomware attack.</p>
+<p>“It would not be unreasonable for a longer term, a week or so, of outages if it’s impactful on the operations side. We just don’t know that yet,” Lee said.</p>
+<p>Ransomware scrambles a victim organisation’s data with encryption. The criminals leave instructions on infected computers for how to negotiate ransom payments and, once paid, provide software decryption keys.</p>
+<p>“The attacks were extremely sophisticated and they were able to defeat some pretty sophisticated security controls, or the right degree of security controls weren’t in place,” Chapple said.</p>
+<p>Colonial Pipeline said it transports more than 100 million gallons of fuel daily, through a pipeline system spanning more than 5,500 miles.</p>
+<p>The FBI and the White House’s National Security Council did not immediately return messages seeking comment. The federal Cybersecurity Infrastructure and Security Agency referred questions about the incident to the company.</p>
+<p>A hacker’s botched attempt to poison the water supply of a small Florida city raised alarms about how vulnerable the nation’s critical infrastructure may be to attacks by more sophisticated intruders.</p>
+<p>The Justice Department has also announced a new task force dedicated to countering ransomware attacks in which data is seized by hackers who demand payment from victims in order to release it.</p>
+<div> <div> <div> <div> <h1> Cindy Co </h1> </div> <p> Journalist at CNA Digital </p> <a> @CindyCoCNA </a> <div> About </div> </div> </div> </div>
+<div> <div> <div> <div> <h1> Cindy Co </h1> </div> <p> Journalist at CNA Digital </p> <a> @CindyCoCNA </a> </div> </div> </div>
+<div> <span>Showing <b>15</b> of <b>424</b></span> Sort Filter </div>
+<div> <div> <div> <div> <p> Singapore </p> <h6> <a> Officers to be taught more 'instinctive' moves as Singapore Prison Service revises training in defensive techniques </a> </h6> <div> 09/10/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Unvaccinated people not allowed to dine in at hawker centres, enter shopping malls from Oct 13 </a> </h6> <div> 09/10/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Singapore will take ‘at least’ three months to get to a COVID-19 new normal: PM Lee </a> </h6> <div> 09/10/2021 4 mins </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> S$2,906 a ‘reasonable’ starting point for a living wage in Singapore: Study </a> </h6> <div> 08/10/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> MAS will need 'creativity and caution’ to navigate new challenges and opportunities for Singapore: PM Lee </a> </h6> <div> 07/10/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Parliament repeals Sedition Act, amends Penal Code and Criminal Procedure Code to cover relevant aspects </a> </h6> <div> 05/10/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Most BTO flat buyers can expect to move in within four to five years: Desmond Lee </a> </h6> <div> 05/10/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> MOH and SAF ironing out ‘teething issues’ with home recovery programme: Ong Ye Kung </a> </h6> <div> 04/10/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> New MOH map shows areas most frequented by COVID-19 cases in the past 3 days </a> </h6> <div> 01/10/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Syringe-filling machine deployed at some COVID-19 vaccination centres, reducing workload of health workers </a> </h6> <div> 30/09/2021 2 mins </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> With fewer customers at wet markets, stallholders expect little disruption from Pasir Panjang Wholesale Centre closure </a> </h6> <div> 28/09/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Supermarkets remain 'well stocked' with fruits, vegetables despite Pasir Panjang Wholesale Centre's temporary closure </a> </h6> <div> 27/09/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Makeshift area with beds seen in video footage used as screening space: Tan Tock Seng Hospital </a> </h6> <div> 23/09/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Food delivery platforms to pilot model that does not charge hawkers commission, onboarding fees </a> </h6> <div> 23/09/2021 2 mins </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> FAQ: What you need to know about COVID-19 quarantine orders, health risk warnings and alerts </a> </h6> <div> 22/09/2021 </div> </div> </div> </div> </div>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Business </a> </p> <h5> 200 businesses hit by ransomware after breach at Florida IT firm </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> Business </a> </p> <h1> 200 businesses hit by ransomware after breach at Florida IT firm </h1> </div> </section> </div> </div>
+<p>WASHINGTON: Cybersecurity company Huntress Labs said on Friday (Jul 2) that 200 American businesses have been hit by ransomware attacks following an incident at US IT firm Kaseya in Miami.</p>
+<p>Kaseya, in a statement posted on its own website, said it is investigating a "potential attack" on a widely used tool to reach into corporate networks across the United States.</p>
+<p>In the statement, Kaseya said its VSA tool - which is used by IT professionals to monitor and manage servers, desktops, network devices and printers - may have been attacked.</p>
+<p>It said it had shut down some of its infrastructure in response and that it was urging customers that used VSA on their premises to immediately turn off their servers.</p>
+<p>Hammond added that because Kaseya is plugged in to everything from large enterprises to small companies "it has the potential to spread to any size or scale business."</p>
+<p>Supply chain attacks have crept to the top of the cybersecurity agenda after hackers alleged to be operating at the Russian government's direction tampered with a network monitoring tool built by Texas software firm SolarWinds.</p>
+<p>Kaseya has 40,000 customers for its products, though not all use the affected tool.</p>
+<div> <div> <div> <div> <h1> Ahmad Zhaki Abdullah </h1> </div> <p> Journalist at CNA Digital </p> <a> @ZhakiCNA </a> <div> About </div> </div> </div> </div>
+<div> <div> <div> <div> <h1> Ahmad Zhaki Abdullah </h1> </div> <p> Journalist at CNA Digital </p> <a> @ZhakiCNA </a> </div> </div> </div>
+<div> <span>Showing <b>15</b> of <b>473</b></span> Sort Filter </div>
+<div> <div> <div> <div> <p> Singapore </p> <h6> <a> People with two doses of Sinovac COVID-19 vaccine can walk in without appointment for third dose at some vaccination centres </a> </h6> <div> 24/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Allegations that police manhandled woman during incident at Ang Mo Kio Hub untrue: SPF </a> </h6> <div> 23/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> 7 FB outlets, including 2 repeat offenders, ordered to close temporarily for breaching COVID-19 rules </a> </h6> <div> 22/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Singapore Red Cross donates US$100,000 for flood, typhoon relief efforts in Malaysia, Philippines </a> </h6> <div> 20/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Sinovac vaccine offers lower protection against severe disease from COVID-19: MOH, NCID study </a> </h6> <div> 15/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Reclamation works for first phase of Tuas Port completed, two berths to open by end-2021 </a> </h6> <div> 30/11/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Long waits, ticketing issues as bookings open for Singapore-Malaysia land VTL bus services </a> </h6> <div> 25/11/2021 4 mins </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> SAF to hand over Home Recovery Programme to MOH </a> </h6> <div> 24/11/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Lawyer M Ravi to discharge himself from ex-bus driver's lawsuit against SBS Transit </a> </h6> <div> 22/11/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> From 1.2% to zero: What will it take to phase out coal from Singapore's energy mix? </a> </h6> <div> 16/11/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Singapore Airlines Boeing 737 Max to fly again in 'coming weeks', possible destinations include Malaysia, Indonesia, Brunei </a> </h6> <div> 16/11/2021 2 mins </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Gojek continuing to invest in Singapore, launching new services in 'next few months' </a> </h6> <div> 14/11/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> COVID-19 patients who are unvaccinated by choice could face S$25,000 bill before subsidies, says MOH </a> </h6> <div> 12/11/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Monthly wages for security officers to increase over six-year period from 2023 </a> </h6> <div> 12/11/2021 3 mins </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> Singapore </p> <h6> <a> Mother of boy in ICU with rare inflammatory syndrome after COVID-19 warns parents of symptoms to look out for </a> </h6> <div> 09/11/2021 </div> </div> </div> </div> </div>
+<div> <h1> Golden Village </h1> </div>
+<div> <span>Showing <b>3</b> of <b>3</b></span> Sort Filter </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> IN FOCUS: Are COVID-19 and streaming services ending Singapore's love of going to the cinema? </a> </h6> <div> 01/07/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Business </a> </p> <h6> <a> Golden Village-Cathay merger proposed; will become Singapore's largest cinema operator if approved </a> </h6> <div> 10/12/2020 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> Avengers: Endgame ticket advance sales overwhelm Singapore cinema websites </a> </h6> <div> 10/04/2019 </div> </div> </div> </div> </div>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Commentary </a> </p> <h5> Commentary: Keeping public housing in prime locations like Greater Southern Waterfront affordable and fair </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<h1> Commentary: Keeping public housing in prime locations like Greater Southern Waterfront affordable and fair </h1>
+<div> <p>To help low-income families afford those flats, while avoiding the lottery effect, consider awarding a housing grant tiered by income level, with levies to recovery subsidies depreciating over time, says NUS’ Dr Sing Tien Foo.</p> </div>
+<div> <div> <a> Sing Tien Foo </a> </div> </div>
+<p>SINGAPORE: Singapore’s public housing model is changing.</p>
+<p>During the early years of the country’s independence, the national goal was largely an operational one in ramping up construction to provide living spaces for growing numbers of families and resolve overcrowding.</p>
+<p>Over the decades, a conscious belief that building a nation of homeowners would be the best strategy to give Singaporeans a stake in the nation and strengthen retirement adequacy took root.</p>
+<p>And in the last 20 years, the national conversation has shifted towards how public housing goals can fulfil new aspirations while keeping homes affordable. New models like the Design Build and Sell Scheme and Executive Condominiums were rolled out.</p>
+<a>in the Greater Southern Waterfront</a>, and how to
+<a>keep such an exercise fair</a>.
+<p>While many Singaporeans welcomed the redistributive aspects of this move so more Singapore families can afford housing in good locations, most have also cautioned against the lottery effect seen in past HDB projects.</p>
+<p>LESSONS FROM PINNACLE@DUXTON: CAPPING THE LOTTERY EFFECT</p>
+<p>Some years have passed since Pinnacle@Duxton was first built. Although the project was primarily intended to rejuvenate an otherwise ageing estate and attract younger families to the area, home buyers saw the potential of the place.</p>
+<p>Given the attractive launch prices ranging from S$289,200 to S$439,400, the 1,847 units of 4-room units and 5-room apartments were oversubscribed by 2.7 times when launched in 2004. SARS may have dampened demand.</p>
+<h3><a>READ: Commentary: The future of Singapore housing is in bigger HDB flats</a></h3>
+<p>Still, competition for homes there was not as intense compared to two other BTO projects – SkyVille@Dawson and SkyTerrace@Dawson located in the mature estate of Queenstown.</p>
+<p>The two projects designed by private architect, WOHA Architects, consisting of 1,718 units, were 12 times oversubscribed when launched in December 2009.</p>
+<p>The more recent launch of the Dakota One BTO near the city fringe in August 2020, the demand was also overwhelming: 421 units were nearly 17 times oversubscribed, despite 4-room flats there starting at S$478,000.</p>
+<h3><a>READ: Commentary: A look at HDB flat affordability after recent housing policy moves</a></h3>
+<p>Such trends have been underway for years since homes there met the minimum occupancy period (MOP) in 2015, the same year where nine owners sold their units for S$1 million or more. This looks set to continue.</p>
+<p>Still, it’s worth keeping in mind record-breaking transactions that eschew market logic predate the young Tanjong Pagar development.</p>
+<p>Listen to Prof Sing Tien Foo discuss developments in the property market since COVID-19 hit on CNA's Heart of the Matter podcast:</p>
+<p>STRIKING A DELICATE BALANCE</p>
+<p>Residential property in Singapore has remained one of the brightest sectors that has weathered the COVID-19 storm, even defying real economic trends. This is good news in a nation where a vast majority own their own homes.</p>
+<p>That, however, may be a double-edged sword if speculation pushes prices up to unrealistic heights faster than incomes can keep up with.</p>
+<h3><a>READ: Commentary: Why Singapore's private residential market will remain attractive in the long term</a></h3>
+<p>Cooling measures seeking to keep market sentiments in check and sustain modest price increases over the longer run are one reflection of this public policy aim.</p>
+<p>If left solely to the private market, prime areas such as the city centre and the Greater Southern Waterfront would likely be used for ‘exclusive, high-end housing developments’ that only the rich can afford, given their attractive locations.</p>
+<p>He recognised that special provisions over that special segment of HDB flats are needed to avert unbridled profiteering while not losing sight of the desire to allow more Singapore households to live there.</p>
+<a>4 to 6 per cent economic growth</a> expected this year amid continued urbanisation, Singapore should expect more resale flats in good locations to attract good value, which is a positive development to be welcomed.
+<p>Market trends bear this out. Excluding DBSS apartments and HDB terraces, there were 218 flats with an average price of S$1.06 million that have been sold between 2012 and January 2021.</p>
+<p>DON’T LET THE TAIL WAG THE DOG</p>
+<p>Some have asked whether Singapore should indeed set aside spaces along the Greater Southern Waterfront for HDB developments. Perhaps we forget Singapore’s public housing has prioritised affordability and accessibility for years.</p>
+<p>"(Being) led by the private sector (is like) a tail wagging the dog. We should be the price-setter, not be the price-follower," Mr Khaw said in a 2013 media interview.</p>
+<h3><a>READ: Commentary: Concerned about what fall in private home sales mean? Market fundamentals paint a different story</a></h3>
+<p>The challenge for the Government is deciding the shape and form of subsidies for such flats in the Greater Southern Waterfront, where land costs are also much higher, and how these build on existing help.</p>
+<p>It also encompasses the Family Grant and Proximity Housing Grant of up to S$80,000 for resale flats when families want to live closer to each other.</p>
+<p>These subsidies can be hefty and make the sum difference for lower-income Singapore households. As of February 2021, nearly S$500 million has been disbursed by HDB to 15,600 first timers through the EHG scheme.</p>
+<p>A HOUSING SUBSIDY FOR INCLUSIVENESS</p>
+<p>For these reasons, homeowners who sell their homes are expected to return subsidies and pay resale levies since they have benefitted financially from subsidies.</p>
+<p>These resale levies can be substantive, ranging from S$15,000 for 2-room flats to S$50,000 for 5-room flats and S$55,000 for executive condominiums.</p>
+<p>This grant could be pegged to household income, given on top of the EHG to reduce upfront costs of such flats for low and medium-income households. It should be recovered by authorities when the home is sold.</p>
+<h3><a>READ: Commentary: Why living close to my siblings works for me</a></h3>
+<p>The levy could be reduced on a graduated time scale after an extended MOP, say 10 years, to encourage residents to stay longer and disincentivise selling for a potential windfall.</p>
+<p>NO ONE SIZE FITS ALL MODEL</p>
+<p>To be sure, this suggested measure in dampening the resale of new HDB flats in prime location must be carefully studied for potential effects, together with the suite of measures thrown up for discussion.</p>
+<p>After all, selling flats with a shorter lease term could limit the sale prices of these BTO flats, yet could end up artificially depressing the prices of other flats in the surrounding neighbourhood. </p>
+<h3><a>READ: Commentary: When Singapore homes become workspaces – huge changes in the house and beyond</a></h3>
+<p>Singapore’s shift to provide affordable public housing in prime locations may be a costly move but could strengthen our overall housing social compact.</p>
+<h3><a>SIGN UP: For CNA’s Commentary weekly newsletter to explore issues beyond the headlines</a></h3>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Singapore </a> </p> <h5> HDB resale prices up 2.8% in second quarter: Flash estimates </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> Singapore </a> </p> <h1> HDB resale prices up 2.8% in second quarter: Flash estimates </h1> </div> </section> </div> </div>
+<div> <div> <a> Afifah Darke </a> </div> </div>
+<p>SINGAPORE: Resale prices in the public housing market rose 2.8 per cent in the second quarter of 2021, according to flash estimates released by the Housing and Development Board (HDB) on Thursday (Jul 1).</p>
+<p>The resale price index, which provides information on the general price movements in the resale public housing market, rose from 142.2 to 146.2, the HDB estimates showed.</p>
+<p>This comes after prices in the first quarter of 2021 <a>climbed 3 per cent</a> over that in the previous quarter.</p>
+<h3><a>READ: Commentary: There is greater demand for bigger homes in a pandemic but will it last?</a></h3>
+<p>Construction delays of new Build-To-Order (BTO) flats drove many couples to look for housing in the secondary market, which explains the increase in resale prices, said OrangeTee Tie's senior vice president of research and analytics Christine Sun.</p>
+<p>Buyers who are downsizing from private properties have also turned to the HDB resale market, she added. </p>
+<p>"Due to the robust housing demand and supply shortage, bargains were fading, and buyers have to move quickly if they spot a home that interests them, especially for popular locations," said Ms Sun. </p>
+<p>"With many eager buyers willing to match the valuation of properties, prices of resale flats are creeping up in many areas."</p>
+<h3><a>READ: HDB resale prices up 5% last year</a></h3>
+<p>Ms Sun added that the strong demand and home supply shortage may keep resale prices "elevated" in the coming months. </p>
+<p>"The fast-rising prices may raise the barrier of entry for some first-time buyers. Those who cannot afford an HDB resale flat may either turn to the rental market or delay their wedding plans as they apply for BTO flats," said Ms Sun. </p>
+<p>Huttons Asia CEO Mark Yip said resale prices for flats in the central area, Serangoon and Woodlands saw the biggest increases. </p>
+<p>Resale prices in the central area rose 10.8 per cent, with 53 units sold, while prices in Serangoon increased 9.6 per cent with 112 units sold. Woodlands saw an 8.5 per cent rise in prices, with 393 units sold.</p>
+<p>"Generally there remain keen interest in the market for resale flats because of delays in completion of new homes," he said. </p>
+<p>"We expect HDB resale prices to increase by 8 per cent to 10 per cent in 2021, surpassing the gains of 5 per cent in 2020," added Mr Yip. </p>
+<p>More detailed housing data will be released along with the final resale price index for the full quarter on Jul 23, said HDB. </p>
+<p>In the release, HDB also said that it will offer about 4,900 BTO flats next month in Hougang, Jurong East, Kallang Whampoa, Queenstown and Tampines.</p>
+<p>In November, about 3,100 to 3,600 BTO flats in Choa Chu Kang, Hougang, Jurong West, Kallang Whampoa and Tengah will be offered. </p>
+<p>"As the COVID-19 pandemic is evolving, HDB is monitoring the situation, and will make adjustments where necessary," said HDB. </p>
+<div> <div> <p> <a> Business </a> </p> <h5> More HDB resale flat buyers willing to pay prices higher than units' valuation, say property agents </h5> </div> </div>
+<div> <div> <section> <div> <p> <a> Business </a> </p> <h1> More HDB resale flat buyers willing to pay prices higher than units' valuation, say property agents </h1> </div> </section> </div> </div>
+<div> <div> <div> <div> <div> <h6> <a> Cheryl Lin </a> </h6> </div> <a> @CherylLinCNA </a> </div> </div> </div> </div>
+<div> <div> <div> <div> <div> <h6> <a> Natasha Razak </a> </h6> </div> <a> @NatashaRazakCNA </a> </div> </div> </div> </div>
+<div> <div> <a> Cheryl Lin </a> <a> Natasha Razak </a> </div> </div>
+<p>SINGAPORE: Four growing, active sons are the main reason why Mr Hanafiah Yusof and his wife, Ms Nirmala, wanted an upgrade from their existing 900 sq ft Build-to-Order (BTO) unit in Dawson.</p>
+<p>After searching for nearly seven months, they found their ideal unit - a 1,580 sq ft executive apartment in Clementi. </p>
+<p>“The location (was) just nice near our kids’ schools, near our parents, near my workplace, and amenities around there were a lot … It checked all our boxes - on a high floor, and the space and unit were well-maintained,” said Ms Nirmala.</p>
+<p>But it came at a premium.</p>
+<p>They had to pay S$45,000 extra in Cash Over Valuation (COV) – a sum that is the difference between the transacted price and the unit’s official valuation by the Housing Development Board (HDB). Buyers must pay this sum fully in cash.</p>
+<p>“Our agent did pre-empt us that because of the area – a mature estate – we have to expect to pay more,” Ms Nirmala told CNA.</p>
+<p>Even then, it was above the S$20,000 to S$30,000 COV they had expected to pay, she said.</p>
+<p>“But I think we weighed our options and I think it’s good that from this sale of (our current) unit, it was enough for us,” said Mr Hanafiah.</p>
+<p>The couple is among a growing group of buyers who are willing to pay COV for their resale flats, amid a resilient property market.</p>
+<h3><a>WATCH: Homebuyers, HDB upgraders to scoop up homes in 2021 amid low interest rates</a></h3>
+<p>The COV component had been a concern in the early part of the last decade, when some buyers and sellers used official valuations as a base price, while negotiating the COV to add on to it.</p>
+<p>HDB had said that buyers should instead negotiate based on recent transaction prices and focus on the entire sum of the flat.</p>
+<p>The Housing Board then stopped publishing COV data in March 2014. It also changed the system such that a flat’s valuation would only be revealed after buyers and sellers had agreed on a transaction price.</p>
+<p>Following the measures, along with a tepid resale market, transactions with COV became uncommon, said industry players.</p>
+<p>HOT DEMAND GIVING CASH OVER VALUATION TREND A BOOST </p>
+<p>But the trend is seeing a revival amid a robust HDB resale market, said property experts CNA spoke to.</p>
+<p>Last year, HDB resale prices climbed by their <a>highest since 2012</a>, while transactions also rose sharply to an eight-year high.</p>
+<p>Lim Yong Hock, PropNex's key executive officer, said that though the agency does not collate information on how their clients’ transactions compare to valuation prices, agents note that more COV transactions have been taking place.</p>
+<p>“Places not even in prime locations, for example in the outskirts like Woodlands, Yishun or Bukit Panjang, are also seeing this kind of situation,” he said.</p>
+<h3><a>READ: HDB launches one-stop portal for flat purchases</a></h3>
+<p>OrangeTee’s senior associate district director Ryan Tan said on-the-ground feedback from his team of about 40 agents is that the trend has regained prominence since the end of the COVID-19 "circuit breaker" period.</p>
+<p>He estimates that about 90 per cent of their resale transactions now entail COV sums – typically ranging from S$5,000 to S$20,000 – although he cautions that this may not represent the entire market.</p>
+<p>A group division director at ERA Realty, Mike Poon, added that while one or two transactions out of 10 used to take place above valuation prices, this has tripled to at least five to six transactions out of 10.</p>
+<p>PropNex’s Mr Lim attributed this phenomenon to higher demand from resale flat buyers, which supply cannot match.</p>
+<p>A reason for the growing demand could be that more are turning to the resale market to avoid the longer completion times for BTO flats amid the pandemic, he said.</p>
+<h3><a>WATCH: Homebuyers reconsider BTO flats as COVID-19 delays construction</a></h3>
+<p>“It’s also not like you’re guaranteed to get (the BTO) because the subscription rate is still very high.</p>
+<p>“Especially for some of the more centralised locations, those near the MRT, it can be 10 to 20 times oversubscribed. That is driving many buyers into buying resale rather than waiting for BTO," he added.</p>
+<p>Other possible reasons for the heightened demand - the desire for a bigger living space after enduring the circuit breaker; and enhanced CPF housing grants from 2019 that made resale flats more attractive, said OrangeTee’s Mr Tan.</p>
+<p>Mr Sofian Roslan, an associate marketing director at ERA Realty, added that paying a COV of S$10,000 to S$20,000 is “quite common” now.</p>
+<p>“But I’ve heard from colleagues who have transacted about S$60,000 to S$70,000 (in COV). These are common at mature estates where the older blocks are with limited supply, so these are those that command high COVs.”</p>
+<p>He added that other flat types, such as jumbo flats and executive apartments, typically attract higher premiums.</p>
+<p>PropNex’s Mr Lim suggested that the trend could continue for the first half of 2021, because of the lag time between when transactions are made and when they start to change valuations.</p>
+<p>“Valuers usually use past transactions as a benchmark, so when the new prices are not recorded yet, the valuation is not likely to follow the current market price," he explained.</p>
+<p>That widening price gap could mean more transactions will happen at a price above valuation, he said.</p>
+<h3><a>READ: HDB to launch 17,000 BTO flats in 2021, similar to this year</a></h3>
+<p>But Huttons Asia’s head of research Lee Sze Teck said he expects the trend to stabilise in the coming months.</p>
+<p>“If it was due to pent-up demand (from the circuit breaker), it would be dissipating over the few months already,” he said.</p>
+<p>On top of that, more BTO flats are reaching their five-year Minimum Occupation Period (MOP) this year, meaning they are now allowed to be sold on the open market.</p>
+<p>This could bump up supply and ease the stiff competition among buyers for resale flats, Mr Lee said.</p>
+<p>About 25,530 HDB flats could reach their MOP in 2021, compared with the 24,163 flats that reached this milestone last year, according to PropNex.</p>
+<p>OrangeTee’s Mr Tan added that the trend of COV will be checked at some point, because buyers are aware they have to fork out sums for COV in full and in cash.</p>
+<p>“There will be a point when they become resistant to offering so much,” he said.</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Singapore </a> </p> <h5> Industry players should not 'stoke exuberant sentiments' in property market: Indranee Rajah </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> Singapore </a> </p> <h1> Industry players should not 'stoke exuberant sentiments' in property market: Indranee Rajah </h1> </div> </section> </div> </div>
+<div> <div> <a> Cheryl Lin </a> </div> </div>
+<p>SINGAPORE: Industry players should continue to be "professional, responsible, and prudent, and not stoke exuberant sentiments” in the property market, said Second Minister for National Development Indranee Rajah on Tuesday (Feb 23).</p>
+<p>Speaking at an event hosted by the Real Estate Developers’ Association of Singapore (REDAS), Ms Indranee said that in the long run, having a stable property market would benefit all stakeholders.</p>
+<p>The property sector has remained buoyant despite the COVID-19 pandemic.</p>
+<p>Private home prices <a>rose 2.2 per cent</a> last year even as the economy fell into a recession, while resale prices for Housing Board flats <a>climbed by their highest</a> since 2012, amid a spike in buying activity.</p>
+<h3><a>READ: HDB resale prices up 5% last year</a></h3>
+<p>Ms Indranee cautioned that the recovery in global economic activity is expected to be "uneven, uncertain and drawn out", with other countries fighting recurrent waves of infection and new variants of the coronavirus.</p>
+<p>“How the global economic and pandemic situations pan out and the ongoing uncertainties may affect Singapore’s economy, including our labour and property market. So we do have to remain vigilant," she said.</p>
+<p>“Developers should remain prudent in their land bidding and not overextend themselves financially.</p>
+<p>"Prospective property buyers should be mindful of their ability to service mortgage obligations given the uncertain economic outlook and the protracted recovery in the domestic labour market, before making long-term financial commitments."</p>
+<h3><a>READ: New private home sales rise 32% in January</a></h3>
+<h3><a>READ: More HDB resale flat buyers willing to pay prices higher than units' valuation, say property agents</a></h3>
+<p>At the same event, REDAS President Chia Ngiang Hong outlined how developers were adopting greener building solutions and systems, in line with a nationwide push for sustainability.</p>
+<p>“As such solutions are capital-intensive and need time to crystallise, the Government’s continued assistance to the built environment is very important," he added.</p>
+<p>“And we hope for the understanding and consideration to adjust policies, if necessary, to maintain a stable and sustainable property market in the long run. It is very crucial indeed.”</p>
+<p>Mr Chia, who is the group general manager of City Developments Limited, reiterated that developers are concerned about the global economy, which "remains fragile", as well as geopolitical developments and domestic market conditions.</p>
+<p>During recent engagement sessions with some ministers, developers are encouraged by the "understanding of the immediate issues surrounding the construction industry", including high business costs and tight timeline of contracts, he said.</p>
+<p>“Of course, their willingness to help to resolve these issues is most welcome,” he added.</p>
+<p>Mr Chia added that REDAS "fully supports" the need for the property market to remain resilient to economic downturns, property bubbles and external shocks, and that prices move in line with economic fundamentals.</p>
+<p> <a> Heart of the Matter </a> </p>
+<div> <h1> Heart of the Matter - S2: Singapore residential property market: Are cooling measures due soon after year of rising prices? </h1> </div>
+<div> 29 Apr 2021 05:12PM </div>
+<h3> <a> Heart of the Matter - S2: COVID-19 vaccinations for kids aged 5 to 11: Unpacking the data, parental fears and social pressures </a> </h3>
+<div> 18/11/2021 40 mins </div>
+<h3> <a> Heart of the Matter - S2: Guilty purchases and packaging waste in huge Singles’ Day online sales </a> </h3>
+<div> 11/11/2021 23 mins </div>
+<h3> Heart of the Matter - S2: Protecting food deliverers and other gig workers: Grab Singapore's managing director answers the hard questions </h3>
+<div> 05/11/2021 29 mins </div>
+<h3> Heart of the Matter - S2: The great wave of worker unhappiness – why are we still languishing? </h3>
+<div> 28/10/2021 31 mins </div>
+<h3> Heart of the Matter - S2: Travel hesitancy – is planning an overseas holiday just too stressful? </h3>
+<div> 21/10/2021 31 mins </div>
+<section> <div> <div> <div> <div> <div> Singapore residential property market: Are cooling measures due soon after year of rising prices? </div> </div> <audio> </audio> <div> Close </div> </div> </div> </div> </section>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Singapore </a> </p> <h5> Smaller homes, shorter-lease units: How Singapore's housing landscape might change amid population shifts </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> Singapore </a> </p> <h1> Smaller homes, shorter-lease units: How Singapore's housing landscape might change amid population shifts </h1> </div> </section> </div> </div>
+<div> <div> <a> Cheryl Lin </a> </div> </div>
+<p>SINGAPORE: Smaller flats and units with shorter leases could feature more heavily in Singapore’s future housing landscape, as it adapts to shifting demographics, said experts. </p>
+<p>According to data from the latest population census, there were fewer people in each household on average, although the number of households rose over the past decade.</p>
+<p>There were 1.37 million resident households in 2020, up from 1.15 million a decade ago. In the same period, average resident household sizes fell to 3.2 persons, down from 3.5.</p>
+<h3><a>READ: Household sizes shrank, median incomes rose over the past decade: Census 2020</a></h3>
+<p>Apart from smaller family units, a rise in singlehood and an ageing population will have implications on urban planning and housing policies, said experts CNA spoke to.</p>
+<p>For a start, Singapore may need to provide more smaller homes in the public and private market, in view of the growth of smaller family units, said Dr Woo Jun Jie, a senior research fellow at the Institute of Policy Studies (IPS). </p>
+<p>This includes smaller family nuclei, or singles and seniors living alone.</p>
+<p>In 2020, one-person households accounted for 16 per cent of all households, while two-person households made up 22.6 per cent of them. These categories both grew by 3.8 percentage points each over the decade.</p>
+<h3><a>READ: Slowest decade of population growth in Singapore since independence: Census 2020</a></h3>
+<p>Mr Ismail Gafoor, CEO of PropNex, noted in particular that the growth of one-person households could support demand for smaller homes in the private residential market.</p>
+<p>Another factor, he said, is whether having to care for elderly parents will “deplete the savings of younger people”.</p>
+<p>That might eventually impact their purchasing decisions, he said. “Would they then buy smaller homes, as these are more affordable than larger units?”</p>
+<p>But along with other experts, he acknowledged that such demand could be hampered by a desire for more spacious homes, due to “evolving work arrangements and lifestyle aspirations”.</p>
+<h3><a>READ: Going big on space: Buyers eye larger homes amid pandemic</a></h3>
+<p>This has been borne out by recent buying trends, he said. “Based on public housing resale data over the last 10 years, we have observed an increased demand for four- and five-room flats, over three-room flats, particularly in 2020.”</p>
+<p>Ms Catherine He, the director of research for Southeast Asia at CBRE, said that while more smaller homes will be needed, there will still have to be a “good distribution of home sizes” to cater to other preferences.</p>
+<p>CHANGING POLICIES FOR SINGLES</p>
+<p>IPS’ Dr Woo also believes there will be a need to rethink housing allocation and grants for Housing Development Board (HDB) flats - especially age requirements and limitations on flat sizes for singles.</p>
+<p>Over the past decade, the proportion of singles has risen among all age groups within the bracket of 20 to 49 years old.</p>
+<p>Currently, singles aged 35 and above can apply for two-room Build-to-Order (BTO) flats, subject to various eligibility criteria.</p>
+<p>PropNex's Mr Ismail said housing policies for this group have become more inclusive over the decades, but added that authorities could consider letting singles buy three-room BTO flats in future.</p>
+<p>“Some singles may need more space, for instance, an elderly single with a caregiver, or a single person who has plans to eventually get married and start a family,” he said.</p>
+<p>But CBRE’s Ms He pointed out that Singapore’s housing policies are “pro-family” and hence “geared towards a different goal”.</p>
+<p>“There are already policies in place to help seniors and singles secure public housing. The point of concern may lie more with the supply of these housing units,” she said.</p>
+<p>She also noted that Singaporeans tend to turn towards the private market when their needs cannot be met by the public housing market.</p>
+<h3><a>READ: Singapore's private home prices up 0.9% in Q2, fifth consecutive quarterly rise</a></h3>
+<p>Another pressing issue for housing policy stems from Singapore’s rapidly ageing population. Those aged 65 and above formed 15.2 per cent of the resident population in 2020, up from 9 per cent in 2010, according to the census.</p>
+<p>“(Authorities can review) whether the present housing models are sufficient to cater to the needs of the ageing population, and whether there is enough supply of such housing to meet future demand from the elderly,” said Mr Ismail.</p>
+<p>Currently, there are various options available in the public housing market for seniors, such as two-room Flexi flats and assisted living flats.</p>
+<p>But authorities can look into whether more elderly housing options can be provided in the private residential sector, said Mr Ismail.</p>
+<h3><a>READ: Assisted living flats for seniors would plug gap in housing market, fulfil various needs: Experts</a></h3>
+<p>Ms He added: “With an aging population, we might see more projects with shorter leases to make them more affordable to the elderly.</p>
+<p>“We might also see more sites set aside for eldercare, such as the residential care community concept for people with dementia at Sembawang or the one at Kampung Admiralty, an integrated housing project for the elderly.”</p>
+<p>PUBLIC VS PRIVATE HOUSING</p>
+<p>Census data also showed that more residents lived in condominiums and apartments in 2020, compared to a decade before.</p>
+<p>The proportion of resident households living in private units increased from 11.5 per cent to 16 per cent over the period, while the proportion of those staying in HDB flats fell from 82.4 per cent to 78.7 per cent.</p>
+<p>“The shift towards private apartments is very much a factor of the growing affluence and aspirations of Singapore residents. These are trends that will likely continue," said Dr Woo.</p>
+<p>But he added that market forces will eventually result in a “long-term sustainable balance between public and private housing”.</p>
+<p>Mr Ismail agreed, adding that any further shift in distributions will be “measured”.</p>
+<p>“After all, HDB flats are considered the most affordable form of housing in Singapore and they will continue to appeal to a broad group of buyers,” he said.</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <div> <div> <h1> Tang See Kit </h1> </div> <p> Correspondent at CNA Digital </p> <a> @SeeKitCNA </a> <div> About </div> </div> </div> </div>
+<div> <div> <div> <div> <h1> Tang See Kit </h1> </div> <p> Correspondent at CNA Digital </p> <a> @SeeKitCNA </a> </div> </div> </div>
+<div> <span>Showing <b>15</b> of <b>622</b></span> Sort Filter </div>
+<div> <div> <div> <div> <p> Business </p> <h6> <a> With sustainable investing on the rise, experts warn of greenwashing risks </a> </h6> <div> 19/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Singapore </a> </p> <h6> <a> HDB to launch up to 23,000 new BTO flats each year in 2022 and 2023 to meet ‘strong’ housing demand </a> </h6> <div> 16/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Business </a> </p> <h6> <a> Singapore property stocks decline after announcement of new market cooling measures </a> </h6> <div> 16/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Business </a> </p> <h6> <a> Syfe launches digital brokerage service, allows investors to buy fractional shares in US markets </a> </h6> <div> 16/12/2021 </div> </div> </div> </div> </div>

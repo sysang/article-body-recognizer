@@ -1,0 +1,500 @@
+<div><div><p>Google Maps helps Italian police capture mafia fugitive (Reuters)</p></div></div>
+<div><div><h3><div>Mentions</div></h3></div></div>
+<li>John Perrino has joined the Stanford Internet Observatory. He previously worked as a director of the Glen Echo Group.</li>
+<div><div><h3><div>Daybook</div></h3></div></div>
+<li>Intel CEO Patrick Gelsinger speaks at an Atlantic Council event on Monday at 10 a.m.</li>
+<li>FCC Commissioner Geoffrey Starks discusses infrastructure funding at an Information Technology Industry Council and Bridge for Innovation event on Tuesday at 1 p.m.</li>
+<li>Damian Collins, who chairs the U.K. Parliament’s Joint Committee on the Draft Online Safety Bill, discusses disinformation at a Washington Post Live event with former Rep. Will Hurd, a Republican who represented Texas, on Tuesday at 11 a.m.</li>
+<div><div><h3><div>Before you log off</div></h3></div></div>
+<p>Reporter covering the business of entertainment in the U.S. and beyond</p>
+<p>Education: Columbia University and Yeshiva University</p>
+<div>Latest from Steven Zeitchik</div>
+<a><h2>The battle to prevent another Jan. 6 features a new weapon: The algorithm</h2></a>
+<p>A year after the attack on the Capitol, data science is better than ever at predicting insurrections. But is it good enough?</p>
+<ul><li><a>Innovations</a></li></ul>
+<a><h2>Maybe 2022 should be the year we turn over decision-making to the AI</h2></a>
+<p>An increasingly popular idea is to outsource choices to algorithms, even New Year's resolutions. It doesn’t sound half bad.</p>
+<a><h2>On a yacht off St. Barts, the future of covid testing is taking shape</h2></a>
+<p>Amid huge gaps in inventory and quality, several renegade companies are looking for a superior approach to the current tangled system.</p>
+<a><h2>Is artificial intelligence about to transform the mammogram?</h2></a>
+<p>An MIT researcher has devised a radical technique: an AI that can predict breast cancer. But it’s a long climb from the lab to the real world.</p>
+<a><h2>Drones could be enlisted to fight tornados and other climate disasters</h2></a>
+<p>There’s a growing push to send unmanned aerial vehicles to help during climate disasters like the Quad-state tornadoes. What exactly can they do?</p>
+<a><h2>Soon when you walk down the street, 3-D creatures could try to sell you something</h2></a>
+<p>A new 3-D form of outdoor advertising is slowly taking hold. But experts warn of overload.</p>
+<a><h2>When it comes to China, sports and entertainment often tread lightly</h2></a>
+<p>The WTA and the IOC have taken different approaches to China amid the Peng Shuai controversy. What have other sports and entertainment entities done at similar moments?</p>
+<a><h2>We asked a computer program to imitate Gay Talese’s writing. Then we asked Talese what he thought.</h2></a>
+<p>What does one of the most famous journalists of the 20th century think of GPT3?</p>
+<a><h2>All this money pouring into infrastructure should be a boon for high-speed rail, right? Not so fast.</h2></a>
+<p>The transit innovation’s time may come. It just will be a bumpy road to get there.</p>
+<a><h2>A Utah company says it revolutionized truth-telling technology. Experts are highly skeptical.</h2></a>
+<p>A Utah company claims it has discovered a way to tell if a person is lying by tracking their eye movements. Many are skeptical.</p>
+<div><h1>The battle to prevent another Jan. 6 features a new weapon: The algorithm</h1></div>
+<h2>A year after the attack on the Capitol, data scientists say artificial intelligence can help forecast insurrection — with some big concerns</h2>
+<div><div><span><div><span><div><div>By Steven Zeitchik</div></div></span></div></span></div><div>Today at 5:00 a.m. EST</div></div>
+<div><div><p>For many Americans who witnessed the attack on the Capitol last Jan. 6, the idea of mobs of people storming a bedrock of democracy was unthinkable.</p></div></div>
+<div><div><p>For the data scientists who watched it unfold, the reaction was a little different: We’ve been thinking about this for a long time.</p></div></div>
+<b> </b>that predicts the likelihood of coups and electoral violence for dozens of countries each month.
+<div><p>Election misinformation soared to 10,000 posts per day in Facebook groups before Jan. 6</p></div>
+<div><p>Another group, the nonprofit Armed Conflict Location Event Data Project, or ACLED, also monitors and predicts crises around the world, employing a mixed-method approach that relies on both machine-learning and software-equipped humans.</p></div>
+<div><p>Biden White House concludes Jan. 6 preparations hurt by lack of high-level intelligence sharing</p></div>
+<div><div><p>“For the 2024 election God knows we absolutely need to be doing this,” said Sheldon Himelfarb, chief executive of PeaceTech. “You can draw a line between data and violence in elections.”</p></div></div>
+<div><div><p>Many of the models, for instance, find income inequality not to be correlated highly with insurrection; drastic changes in the economy or climate are more predictive.</p></div></div>
+<div><div><p>And paradoxically social-media conflict is an unreliable indicator of real-world unrest. (One theory is that when violence is about to take place, many people are either too busy or too scared to unleash screeds online.)</p></div></div>
+<div><p>Bellish and other skeptics also point to a troubling consequence: Prediction tools could be used to justify crackdowns on peaceful protests, with AI used as a fig leaf. “It’s a real and scary concern,” Powell said.</p></div>
+<div><p>Opinion: Polling on Jan. 6 shows the vast majority of Americans aren’t crazy</p></div>
+<b> </b> He imagines a very slow transition to these models.
+<div><div><p>“I don’t think we’ll have this in wide use by January 6, 2025,” he added. “We should, because the technology is there. But it’s an adoption issue.”</p></div></div>
+<div><p><span>Law enforcement agencies failed to heed mounting warnings about violence on Jan. 6</span></p></div>
+<div><div><p>But the FBI and the Department of Homeland Security — two agencies central to domestic terrorism — have shown fewer signs of adopting these models.</p></div></div>
+<header><div><div><div><h1>TECHNOLOGY</h1></div></div></div></header>
+<a><h3>Final ruling in Google-Sonos patent fight forces Google to modify smart speakers</h3></a>
+<p>The U.S. International Trade Commission says Google must stop importing smart speakers using patents owned by Sonos. But Google has already designed workarounds to avoid the patent infringement.</p>By Gerrit De VynckJanuary 6, 2022
+<a><h3>Slain officer’s sister sues Facebook in ‘boogaloo’ murder, alleging it pushed extremist content</h3></a>
+<p>Facebook helped build the boogaloo community that led the officer’s killer and accomplice to connect, attorneys allege.</p>By Faiz SiddiquiJanuary 6, 2022
+<a><h3>Video game expo E3 cancels in-person event, citing enduring covid-19 fears</h3></a>
+<p>The 2021 showcase opened with a pledge to return to an in-person event in June 2022, but fears about the latest strain of the coronavirus have changed that plan.</p>By Mike HumeJanuary 6, 2022
+<a><h3>The weirdest and most interesting tech at CES 2022</h3></a>
+<p>CES salutes 2022 with some of the strangest technologies we’ve seen in a while. Here are the highlights.</p>By Chris Velazco and Tatum HunterJanuary 6, 2022
+<a><h3>The battle to prevent another Jan. 6 features a new weapon: The algorithm</h3></a>
+<p>A year after the attack on the Capitol, data science is better than ever at predicting insurrections. But is it good enough?</p>By Steven ZeitchikJanuary 6, 2022
+<a><h3>South Korea’s Pearl Abyss wants to make games for the whole world. It’s not easy.</h3></a>
+<p>“Sometimes we find that different cultures like different stories,” said the studio's co-founder.</p>By Gene ParkJanuary 5, 2022
+<a><h3>What it’s like at one of the world’s biggest tech trade shows as omicron surges </h3></a>
+<p>This year's chaotic CES conference raises valuable questions about the future of giant in-person business events.</p>By Chris VelazcoJanuary 5, 2022
+<div><div><a><h3>Elizabeth Holmes learned all the wrong lessons from Silicon Valley</h3></a><p>The Theranos founder copied Steve Jobs but couldn’t deal with failure, entrepreneurs say.</p>By Nitasha Tiku and Rachel LermanJanuary 5, 2022</div></div>
+<a><h3>‘Alexa, take me to the moon’</h3></a>
+<a><h3>The biggest tech trends to watch for in 2022 </h3></a>
+<p>Join us as we break out the crystal balls and suss out what the new year will mean for the tech in your life.</p>By Tatum Hunter and Chris VelazcoJanuary 4, 2022
+<a><h3>Elizabeth Holmes’s fraud conviction adds another chapter to the history of white-collar crime</h3></a>
+<p>Elizabeth Holmes's fraud trial took more than three months and spawned long lines of journalists and curious onlookers. It's just the latest chapter in a long line of high-profile white-collar trials.</p>By Gerrit De VynckJanuary 4, 2022
+<a><h3>Blood, labs and fraud: What you need to know about Elizabeth Holmes and the Theranos trial</h3></a>
+<p>The start-up founder who rocketed to fame nearly a decade ago was convicted of four counts in the landmark Silicon Valley fraud trial.</p>By Rachel Lerman and Jacob BogageJanuary 4, 2022
+<a><h3>Future of Work: Computer vision and machine learning may soon bolster restaurant jobs</h3></a>
+<p>Chipotle CEO Brian Niccol expects the restaurant industry to adopt more emerging technologies to deal with challenges like supply chain snags, worker turnover and inefficiency.</p>By Danielle AbrilJanuary 4, 2022
+<a><h3>Facebook groups topped 10,000 daily attacks on election before Jan. 6, analysis shows</h3></a>
+<a><h3>How ProPublica and The Post researched posts of Facebook groups</h3></a>
+<a><h3>GitHub shuts down Indian website ‘auctioning’ Muslim women</h3></a>
+<p>Women who publicly criticized Prime Minister Narendra Modi and his Bharatiya Janata Party, which is pursuing an agenda that emphasizes Hindu primacy, were among the targets.</p>By Amy ChengJanuary 4, 2022
+<div><a><h3>Verizon, ATT delay 5G rollout plans again, bowing to aviation safety concerns</h3></a><p>The Federal Aviation Administration has said the 5G rollout could cause interference with airplane safety systems.</p>By Bryan PietschJanuary 4, 2022</div>
+<a><h3>Theranos founder Elizabeth Holmes found guilty in landmark Silicon Valley fraud case</h3></a>
+<p>The judge handed the case to the jury late Friday afternoon after more than three months of trial proceedings.</p>By Rachel Lerman and Nitasha Tiku and Faiz SiddiquiJanuary 3, 2022
+<li><div><div><a><h3>Jurors say they are deadlocked on three counts in Elizabeth Holmes trial</h3></a><p>The Elizabeth Holmes trial jury is deadlocked on three counts.</p>By Rachel Lerman and Nitasha TikuJanuary 3, 2022</div></div></li>
+<a><h3>Since Jan. 6, the pro-Trump Internet has descended into infighting over money and followers</h3></a>
+<div><div><h1>Karla L. Miller</h1><div><div>Karla L. Miller offers weekly advice on workplace dramas and traumas. You can send her questions at work.advice.wapo@gmail.com.</div></div></div></div>
+<div>Latest from Karla L. Miller</div>
+<ul><li>Business</li><li>Perspective</li></ul>
+<a><h2>My boss in a senior living facility won’t get vaccinated and I’m furious</h2></a>
+<p>Resentments are growing as the divide deepens between pro- and anti-vaccination colleagues. All you can control are the lengths you're willing to go to for your own and others' protection.</p>
+<ul><li><a>Business</a></li><li>Perspective</li></ul>
+<a><h2>In the Great Resignation, many quit to avoid workplace bullies. Here are less drastic strategies.</h2></a>
+<a><h2>Advice on dealing with a workplace bully</h2></a>
+<p>Whether you're a target or a witness, everyone can play a role in building an environment where workplace bullying won't thrive.</p>
+<a><h2>How to cope with a client who keeps asking for more out-of-scope work</h2></a>
+<p>Instead of saying "yes" or "no" to a client's demands, make sure your contract is clear about what services you provide — and how much additional requests will cost.</p>
+<a><h2>My adult child is hospitalized with a mental illness. How can I help them keep their job? </h2></a>
+<p>Unless your adult child specifically asks you to contact their employer while they're in the hospital, doing so is a huge overreach for a parent. Find ways to provide support without interfering with their care.</p>
+<a><h2>For some workers with disabilities, the pandemic brought surprising benefits. Now the flexibility is fading with a return to the old ways of working. </h2></a>
+<a><h2>How these employers held onto workers during ‘The Great Resignation ’</h2></a>
+<p>Although many employees have been leaving their jobs during "The Great Resignation," some have told good stories about things their employers are doing to make them feel trusted, appreciated and supported beyond the paycheck.</p>
+<a><h2>Left behind: Millions of Americans still can’t find work</h2></a>
+<a><h2>These workers quit their jobs and found better ones. Here’s what they discovered.</h2></a>
+<p>From readers who have done it: How to leave a bad job for a better one in "The Great Resignation." Don’t worry about gaps in your résumé or stress about retraining. The rules are different now.</p>
+<a><h2>A record number of Americans are quitting their jobs. Here’s how they make money after they quit. </h2></a>
+<p>A record number of workers are quitting or taking early retirement from jobs where they feel disrespected and burned out in what is being called "The Great Resignation." Here's how they are getting by financially.</p>
+<div><div>Business<div><div>Perspective</div><div>Perspective Discussion of news topics with a point of view, including narratives by individuals regarding their own experiences</div></div></div></div>
+<div><h1>My boss in a senior living facility won’t get vaccinated and I’m furious</h1></div>
+<h2>My supervisor is an anti-vaxxer with a medical exemption. How do I contain my anger at her for putting residents and colleagues at risk? </h2>
+<div><div><span><div><span><div><div>By Karla L. Miller</div></div>Columnist </span></div></span></div><div>Today at 7:00 a.m. EST</div></div>
+<div><div><p><i>Now she’s back, and I cannot warm up to her because I’m so angry. And there’s no one to talk to about it because it sounds like sour grapes. How should I handle this?</i></p></div></div>
+<div><p>Biden's workplace vaccine mandate seems controversial now--but Americans will come around in the end</p></div>
+<b> </b>As the latter dig their heels in, the former find their compassion and tempers running shorter than ever — especially in light of ever-emerging coronavirus variants,
+<a>fluctuating guidance </a>from leaders and authorities, and inadequate access to virus tests and other resources.
+<div><p>Supreme Court sets special hearing for Biden’s vaccine rules for health-care workers, private businesses</p></div>
+<div><p>Labor Secretary Marty Walsh talks about new vaccine rule, labor activism and threat of omicron</p></div>
+<a>burnout </a>from all these obligations, something has to give. That being the case, I suggest you not worry about generating even a nanojoule of warmth for your supervisor.
+<div><div><p>Some minimum decorum is required when working closely with someone you’ve lost respect for. Fortunately, the pandemic provides ample justification for holding her at a literal and figurative distance. To wit:</p></div></div>
+<div><p>You’re not cold — you’re conscientious. “I’m so paranoid about spreading the coronavirus, I’m treating everyone as a potential vector, including myself. Do you mind if we spread out a bit?”</p></div>
+<div><div><p>You’re not abrasive — you’re anxious. “I apologize for snapping earlier — I’ve been so stressed out lately about the pandemic. Can you imagine if we had an outbreak here?”</p></div></div>
+<div><div><div><h1>Bart Barnes</h1><p>Education: </p></div></div><div><a>Share confidential news tips with The Post</a></div></div>
+<div>Latest from Bart Barnes</div>
+<a><h2>John Hawke Jr., ‘dean’ of banking lawyers and former comptroller of the currency, dies at 88</h2></a>
+<p>He was chairman of the Arnold Porter law firm in Washington, general counsel to the board of governors of the Federal Reserve System and Undersecretary of the Treasury for Domestic Finance.</p>
+<ul><li><a>Obituaries</a></li></ul>
+<a><h2>Jim Pressler, Washington lawyer in negligence cases, dies at 73</h2></a>
+<p>He specialized in negligence and personal-injury cases, civil law and public-sector employment and was for 13 years general counsel to the Fraternal Order of Police in Washington.</p>
+<div><div><div><ul><li><a>Obituaries</a></li></ul><a><h2>Michael Smith, a top U.S. trade representative, dies at 85</h2></a><div>November 24, 2021</div></div></div></div>
+<div><div><div><ul><li><a>Obituaries</a></li></ul><a><h2>Gladys Stern, who led Georgetown Day School, dies at 104</h2></a><p>She led the school for 21 years until retiring in 1996.</p><div>November 17, 2021</div></div></div></div>
+<a><h2>John Terry, appeals court judge, dies at 88</h2></a>
+<p>He served 23 years on the D.C. Court of Appeals. Before that, he spent many years as chief of the appellate division of the U.S. attorney’s office.</p>
+<a><h2>Stanley Harris, U.S. attorney and federal judge, dies at 93</h2></a>
+<p>As U.S. attorney for the District of Columbia in 1982 and 1983, he supervised the prosecution of John W. Hinckley Jr. for the 1981 attempted assassination of President Ronald Reagan.</p>
+<div><div><div><ul><li><a>Obituaries</a></li></ul><a><h2>Montgomery Meigs, who led U.S. Army in Europe, dies at 76</h2></a><p>The four-star general also oversaw NATO peacekeeping efforts in Bosnia.</p><div>July 13, 2021</div></div></div></div>
+<a><h2>Stuart Freudberg, executive at Metropolitan Washington Council of Governments, dies at 67</h2></a>
+<p>He spearheaded the agency’s efforts for cleaner water in the Potomac and Anacostia rivers.</p>
+<div><div><div><ul><li><a>Obituaries</a></li></ul><a><h2>Robert L. Smith, who led Sidwell Friends School, dies at 96</h2></a><p>He served as headmaster of the elite private school from 1965 to 1978.</p><div>May 30, 2021</div></div></div></div>
+<div><div><div><ul><li><a>Obituaries</a></li></ul><a><h2>Frank Schlesinger, architect who helped revive Pennsylvania Avenue, dies at 95</h2></a><p>He designed dozens of commercial and residential buildings.</p><div>April 30, 2021</div></div></div></div>
+<div><div><h1>Coronavirus</h1></div></div>
+<div>(Eva Marie Uzcategui/Bloomberg)</div>
+<div><h2><a>Covid-19 live updates: U.S. approaches new records as experts debate which numbers are most important </a></h2></div>
+<li>Supreme Court is set to review Biden’s vaccine rules for businesses, health-care workers. </li>
+<li>United States hurtles toward new pandemic records as experts debate which numbers are most important</li>
+<div><div><div><div><a>Opinion</a></div><div><h2><a>With omicron, let’s not fight the last war</a></h2></div><div>The post-pandemic future has arrived – if we are willing to accept it.</div><div>By Fareed Zakaria</div></div></div></div>
+<div><h2><a>Washington region officials open more coronavirus testing centers as hospitals stagger under demand</a></h2></div>
+<div>Leaders asked residents not to visit already-stressed hospital emergency rooms if they are seeking a coronavirus test or only experiencing mild symptoms.</div>
+<div>By Michael Brice-Saddler, <a>Erin Cox</a> and <a>Antonio Olivo</a></div>
+<div><div><div><div><h2><a>In the nation’s hospitals, this covid wave is different</a></h2></div><div>By Dan Diamond, Fenit Nirappil and <a>Dan Keating</a></div></div></div></div>
+<div><div><div><div><h2><a>Video game expo E3 cancels in-person event, citing enduring covid-19 fears</a></h2></div><div>By <a>Mike Hume</a></div></div></div></div>
+<div><div><div><div><a>Opinion</a></div><div><h2><a>Omicron is not a reason to keep schools closed</a></h2></div><div>By Leana S. Wen</div></div></div></div>
+<div><div><div><div><h2><a>Former Biden advisers call for ‘new’ covid strategy</a></h2></div><div>By <a>Dan Diamond</a></div></div></div></div>
+<div><div><div><div><h2><a>South Africa tourism was just starting to rebound. Then omicron arrived. </a></h2></div><div>By Noxolo Kapela</div></div></div></div>
+<div><div><div>Monitoring the Pandemic</div></div></div>
+<div><div><a>The Omicron Variant</a></div></div>
+<div><div><div><div><h2><a>At-home covid tests and omicron: What you need to know</a></h2></div></div></div></div>
+<div><div><div><div><a>Analysis</a></div><div><h2><a>Forecasters say omicron peak could come this month</a></h2></div></div></div></div>
+<div><div>More on Vaccinations</div></div>
+<div><div><div><div><h2><a>Mixing coronavirus vaccines? What you need to know about mix-and-match booster shots.</a></h2></div></div></div></div>
+<div><div><div><div><h2><a>What you need to know about the coronavirus vaccine for kids ages 5 to 11</a></h2></div></div></div></div>
+<div><div><a>Navigating Your Life</a></div></div>
+<div><h2>You asked: I’m unvaccinated and immunocompromised. How can I travel safely? </h2></div>
+<div>This week’s By The Way Concierge gets advice for an immunocompromised traveler during the omicron surge.</div>
+<div>By Natalie B. Compton</div>
+<div><h2><a>National parks and forests bring back reservation systems to control crowds</a></h2></div>
+<div>Floods of visitors during the pandemic have forced national parks and forests to institute crowd-control measures, such as day passes and timed entry.</div>
+<div><div>Don’t Miss</div></div>
+<div><div><div><div><h2>The pandemic has caused nearly two years of collective trauma. Many people are near a breaking point.</h2></div><div>By Marisa Iati</div></div></div></div>
+<div><div><div><div><h2><a>Understanding omicron’s many mutations</a></h2></div><div>By <a>Bonnie Berkowitz</a> and <a>Aaron Steckelberg</a></div></div></div></div>
+<div><div><div><div><h2><a>With coronavirus variants, the world is learning the Greek alphabet, one grim letter at a time</a></h2></div><div>By Chico Harlan</div></div></div></div>
+<div><div><div><div><h2><a>Questions to ask your relatives before gathering indoors this holiday season</a></h2></div><div>By Deborah Lynn Blumberg</div></div></div></div>
+<div><div><div><div><h2><a>How fast the omicron variant is spreading in the world</a></h2></div></div></div></div>
+<div><div><div><div><h2><a>What to know about the omicron variant of the coronavirus</a></h2></div></div></div></div>
+<div><div><div><div><h2><a>Should my child get a coronavirus vaccine? Is it safe? Here’s what you should know.</a></h2></div></div></div></div>
+<div><div><div><div><h2><a>What is ‘flurona’? Coronavirus and influenza co-infections reported as omicron surges.</a></h2></div></div></div></div>
+<div><div><div><div><h2><a>Should you add a throat swab to your at-home covid test? Experts disagree.</a></h2></div></div></div></div>
+<div><div><div><div><h2><a>‘Rules are rules’: Australia cancels Novak Djokovic’s visa amid vaccine exemption uproar</a></h2></div></div></div></div>
+<div><div><div><div><h2><a>Supreme Court is set to review Biden’s vaccine rules for businesses, health-care workers. Here’s what to know.</a></h2></div></div></div></div>
+<div><div><div><div><h2><a>Novak Djokovic thought he’d aced Australian immigration. It now looks like a fault.</a></h2></div></div></div></div>
+<div><div><div><div><h2><a>Tales of anguish emerge from China’s locked-down Xian, as hospital staffers are fired over woman’s treatment</a></h2></div></div></div></div>
+<div><h1>As U.S. pushes a shift toward electric cars, where should the chargers go?</h1></div>
+<h2>The Biden administration sees the plug-in network as critical groundwork for cutting carbon emissions.</h2>
+<div><div><span><div><span><div><div>By Michael Laris</div></div></span></div></span></div><div>December 29, 2021 at 6:00 a.m. EST</div></div>
+<div><div><p>Depeswar Doley has come up with a quip for the confused, and sometimes irked, drivers who stop by his longtime gas station while trying to buy gas.</p></div></div>
+<div><p>Compared with a new bridge or long-needed transit connection, the infrastructure enabling electric cars receives little attention, but the Biden administration sees the plug-in network as critical groundwork for cutting carbon emissions.</p></div>
+<div><p>White House details push to make electric vehicle chargers ‘ubiquitous’</p></div>
+<div><div><p>“You cannot separate transportation from energy when it comes to the electric-vehicle future of this country,” Buttigieg said.</p></div></div>
+<div><div><p>The administration’s goal is 500,000 new chargers, with an emphasis on disadvantaged and rural areas, as well as efforts to improve local air quality and promote equity.</p></div></div>
+<div><div><p>“In the early days, you will see gas stations with both types of fueling operations,” Granholm said, adding that more stations like Doley’s will convert to electric-only as the U.S. fleet goes electric.</p></div></div>
+<div><div><p>Doley makes more money fixing cars than charging them, and he has told his mechanics they should prepare for a future when electric vehicles, which are cheaper to maintain, are ubiquitous. But it will be a while, he said.</p></div></div>
+<div><div><p>“Fossil fuels are not going to disappear that fast,” Doley said. “I have a feeling another 20, 25 years, they’re still going to be around.”</p></div></div>
+<div><p>Biden calls for half of new cars to be electric or plug-in hybrids by 2030</p></div>
+<div><p>“Some places it’s already profitable to put in chargers. Some places it’s not. But we need to make sure that we have a full network, and that’s where policy can make all the difference,” Buttigieg said.</p></div>
+<div><div><p>To boost those numbers, the administration backed $12,500 incentives for electric-car buyers as part of a climate and social policy bill, although that far-reaching budget legislation has stalled.</p></div></div>
+<div><p>In Maryland, where Vice President Harris traveled in December to push electrification efforts, transportation officials said they expect to receive about $63 million from the infrastructure bill for charging and other fueling initiatives.</p></div>
+<div><div><p>Virginia expects to receive about $100 million to “address a key concern of drivers about EVs — availability of places to charge vehicles,” according to a statement from the office of Gov. Ralph Northam (D).</p></div></div>
+<div><p>Infrastructure deal pares back highway removal plan but cracks open door to greener transportation system</p></div>
+<div><div><p>As federal and state officials shape charging plans, outside experts say a key goal should be guaranteeing federally subsidized chargers are placed where they will bring the broadest social benefit.</p></div></div>
+<a>metrics </a>such as income and air quality, not just the density of chargers along busy highways.
+<div><div><p>Done the wrong way, “subsidies can just accelerate the way things were going to go,” Schewel said, which would mean putting too much focus on busy locations used by early adopters.</p></div></div>
+<h3>Transportation, infrastructure and the pandemic</h3>
+<p><b>I-95 closure:</b> <a>Traffic blocked on snowy I-95 in Virginia for hours after drivers were stranded overnight</a></p>
+<p><b>Air travel:</b> <a>More than 18,000 flights canceled since Christmas Eve as omicron, weather hamper operations</a></p>
+<p><b>Purple Line:</b> <a>Along the Purple Line, worries that new transit will bring higher rents</a></p>
+<p><b>Transit: </b><a>Metro safety commission orders cars out of service, saying agency didn’t follow terms of plan</a></p>
+<p><b>Electric vehicles:</b> <a>As U.S. pushes a shift toward electric cars, where should the chargers go?</a></p>
+<header><div/><div><div><a>Local</a></div></div><div><h1>D.C. students will get free pads and tampons in school bathrooms</h1></div></header>
+<div><div><span><div><span><div><div>By Julie Zauzmer Weil</div></div></span></div></span></div><div>January 4, 2022 at 4:24 p.m. EST</div></div>
+<div><div><p>D.C. students will have access to free pads and tampons in school bathrooms, under legislation approved Tuesday by the D.C. Council.</p></div></div>
+<div><div><p>Each elementary school in the city will also be required to make period products available in at least one school bathroom, as well.</p></div></div>
+<div><p>The bill specifies that any middle or high school that does not have any non-gender-specific restrooms must also make period products available in one boys’ room in the school, so that transgender students can access them as needed.</p></div>
+<header><div><div>Capital Weather Gang</div></div><div><h1>D.C.-area forecast: Raw and colder today with some wet snowflakes possible</h1></div><h2>Lots of chances of rain this week. It will be generally mild after today.</h2></header>
+<div><div><span><div><span><div><div>By Jason Samenow</div></div></span></div></span></div><div>December 27, 2021 at 5:00 a.m. EST</div></div>
+<div><div><div><div> Radar courtesy MyRadar | © OpenStreetMap contributors</div> </div></div></div>
+<div><div><h3><div>Today’s daily digit</div></h3></div></div>
+<div><div><p>A somewhat subjective rating of the day’s weather, on a scale of 0 to 10.</p></div></div>
+<div><div><p><b>4/10:</b> Yes, we need whatever precipitation we can get, but it’s a raw and gray day on balance.</p></div></div>
+<div><div><h3><div>Express forecast</div></h3></div></div>
+<li><span><b>Today:</b> Morning rain/wintry mix. Cloudy afternoon. Highs: 40 to 45.</span></li>
+<li><span><b>Tonight:</b> Mostly cloudy. Lows: 35 to 40.</span></li>
+<li><span><b>Tomorrow:</b> Mostly cloudy, chance of rain late. Highs: Near 50.</span></li>
+<div><div><h3><div>Forecast in detail</div></h3></div></div>
+<div><div><p><b>Tonight:</b> Skies are mostly cloudy, with temperatures only sliding back modestly as lows settle between 35 and 40. Confidence: Medium-High</p></div></div>
+<div><div><p><b>Tomorrow (Tuesday):</b> Mostly cloudy and a bit milder than Monday with highs close to 50. We can’t rule out some showers as the afternoon wears on, mainly in our western areas. Light winds. Confidence: Medium-High</p></div></div>
+<div><div><p><b>Tomorrow night:</b> A few showers are a good bet but probably don’t amount to much. Temperatures don’t fall much, with lows 40 to 45. Confidence: Medium-High</p></div></div>
+<div><div><h3><div>A look ahead</div></h3></div></div>
+<div><div><a>Your Data and Privacy</a></div></div>
+<div><h1>You’re not paranoid to cover your webcam. But the cameras you can’t cover are scarier.</h1></div>
+<h2>Plastic sliders won’t solve the privacy problems of the future.</h2>
+<div><div><span><div><span><div><div>By Tatum Hunter</div></div></span></div></span></div><div>November 30, 2021 at 8:00 a.m. EST</div></div>
+<div><div><p>John Goncalves is a bit of a maverick. Unlike most everyone he knows, he doesn’t cover the tiny webcam at the top of his laptop screen with a plastic slider or piece of tape.</p></div></div>
+<p>“Everybody tells you, ‘Cover your webcam — people could be watching you.’ But I’m thinking to myself, like, why would somebody want to watch me?” said Goncalves, a 19-year-old student on a gap year in Toronto.</p>
+<div><div>Help Desk: Technology coverage that makes tech work for you</div></div>
+<i>,” </i>said Asaf Ashkenazi, chief operating officer
+<b> </b>of the security company Verimatrix.
+<div><p>Here are all the ways your boss can legally monitor you</p></div>
+<div><div><h3><div>How bad actors access webcams and other cameras</div></h3></div></div>
+<a>sold spyware</a> that could compromise iPhones and other Apple devices to foreign governments, which used it to surveil journalists, government officials and activists.
+<div><p>Apple sues Israeli spyware maker NSO over its Pegasus spyware</p></div>
+<a>may use software</a> that lets it access your webcam. Companies generally aren’t using that capability to watch you at home, Ashkenazi said, but that doesn’t mean a one-off creep in the IT department can’t do it.
+<div><div><h3><div>Why your webcam sticker isn’t enough</div></h3></div></div>
+<div><div><p>Camera covers shut down snooping before it can happen. But they’re not a permanent fix — especially as it becomes harder to know when we’re on camera.</p></div></div>
+<b> </b>according to Pearlman. And that’s not to mention the
+<a>camera-enabled connected devices</a> springing up in our
+<div><p>Facebook glasses: Not overly ‘smart,’ maybe a little shady</p></div>
+<div><div><p>We’re heading toward an era of “constant reality capture,” she said, in which people and companies will be recording wherever we go. It raises privacy questions we haven’t yet tackled.</p></div></div>
+<div><div><p>For Pearlman, real privacy is a matter of context, control and choice: In what<b> </b>context<b> </b>am I willing to be recorded? What control do I get over the data that’s captured? And was I given a choice to opt out?</p></div></div>
+<div><div><p>Right now, companies make those types of privacy decisions, not consumers. In the future, that needs to change, Pearlman said.</p></div></div>
+<div><div><p>“I think we need to open, decentralize and make these decisions collectively so that billions of people don’t feel powerless when these choices are taken away,<i>” </i>she said.</p></div></div>
+<h3>Help Desk: Making tech work for you</h3>
+<p><a><b>Help Desk</b></a> is a new destination built for readers looking to better understand and take control of the technology used in everyday life. <a><b>Meet the Help Desk team</b></a>.</p>
+<p><b>Go deeper:</b> <a>Tech in Your Life</a> | <a>Tech at Work</a> | <a>Your Data and Privacy</a> | <a>Internet Access</a> | <a>What’s New</a> | <a>Ethical Issues</a></p>
+<a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the
+<b> </b>settings for the most popular (and problematic) services to give you recommendations.
+<p><b>Ask a question: </b><a>Send the Help Desk your personal technology questions</a>.</p>
+<div><div><div>MORE ON DATA AND PRIVACY</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><a>Tech in Your Life</a></div></div>
+<div><h1>Twitter has a confusing new policy on what images you can post. Here’s what you need to know. </h1></div>
+<h2>People aren’t allowed to post photos without consent — except sometimes, they are</h2>
+<div><div><span><div><span><div><div>By Tatum Hunter</div></div></span></div></span></div><div>December 1, 2021 at 7:00 a.m. EST</div></div>
+<div><div><a>Help Desk: Technology coverage that makes tech work for you</a></div></div>
+<div><div><p>Speculation ran wild. Is it okay to share images of crowds at sporting events, people asked in replies to the announcement? What about videos of abusive behavior? And what exactly falls within the public interest?</p></div></div>
+<a>stepped down</a> this week after years of decreasing involvement in the company’s day-to-day operations, according to insiders.
+<a>New CEO Parag Agrawal</a> will lead the company as it
+<a>tests new products</a> and policies.
+<div><p>In a surprise tweet, Twitter CEO Jack Dorsey said he’s stepping down</p></div>
+<b> </b>expansion of Twitter’s private information policy — which prohibits posting private information such as phone numbers and addresses without permission — made some people angry. But mostly it just made everyone confused.
+<p>“This policy is not very clear. We don’t know what is okay and what isn’t okay,” Sterling said. “This is clearly a test run that they’re doing, but it’s not a test run that they really thought out.”</p>
+<div><div><p>Here’s what we know about the policy so far.</p></div></div>
+<div><div><p>No. In this case, consent will be implied unless that person or someone authorized to act on their behalf reports the photo or video, according to Twitter.</p></div></div>
+<div><div><h3><div>When does Twitter say it will leave up photos and videos without the subject’s consent?</div></h3></div></div>
+<div><div><h3><div>Will Twitter take down videos of police officers on duty?</div></h3></div></div>
+<div><div><h3><div>Can I share images of abuse or harassment without the alleged perpetrator’s consent?</div></h3></div></div>
+<div><div><p>Kennedy said abuse and harassment are considered newsworthy, so images of alleged abusers or harassers would not be taken down.</p></div></div>
+<div><div><h3><div>Can I share screenshots of private conversations?</div></h3></div></div>
+<div><div><p>Yes, unless they contain private information such as phone numbers, physical addresses or email addresses.</p></div></div>
+<div><div><h3><div>Can I share images of protesters?</div></h3></div></div>
+<div><div><h3><div>Is sharing someone’s contact information without their consent always against the rules?</div></h3></div></div>
+<p>No. If that information is available publicly online, Twitter no longer considers it private information. Physical addresses, biometric information, financial information and identification documents are exceptions to this, the company says.</p>
+<div><div><h3><div>What happens to people who violate the policy?</div></h3></div></div>
+<div><div><h3><div>How do I report a photo or video I don’t want to be shared?</div></h3></div></div>
+<div><div><p>You can report someone who is posting your private information <a>using this form</a>.</p></div></div>
+<div><p>‘YouTube magic dust’: How America’s second-largest social platform ducks controversies</p></div>
+<h3>Help Desk: Making tech work for you</h3>
+<p><a><b>Help Desk</b></a> is a new destination built for readers looking to better understand and take control of the technology used in everyday life. <a><b>Meet the Help Desk team</b></a>.</p>
+<p><b>Go deeper:</b> <a>Tech in Your Life</a> | <a>Tech at Work</a> | <a>Your Data and Privacy</a> | <a>Internet Access</a> | <a>What’s New</a> | <a>Ethical Issues</a></p>
+<a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the
+<b> </b>settings for the most popular (and problematic) services to give you recommendations.
+<p><b>Ask a question: </b><a>Send the Help Desk your personal technology questions</a>.</p>
+<div><div><div>MORE TECH IN YOUR LIFE</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><a>Tech in Your Life</a></div></div>
+<div><h1>Planning to gift yourself some gadgets? Consider these sustainable shopping alternatives</h1></div>
+<h2>Grover and Back Market are committed to giving the tech we use multiple lives.</h2>
+<div><div><span><div><span><div><div>By Chris Velazco</div></div></span></div></span></div><div>December 8, 2021 at 8:00 a.m. EST</div></div>
+<div><div><p>If you’ve already started your holiday shopping, there’s a pretty good chance there are at least a few gadgets on your list. And at least a few of them are probably for you.</p></div></div>
+<div><p>A report published by the Consumer Technology Association last month predicted that Americans would spend $142.5 billion on tech this holiday season, mostly as gifts for themselves. (Loved ones like spouses were a close second.)</p></div>
+<div><div><a>Help Desk: Technology coverage that makes tech work for you</a></div></div>
+<div><p>When you figure how many personal electronic devices <a>wind up in landfills</a>, these more sustainable ways of buying tech start to sound a little more appealing. Here’s what you should know about how these services work.</p></div>
+<div><p>Tell The Post: What is the best last minute gift you have ever given?</p></div>
+<div><div><h3><div>Rent and return</div></h3></div></div>
+<div><div><p>There are some people — myself included — who fall for the newest, flashiest gadgets, but ultimately don’t wind up using them frequently. For them, Grover might be a viable option.</p></div></div>
+<div><div><p>If you eventually hold onto those products long enough to have paid full price for them, Grover asks you to pay one additional dollar as a symbolic gesture that grants you ownership. But that’s not really the point.</p></div></div>
+<div><div><h3><div>Buying used gadgets</div></h3></div></div>
+<div><div><p>Of course, not all repair shops are equally trustworthy.</p></div></div>
+<div><div>The Technology 202<div><div>Analysis</div><div>Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events</div></div></div></div>
+<div><div><p>A newsletter briefing on the intersection of technology and politics.</p></div></div>
+<div><h1>Big Tech critics mustered their forces in 2021</h1></div>
+<div><p>A newsletter briefing on the intersection of technology and politics.</p></div>
+<div><div><div><span><div><span><div><div>By Cristiano Lima</div></div></span></div></span><p>with research by Aaron Schaffer</p></div></div><div>December 16, 2021 at 9:12 a.m. EST</div></div>
+<p>Welcome to the last Technology 202 of 2021! It’s hard to believe I’m nearing 80 editions since joining you in August. Thanks so much to all of you who have read and subscribed. We wish you the happiest of holiday seasons. </p>
+<div><div><p>Below, we give you our year-in-review and preview looming battles. First, I wanted to highlight some of our favorite newsletter editions from the past few months:</p></div></div>
+<li>On Aug. 17, we broke down how the Taliban takeover of Afghanistan posed a unique challenge for social media companies.</li>
+<li>On Oct. 21, we analyzed the major disparities in which tech companies get hauled in to testify on Capitol Hill.</li>
+<li>On Oct. 26, we showed in our own Facebook Papers investigation what the company knew about the risks of microtargeting.</li>
+<li>On Nov. 9, we dove into why Parler and Gettr are finding a budding fan base among Brazil's far-right.</li>
+<li>On Nov. 18, we highlighted why senators mispronouncing nominees' names is becoming more glaring as the government diversifies.</li>
+<div><div><p>There's much more to come in 2022. Now back to your regularly scheduled programming.</p></div></div>
+<div><div><h4><div>Big Tech critics mustered their forces in 2021</div></h4></div></div>
+<div><div><p>Here are the six key moments that shaped digital policymaking in 2021 — and how they set the stage for more high-stakes skirmishes on the horizon:</p></div></div>
+<div><div><h4><div>Jan. 6 posed an unprecedented test for social media</div></h4></div></div>
+<div><div><h4><div>Biden’s FTC, DOJ picks foreshadow tougher tech enforcement</div></h4></div></div>
+<div><div><p>Yet while Biden went big with his picks in 2021, their plans to rein in industry giants are likely just beginning. </p></div></div>
+<div><div><h4><div>Lawmakers’ antitrust push gained steam but has a long way to go</div></h4></div></div>
+<div><div><p>“Moving forward, it remains an open question if Congress will be able to cohere around legislation, despite bipartisan agreement on the need to rein in Big Tech,” Weissman said.</p></div></div>
+<div><div><h4><div>Congress made a huge investment in broadband, but big hurdles remain</div></h4></div></div>
+<div><div><p>After months of negotiations, President Biden in November signed into law a major infrastructure package that set aside billions to build out the nation’s digital infrastructure and boost Internet access nationwide. </p></div></div>
+<div><div><p>But as my colleague Cat Zakrzewski reported, outdated federal maps showing who actually needs more funding stand in the way of turning those ambitions into improved connectivity.</p></div></div>
+<div><div><h4><div>Europe paved the way for its massive new tech proposals</div></h4></div></div>
+<div><div><p>“Europe has cemented its leading role driving the tech policy agenda,” said Givens.</p></div></div>
+<div><div><h4><div>Whistleblower’s disclosures prompt ire, but so far not much else</div></h4></div></div>
+<div><div><p>Weissman said her disclosures “showed not only the severity of harms inflicted by Facebook, but the corporation’s awareness of those harms and intentional decisions not to mitigate them.”</p></div></div>
+<div><div><p>Yet with little legislative or regulatory action to show for it so far, like much of the activity that began or gained momentum in 2021, we may just be seeing the tip of the iceberg.</p></div></div>
+<div><div><h3><div>Our top tabs</div></h3></div></div>
+<div><div><h4><div>Biden administration officials fear U.S. investment in Chinese companies is harming national security</div></h4></div></div>
+<div><div><p>The White House has held cabinet-level meetings to discuss the issue but hasn't developed a specific proposal, said officials who spoke on the condition of anonymity to discuss internal deliberations.</p></div></div>
+<div><div><h4><div>Google continues to make money off climate denial despite promises to stop ads</div></h4></div></div>
+<div><div><h4><div>European lawmakers advanced legislation targeting Big Tech</div></h4></div></div>
+<div><div><h3><div>Rant and rave</div></h3></div></div>
+<div><div><p>There’s a new portrayer of Theranos founder Elizabeth Holmes — actress Amanda Seyfried, who is starring in Hulu’s “The Dropout.” Stand-up comic and television host W. Kamau Bell:</p></div></div>
+<div><div><p>The Wall Street Journal’s Eliot Brown:</p></div></div>
+<div><div><p>Entertainment Tonight’s Stacy Lambe:</p></div></div>
+<div><div><h3><div>Inside the industry</div></h3></div></div>
+<div><div><p>Zoom has joined tech industry counterterrorism group (Reuters)</p></div></div>
+<div><div><p>Misinformation has already made its way to the Metaverse (Bloomberg)</p></div></div>
+<div><div><h3><div>Agency scanner</div></h3></div></div>
+<div><div><p>Biden’s ambitious broadband funding has a key impediment: an outdated map of who needs it (Cat Zakrzewski and Chris Alcantara)</p></div></div>
+<div><div><p>The feds want to make it easier for tech workers to blow the whistle (Protocol)</p></div></div>
+<div><div><h3><div>Workforce report</div></h3></div></div>
+<div><div><p>Anguish and gratitude as tornado slashed through Amazon warehouse (Jeanne Whalen and Rachel Lerman)</p></div></div>
+<div><div><h3><div>Trending</div></h3></div></div>
+<div><div><p>Amazon Ring patents describe a dystopian future where networks of cameras identify 'suspicious' people by recognizing their faces, retinas, skin texture, gait, voice, and even odor (Insider)</p></div></div>
+<div><div><h3><div>Daybook</div></h3></div></div>
+<li>The Center for Democracy and Technology and the Charles Koch Institute host the fifth annual Future of Speech Online event today.</li>
+<li>Commerce Secretary Gina Raimondo, Energy Secretary Jennifer Granholm and Sen. Amy Klobuchar (D-Minn.) speak at the 2021 National Competitiveness Forum, which begins at 1 p.m. today.</li>
+<div><div><h3><div>Before you log off</div></h3></div></div>
+<div><div><a>Tech Policy</a></div></div>
+<div><h1>‘Baby steps’ won’t fix Instagram, lawmakers say in first hearing with social network head</h1></div>
+<h2>‘It’s not an industry body that is going to set these standards,’ Sen. Marsha Blackburn told reporters at the hearing. ‘It is going to be the U.S. Congress.’</h2>
+<div><span><div><span><div>By Cat Zakrzewski</div>,</span></div><div><span><div>Cristiano Lima</div> and </span></div><div><span><div>Will Oremus</div></span></div></span></div>
+<b> </b>came armed for the hearing with a series of proposals to respond to criticism. He
+<div><div><p>Yet this did little to appease lawmakers, who near universally expressed a strong desire to regulate the company, with several casting doubt on the idea of an industry-led body in particular.</p></div></div>
+<div><div><p>“It’s not an industry body that is going to set these standards,” Blackburn told reporters at the hearing. “It is going to be the U.S. Congress.”</p></div></div>
+<div><div><p>Blackburn said she and her constituents were growing “frustrated” with the company.</p></div></div>
+<div><div><p>“The conversation continues to repeat itself ad nauseam,” she said. “They continue to hear from you that change is coming. … But guess what, nothing changes. Nothing.”</p></div></div>
+<b> </b>The hearing is part of a broader Senate probe into youth safety online, including previous hearings with executives from TikTok and YouTube.
+<div><div><p>Blumenthal told reporters Wednesday that his panel may still seek additional testimony from Meta and its subsidiaries as part of its investigation into children’s online safety.</p></div></div>
+<div><div><p>“We’re not done yet here. My guess is we’re going to hear potentially from former Facebook employees,” Blumenthal said, though he declined to name any potential witnesses.</p></div></div>
+<div><p>A whistleblower’s power: Key takeaways from the Facebook Papers</p></div>
+<div><div><p>Many lawmakers dismissed these commitments as a public relations stunt in the face of potential political blowback.</p></div></div>
+<a>make body image issues worse</a> for vulnerable teen girls, the company has repeatedly emphasized that the same research shows Instagram also made
+<a>many of its young users feel better</a> when they were struggling with issues such as depression, anxiety and loneliness.
+<div><div><p>Blackburn appeared unmoved by the address. “We are asking you have some empathy and take some responsibility. It seems as if you just can’t get on that path,” Blackburn said.</p></div></div>
+<div><div><div>MORE TOP STORIES</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><a>Innovations</a></div></div>
+<div><h1>A Utah company says it revolutionized truth-telling technology. Experts are highly skeptical.</h1></div>
+<h2>Is the ocular product EyeDetect a leap ahead of the polygraph? Or just the same dubiousness in a more high-tech box? </h2>
+<div><div><span><div><span><div><div>By Steven Zeitchik</div></div></span></div></span></div><div>November 15, 2021|Updated November 15, 2021 at 5:41 p.m. EST</div></div>
+<div><div><p>The judge agreed, and five of the 12 jurors wound up voting not to convict. A mistrial was declared.</p></div></div>
+<div><div><p>Its critics, however, say the EyeDetect is just the polygraph in more algorithmic clothing. The machine is fundamentally unable to deliver on its claims, they argue, because human truth-telling is too subtle for any data set.</p></div></div>
+<div><div><p>And they worry that relying on it can lead to tragic outcomes, like punishing the innocent or providing a cloak for the guilty.</p></div></div>
+<div><div><p>EyeDetect raises a question that draws all the way back to the Garden of Eden: Are humans so wired to tell the truth we’ll give ourselves away when we don’t?</p></div></div>
+<div><div><p>And to a more 21st-century query: Can modern technology come up with the tools to detect those tells?</p></div></div>
+<div><div><p>An EyeDetect test has a subject placed in front of a monitor with a digital camera and, as with the polygraph, lobbed generically true-false queries like “have you ever hurt anybody” to establish a baseline.</p></div></div>
+<div><div><p>But experts say such logic may not have much basis in science.</p></div></div>
+<div><div><p>Like most renowned experts, he has not reviewed EyeDetect’s research specifically. But, he says, “I don’t know of any evidence that eye movements are linked to deception.”</p></div></div>
+<div><div><p>When it comes to the polygraph, experts have a long history of declaring failure.</p></div></div>
+<a>denied </a>federal criminal defendants had a constitutional right to them.
+<p>“It’s the imprimatur that’s the issue. We tend to believe that where there’s science involved it’s reliable,” said Laurie Levenson, a law professor at Loyola Marymount University, who has studied the issue.</p>
+<div><div><p>She said she was concerned that people wouldn’t get clearances for jobs or would otherwise be held accountable for things they did not do because of false positives. She noted it also could help the guilty get away.</p></div></div>
+<a>functional MRI</a>, which posited that blood flow to the brain could hold the key to truth detection, enjoyed a period of buzz. But the device largely
+<a>did not meet scientific standards, </a>and cost and intensiveness further inhibited broad adoption.
+<a>P300 guilty-knowledge test</a> championed by the longtime Northwestern University professor
+<a>Peter Rosenfeld,</a> who asserted that the future of truth detection lay in brain waves, gained some enthusiasm from the scientific community. It was the subject of
+<a>more than a dozen outside journal articles</a>, many encouraging, and has won the tentative support of
+<a>Henry Greely,</a> a Stanford Law School professor who is one of the leading experts on technology and the law. Among other advantages, it involves an EEG, which is fairly cheap and easy to use.
+<a>died</a> last winter without the method catching on. The work is continued by his lab, which has done much of the research on the P300, and can count respected legal minds like
+<a>John Meixner,</a> an assistant U.S. attorney in Michigan, as past researchers and proteges of Rosenfeld’s.
+<div><p>On a recent afternoon, Mickelsen sat in his office in the technology corridor of Lehi, Utah, and, over Zoom, coolly screen-shared a series of graphs and charts to make the case why EyeDetect is different from failed past technologies.</p></div>
+<b> </b>The rate at which the machine will then correctly predict a person’s truth-telling status — Converus researchers already know the right answer for each subject —
+<b> </b>is between 83 percent and 87 percent, according to the test results, the company says.
+<div><div><p>EyeDetect has won its supporters in the field. Law-enforcement customers laud the system as smoother than a traditional polygraph.</p></div></div>
+<div><div><p>Stanford’s Greely says EyeDetect doesn’t dislodge his broader skepticism about truth-telling tech, either.</p></div></div>
+<div><div><p>“I see no reason to believe that this works well or, really, at all,” he said in an email. “Show me large, well-designed impartial studies and I’ll be interested.”</p></div></div>
+<div><div><p>He also noted a lack of published research by people not affiliated with Kircher or his lab.</p></div></div>
+<div><div><p>Kircher says the Defense Department is currently conducting a study of ocular technologies that he hopes will conclude by the summer. A Pentagon spokesman did not reply to a request for comment.</p></div></div>
+<div><div><p>He said studies showed juries do not overly rely on these technologies, but instead include them as one factor among many.</p></div></div>
+<div><div><p>Still, the odds of this moving from realms like hiring to mainstream courtrooms are slim. Plato said the eye is the window to the soul. He was silent on whether it was a ticket out of jail.</p></div></div>
+<div><div><div>MORE TOP STORIES</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><a>Innovations</a></div></div>
+<div><h1>All this money pouring into infrastructure should be a boon for high-speed rail, right? Not so fast.</h1></div>
+<h2>With many projects underway, the transit innovation’s time could come. It just will be a bumpy road to get there.</h2>
+<div><div><span><div><span><div><div>By Steven Zeitchik</div></div></span></div></span></div><div>November 18, 2021|Updated November 19, 2021 at 11:26 a.m. EST</div></div>
+<div><div><p>On the surface, the federal government’s newfound commitment to infrastructure would seem like a boost for that grand elusive transit innovation of our time: high-speed rail.</p></div></div>
+<a>benighted Los Angeles-San Francisco high-speed line</a>, or the
+<a>stalled Texas bullet, </a>or even the in-progress One Florida dream of a
+<a>Miami-Orlando-Tampa route.</a>
+<div><div><p>It won’t.</p></div></div>
+<div><div><p>“This package is not the silver bullet for the bullet,” said Colleen Callahan, deputy director of UCLA’s <a>Luskin Center for Innovation.</a> “We won’t see much of it go to high-speed rail.”</p></div></div>
+<a>slightly</a> brisker Northeast Acela route. But given how many
+<a>problems on its traditional lines need addressing</a> — and that owning the tracks is what allows you to jet down them in the first place — no one is banking on it.
+<div><div><p>The move is a blow to those with plans to overhaul American mobility. But with a slew of projects underway around the country, that doesn’t mean it won’t ultimately happen — it just will be a very long battle.</p></div></div>
+<p>“High-speed rail is a chance to write a new history for America,” Andy Kunz, leader of the U.S. High Speed Rail Association, a D.C. trade group, said in an interview Wednesday, his enthusiasm undulled by the lack of fresh dollars.</p>
+<i>autonomous</i> trains capable of hitting 200 mph. And in Europe, Spain has tricked out its high-speed rail with
+<a>the latest in automated signaling</a> so that train cars can communicate with each other as easily as
+<b> </b>two retirees at a diner.
+<p>Japan, which built the first bullet trains in the 1960s, is <a>now experimenting</a> with “Maglev” (magnetic levitation), a controversial but still intriguing tech in which trains top 350 mph with their wheels four inches in the air.</p>
+<div><div><p>American efforts, on the other hand, can’t get off the ground.</p></div></div>
+<div><div><p>In June, a version of the infrastructure bill actually had <a>an HSR clause</a> — $25 billion that could have jump-started a whole bunch of projects. But it didn’t survive the congressional back-and-forth.</p></div></div>
+<a>said</a> that in just 25 years more than three-quarters of Americans would have access to bullet trains. Unfortunately, that president was Barack Obama, and he said it in 2011.
+<div><div><p>Then there’s America’s greater decentralization — both in government oversight, creating a mess of approvals, and residential trends.</p></div></div>
+<a>wrote in April.</a> He cites a lack of useful freight on the tracks and the relative cost-efficiency of airplanes, though supporters point out HSR co-exists alongside sophisticated air travel in China and Western Europe.
+<a>sign a letter</a> calling for more funding.
+<div><div><p>But all of these members are Democrats; perhaps because of its green tech implications, high-speed rail is often partisan.</p></div></div>
+<a>talk </a>in the State Assembly that the route shouldn’t be high speed, which is like opening an In-N-Out and announcing you’ll only serve salad.
+<div><div><p>Still, there are reasons to believe HSR momentum is building. Supporters say the underlying logic of high-speed rail is not only sound but getting stronger in the age of climate activism.</p></div></div>
+<div><p>“High-speed rail promotes sustainable development with walkable downtown and urban communities that young people all over want,” Moulton said in an interview. “Single-occupancy vehicles promote the opposite.”</p></div>
+<div><div><p>Asked about an American romance with the automobile that might hold it back, Moulton said “That’s bulls---."</p></div></div>
+<div><div><p>“We never say ‘We love our cars so we won’t get in an aluminum tube 30,000 feet in the air,' ” he said.</p></div></div>
+<div><div><p>He noted consumer interest is strong enough that even private financiers want in — “not something you see with highways,” he said dryly.</p></div></div>
+<a>promised</a> 2 hours 40 minutes, it’s a lot better than six hours on a never-ending I-5.
+<a>mayoral history</a> of transit innovation, has been vocal on HSR: “I just don’t know why people in other countries ought to have better train service and more investment in high-speed train service than Americans,” he
+<a>told</a> a crowd at a Scranton, Pa., trolley museum that HSR “will take literally millions of automobiles off the road, saving tens of millions of barrels of oil … This is not hyperbole. This is a fact.” There’s a $10 billion
+<a>clause</a> for HSR in the current House version of the Build Back Better Act; if the clause makes it through and the bill passes, it would provide a huge boost to many projects.
+<div><div><p>But the biggest driving force may come from consumers. If just one of the active bullet projects opens and catches on, it could bring a flood of investment and imitators.</p></div></div>
+<div><div><p>“Nothing succeeds,” Smith said, “like success.”</p></div></div>
+<div><div><div>MORE TOP STORIES</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><a>The attack:</a></div><div>BEFORE</div><div>During</div><div>After</div></div>
+<div>Back to top of chapter</div>
+<div><div>60 minutes to go</div></div>
+<div><div>The Capitol is breached</div></div>
+<div><div>30 minutes in</div></div>
+<div><div>45 minutes in</div></div>
+<div><div>60 minutes in</div></div>
+<div><div>The second hour</div></div>
+<div><div>The final hours</div></div>
+<header><div><div><div>Before</div><div>During</div><div>After</div></div><h1>Red Flags</h1><h2>As Trump propelled his supporters to Washington, law enforcement agencies failed to heed mounting warnings about violence on Jan. 6.</h2></div></header>
+<div><div><div><div>Oct. 31, 2021</div></div></div></div>
+<b> </b>to formalize the electoral college vote, but federal law enforcement agencies did not seem to share his sense of urgency. On Saturday, Jan. 2, he picked up the phone and called his counterpart in San Francisco, waking Mike Sena before dawn.
+<p>Sena listened with alarm. The Northern California intelligence office he commanded had also been inundated with political threats flagged by social media companies, several involving plans to disrupt the joint session or hurt lawmakers on Jan. 6.</p>
+<div><span><div>Aaron C. Davis</div>, </span></div>
+<div><span><div>Rosalind S. Helderman</div>, </span></div>
+<div><span><div>Carol D. Leonnig</div>, </span></div>
+<div><span><div>Philip Rucker</div> and </span></div>
+<div><span><div>Craig Timberg</div></span></div>
+<div><span><div><span><div><div>Written by Aaron C. Davis</div></div></span></div></span></div>
+<div><span><div>Natalia Jiménez-Stuard</div>, </span></div>
+<div><span><div>Tyler Remmel</div> and </span></div>
+<div><span><div>Madison Walls</div></span></div>
+<div><div><div><span><b>Click or tap these icons </b> for additional background and sourcing.</span></div></div></div>
+<p>While the public may have been surprised by what happened on Jan. 6, the makings of the insurrection had been spotted at every level, from one side of the country to the other. The red flags were everywhere.</p>
+<li>Law enforcement officials did not respond with urgency to a cascade of warnings about violence on Jan. 6</li>
+<li>Pentagon leaders had acute fears about widespread violence, and some feared Trump could misuse the National Guard to remain in power</li>
+<li>The Capitol Police was disorganized and unprepared</li>
+<li>Trump’s election lies radicalized his supporters in real time</li>
+<div>View all key findings</div>
+<p>Intelligence officials certainly never envisioned a mass attack against the government incited by the sitting president.</p>
+<p>When that failed, he turned his focus to Jan. 6, historically a pro forma ritual by Congress.</p>
+<p>His words triggered rapid action by angry supporters who made plans to go to the nation’s capital, fusing together in a dangerous call-and-response.</p>
+<p>Come to Washington, Trump tweeted to his supporters on the Saturday before Christmas, issuing a clarion call for them to gather and protest on Jan. 6: “Be there, will be wild!”</p>
+<div><div><p>His supporters immediately responded on the pro-Trump forum TheDonald.win under a thread titled “TRUMP TWEET. DADDY SAYS BE IN DC ON JAN. 6TH.”</p><div>2</div></div></div>
+<p>Trump primed his base to view Pence as either a would-be hero or villain, depending on the path the vice president took.</p>
+<p>“I hope Mike Pence comes through for us,” he declared at a rally in Georgia two days before the joint session, adding: “If he doesn’t come through, I won’t like him as much.”</p>
+<p>Trump’s supporters not only knew where the president wanted them to gather on Jan. 6. They knew whom to target.</p>
+<p>Again and again, as the pivotal day approached, top law enforcement officials fielded warnings of what was to come, but failed to respond in kind.</p>
+<p>At the Pentagon, leaders had acute fears about widespread violence, and some feared Trump could misuse the National Guard to remain in power, new accounts reveal.</p>
+<p>DHS said in a statement that it is participating in ongoing investigations about the security failings and “leveraging lessons learned to enhance its ability to prevent future acts of violence.”</p>
+<p>Pentagon spokesman John Kirby said the Defense Department “continues to cooperate with the Congress as they examine the events of that day.”</p>
+<b> </b>bureau’s work leading up to Jan. 6 as proactive and aggressive. In interviews and statements, they insisted much of the alarming online chatter
+<b> </b>agents saw was largely “aspirational” and therefore protected First Amendment free speech — not the detailed evidence of planning needed to launch an investigation or foresee a mass attack on the Capitol.
+<p>In a statement, Trump spokesman Taylor Budowich disputed The Post’s investigation as “fake news” and falsely cast people who entered the Capitol that day as “agitators not associated with President Trump.”</p>
+<h3><div>102 days to go</div></h3>
+<p>The violent events of Jan. 6 had been months in the making.</p>
+<p>Trump’s first allusion to the notion that Congress could determine the winner of the presidential race came more than a month before voters went to the polls, on Sept. 26, at a rally outside Harrisburg, Pa.</p>
+<p>While the line didn’t register in Harrisburg, congressional Democrats in Washington took note.</p>
+<p>Trump’s remark in Pennsylvania confirmed Democratic suspicions. The next day, Pelosi sent a letter to her caucus revealing that a backup plan was already underway.</p>
+<p>“The Constitution says that a candidate must receive a majority of the state delegations to win,” Pelosi wrote. “We must achieve that majority of delegations or keep the Republicans from doing so.”</p>
+<p>Three days after the Harrisburg rally, Trump made a more menacing declaration at the first presidential debate.</p>
+<p>Biden pressed Trump to specifically condemn the Proud Boys, a far-right group known for street brawls with liberal protesters. When Wallace sought an answer, Trump said, "Proud Boys, stand back and stand by.”</p>
+<p>On Parler, the social media network popular with conservatives and hate groups, the leader of the Proud Boys, Enrique Tarrio, responded almost immediately:</p>
+<p>LEFT: Paul Hodgkins volunteers at a Trump rally in Tampa on Oct. 29, 2020. RIGHT: Leading up to Election Day, Hodgkins stood along busy intersections, waving Trump campaign flags. (Photos courtesy of Paul Hodgkins) </p>
+<p>As Trump made misleading and false claims warning about voter fraud, Hodgkins grew concerned. He had never heard of tactics like “vote harvesting” or seen so much voting by mail.</p>
+<p>“Previous elections we didn’t have that kind of thing go on,” he said.</p>

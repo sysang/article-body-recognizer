@@ -1,0 +1,500 @@
+<div> <ul> <li> <a>United Kingdom</a> </li> </ul> </div>
+<div> <ul> <li> <a>Austria</a> </li> </ul> </div>
+<div> <ul> <li> <a>Belgium</a> </li> </ul> </div>
+<div> <ul> <li> <a>Denmark</a> </li> </ul> </div>
+<div> <ul> <li> <a>France</a> </li> </ul> </div>
+<div> <ul> <li> <a>Ireland</a> </li> </ul> </div>
+<div> <ul> <li> <a>Spain</a> </li> </ul> </div>
+<div> <ul> <li> <a>Sweden</a> </li> </ul> </div>
+<div> <ul> <li> <a>Switzerland</a> </li> </ul> </div>
+<div> <div> <h4>South America</h4> <div> <div> <ul> <li> <a>Argentina</a> </li> </ul> </div> <div> <ul> <li> <a>Chile</a> </li> </ul> </div> <div> <ul> <li> <a>Colombia</a> </li> </ul> </div> </div> </div> </div>
+<div> <div> <h4>Africa</h4> <div> <div> <ul> <li> <a>South Africa</a> </li> </ul> </div> </div> </div> </div>
+<div> <h2><a>The New Loneliness</a></h2> </div>
+<div> <div> <div> <h4><a>Meaningful Connections</a></h4> </div> <div> <h4><a>Maladaptive Emotion Regulation</a></h4> </div> <div> <h4><a>How to Live With Homesickness</a></h4> </div> <div> <h4><a>Rebuilding Communities</a></h4> </div> </div> </div>
+<div> <h2>Today's Essential Reads Today's Essentials</h2> </div>
+<div> <h6><a>Loneliness</a></h6> </div>
+<h2><a>3 Resolutions to Combat the "Great Resignation"</a></h2>
+<p>Workers are continuing to leave their jobs. Here are three resolutions for managers hoping to improve the workplace.</p>
+<h2><a>5 Ways Children’s Genes Shape their Behavior</a></h2>
+<p>Why do kids do the amazing, crazy, ridiculous, frustrating, and adorable things that they do? The answer to that question can be found, partly, in their genes.</p>
+<h2><a>Is Love Best When It's Fresh? </a></h2>
+<p>The connection between love and time has always fascinated lovers, who ask themselves if their love will endure. The answer is complicated.</p>
+<h2><a>What to Do When Partners Want Different Amounts of Sex</a></h2>
+<p>Discrepant sexual desire is one of the most common reasons couples enter sex therapy. While distressing, research finds that much can be done to bridge the gap in healthy ways.</p>
+<li> <a>Why Misinformation Is Appealing</a> <div> <div>17 hours</div> </div></li>
+<li> <a>It Might Just Be the Time to Try Some Positivity</a> <div> <div>17 hours</div> </div></li>
+<li> <a>A Dark Genome Link to Schizophrenia and Bipolar Disorder</a> <div> <div>1 day</div> </div></li>
+<li> <a>How to Increase Self-Motivation</a> <div> <div>1 day</div> </div></li>
+<li> <a>How Physical Activity Safeguards Synapses as We Age</a> <div> <div>1 day</div> </div></li>
+<h2><a>Post-Infection Illness</a></h2>
+<p>Further attention should be placed on the aftermath of Covid illness. Post-Covid syndrome can cause chronic health challenges.</p>
+<div> <h6><a>Eating Disorders</a></h6> </div>
+<h2><a>When It Comes to Weight Loss, It’s Not Just Psychological</a></h2>
+<p>After years of promoting various diets, the weight loss industry claims that psychology can help people lose weight "for good." But is this approach just as misleading?</p>
+<div> <h6><a>Burnout</a></h6> </div>
+<h2><a>Covid Related Decision Fatigue, Hypervigilance, and Burnout</a></h2>
+<p>Omicron is hitting when our psychological reserves are low. Naming the difficulties can help us keep going and strengthen resilience.</p>
+<h2><a>Beyond New Year’s Resolutions: Power in Pursuit</a></h2>
+<p>Over New Year's Resolutions already? Tap a more motivating (and effective) approach with the power of pursuit.</p>
+<h2><a>How Men’s Mental Health Impacts Their Families</a></h2>
+<p>Men don't exist in a vacuum. Their mental health affects loved ones even when they try to bury their problems.</p>
+<h2><a>The Risks of Caring Too Much About Romantic Love</a></h2>
+<p>Our preoccupation with romantic love has some serious downsides. Life choices can become limited, and people can become depressed rather than blissful.</p>
+<h2><a>5 Symptoms of Repressed Anger</a></h2>
+<p>Repressed anger can lead to depression, paranoia, and passive-aggressive behavior. Unfortunately, many people are not aware of their own repressed anger. </p>
+<div> <h6><a>Intelligence</a></h6> </div>
+<h2><a>AI Helps Reduce Excessive Radiation for Cancer Patients</a></h2>
+<p>AI can identify HPV-attributed oropharyngeal cancer patients who require less aggressive radiation in order to achieve a favorable outcome. </p>
+<h2><a>Developing a Plan for Good Mental Health in 2022</a></h2>
+<p>Are you concerned about your mental health? Be proactive and use simple practices to be more hopeful and positive. </p>
+<div> <h6><a>Psychiatry</a></h6> </div>
+<h2><a>The Impact of Omega-3 on Mental Health</a></h2>
+<p>Can an anti-inflammatory diet slow the progression of psychosis in vulnerable patients?</p>
+<h2><a>5 Tips to Improve Online Dating</a></h2>
+<p>Online dating can feel like an endless cycle of frustration. Try these tips to help make the experience work better for you.</p>
+<h2><a>New Year’s Resolutions Are Notoriously Hard to Keep</a></h2>
+<p>Use the "five Ws" of journalism—who, what, why, where, and when—to help you understand what's influencing your behavior.</p>
+<h2><a>Opening the Peter Drucker Files</a></h2>
+<p>Learn about self-development from the work of Peter Drucker, the "father of modern management."</p>
+<h2><a>What’s the Best Way to Change?</a></h2>
+<p>Do you wish to change certain aspects of your life? Here's how to do it in a sustainable way.</p>
+<div> <div> <h2><a>How to Create Deeper Relationships</a></h2> </div> </div>
+<div> <div> <div> <div> <h4><a>Skills We Didn't Learn</a></h4> </div> <div> <h4><a>Get the Love You Want</a></h4> </div> <div> <h4><a>Don't Let Doubts Doom You</a></h4> </div> <div> <h4><a>Don't Just Survive, Thrive</a></h4> </div> </div> </div> </div>
+<div> <h6><a>Happiness</a></h6> </div>
+<h2><a>Why Legos Might Be the Key to Your Sanity During COVID</a></h2>
+<p>A key to sanity during this pandemic period is play—not just any play but play that is consistent with what you absolutely loved as a kid.</p>
+<h2><a>Schizophrenia or Traumatic Brain Injury? </a></h2>
+<p>Psychosis due to a brain injury or schizophrenia can often look the same. Here's how to know the difference. </p>
+<h2><a>18 Schemas That Change the Way You See the World</a></h2>
+<p>Your belief systems from childhood may adversely affect how you view the world and your relationships. Once identified, you can work to change these beliefs.</p>
+<h2><a>Self-Awareness and Setting Intentions</a></h2>
+<p>The beginning of a new year is a prime time to make a commitment to become more self-aware, as well as set intentions that are in line with our life's purpose.</p>
+<h2><a>Defeat the 3 Habits Trolling Your Health and Growth</a></h2>
+<p>Having a hard time making new habits stick? Addressing these three hidden "habit trolls" can help you get on track and stay there.</p>
+<h2><a>6 Tips for Happiness</a></h2>
+<p>In today’s world, many people get so focused on winning the proverbial rat race that they forget about the things that are truly important in life, especially happiness. </p>
+<div> <div> <div> <h6><a>Politics</a></h6> </div> <h2><a>Why Misinformation Is Appealing</a></h2> <p>By <a>Attitudes Persuasion Lab</a> on January 11, 2022 in <a>Change Your Mind</a></p> <p>People often prefer certainty over the truth.</p> </div> </div>
+<p>People often prefer certainty over the truth.</p>
+<h2><a>The Importance of Eating Together</a></h2>
+<p>Food allergies aren't just a nutritional issue—the damage to social well-being is just as consequential.</p>
+<h2><a>It Might Just Be the Time to Try Some Positivity</a></h2>
+<p>With the prevalence of so many stressful factors in life, it may be hard to see things in a positive light. New research shows why it’s worth giving that upbeat attitude a try.</p>
+<h2><a>How to Support Single Moms in College</a></h2>
+<p>Nearly 11 percent of U.S. college undergraduates today are single moms. A new pilot program seeks to redesign the college experience so more of them graduate.</p>
+<h2><a>Coach or Counselor: Which One Is Right for Me?</a></h2>
+<p>If you're ready for some help, but you aren't sure whether counseling or coaching is better for you right now, consider these distinctions and examples shared by experts.</p>
+<h2><a>2 Essentials for Parenting Through Chaos</a></h2>
+<p>Despite the almost unprecedented stress children and adolescents are experiencing now, they need what they have always needed: unconditional love and structure they can count on.</p>
+<h2><a>Ghislaine Maxwell and Jeffrey Epstein: Partners in Crime</a></h2>
+<p>The tactics Ghislaine Maxwell used to procure victims for convicted pedophile Jeffrey Epstein. </p>
+<p>Questions that may help you move forward after a setback.</p>
+<h2><a>Getting Stuck in Negative Emotions and Relationship Patterns</a></h2>
+<p>You are having another bad day. But why do you have to wake up tomorrow feeling the same way you did today? The truth is that you don’t. </p>
+<div> <h2>Meet Our Experts</h2> <h6>Our editors' current "Essential Reads"</h6> </div>
+<li> <div> <div><a><div>Mark Bolino Ph.D., author of The Thoughtful Manager</div></a></div> </div></li>
+<li> <div> <div><a><div>Danielle M. Dick, Ph.D., author of Genes, Environments, and Human Behavior</div></a></div> </div></li>
+<li> <div> <div><a><div>Aaron Ben-Zeév Ph.D., author of In the Name of Love</div></a></div> </div></li>
+<li> <div> <div><a><div>Justin J. Lehmiller Ph.D., author of The Myths of Sex</div></a></div> </div></li>
+<div> <div> <div> <div> <h2>The Author Speaks</h2> </div> <div> <div><a>See All Interviews</a></div> </div> </div> </div> </div>
+<div> <h2><a>Personal Perspectives</a></h2> </div>
+<li> <div> <div><div> <a> Communication Styles, Counseling, and Neurodiversity </a> </div> By Louise Taylor </div> </div></li>
+<li> <div> <div><div> Am I Perimenopausal? </div> By Erica Loberg </div> </div></li>
+<li> <div> <div><div> <a> Understanding Postpartum Mental Illnesses </a> </div> By Deborah Serani Psy.D. </div> </div></li>
+<li> <div> <div><div> Open to Outcomes, Not Attached to Them </div> By Mish Middelmann </div> </div></li>
+<li> <div> <div><div> <a> I Spent My Childhood Surrounded by Cozy and Colorful Yarns </a> </div> By Andrea Rosenhaft LCSW-R </div> </div></li>
+<div> <p>Get the help you need from a therapist near you–a FREE service from Psychology Today.</p> </div>
+<div> <div> Are you a Therapist? </div> <div> <a>Get Listed Today</a> </div> </div>
+<div> <div> <h1>Recovery from Addiction</h1> <p> <a> Reviewed by Psychology Today Staff </a> </p> </div> </div>
+<div> <h3> At what point is someone considered recovered from addiction? </h3> </div>
+<a>the risk for relapse is no greater than for anyone else in the general population</a>.
+<div> <h3> How long does recovery take? </h3> </div>
+<div> <h3> Does recovery occur in stages? </h3> </div>
+<a>five stages of change in addiction recovery</a>.
+<p>• Precontemplation: Substance users are unaware that their use is causing problems, although others around them are, and they have no intention of changing behavior.</p>
+<p>• Contemplation: Substances users begin to realize that their use has some negative consequences and it might be time to make a change, but they have no commitment to action.</p>
+<p>• Decision: Intention develops to take action about the substance use as concrete goals begin to take shape. A start date is set.</p>
+<p>• Action: The decision is put into action, with new behaviors learned and practiced. Action may involve contacting a doctor, entering a treatment program, or finding a peer support group.</p>
+<p>• Maintenance: New behavior replaces old behavior, and change gains momentum with the desire to make it permanent.</p>
+<div> <h3> Can addiction be cured? </h3> </div>
+<h2> The Recovery Process </h2>
+<div> <h3> Does recovery always require treatment? </h3> </div>
+<div> <h3> Is it possible to do it on my own? </h3> </div>
+<p>• Escape. Planning in advance a way out of high-risk situations—whether an event, a place, or a person—helps support intentions in the face of triggers to use.</p>
+<p>• Avoid/accept. It’s helpful to understand that cravings are normal, and the discomfort will pass. Strategically avoiding potentially problematic situations altogether,</p>
+<p>• Distract. Quickly interrupting thoughts of using is important. Saying a mantra, substituting thoughts of recovery goals, praying, reading something recovery-related, reaching out to someone supportive—all are useful tactics.</p>
+<p>• Substitute. Turning to another activity—listening to music, going for a walk—when an urge hits can maintain recovery.</p>
+<div> <h3> Is abstinence the only route to recovery? </h3> </div>
+<div> <h3> What does it take to change behavior? </h3> </div>
+<p>Above all, change takes courage. It always exposes people to the possibility of failure. The prospect of change engages people in <a>an inner dialogue about hope, disappointment, and accountability</a>.</p>
+<p>• Connection—being in touch with others who believe in and support recovery, and actively seeking help from others who have experienced similar difficulties. Intensive support is often needed for <a>recovery from addiction</a>.</p>
+<p>• Hope and optimism—nurturing belief in oneself, belief in one’s ability to persevere even through setbacks, and developing a future orientation. Hope often builds along the way.</p>
+<p>• Identity—shifting towards a new, positive view of oneself, one more aligned with one’s deeper values and goals, one built on self-confidence gained by acquiring new skills and new behaviors.</p>
+<p>• Empowerment—finding the wherewithal to cope with recovery and the challenges of life, which breeds a sense of self-efficacy.</p>
+<div> <h3> Will the cravings ever stop? </h3> </div>
+<div> <h3> How can I get over the guilt and shame about the things I done? </h3> </div>
+<p>It is possible <a>to overcome shame</a>—by driving right through it. Shame diminishes as recovery proceeds. Neuroscientist Adi Jaffe, Ph.D., who himself recovered from addiction, outlines five steps.</p>
+<p>1. Identify key past events that gave rise to negative beliefs about yourself.</p>
+<p>2. Identify personal strengths as well as weaknesses.</p>
+<p>3. Identify other factors in your life—relationships, work—that can help take the focus off addictive behaviors.</p>
+<p>4. Shift perspective to see relapse and other “failures” as opportunities to learn.</p>
+<p>5. Choose to get help, even though shame often deters people from doing so.</p>
+<h2> Support Systems for Recovery </h2>
+<div> <h3> Do 12-step programs help? </h3> </div>
+<a>Addiction treatment is not one-size-fits-all</a>.
+<div> <h3> What role do family members play in recovery? </h3> </div>
+<div> <h3> What role do friends play in recovery? </h3> </div>
+<div> <h3> What kind of care is needed during recovery? </h3> </div>
+<div> <h3> What kinds of recovery support do I need? </h3> </div>
+<p>•<a>Recovery coach</a>— a life coach specifically focused on serving as a mentor for the lifestyle changes required for overcoming addiction</p>
+<p>Individual therapy—typically aims to resolve psychological problems leading to addiction and furnish skills for regaining control of life</p>
+<p>Group therapy—many varieties, some serving special populations such as students or executives, often adapting skills and strategies of cognitive and behavioral therapy</p>
+<p>Community Reinforcement—programs that focus on helping individuals rebuild disrupted lives in healthy and pleasurable ways within a family and community setting</p>
+<p>Recovery Community Centers—peer-operated non-residential centers that provide recovery information and resources, activities, and family support in a locality</p>
+<p>Outpatient programs—formal programs administered regularly for a large portion of the day, typically based at a healthcare facility and involving individual therapy and group sessions that teach an array of life skills</p>
+<p>Recovery residences—sometimes also called sober living, these are living quarters specifically housing people for a period of time during the early stages of recovering from addiction</p>
+<div> <h3> Will I always be in danger of relapseing? </h3> </div>
+<a>“once an addict, always an addict” is harmful</a> as well as incorrect.
+<div> <h3> What is the risk of relapse? </h3> </div>
+<a>during the first 90 days of recovery</a>. Relapse carries an increased risk of overdose if a person uses as much of the drug as they did before quitting.
+<p>Nevertheless, experts see relapse as an opportunity to learn from the experience about personal vulnerabilities and triggers, to develop a detailed relapse prevention plan, and to step up treatment and support activities.</p>
+<p>The most common causes of relapse include:</p>
+<p>• exposure to environmental cue related to drug use</p>
+<p>• interpersonal difficulties</p>
+<p>• lack of social support</p>
+<p>• pain due to injuries or medical problems</p>
+<p>• lack of a sense of self-efficacy</p>
+<div> <h3> Can relapse be prevented? </h3> </div>
+<a>Mindfulness</a> training, a common component of
+<a>cognitive behavioral therapy</a>, can help people ride out their cravings without acting on them. A practice known as
+<div> <h3> What’s the best way to handle relapse? </h3> </div>
+<p>Other important measures include:</p>
+<p>• Reflecting on what triggered the relapse and what feelings and experiences occurred just before it happened</p>
+<p>• Engaging in self-care—maintaining healthy practices, including getting abundant sleep, which bolsters the ability to ride out cravings and summon coping skills</p>
+<a>guard against relapse</a> in the future. A good relapse prevention plan specifies a person’s triggers for drug use, lists several coping skills to deploy, and lists people to call on for immediate support, along with their contact information.
+<div> <h3> What is the difference between remission and recovery? </h3> </div>
+<div> <h3> Will brain function return to normal? </h3> </div>
+<div> <h3> How do I rebuild my life? </h3> </div>
+<div> <h3> How does a history of addiction affect employment prospects? </h3> </div>
+<a>the confidence and strength to weather the job market</a>.
+<div> Clearly, there are many problems Big Tech needs to be held accountable for. But spreading the untruth that our devices are controlling all of our brains doesn't help anything. </div>
+<article> <div> <div> <a> The Bounce Back: Focusing More on Recovery, Not Relapse </a> </div> <div> How can a therapist help navigate the twists and turns of recovery from substance use disorders? Flexibility is key. </div> </div> </article>
+<article> <div> <div> <a> Heeding the Distress Signals in Modern Addiction </a> </div> <div> One man's path toward long-term recovery from polysubstance addiction. </div> </div> </article>
+<article> <div> <div> <a> 8 Ways to Drink Less at a Gathering </a> </div> <div> If your goal is to drink less or not at all at a gathering this holiday season, here are some strategies. </div> </div> </article>
+<h2> <a>How Men’s Mental Health Impacts Their Families</a> </h2>
+<p><a>Anthony J. Nedelman Ph.D.</a> on January 11, 2022 in <a>Sharpening Some Iron</a></p>
+<p> Men don't exist in a vacuum. Their mental health affects loved ones even when they try to bury their problems. </p>
+<h2> <a>Defeat the 3 Habits Trolling Your Health and Growth</a> </h2>
+<p><a>Mitch Abblett Ph.D.</a> on January 11, 2022 in <a>Compassionate Warriors</a></p>
+<p> Having a hard time making new habits stick? Addressing these three hidden "habit trolls" can help you get on track and stay there. </p>
+<h2> <a>Why So Many People Write About Addiction</a> </h2>
+<p><a>Timmen L. Cermak MD</a> on January 10, 2022 in <a>Healing from Addiction</a></p>
+<p> Are too many books about addiction and recovery being written? No, each new wave of people suffering from addiction needs past wisdom about recovery translated into the latest language. </p>
+<h2> <a>Trauma, Class, and the Nation's Divide</a> </h2>
+<p><a>Lloyd I Sederer M.D.</a> on January 10, 2022 in <a>Therapy, It’s More Than Just Talk</a></p>
+<p> What fuels today’s social maelstrom of discrimination, inequity, and injustice? </p>
+<div> <div> <h2> <a>7 Escapes from Stress</a> </h2> <p><a>Marty Nemko Ph.D.</a> on January 7, 2022 in <a>How To Do Life</a></p> <p> Most people need some escape from life's anxieties. Are your escapes serving you? </p> </div> </div>
+<p> Most people need some escape from life's anxieties. Are your escapes serving you? </p>
+<h2> <a>The Deceptive Promise of Alcohol</a> </h2>
+<p><a>Veronica Valli</a> on January 7, 2022 in <a>A Soberful Life</a></p>
+<p> Are you renting too much space in your head to alcohol and drinking? More and more people are becoming sober-curious and discovering that they are having more fun while sober. </p>
+<h2> <a>The Myth of Normal: Speaking to Gabor Maté</a> </h2>
+<p><a>Mark Matousek</a> on January 4, 2022 in <a>The Seekers Forum</a></p>
+<p> Gabor Maté talks about the myth of normal in a crazy culture, and how trauma and addiction are fed by toxic systems of self-doubt. </p>
+<h2> <a>Is It Weak Conscience or Strong Self-Rationalization?</a> </h2>
+<p><a>Jeremy E. Sherman Ph.D., MPP</a> on December 30, 2021 in <a>Jerkology</a></p>
+<p> Once we've mastered self-rationalization, our "inner weasels" can silence our consciences. </p>
+<h2> <a>Personal Responsibility in an Age of Projection and Quick Fixes</a> </h2>
+<p><a>Judy Scheel Ph.D., L.C.S.W., CEDS</a> on December 29, 2021 in <a>Sex Is a Language</a></p>
+<p> It's time to stop looking to COVID, TikTok, and porn to explain our psychological ills. </p>
+<h2> <a>What Are Emotions?</a> </h2>
+<p><a>Laith Al-Shawaf Ph.D.</a> on December 28, 2021 in <a>Six Impossible Things Before Breakfast</a></p>
+<p> What are emotions, exactly? New developments reveal a great deal about what emotions are and how they work. </p>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <h1>Treatment of Addiction</h1> <p> <a> Reviewed by Psychology Today Staff </a> </p> </div> </div>
+<li> Can drug addiction be treated? </li>
+<li> How effective is drug addiction treatment? </li>
+<li> Are interventions helpful to get people into treatment? </li>
+<li> Is residential/inpatient treatment always necessary? </li>
+<h2> Can drug addiction be treated? </h2>
+<h2> How effective is drug addiction treatment? </h2>
+<p>Data indicate that 85 percent of people who struggle with addiction do not seek help. Among those who do, more than 90 percent “fail” within a single year—if the sole measure is abstinence.</p>
+<h2> Are interventions helpful to get people into treatment? </h2>
+<h2> Is residential/inpatient treatment always necessary? </h2>
+<p>Residential treatment facilities usually offer a number of amenities in a non-institutional, home-like setting. Here's what quality residential treatment programs typically offer:</p>
+<p>• 24-hour management of withdrawal</p>
+<p>• management of medication</p>
+<p>• built-in structure and schedule</p>
+<p>• individual psychotherapy</p>
+<p>• addiction education</p>
+<p>• educational support or liaison with credentialed educational programs</p>
+<p>• nutritional support</p>
+<p>• exercise and recreational activities</p>
+<p>• built-in community and peer support </p>
+<p>• aftercare programs or support.</p>
+<div> <h3> What are the pros and cons of residential treatment? </h3> </div>
+<h2> What are the options for drug addiction treatment? </h2>
+<div> <h3> When is a halfway house helpful? </h3> </div>
+<div> <h3> What is sober living? </h3> </div>
+<p>Sober living facilities are often a next step for those who have completed a residential rehab or detox program. Some sober living houses are formally affiliated with rehab programs while others exist totally independently.</p>
+<div> <h3> When is Medication Assisted Treatment used? </h3> </div>
+<div> <h3> How does psychotherapy help? </h3> </div>
+<p>• It helps those struggling with substance use find the internal motivation to change and helps them develop the capacity for it.</p>
+<p>• It enables people to maintain their commitment to recovery and optimism about it despite the difficulties.</p>
+<p>• Because recovery is a developmental process, therapy also aims to instill in people an understanding of why they turned to substance use, so they can meet that need in healthier ways.</p>
+<p>• Therapy also addresses the co-occurring mental disorders, such as depression and anxiety, that are a common accompaniment to addiction.</p>
+<p>• Therapy programs deliver tangible coping skills that help people meet life’s challenges without having to resort to drugs.</p>
+<p>• Therapy enables each individual to identify the situations that serve as triggers to drug use and to develop their own workable ways to manage them.</p>
+<p>• If relapse occurs, therapy helps people assess what caused them to stumble and to move forward again without getting mired in negative feelings like self-recrimination that too often lead back to substance use. </p>
+<div> <h3> How important is peer support (AA, NA, SMART Recovery, others)? </h3> </div>
+<div> <h3> When is Harm Reduction advisable? </h3> </div>
+<div> <h3> What is Motivational Enhancement? </h3> </div>
+<div> <h3> When is a Recovery Coach helpful? </h3> </div>
+<div> <h3> Why is family therapy important? </h3> </div>
+<h2> What are the components of a good addiction treatment program? </h2>
+<p>It is hard to know what is a good addiction-treatment program because very little data is published about the effectiveness of programs. Nevertheless, experts cite 11 important components of a good program</p>
+<p>• care linkage—active coordination of treatment and support services during the different phases of recovery</p>
+<p>• a dignified treatment facility and environment</p>
+<p>• involvement of significant other/family in the treatment</p>
+<p>• the use of strategies to enhance and maintain patient retention during the first weeks of treatment, when the dropout risk is highest </p>
+<p>• provision of evidence-based care, with services based on scientific research and principles</p>
+<p>• a credentialed staff representing an array of disciplines, such as addiction, medicine, psychiatry, spirituality</p>
+<p>• programs attuned to the potentially distinctive needs of men and women, LGBTQ populations, people of other cultural backgrounds</p>
+<p>• collection of data on patient progress and outcomes and provision of that information to prospective patients and their families</p>
+<p>• accreditation by an external regulatory organization.</p>
+<h2> What happens during treatment? </h2>
+<p>Exercise and recreational activities abet recovery in multiple ways. They provide a source of pleasure and build social bonds. Further, studies show, physical exercise accelerates rewiring the brain.</p>
+<h2> What makes treatment effective? </h2>
+<div> <h3> Does everyone need detox? </h3> </div>
+<div> <h3> What happens during detox? </h3> </div>
+<div> <h3> What comes after detox? </h3> </div>
+<h2> How long does addiction treatment last? </h2>
+<p>Traditional residential rehab programs usually require a minimum stay of 28-30 days, but stays of 60 or 90 days are sometimes advised. The danger of relapse is considered most intense during the first 90 days of recovery. </p>
+<div> Clearly, there are many problems Big Tech needs to be held accountable for. But spreading the untruth that our devices are controlling all of our brains doesn't help anything. </div>
+<article> <div> <div> <a> The Bounce Back: Focusing More on Recovery, Not Relapse </a> </div> <div> How can a therapist help navigate the twists and turns of recovery from substance use disorders? Flexibility is key. </div> </div> </article>
+<article> <div> <div> <a> Heeding the Distress Signals in Modern Addiction </a> </div> <div> One man's path toward long-term recovery from polysubstance addiction. </div> </div> </article>
+<article> <div> <div> <a> 8 Ways to Drink Less at a Gathering </a> </div> <div> If your goal is to drink less or not at all at a gathering this holiday season, here are some strategies. </div> </div> </article>
+<h2> <a>How Men’s Mental Health Impacts Their Families</a> </h2>
+<p><a>Anthony J. Nedelman Ph.D.</a> on January 11, 2022 in <a>Sharpening Some Iron</a></p>
+<p> Men don't exist in a vacuum. Their mental health affects loved ones even when they try to bury their problems. </p>
+<h2> <a>Defeat the 3 Habits Trolling Your Health and Growth</a> </h2>
+<p><a>Mitch Abblett Ph.D.</a> on January 11, 2022 in <a>Compassionate Warriors</a></p>
+<p> Having a hard time making new habits stick? Addressing these three hidden "habit trolls" can help you get on track and stay there. </p>
+<h2> <a>Why So Many People Write About Addiction</a> </h2>
+<p><a>Timmen L. Cermak MD</a> on January 10, 2022 in <a>Healing from Addiction</a></p>
+<p> Are too many books about addiction and recovery being written? No, each new wave of people suffering from addiction needs past wisdom about recovery translated into the latest language. </p>
+<h2> <a>Trauma, Class, and the Nation's Divide</a> </h2>
+<p><a>Lloyd I Sederer M.D.</a> on January 10, 2022 in <a>Therapy, It’s More Than Just Talk</a></p>
+<p> What fuels today’s social maelstrom of discrimination, inequity, and injustice? </p>
+<div> <div> <h2> <a>7 Escapes from Stress</a> </h2> <p><a>Marty Nemko Ph.D.</a> on January 7, 2022 in <a>How To Do Life</a></p> <p> Most people need some escape from life's anxieties. Are your escapes serving you? </p> </div> </div>
+<p> Most people need some escape from life's anxieties. Are your escapes serving you? </p>
+<h2> <a>The Deceptive Promise of Alcohol</a> </h2>
+<p><a>Veronica Valli</a> on January 7, 2022 in <a>A Soberful Life</a></p>
+<p> Are you renting too much space in your head to alcohol and drinking? More and more people are becoming sober-curious and discovering that they are having more fun while sober. </p>
+<h2> <a>The Myth of Normal: Speaking to Gabor Maté</a> </h2>
+<p><a>Mark Matousek</a> on January 4, 2022 in <a>The Seekers Forum</a></p>
+<p> Gabor Maté talks about the myth of normal in a crazy culture, and how trauma and addiction are fed by toxic systems of self-doubt. </p>
+<h2> <a>Is It Weak Conscience or Strong Self-Rationalization?</a> </h2>
+<p><a>Jeremy E. Sherman Ph.D., MPP</a> on December 30, 2021 in <a>Jerkology</a></p>
+<p> Once we've mastered self-rationalization, our "inner weasels" can silence our consciences. </p>
+<h2> <a>Personal Responsibility in an Age of Projection and Quick Fixes</a> </h2>
+<p><a>Judy Scheel Ph.D., L.C.S.W., CEDS</a> on December 29, 2021 in <a>Sex Is a Language</a></p>
+<p> It's time to stop looking to COVID, TikTok, and porn to explain our psychological ills. </p>
+<h2> <a>What Are Emotions?</a> </h2>
+<p><a>Laith Al-Shawaf Ph.D.</a> on December 28, 2021 in <a>Six Impossible Things Before Breakfast</a></p>
+<p> What are emotions, exactly? New developments reveal a great deal about what emotions are and how they work. </p>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <h1>What Is Withdrawal?</h1> <p> <a> Reviewed by Psychology Today Staff </a> </p> </div> </div>
+<li> What are the symptoms of withdrawal? </li>
+<li> When does withdrawal start? </li>
+<li> What causes withdrawal symptoms? </li>
+<h2> What are the symptoms of withdrawal? </h2>
+<h2> When does withdrawal start? </h2>
+<p>Withdrawal starts after the active drug is cleared from the body (measured as “half-life,” the amount it takes for blood levels of the drugs to drop by 50 percent).</p>
+<p>• Opiates: 6 hours to 2 days after last dose</p>
+<p>• Benzodiazepines: 2 to 7 days after last dose, peaks around 2 weeks</p>
+<p>• Alcohol: 6 hours to 2 days after the last drink, peaks 24 to 72 hours after the last drink</p>
+<p>• Cocaine: 90 minutes after the last dose</p>
+<p>• Methamphetamine: within 24 hours after the last dose, peaks at 7-10 days</p>
+<h2> What causes withdrawal symptoms? </h2>
+<h2> Is withdrawal dangerous? </h2>
+<h2> Is medical care always needed? </h2>
+<h2> Why does my body shake? </h2>
+<h2> How long does withdrawal last? </h2>
+<p>However, the opiate methadone is long-acting, and withdrawal follows a different course. Symptoms may begin in 2-4 days and fade after 10 days. </p>
+<p>For drugs like amphetamine, with a medium half-life—10-12 hours—acute withdrawal can last 2-4 weeks. Withdrawal from amphetamine stimulants begins 2-4 days after the last dose, lasts 2-4 weeks or more. Its half-life is 9-11 hours.</p>
+<p>The stimulant cocaine has a very short half-life; acute withdrawal can begin as little as 90 minutes after the last dose, peaks around 3 days, and lasts a week to 10 days.</p>
+<p>For drugs like short-acting benzodiazepine tranquilizers (Xanax, Valium, Klonopin, Ativan) withdrawal begins in 1-4 days and peaks around two weeks, although protracted withdrawal, marked by rebound anxiety, can last months or years.</p>
+<h2> Do all drugs create withdrawal symptoms? </h2>
+<h2> What is happening in the brain during withdrawal? </h2>
+<h2> When is it possible to go “cold turkey”? </h2>
+<h2> How is withdrawal treated? </h2>
+<p>With other substances, withdrawal symptoms are often exceedingly unpleasant—shakiness, irritability, intense anxiety or depression, flu-like symptoms. They are treated with common medications that provide symptomatic relief.</p>
+<div> Clearly, there are many problems Big Tech needs to be held accountable for. But spreading the untruth that our devices are controlling all of our brains doesn't help anything. </div>
+<article> <div> <div> <a> The Bounce Back: Focusing More on Recovery, Not Relapse </a> </div> <div> How can a therapist help navigate the twists and turns of recovery from substance use disorders? Flexibility is key. </div> </div> </article>
+<article> <div> <div> <a> Heeding the Distress Signals in Modern Addiction </a> </div> <div> One man's path toward long-term recovery from polysubstance addiction. </div> </div> </article>
+<article> <div> <div> <a> 8 Ways to Drink Less at a Gathering </a> </div> <div> If your goal is to drink less or not at all at a gathering this holiday season, here are some strategies. </div> </div> </article>
+<h2> <a>How Men’s Mental Health Impacts Their Families</a> </h2>
+<p><a>Anthony J. Nedelman Ph.D.</a> on January 11, 2022 in <a>Sharpening Some Iron</a></p>
+<p> Men don't exist in a vacuum. Their mental health affects loved ones even when they try to bury their problems. </p>
+<h2> <a>Defeat the 3 Habits Trolling Your Health and Growth</a> </h2>
+<p><a>Mitch Abblett Ph.D.</a> on January 11, 2022 in <a>Compassionate Warriors</a></p>
+<p> Having a hard time making new habits stick? Addressing these three hidden "habit trolls" can help you get on track and stay there. </p>
+<h2> <a>Why So Many People Write About Addiction</a> </h2>
+<p><a>Timmen L. Cermak MD</a> on January 10, 2022 in <a>Healing from Addiction</a></p>
+<p> Are too many books about addiction and recovery being written? No, each new wave of people suffering from addiction needs past wisdom about recovery translated into the latest language. </p>
+<h2> <a>Trauma, Class, and the Nation's Divide</a> </h2>
+<p><a>Lloyd I Sederer M.D.</a> on January 10, 2022 in <a>Therapy, It’s More Than Just Talk</a></p>
+<p> What fuels today’s social maelstrom of discrimination, inequity, and injustice? </p>
+<div> <div> <h2> <a>7 Escapes from Stress</a> </h2> <p><a>Marty Nemko Ph.D.</a> on January 7, 2022 in <a>How To Do Life</a></p> <p> Most people need some escape from life's anxieties. Are your escapes serving you? </p> </div> </div>
+<p> Most people need some escape from life's anxieties. Are your escapes serving you? </p>
+<h2> <a>The Deceptive Promise of Alcohol</a> </h2>
+<p><a>Veronica Valli</a> on January 7, 2022 in <a>A Soberful Life</a></p>
+<p> Are you renting too much space in your head to alcohol and drinking? More and more people are becoming sober-curious and discovering that they are having more fun while sober. </p>
+<h2> <a>The Myth of Normal: Speaking to Gabor Maté</a> </h2>
+<p><a>Mark Matousek</a> on January 4, 2022 in <a>The Seekers Forum</a></p>
+<p> Gabor Maté talks about the myth of normal in a crazy culture, and how trauma and addiction are fed by toxic systems of self-doubt. </p>
+<h2> <a>Is It Weak Conscience or Strong Self-Rationalization?</a> </h2>
+<p><a>Jeremy E. Sherman Ph.D., MPP</a> on December 30, 2021 in <a>Jerkology</a></p>
+<p> Once we've mastered self-rationalization, our "inner weasels" can silence our consciences. </p>
+<h2> <a>Personal Responsibility in an Age of Projection and Quick Fixes</a> </h2>
+<p><a>Judy Scheel Ph.D., L.C.S.W., CEDS</a> on December 29, 2021 in <a>Sex Is a Language</a></p>
+<p> It's time to stop looking to COVID, TikTok, and porn to explain our psychological ills. </p>
+<h2> <a>What Are Emotions?</a> </h2>
+<p><a>Laith Al-Shawaf Ph.D.</a> on December 28, 2021 in <a>Six Impossible Things Before Breakfast</a></p>
+<p> What are emotions, exactly? New developments reveal a great deal about what emotions are and how they work. </p>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <h1>Addiction and the Brain</h1> <p> <a> Reviewed by Psychology Today Staff </a> </p> </div> </div>
+<li> What role does the brain play in addiction? </li>
+<li> How does addiction work in the brain? </li>
+<li> What does it mean to call addiction a brain disorder? </li>
+<h2> What role does the brain play in addiction? </h2>
+<h2> How does addiction work in the brain? </h2>
+<h2> What does it mean to call addiction a brain disorder? </h2>
+<p>It is important to know that recovery from addiction also relies on neuroplasticity. Changing behavior rewires the brain.</p>
+<h2> What is the brain disease model of addiction? </h2>
+<h2> How can addiction affect the brain but not be a brain disease? </h2>
+<div> <h3> What part of the brain is responsible for addiction? </h3> </div>
+<p>There are several parts of the brain involved in addiction. They are:</p>
+<a>the “pleasure center” of the brain</a>, it is a key player in the reward circuitry of the brain and releases dopamine in response to positive experiences and the anticipation of such experiences.
+<p>• dopamine neurons, which are concentrated in the nucleus accumbent and form pathways of connection to other parts of the brain when activated by positive experiences.</p>
+<p>• the prefrontal cortex, which is the seat of such executive functions as judgment, decision-making, impulse control; it gradually weakens in response to overactivation of the reward circuits by drugs of abuse.</p>
+<p>• the amygdala, which registers emotional significance of perceptions, is highly responsive to drug-related cues and sets in motion <a>the rise and fall of craving</a>.</p>
+<div> <h3> Which brain chemical is associated with addiction? </h3> </div>
+<div> <h3> How does addiction hijack the brain? </h3> </div>
+<div> <h3> What is neuroplasticity and what role does it play in addiction? </h3> </div>
+<div> <h3> What do brain imaging studies show about addiction? </h3> </div>
+<h2> Experiencing Addiction </h2>
+<p>Craving is a deep desire for the effects of a drug orchestrated through crosstalk between specific parts of the brain that dampen the ability to exert control over impulses. It is usually set in motion by some environmental cue related to drug use.</p>
+<div> <h3> How does the brain create craving? </h3> </div>
+<div> <h3> Does addiction permanently change the brain? </h3> </div>
+<a>recovery, like addiction, relies on neuroplasticity</a> as well. The proof that addiction can be unlearned neurally and behaviorally, experts say, is that most addicts recover, eventually.
+<div> <h3> How does a drug overdose affect the brain? </h3> </div>
+<div> <h3> What happens in the brain during recovery? </h3> </div>
+<a>especially by connection to others</a>. People regain the ability to respond to more natural rewards, setting the stage for psychological growth.
+<div> Clearly, there are many problems Big Tech needs to be held accountable for. But spreading the untruth that our devices are controlling all of our brains doesn't help anything. </div>
+<article> <div> <div> <a> The Bounce Back: Focusing More on Recovery, Not Relapse </a> </div> <div> How can a therapist help navigate the twists and turns of recovery from substance use disorders? Flexibility is key. </div> </div> </article>
+<article> <div> <div> <a> Heeding the Distress Signals in Modern Addiction </a> </div> <div> One man's path toward long-term recovery from polysubstance addiction. </div> </div> </article>
+<article> <div> <div> <a> 8 Ways to Drink Less at a Gathering </a> </div> <div> If your goal is to drink less or not at all at a gathering this holiday season, here are some strategies. </div> </div> </article>
+<h2> <a>How Men’s Mental Health Impacts Their Families</a> </h2>
+<p><a>Anthony J. Nedelman Ph.D.</a> on January 11, 2022 in <a>Sharpening Some Iron</a></p>
+<p> Men don't exist in a vacuum. Their mental health affects loved ones even when they try to bury their problems. </p>
+<h2> <a>Defeat the 3 Habits Trolling Your Health and Growth</a> </h2>
+<p><a>Mitch Abblett Ph.D.</a> on January 11, 2022 in <a>Compassionate Warriors</a></p>
+<p> Having a hard time making new habits stick? Addressing these three hidden "habit trolls" can help you get on track and stay there. </p>
+<h2> <a>Why So Many People Write About Addiction</a> </h2>
+<p><a>Timmen L. Cermak MD</a> on January 10, 2022 in <a>Healing from Addiction</a></p>
+<p> Are too many books about addiction and recovery being written? No, each new wave of people suffering from addiction needs past wisdom about recovery translated into the latest language. </p>
+<h2> <a>Trauma, Class, and the Nation's Divide</a> </h2>
+<p><a>Lloyd I Sederer M.D.</a> on January 10, 2022 in <a>Therapy, It’s More Than Just Talk</a></p>
+<p> What fuels today’s social maelstrom of discrimination, inequity, and injustice? </p>
+<div> <div> <h2> <a>7 Escapes from Stress</a> </h2> <p><a>Marty Nemko Ph.D.</a> on January 7, 2022 in <a>How To Do Life</a></p> <p> Most people need some escape from life's anxieties. Are your escapes serving you? </p> </div> </div>
+<p> Most people need some escape from life's anxieties. Are your escapes serving you? </p>
+<h2> <a>The Deceptive Promise of Alcohol</a> </h2>
+<p><a>Veronica Valli</a> on January 7, 2022 in <a>A Soberful Life</a></p>
+<p> Are you renting too much space in your head to alcohol and drinking? More and more people are becoming sober-curious and discovering that they are having more fun while sober. </p>
+<h2> <a>The Myth of Normal: Speaking to Gabor Maté</a> </h2>
+<p><a>Mark Matousek</a> on January 4, 2022 in <a>The Seekers Forum</a></p>
+<p> Gabor Maté talks about the myth of normal in a crazy culture, and how trauma and addiction are fed by toxic systems of self-doubt. </p>
+<h2> <a>Is It Weak Conscience or Strong Self-Rationalization?</a> </h2>
+<p><a>Jeremy E. Sherman Ph.D., MPP</a> on December 30, 2021 in <a>Jerkology</a></p>
+<p> Once we've mastered self-rationalization, our "inner weasels" can silence our consciences. </p>
+<h2> <a>Personal Responsibility in an Age of Projection and Quick Fixes</a> </h2>
+<p><a>Judy Scheel Ph.D., L.C.S.W., CEDS</a> on December 29, 2021 in <a>Sex Is a Language</a></p>
+<p> It's time to stop looking to COVID, TikTok, and porn to explain our psychological ills. </p>
+<h2> <a>What Are Emotions?</a> </h2>
+<p><a>Laith Al-Shawaf Ph.D.</a> on December 28, 2021 in <a>Six Impossible Things Before Breakfast</a></p>
+<p> What are emotions, exactly? New developments reveal a great deal about what emotions are and how they work. </p>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <h1>Types of Addiction</h1> <p> <a> Reviewed by Psychology Today Staff </a> </p> </div> </div>
+<li> What qualifies as an addiction? </li>
+<li> How are all addictions alike? </li>
+<li> Are all addictions treated the same? </li>
+<h2> What qualifies as an addiction? </h2>
+<h2> How are all addictions alike? </h2>
+<h2> Are all addictions treated the same? </h2>
+<h2> Substance Addictions </h2>
+<h2> Alcohol Use Disorder </h2>
+<p>People with AUD are more likely to seek care from a primary care physician for an alcohol-related medical problem rather than specifically for drinking too much alcohol.</p>
+<div> <h3> What is considered alcoholism, or alcohol use disorder? </h3> </div>
+<p>As with other addictions, the key feature of alcohol use disorder, commonly known as alcoholism, is the inability to reliably control drinking. The DSM-5 describes 12 diagnostic signs and symptoms of alcohol-related impairment:</p>
+<p>• Using alcohol more frequently or in higher amounts than intended</p>
+<p>• Being unable to stop drinking or control alcohol intake despite attempts to do so</p>
+<p>• Devoting significant amounts of time getting alcohol, drinking, and recovering from its effects</p>
+<p>• Experiencing strong urges to drink (cravings)</p>
+<p>• Failing to fulfill obligations at work, home, or school due to alcohol use</p>
+<p>• Continuing to drink even after experiencing social or relationship problems resulting from alcohol use.</p>
+<p>• Giving up or reducing the amount of time spent at work or school or on social and recreational activities that a person once enjoyed due to alcohol use.</p>
+<p>• Drinking when it is physically dangerous to do so (such as while driving or operating machinery)</p>
+<p>• Drinking despite the development of physical or psychological problems related to alcohol use</p>
+<p>• Experiencing tolerance—the need for increasing amounts of alcohol to achieve desired effects or the loss of effects of a continued amount of alcohol</p>
+<p>• Experiencing withdrawal symptoms when trying to stop or cut back on drinking.</p>
+<p>The presence of 2 to 3 symptoms indicates a mild substance use disorder. Moderate disorder involves the presence of 4 to 5 signs. Six or more symptoms is considered diagnostic of severe alcohol use disorder.</p>
+<div> <h3> How many drinks a day does it take to be an alcoholic? </h3> </div>
+<p>The National Institute on Alcohol Abuse and Alcoholism cites two patterns of drinking that can lead to the risk of alcohol use disorder—binge drinking and heavy alcohol use.</p>
+<p>• Heavy alcohol use is consumption of more than 4 drinks on any day or more than 14 drinks per week for men, and more than 3 drinks on any day or more than 7 drinks per week for women.</p>
+<h2> Cannabis Use Disorder </h2>
+<h2> Hallucinogen Use Disorder </h2>
+<p>Between 2017 and 2020, the national drug survey recorded a 56 percent increase in the use of LSD. The rise is most pronounced among people who are college-educated, those aged 26 to 34—and especially among those age 50 and older.</p>
+<p>A number of unusual behaviors can suggest that someone is misusing opioids:</p>
+<p>• Consulting physicians from multiple practices for prescriptions</p>
+<p>• Calling one’s physician’s office to be seen immediately because “the pain is much worse”</p>
+<p>• Frequently calling a physician’s office to request early refills because “I needed to take some extra ones”</p>
+<p>• Making frequent emergency room visits for prescriptions</p>
+<p>• Missing appointments and obligations because of pain</p>
+<p>• Hoarding opioids.</p>
+<h2> Stimulant Use Disorder </h2>
+<h2> Tobacco Use Disorder </h2>
+<h2> Non-Substance-Related Addictive Disorders </h2>
+<h2> Internet/Cellphone Addiction </h2>
+<p>Signs of potentially problematic internet use include:</p>
+<p>• Frequently spending more time online than you want or intend</p>
+<p>• Feeling guilty about frequent internet use</p>
+<p>• Thinking about using your device when it’s not possible to do so</p>
+<p>• Turning to internet use when you’re in a bad mood or upset</p>
+<p>• Losing interest in non-internet activities</p>
+<p>• Having conflicts with others about internet use</p>
+<p>• Maintaining levels of internet use even when they are causing problems</p>
+<p>• Hiding the true extent of internet use from others.</p>
+<h2> Porn Addiction/Sex Addiction </h2>
+<div> Clearly, there are many problems Big Tech needs to be held accountable for. But spreading the untruth that our devices are controlling all of our brains doesn't help anything. </div>
+<article> <div> <div> <a> The Bounce Back: Focusing More on Recovery, Not Relapse </a> </div> <div> How can a therapist help navigate the twists and turns of recovery from substance use disorders? Flexibility is key. </div> </div> </article>
+<article> <div> <div> <a> Heeding the Distress Signals in Modern Addiction </a> </div> <div> One man's path toward long-term recovery from polysubstance addiction. </div> </div> </article>
+<article> <div> <div> <a> 8 Ways to Drink Less at a Gathering </a> </div> <div> If your goal is to drink less or not at all at a gathering this holiday season, here are some strategies. </div> </div> </article>
+<h2> <a>How Men’s Mental Health Impacts Their Families</a> </h2>
+<p><a>Anthony J. Nedelman Ph.D.</a> on January 11, 2022 in <a>Sharpening Some Iron</a></p>

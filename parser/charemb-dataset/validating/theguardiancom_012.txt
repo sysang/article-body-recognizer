@@ -1,0 +1,500 @@
+<p>What time period does it cover? A full calendar month: the 1st until the last day of the month.</p>
+<p>What is it based on? Mortgages approved by Halifax.</p>
+<p>How long has it been going? Halifax started publishing data in January 1983, but the index in its current form began in April 1984.</p>
+<p>Is it <a>seasonally adjusted</a>? Yes.</p>
+<a>Full details are here (A4 document)</a>.
+<p>Why should I trust it? Halifax is one of the UK's largest lenders and has been running the survey in the same way for almost 30 years.</p>
+<p>Who compiles it? The Land Registry is the government department responsible for registering and recording details of land and property ownership in England and Wales. It employs Calnea Analytics to actually compile the data.</p>
+<p>What does it show? The average asking price of properties bought in the past month – these are the prices on completion and include cash purchases as well as those funded with a mortgage. It also reports annual and monthly price changes.</p>
+<p>What area does it cover? England and Wales.</p>
+<p>What time period does it cover? Calendar month.</p>
+<p>What is it based on? The prices paid in residential sales in England and Wales completed during the month and reported to the Land Registry – about 35% are usually reported by the month end.</p>
+<p>How long has it been going? Since 2005, although data going back to January 1995 has been added.</p>
+<p>Is it seasonally adjusted? Yes.</p>
+<a>Full details are here (pdf)</a>.
+<h2><a>LSL Property Services/Acadametrics</a></h2>
+<p>Who compiles it? Acadametrics, a consultancy which specialises in the assessment of risk in property and mortgage portfolios, for LSL, a property company which owns estate agency firms and surveyors.</p>
+<p>What does it show? The average price of a property bought and registered with the Land Registry over the past month. It shows monthly and annual changes and the number of sales.</p>
+<p>What area does it cover? England and Wales. A separate index for Scotland is based on the Registers of Scotland.</p>
+<p>What is it based on? The Land Registry's house price data.</p>
+<p>How long has it been going? Since September 2003 (originally it was the FT House price index), but data going back to 1995 has been added and it has been back-cast to 1989.</p>
+<p>Why should I be sceptical? Once all sales are in it is subject to change, and each month figures from previous months are updated.</p>
+<p>Who compiles it? Nationwide, the UK's largest building society and one of the biggest mortgage lenders.</p>
+<p>What does it show? The average price agreed on a property bought using a Nationwide mortgage, and the percentage change in the price over the month and year. A quarterly survey shows regional data.</p>
+<p>What time period does it cover? Ostensibly a calendar month, but it is always published before the end of the month and Nationwide will not say which date it runs to, claiming the information is commercially sensitive.</p>
+<p>What is it based on? Mortgages that are at the approvals stage with Nationwide, which is after the valuation has been done. Nationwide says its share of the gross house purchase market has been about 10% in recent years.</p>
+<p>How long has it been going? The society has quarterly figures dating back to 1952 and monthly figures dating back to 1991, although it changed its methodology in 1993.</p>
+<p>Why should I be sceptical? Although the typical home is used, as with Halifax critics say its data can be skewed in months when there are low numbers of transactions and by the society's southern bias.</p>
+<h2><a>Office for National Statistics</a></h2>
+<p>Who compiles it? Previously the communities and local government department, now the Office for National Statistics – the government's official data collectors.</p>
+<p>What does it show? The average price on completion for a property in the UK, and annual and monthly changes. Data is broken down by region, type of property and type of buyer.</p>
+<p>What time period does it cover? A full calendar month, but there is a lag – March's figures are published in May.</p>
+<p>How long has it been going? Since February 2002.</p>
+<p>Is it seasonally adjusted? The index includes both seasonally adjusted figures and untouched figures at the national level.</p>
+<p>Who compiles it? Rightmove, a website which advertises properties being sold by 90% of UK estate agents.</p>
+<p>What does it show? The average asking price for properties put on the market over the past month, and the percentage change in that price over the month and over the year.</p>
+<p>What is it based on? The asking prices of homes newly listed on the website – in a typical reporting period Rightmove says that will usually be 30,000-40,000 properties a week, or around 120,000 in total.</p>
+<p>How long has it been going? Records began in August 2001; reporting began in August 2002.</p>
+<p>Is it seasonally adjusted? No.</p>
+<h2><a>Royal Institution of Chartered Surveyors</a></h2>
+<p>Who compiles it? Rics, the trade body for surveyors.</p>
+<p>What does it show? How surveyors think the property market is behaving in their area.</p>
+<p>What time period does it cover? A calendar month. Surveys are sent in the second week of the month and received by the end of the month.</p>
+<p>What area does it cover? England and Wales. Information is collected across 10 geographical regions.</p>
+<p>How long has it been going? Since January 1978.</p>
+<p>Why should I be sceptical? Because the rest of it is based on sentiment.</p>
+<p>It may also meet the cost of new baggage if your luggage is lost or stolen, and compensate you if your trip is cancelled, your travel delayed or you miss your departure.</p>
+<p>Whether or not you are buying insurance you should take a European Health <a>Insurance</a> Card (Ehic) with you when you travel to the continent.</p>
+<p>You can <a>apply for an Ehic online</a> from the NHS.uk website. It is entirely free to get. Don’t be fooled by unofficial, copycat websites that may charge you for an Ehic if you apply through them.</p>
+<p>It’s now cheaper than ever to get travel insurance, with some single-trip policies only costing around a fiver. But remember that cheapest is not necessarily best, as the cover might be inadequate and the service a little thin.</p>
+<p>Buy your cover directly from the insurer rather than from a tour operator or travel agent. It will be cheaper, and if anything goes wrong you will have recourse to the <a>Financial Ombudsman Service</a> to claim compensation.</p>
+<p>If you are likely to take more than two trips a year, it is probably worthwhile investing in annual multi-trip insurance rather than a single-trip policy.</p>
+<p>The amount of baggage cover you need depends on the value of the possessions you will be taking with you. There is often a limit of £200 per item, so make sure your home insurance covers you for any expensive items outside the house.</p>
+<p>Declare to your insurer any valuables you are taking, such as a camera or jewellery, to establish whether special procedures are required – for example, locking them in a safe, or paying an additional premium.</p>
+<p>The minimum medical protection recommended for Europe is £1m, and £2m for the US where hospital costs are higher. However, many quality policies automatically cover up to £5m.</p>
+<p>The excess, which is the sum you are required to pay of any claim before the cover kicks in, varies depending on the policy. Some insurers don’t charge any, although these are few and far between. Typically it is around £50-£75.</p>
+<p>Study the small print carefully, and make sure you’re aware of any exclusions. Alcohol is one to consider. If you are ill or have an accident after drinking, your insurer is within its rights to refuse the claim.</p>
+<p>Insurers will not provide cover for any areas banned for travel by the Foreign Office. Some policies don’t cover terrorism and would therefore not meet any medical costs if you were caught up in an incident.</p>
+<p>If you’re going skiing, double check you’re covered for “winter sports” and what that means in practice. For example, you may not be able to make a claim if you don’t wear a helmet or if you leave your ski equipment unattended.</p>
+<p>Other activities with an additional element of risk associated with them, such as jetskiing, hang-gliding, parachuting and bungee jumping will not be covered under a normal policy, but specialist cover is easy to find.</p>
+<p>You will need to provide proof of any incident.</p>
+<p> Report all thefts or losses to the nearest police swiftly and ask them for a written police report. Get a receipt from the airline or baggage handler for lost or damaged luggage</p>
+<p> Get your paperwork in order for medical claims, and keep all receipts for all expenses</p>
+<p> Contact your insurer as soon as possible for a claim form. Complete it and return it with any suitable evidence, including copies of receipts, photographs and any police or medical reports you have</p>
+<p> If you do send any original documents, always make sure it is by recorded delivery, and you keep photocopies</p>
+<p> Keep all correspondence between yourself and the company. Make accurate records of every phone call, the name of the individual you spoke to and the time you spoke to them.</p>
+<p><a>State pensions</a><a>Tax credits</a></p>
+<h2>Savings and investments</h2>
+<a>The Financial Services Compensation Scheme</a>
+<a>National Savings Investments</a>
+<a>Reclaiming money in a dormant account</a>
+<h1>Homes for hosting a Halloween party – in pictures</h1>
+<h1>Homes with an air source heat pump – in pictures</h1>
+<h1>Homes with great walks on the doorstep – in pictures</h1>
+<h1>Homes for sale with statement staircases – in pictures</h1>
+<h1>Cosy cottages for Christmas – in pictures</h1>
+<h1>Modern homes for sale – in pictures</h1>
+<h1>Tiny houses for sale – in pictures</h1>
+<p>The picture adds to the impression that Ofgem, under political pressure to show it was promoting competition, was happy to welcome any Johnny-come-lately wishing to have a punt.</p>
+<p>Note, too, Ofgem’s account that it flagged concerns about Avro Energy, the biggest supplier to fail before Bulb fell over, on 10 occasions between 2018 and 2021 as the company expanded to more than 500,000 customers.</p>
+<p>Under the industry’s “mutualisation” rules that effectively dump the costs of corporate failures on to bills, Avro’s failure alone is expected to cost consumers £679m.</p>
+<p>The total industry-wide bill stands at £2.6bn, on Citizens Advice’s estimate, or £94 per household. That is why the role in the crisis of Ofgem matters.</p>
+<p>That, surely, represents a basic failure of regulatory imagination: commodity markets have always been prone to wild price swings. Rather like the bank regulators in the Noughties, the models never tested for extreme shocks.</p>
+<p>The business committee’s inquiry is wider than just Ofgem, but the question of “whether there should be a more interventionist approach from the regulator” should not be hard for MPs to crack.</p>
+<h2>Next Taylor Wimpey boss would do well to ape predecessor’s approach</h2>
+<p>Shockingly, Sunak ignored the advice and extended the holiday. It was a ridiculous decision that probably cost the Treasury the thick end of £2bn. One hopes Redfern’s successor can similarly see the wider picture, even when the chancellor doesn’t.</p>
+<div> <time> Published: 7 Dec 2021 </time> </div> Forget levelling up: Rishi Sunak is deliberately increasing tax injustice
+<div> <div> <h3><a> Social care cap could expose poorer homeowners to ‘catastrophic’ costs </a></h3> </div> <div> <div> <time> Published: 17 Nov 2021 </time> </div> </div> </div> Social care cap could expose poorer homeowners to ‘catastrophic’ costs
+<div> <div> <h3> Hunting, shooting and taxing: call for grouse estates to pay green levy </h3> </div> <div> <div> <time> Published: 7 Nov 2021 </time> </div> </div> </div> Hunting, shooting and taxing: call for grouse estates to pay green levy
+<div> <time> Published: 2 Nov 2021 </time> </div> Let them eat space! Elon Musk and the race to end world hunger
+<div> <time> Published: 31 Oct 2021 </time> </div> Mr Sunak, rising taxes and soaring prices do not add up to an Age of Optimism
+<li> <div> <div> <div> <div> <h3> Millionaires petition Rishi Sunak to introduce wealth tax </h3> </div> <div> <div> <time> Published: 25 Oct 2021 </time> </div> </div> </div> Millionaires petition Rishi Sunak to introduce wealth tax </div> </div> </li>
+<div> <div> <h3><a> Take your old trainers to Nike for recycling? Not in Brexit Britain… </a></h3> </div> <div> <div> <time> Published: 23 Oct 2021 </time> </div> </div> </div> Take your old trainers to Nike for recycling? Not in Brexit Britain…
+<li> <div> <div> <h3><a> UK house price growth set to slow in 2022, property experts say </a></h3> </div> </div> </li>
+<li> <div> <div> <h3><a> Fraudsters are using power-of-attorney rules to steal people’s homes </a></h3> </div> </div> </li>
+<li> <div> <div> <h3><a> Can we go on holiday in Tenerife with my 12-year-old daughter? </a></h3> </div> </div> </li>
+<li> <div> <div> <h3><a> And the awards for the worst customer service go to … </a></h3> </div> </div> </li>
+<li> <div> <div> <h3><a> Can we buy my mum’s house and build her an annexe to live in? </a></h3> </div> </div> </li>
+<li> <div> <div> <h3><a> All our student stuff has been ‘lost’ by TNT for two months </a></h3> </div> </div> </li>
+<li> <div> <div> <h3><a> Tell us about your favourite memories of the office </a></h3> </div> </div> </li>
+<li> <div> <div> <h3><a> Why can't my son get the benefit money that he is entitled to? </a></h3> </div> </div> </li>
+<li> <div> <div> <h3><a> We were fined £650 as we tried to help our terminally ill son </a></h3> </div> </div> </li>
+<li> <div> <div> <h3><a> How did the AA lose my crashed car after it was hit by a lorry? </a></h3> </div> </div> </li>
+<div> <time> Published: 5:43 PM </time> </div> Heat pumps are practical and necessary
+<div> <time> Published: 7:25 PM </time> </div> Mortgage lenders need to warm up to energy-efficient homes
+<li> <div> <div> <div> <div> <h3> UK’s net zero strategy: what are the key policies? </h3> </div> <div> <div> <time> Published: 6:39 PM </time> </div> </div> </div> UK’s net zero strategy: what are the key policies? </div> </div> </li>
+<div> <div> <h3><a> Minister hints at gas boilers ban but says market should drive change </a></h3> </div> <div> <div> <time> Published: 9:38 AM </time> </div> </div> </div> Minister hints at gas boilers ban but says market should drive change
+<h1>Readers suggest the 10 best ... council estates</h1>
+<p>Inheritance tax (IHT) becomes an issue when someone dies. It is a one-off tax paid on the value of the deceased's estate above a set threshold – currently £325,000.</p>
+<p>There are lots of ways to reduce the amount of IHT your family will pay after you have gone.</p>
+<p>The allowance from the first partner to die is transferred to the second partner only after the second partner's death. There are <a>further details and links to the relevant forms here</a>.</p>
+<p>Rather than wait until you are dead to pass on your assets, you might decide to dispose of some of them while you are still alive. There are lots of gifts you can make which can reduce the value of your estate.</p>
+<p> Within three years – the full amount of IHT is due</p>
+<p> Within three to four years – 80% of the IHT is due</p>
+<p> Within four to five years – 60% of the IHT is due</p>
+<p> Within five to six years – 40% of the IHT is due</p>
+<p> Within six to seven years – 20% of the IHT is due</p>
+<p>You can also give away up to £3,000 in each tax year without it being included in your estate when you die. That annual allowance can be carried forward to the next tax year, allowing you to give away up to £6,000 in one year.</p>
+<p>There are other gifts which are completely exempt, however quickly after making them you die. These are:</p>
+<p> Gifts to your spouse or civil partner</p>
+<p> Gifts to charity and some other organisations, including musuems and amateur sports clubs</p>
+<p> Gifts of up to £250 a year to as many people as you want</p>
+<p>When a couple marries, people are allowed to give them the following without the money being included in the giver's estate (the gift has to be made, or promised, near the date of the wedding or civil partnership):</p>
+<p> Parents can give them cash or gifts worth up to £5,000</p>
+<p> Grandparents can each give up to £2,500</p>
+<p> Anyone else can give up to £1,000</p>
+<p>The gifts outlined above can help reduce your bill, but there are other things which will not have an impact.</p>
+<p>A good financial adviser should be able to help you organise your cash in a way that will mean your relatives do not end up paying more IHT than they need to after you have gone.</p>
+<p>The tax owed on an estate is calculated by the executors of the will. They must include all of the assets – including relevant gifts made within the last seven years – when they do their sums.</p>
+<p>It is their responsibility to pay what is owed within six months of the end of the month in which the person died.</p>
+<div> <time> Published: 20 Dec 2021 </time> </div> Basic failures at UK banks prompt much-needed zeal from regulators
+<li> <div> <div> <div> <div> <h3> HSBC fined £64m for failures in anti-laundering processes </h3> </div> <div> <div> <time> Published: 17 Dec 2021 </time> </div> </div> </div> HSBC fined £64m for failures in anti-laundering processes </div> </div> </li>
+<div> <div> <h3> PCR travel tests need better policing, warns ex-watchdog boss Andrew Tyrie </h3> </div> <div> <div> <time> Published: 17 Dec 2021 </time> </div> </div> </div> PCR travel tests need better policing, warns ex-watchdog boss Andrew Tyrie
+<li> <div> <div> <div> <div> <h3> Experts warn over post-Brexit UK rule changes on chemicals </h3> </div> <div> <div> <time> Published: 16 Dec 2021 </time> </div> </div> </div> Experts warn over post-Brexit UK rule changes on chemicals </div> </div> </li>
+<div> <time> Published: 15 Dec 2021 </time> </div> Is Ofgem up to the job of sorting out the energy crisis?
+<div> <time> Published: 14 Dec 2021 </time> </div> Government should use its new powers to block a BT takeover bid
+<div> <div> <h3> Javid and Osborne ‘lobbied to reduce mis-selling payouts to small business’ </h3> </div> <div> <div> <time> Published: 14 Dec 2021 </time> </div> </div> </div> Javid and Osborne ‘lobbied to reduce mis-selling payouts to small business’
+<li> <div> <div> <div> <div> <h3> Microsoft’s bid for AI firm Nuance faces CMA investigation </h3> </div> <div> <div> <time> Published: 13 Dec 2021 </time> </div> </div> </div> Microsoft’s bid for AI firm Nuance faces CMA investigation </div> </div> </li>
+<div> <div> <h3> City regulator refuses to stop LV= members’ vote on sale to Bain Capital </h3> </div> <div> <div> <time> Published: 9 Dec 2021 </time> </div> </div> </div> City regulator refuses to stop LV= members’ vote on sale to Bain Capital
+<div> <time> Published: 9 Dec 2021 </time> </div> Ofgem has shown a lack of basic regulatory insight over energy crisis
+<div> <div> <h3> Bereaved families demand investigation of every UK gambling-linked suicide </h3> </div> <div> <div> <time> Published: 4 Dec 2021 </time> </div> </div> </div> Bereaved families demand investigation of every UK gambling-linked suicide
+<div> <div> <h3> Activist investor Elliott takes stake in Taylor Wimpey and calls for change </h3> </div> <div> <div> <time> Published: 10 Dec 2021 </time> </div> </div> </div> Activist investor Elliott takes stake in Taylor Wimpey and calls for change
+<div> <div> <h3> Prospect of pre-Christmas interest rate rise recedes as UK recovery stutters </h3> </div> <div> <div> <time> Published: 10 Dec 2021 </time> </div> </div> </div> Prospect of pre-Christmas interest rate rise recedes as UK recovery stutters
+<div> <time> Published: 24 Nov 2021 </time> </div> Low interest rates and the housing stimulus keep Australia’s construction strong – but what lies in store?
+<div> <div> <h3> ‘I have to move my bike to get to the fridge’ – the UK boom in microflats </h3> </div> <div> <div> <time> Published: 15 Nov 2021 </time> </div> </div> </div> ‘I have to move my bike to get to the fridge’ – the UK boom in microflats
+<div> <div> <h3><a> JCB failed to do checks over potential use of equipment in Palestine </a></h3> </div> <div> <div> <time> Published: 12 Nov 2021 </time> </div> </div> </div> JCB failed to do checks over potential use of equipment in Palestine
+<div> <div> <h3> Energy bills could rise by 50% amid ‘national crisis’ of soaring UK prices </h3> </div> <div> <div> <time> Published: 23 Dec 2021 </time> </div> </div> </div> Energy bills could rise by 50% amid ‘national crisis’ of soaring UK prices
+<div> <div> <h3> Ofgem gives £1.83bn to energy firms that took on collapsed rivals’ customers </h3> </div> <div> <div> <time> Published: 22 Dec 2021 </time> </div> </div> </div> Ofgem gives £1.83bn to energy firms that took on collapsed rivals’ customers
+<div> <time> Published: 24 Nov 2021 </time> </div> The UK energy sector must be brought back into public ownership as soon as possible
+<div> <time> Published: 22 Nov 2021 </time> </div> Bulb’s collapse signals the urgent need for energy market reforms
+<div> <div> <h3> Neon Reef and Social Energy become latest UK power suppliers to go bust </h3> </div> <div> <div> <time> Published: 16 Nov 2021 </time> </div> </div> </div> Neon Reef and Social Energy become latest UK power suppliers to go bust
+<div> <div> <h3> Five UK suppliers given warning over payments to renewable energy scheme </h3> </div> <div> <div> <time> Published: 12 Nov 2021 </time> </div> </div> </div> Five UK suppliers given warning over payments to renewable energy scheme
+<div> <time> Published: 23 Dec 2021 </time> </div> It’s hard to fancy Flutter as the UK national lottery operator
+<div> <time> Published: 22 Dec 2021 </time> </div> Rising UK energy bills are a political headache with no cure
+<div> <time> Published: 22 Dec 2021 </time> </div> Sunak’s hospitality bailout is only enough for now, just
+<div> <time> Published: 16 Dec 2021 </time> </div> The UK hospitality industry needs its own furlough scheme
+<div> <time> Published: 13 Dec 2021 </time> </div> The LV= muddle shows mutual societies need their own Takeover Panel
+<div> <time> Published: 9 Dec 2021 </time> </div> Suspending shares is embarrassing, the saga of Southeastern rail is serious
+<div> <time> Published: 7 Dec 2021 </time> </div> SSE may not need to split now but it does need more clean energy expertise
+<div> <time> Published: 6 Dec 2021 </time> </div> Funding of care homes isn’t meant to be exciting – or labyrinthine
+<div> <time> Published: 25 Nov 2021 </time> </div> A brief nationalisation of Bulb Energy is easy but an exit could be harder
+<div> <time> Published: 24 Nov 2021 </time> </div> Johnson Matthey hopes investors keep faith as battery failure formalised
+<div> <div> <h3>Observer business agenda Darktrace boss in bid to counter City’s dim view of track record </h3> </div> <div> <div> <time> Published: 21 Nov 2021 </time> </div> </div> </div> Darktrace boss in bid to counter City’s dim view of track record
+<div> <time> Published: 18 Nov 2021 </time> </div> ‘Terminated’ takeover of Metro Bank blow to idea of challenging old guard
+<div> <time> Published: 17 Nov 2021 </time> </div> SSE will be hard to bully given the arithmetic and political backing
+<div> <time> Published: 7:46 PM </time> </div> It’s hard to fancy Flutter as the UK national lottery operator
+<div> <time> Published: 7:57 PM </time> </div> Rising UK energy bills are a political headache with no cure
+<div> <time> Published: 7:08 PM </time> </div> Basic failures at UK banks prompt much-needed zeal from regulators
+<div> <time> Published: 7:02 PM </time> </div> The UK hospitality industry needs its own furlough scheme
+<div> <time> Published: 7:34 PM </time> </div> Is Ofgem up to the job of sorting out the energy crisis?
+<div> <time> Published: 7:15 PM </time> </div> Government should use its new powers to block a BT takeover bid
+<div> <time> Published: 7:40 PM </time> </div> The LV= muddle shows mutual societies need their own Takeover Panel
+<div> <time> Published: 7:18 PM </time> </div> Suspending shares is embarrassing, the saga of Southeastern rail is serious
+<div> <time> Published: 12:01 AM </time> </div> Ofgem has shown a lack of basic regulatory insight over energy crisis
+<div> <time> Published: 6:49 PM </time> </div> SSE may not need to split now but it does need more clean energy expertise
+<div> <time> Published: 7:27 PM </time> </div> Funding of care homes isn’t meant to be exciting – or labyrinthine
+<div> <time> Published: 8:40 PM </time> </div> A brief nationalisation of Bulb Energy is easy but an exit could be harder
+<div> <time> Published: 7:47 PM </time> </div> Johnson Matthey hopes investors keep faith as battery failure formalised
+<div> <time> Published: 7:59 PM </time> </div> ‘Terminated’ takeover of Metro Bank blow to idea of challenging old guard
+<div> <time> Published: 7:28 PM </time> </div> SSE will be hard to bully given the arithmetic and political backing
+<div> <time> Published: 7:38 PM </time> </div> LV= might want to ease up on talk of Royal London ‘hand grenades’
+<div> <time> Published: 7:25 PM </time> </div> Shell basing itself in the UK is not a vote of confidence in the economy
+<div> <time> Published: 6:59 PM </time> </div> Johnson Matthey’s electric car battery ambitions take sharp U-turn
+<div> <time> Published: 8:06 PM </time> </div> Five reasons why Marks Spencer’s turnaround looks like the real deal
+<p>If you are one of the 8 million or so people to whom HM Revenue Customs (HMRC) automatically sends a self-assessment tax return each year, you are required to fill it in. </p>
+<h2>Who needs to fill in a tax return?</h2>
+<p>You will definitely have to do so if you:· are self-employed</p>
+<p>· earn more than £2,500 a year from letting property or land</p>
+<p>· have any other income that can't be taxed through the pay as you earn (PAYE) system</p>
+<p>· get money from a trust or settlement</p>
+<p>· receive taxable income from abroad</p>
+<p>· are a company director, a Lloyd's Name or member, or a minister of religion</p>
+<p>HMRC will also need a completed tax return from employees or pensioners who have:· a yearly income from savings and investments of more than £10,000 (before tax)</p>
+<p>· a yearly income of more than £100,000 (regardless of its source)</p>
+<p>· tax to pay that cannot be collected through PAYE</p>
+<p>· annual claims for business expenses, such as business travel, of more than £2,500</p>
+<p>· some entitlement to a higher personal allowance because they are over 65</p>
+<p>Anyone who has made capital gains (or losses) as a result of selling or giving away assets, such as property or shares, may also need to fill in a tax return. </p>
+<p>· have made gains that are more than the annual exempt amount of £9,600</p>
+<p>· want to claim an allowable capital loss, which can be used to reduce a future capital gains</p>
+<p>Self-assessment tax forms are usually sent out shortly after the end of the tax year to which they relate. The tax return relating to income and gains made in the 2008/09 tax year, for example, will go out shortly after April 5 2009.</p>
+<p>Taxpayers who have previously <a> filed a tax return online</a> will simply get a reminder to file an online return rather than the full paper form and notes.</p>
+<p>The ultimate deadline for filing a return, and paying half of the amount owed, is January 31. The deadline for the second payment is July 31. </p>
+<h2>Information you'll need to give</h2>
+<p>The main tax return asks for details of income from savings, investments and pensions. It also enables you to claim tax deductions, which reduce the amount of tax you pay, such as pension contributions and certain personal allowances.</p>
+<p>Similarly, if you have capital gains, you'll have to fill in the capital gains tax pages.</p>
+<h2>Do you need an accountant?</h2>
+<p>There is no requirement to use an accountant, and you probably don't need one if your tax affairs are straightforward and you'd be happy using the free help available from HMRC to fill in your tax return.</p>
+<p>There is no minimum age at which a person must pay income tax. What matters is your income: if it is below a certain level during a given tax year you won’t have to hand anything over to the taxman. If it is higher, you will face a bill.</p>
+<p>In the 2015/2016 tax year, the personal allowance will rise to £10,500 for everyone.</p>
+<p>In the 2014/2015 tax year, income over your personal allowance is subject to taxation at the following rates:</p>
+<p>From 6 April 2015, the higher rate income tax threshold will increase from £41,866 to £42,286.</p>
+<p>If you are an employee, your employer will deduct the tax you owe at source – that is before your pay packet is handed over.</p>
+<p>If you work for yourself you must register for self-assessment with HM Revenue Customs within three months of becoming self-employed, or you risk a fine of £100.</p>
+<p>After that you will be sent a tax return each April for the previous 12 months. Although you can work out your own tax bill, HMRC will do it for you if you fill in the form online before 31 January.</p>
+<p>You will need to settle your tax bill by 31 January, otherwise you will face a fine.</p>
+<p>The tax code is the total figure you are allowed to earn in any tax year before you start paying tax, without the final digit. For example, a code of 512H means that you start paying tax after you have earned £5,120.</p>
+<p>Sometimes your taxable benefits will exceed your allowances, an example being if you are taxed on a company car or you owe money to HMRC from previous tax years. In these cases, a K code enables your employer to recoup tax on behalf of HMRC.</p>
+<p>Make sure you check your tax code if you change jobs or your circumstances otherwise change. If you think the code is wrong, speak to your employer and to the tax office.</p>
+<p>If you are a higher-rate taxpayer you will need to contact your tax office. It will ask you to fill in a tax return, or form P810, and arrange to deduct the extra tax through your employer’s payroll.</p>
+<p>If you fill in a tax return you should keep records of your taxable income for at least 22 months after the end of the current tax year. Make sure you keep your P60s in a safe place as duplicates are not always easy to obtain.</p>
+<p>Self-employed people must keep records for six years after the relevant tax year.</p>
+<p>When someone makes money selling assets other than their main home, for example by selling a buy-to-let property or shares, he or she may be liable to pay capital gains tax (CGT).</p>
+<p>There are many reliefs and exemptions available, which can reduce or completely wipe out any CGT bill. </p>
+<p>Any gain you make when you sell your home is tax-exempt, unless you have let part of it or used it to run a business. In those circumstances, a proportion of the gain may be taxable, depending on a sliding scale.</p>
+<p>If you make losses from any sale, you can offset these against any gains to reduce your tax bill – but only if they are from the sale of assets that would have attracted CGT, so losses in an Isa, for example, don't qualify.</p>
+<p>When calculating your taxable gain you will no longer be able to take inflation into account or use taper relief to reduce your bill. These reliefs were scrapped in April 2008 and the flat rate of tax introduced in their place.</p>
+<p>There are other ways to reduce the amount of CGT you need to pay. These include using your annual Isa allowance, where £10,200 can be sheltered tax-free. </p>
+<p>Venture capital trusts (VCTs) and enterprise investment schemes (EISs) are other alternatives particularly aimed at those with substantial amounts to shelter.</p>
+<p>HM Revenue Customs allows up to £200,000 to be invested in VCTs tax-free. These trusts operate like conventional investment trusts, but invest in small, unquoted trading companies. The risk is therefore greater, but the tax advantages are better.</p>
+<p>With so many ins and outs, a good accountant is best placed to advise on avoiding or reducing your CGT bill.</p>
+<p>If you have made gains you need to declare them to the taxman via special pages on the self-assessment form. If you don't tell your tax office you have a liability within six months of the end of the tax year, you may have to pay a penalty. </p>
+<a>Institute of Chartered Accountants</a> and the
+<p>Also known as stocks and equities, shares are divided-up units of the value of a company. When you buy a share you buy a stake in the company, and co-own it along with all the other shareholders. </p>
+<p>There are two ways to make money on shares: one is through capital growth - you buy the shares, then sell them on at a higher price than you paid for them. </p>
+<p>The second way you can make money from shares is through the dividend.</p>
+<p>Shares are available when companies float on the stock market - known as an initial public offering – and if you buy them from other shareholders. </p>
+<p>If you do want to put together your own portfolio of shares you will need to get in touch with a stockbroker, either directly or through your financial adviser. </p>
+<p>Stockbrokers offer three types of service:</p>
+<p>As well as paying the stockbroker for any advice, you will also need to pay dealing costs.</p>
+<p>When you buy shares you will also pay a stamp duty charge, equal to 0.5% of the value of the transaction.</p>
+<p>However, when the results come through and reveal that profits have gone up "only 75%", the price will probably fall because the current facts are less exciting than the earlier prediction. </p>
+<p>Successful investors usually spend a lot of time researching companies before and after they invest in them in an attempt to work out what will happen to share prices.</p>
+<a>Savings</a> Investments was set up in 1861 as the Post Office Savings bank. The bank was backed by the government and money paid in by the public provided a fund for the then chancellor, Gladstone, to borrow to put towards public spending.
+<p>During the first world war the scheme was expended to pull in more funds to finance the war effort, and savings certificates were introduced. Later, in November 1956, premium bonds were introduced.</p>
+<p>In 1969, the Post Office Savings bank became a separate government department, accountable to Treasury ministers, and was renamed National Savings. Investments was added to the title in 2002.</p>
+<p>NSI offers a range products, some of which are unavailable elsewhere. </p>
+<p>Alongside an instant access deposit account, <a>Isas</a> and savings bonds, it offers savings certificates and premium bonds - products that are not available from other institutions.</p>
+<p>Each month, millions of prizes are paid out, ranging from £50 to two jackpot prizes of £1m. The winning bonds are picked each month by Ernie - a random number generator, now in its fourth incarnation. </p>
+<p>Prizes are paid tax-free and there is no limit to how much you can win each month. However the odds of any bond win any prize each month are 36,000 to one.</p>
+<p>For more on premium bonds, see our <a>QA</a>.</p>
+<h2>Where to find NSI products</h2>
+<p>Most of the products can be bought via the telephone, post and the <a>NSI website</a>.</p>
+<p>You will also find leaflets and application forms for NSI products in post office branches, and from November 2007 premium bonds will also be marketed in branches of WH Smith.</p>
+<p>An Isa is a tax-efficient "wrapper" in which you can hold either stock market-based investments or a traditional savings account.</p>
+<p>Isas replaced personal equity plans (Peps) and tax exempt special savings accounts (Tessas), which closed to new investors in April 1999. Two types of Isas are available: stocks and shares Isas and cash Isas.</p>
+<p>Because of the associated tax breaks, the amount that can be invested in an Isa each tax year is limited. </p>
+<p>How the money is divided depends on the kind of assets people want to hold.</p>
+<p>You can invest your £11,280 in two ways:</p>
+<p> Put all £11,280 in stocks and shares, or</p>
+<p> Put up to £5,640 in cash and the balance in stocks and shares.</p>
+<p>A cash Isa can be held with one provider and the remainder of the overall allowance in a stocks and shares Isa from another provider, or it can all be held with the same company. </p>
+<p>An investor can put their full allowance in stocks and shares, but if they want to reduce their risk they may prefer to hold some of the allowance in cash. </p>
+<p>If they want instant access to their money, a cash Isa will probably suit them better. But if they are thinking of investing money they can afford to lock away, they should consider shares.</p>
+<p>These are designed for investors who want to hold individual stocks and shares and are offered by stockbrokers and online share dealing sites.</p>
+<p>An investor can buy up to £11,280 of shares through the Isa provider. As with share deals done outside the wrapper there will be costs associated with buying and selling stocks. These will be on top of any charge for the Isa wrapper. </p>
+<p>Basic rate taxpayers who are usually taxed at 20% on interest earned on savings accounts and bond funds do not pay a penny on interest earned on a cash Isa. Higher rate taxpayers make bigger tax savings, as they usually face 40% tax.</p>
+<p>On stocks and shares Isas basic rate taxpayers are taxed at 10% – the same as on shares held outside the Isa wrapper.</p>
+<p>Higher rate taxpayers do gain from holding dividend-producing shares in an Isa – they pay tax at 10% rather than the 32.5% that is deducted on non-Isa investments.</p>
+<p>Profits from shares held in an Isa are not subject to capital gains tax, which means any growth on your investment is all yours. You don't even have to declare your Isa on your tax return.</p>
+<p>Isas can be transferred from a previous tax year from one provider to another without having an impact on the current year's allowance.</p>
+<p>However, most of the best-buy cash Isas do not accept transfers in, so investors shopping around for a new home for last year's cash Isa need to make sure they read the small print before comparing rates. </p>
+<p>Money from a cash Isa can be transferred into a stocks and shares Isa. If the cash Isa was from a previous tax year, an investor can move as much or a little as they like. </p>
+<p>If the cash Isa is from the current tax year, they must move all of it. They will, however, be free to invest up to £5,640 in another cash Isa, subject to the overall investment limit of £11,280.</p>
+<p>Transfers from stocks to cash are not allowed.</p>
+<p>A fund is a pool of money which is professionally managed to achieve the best possible return for investors. When money is paid in the manager uses it to buy assets, typically stocks and shares.</p>
+<p>There are many different types of funds, but the main ones you will probably encounter if you are investing through an Isa, pension or monthly savings scheme, are unit trusts, OEICs and investment trusts.</p>
+<p>Funds tend to be run around themes – a manager will often focus on a particular sector, or he or she may aim to produce an income for investors, or to produce capital growth.</p>
+<p>Most funds are available to people with a lump sum to invest and to those who want to make regular payments.</p>
+<p>Fund managers will apply different rules on minimum contributions – some will accept monthly payments of £50 or more, but others may set the bar much higher.</p>
+<p> Unit trusts and their more modern counterpart open-ended investment companies (OEICs) make up most of the investment fund market.</p>
+<p>The funds are split into units and you buy some when you invest.</p>
+<p>The value of those units goes up and down in line with the performance of the assets in which the fund manager has invested.</p>
+<p>The number of units that make up the fund increases and decreases as investors put money in or take it out.</p>
+<p>When people want to cash in their investment, the fund manager will sell assets to realise the cash.</p>
+<p>Like unit trusts and OEICs, investment trusts are pooled investments that bring together money from a number of investors.</p>
+<p>While the number of units in a unit trust fluctuates, the number of shares in an investment trust is constant and if you want to cash in your investment you will have to sell your shares.</p>
+<p>The cost of shares in an investment trust does not usually accurately reflect the value of the underlying assets – most trade at a discount to their real value.</p>
+<p>The managers of unit trusts, OEICs and investment trusts will have a fund objective, which is outlined in literature given to potential investors.</p>
+<p>They may choose to target income, capital growth or a combination. They will usually do so within a particular sector or according to a particular theme.</p>
+<p>So a fund may be a UK growth fund, which aims to increase the value of an investor's capital by buying shares in companies based in the UK, or it may be a smaller companies fund, which invests only in companies below a certain value.</p>
+<p>There are hundreds of different sectors, some containing many more funds than others. The smallest sectors are the most specialist, offering funds that focus on a small geographical area or a tiny area of the market.</p>
+<p>Different charging structures and different ways of tracking can result in two funds producing different returns. </p>
+<p>Because tracker funds are not actively managed, they tend to have lower costs than managed funds.</p>
+<p>The suitability of a particular growth fund will depend very much on why you are investing. </p>
+<p>But if you have no specific purpose for investing and can afford to take a risk, a move into funds which invest in smaller companies, technology and the internet, or overseas and emerging markets could be more rewarding. </p>
+<p>Most unit trust and OEIC investments have upfront charges, although discount brokers will rebate most or all of these fees to customers.</p>
+<p>In most cases you won't pay more than a 1% initial charge on a unit trust if you use a discount broker. </p>
+<p>If you choose to go directly with a fund manager, it will usually cost you between 3% and 5% of your investment. Managers also charge anything from 1% to 1.5% each year for their services.</p>
+<p>Buying an investment trust tends to be cheaper, as upfront costs can be as low as 0.5% of your investment and annual management fees may be less than 1%. </p>
+<p>Like discount brokers, fund supermarkets usually offer a discount on upfront fees, helping you to make sure as much of your money as possible goes into your investment.</p>
+<p>They also allow you to spread your money between funds from a range of fund managers.</p>
+<p>As with any investment that relies on the whims of the stock market, there are risks involved in putting your money into funds.</p>
+<p>The level of risk will depend on the underlying investments. A fund spread across a range of companies and asset classes, for example, will offer more security than a fund which invests only in one industrial sector, such as technology.</p>
+<a>banks and building societies share a licence</a>.
+<p>You do not need to contact the institution yourself in order to make a claim. You will typically be required to complete a claims application form, which the FSCS will send you after the provider has gone into default. </p>
+<p>The FSCS normally issues a cheque for compensation, but says it will consider other alternatives for claimants who do not have a bank or building society account.</p>
+<h2>Making a claim against an insurer</h2>
+<p>If you are making a claim against an insurance company that has gone bust, the FSCS could compensate you for the premiums you have already paid (if the insurer is unable to do so) and will try and help you transfer policies or pay you compensation. </p>
+<p>The FSCS will usually ask you to send any documents relating to your investments which the company may have sent you. The more information you provide the smoother the claiming process may be.</p>
+<p>Lost and forgotten building society and bank accounts hold millions of pounds of savers' money. If you think you have a dormant account there are a number of ways to track down your cash.</p>
+<h2>Banks and building society accounts</h2>
+<a>Savings</a> and Investments (NSI).
+<p>If you can't find the bank or building society you are looking for on the mylostaccount site, you should call the BBA's dormant accounts unit on 020 7216 8909.</p>
+<p>Searches can take up to three months to complete, so be patient. </p>
+<h2>National Savings Investments</h2>
+<p>You can go direct to NSI and use its tracing service, or use the mylostaccount site to search for lost accounts. Both services cover accounts bought from NSI and the old Post Office Savings Bank accounts, as well as missing Premium Bonds.</p>
+<p>However, if you know your Premium Bond numbers but do not know if you have unclaimed prizes you should check if you have won on the <a>NSI website</a>. </p>
+<p>As long as you have some information or documentation - for example, the holder's number, the holder's card or the Bond itself - you won't need to complete a tracing request form to claim your lost prize.</p>
+<h2>Investments and insurance policies</h2>
+<a>Unclaimed Assets Register</a>, as many of its members register unclaimed policies with the site.
+<h2>Unclaimed assets scheme</h2>
+<p>Under a government scheme to be introduced in 2009, money that has sat untouched in bank and building society accounts for at least 15 years will be taken into a central account. The money will then be distributed alongside lottery fund money.</p>
+<p>At the age of seven, children receive another £250 payment, or £500 if the family qualifies for the full child tax credit.</p>
+<p>Relatives and friends can pay extra money into the CTF, to a maximum of £1,200 a year. </p>
+<p>Parents must choose a CTF and invest their child's money within 12 months of receiving the voucher, as is explained in an information pack sent alongside the voucher. </p>
+<p>There are several types of CTF. You can choose between investment funds linked to the stock market, basic deposit accounts and stakeholder CTF accounts.</p>
+<p>A deposit account is like an ordinary cash savings account, a safehouse for the money – although the flipside is that it will have relatively little growth potential.</p>
+<p>There are ethical CTFs, which invest only in companies that meet certain ethical criteria, and sharia-compliant accounts.</p>
+<p>Charges on stakeholder CTFs are capped at 1.5% a year, while there are no limits on charges for stock market linked CTFS. CTFs invested in deposit accounts attract no charges.</p>
+<p>Not all the companies on the government's list of registered providers offer all three types of CTFs, though all must provide access, directly or through a partner, to a stakeholder kind.</p>
+<p>CTF providers send out a performance statement each year detailing how much money has been added to the account, charges that have been applied and how much it is now worth.</p>
+<p>At age 16, children can begin making decisions about how their CTF is managed, including taking over as the registered contact for their fund - annual performance statements will then be sent to them.</p>
+<p>When children turn 18, their CTF matures and they can get their hands on the cash. There is no tax to pay on the money but nor will it accrue more investment gains or interest. </p>
+<p>There is no restriction on the way the money is spent but the government hopes it will be used to provide a good financial start in life, such as providing a leg-up on to the property ladder. </p>
+<p>Children born on or before August 31 2002 are not eligible for a voucher from the government or to have a CTF opened on their behalf.</p>
+<p>However, there are other savings and investment options to give your child a head start in life. There are also many savings accounts specifically geared towards children.</p>
+<p>A personal pension is a savings scheme designed to pay out when you finish work. You may be able to survive on the <a>state pension</a>, but if you want extra income a personal pension is one way to provide it.</p>
+<p>Whichever you choose, you will make regular contributions into the scheme until you choose to retire. The money will be invested on your behalf, and your fund will grow in line with the performance of the investments.</p>
+<p>When you reach retirement you will be able to take up to 25% of your fund as a tax-free lump sum, and use the rest to provide an income for the rest of your life.</p>
+<p>Remember, the earlier you start paying into a pension, the longer it has to grow so you can retire on a comfortable income.</p>
+<p>However, you only get tax relief on a sum equivalent to 100% of your earnings. </p>
+<p>If you are not earning, perhaps because you have taken a career break, you can still pay into a personal pension provider, but your contributions are limited to £3,600 a year, after tax-relief.</p>
+<h2>Tax-relief on personal pensions</h2>
+<p>For a higher-rate taxpayer the relief is worth 40%, but only 22% is paid straight into your pension. You have to reclaim the difference between basic and higher-rate tax relief through your annual tax return.</p>
+<h2>Stakeholder personal pensions</h2>
+<p>These are the simplest form of personal pension and are designed for people seeking a no-fuss retirement savings vehicle. The investment choice is limited, usually to the pension provider's in-house funds.</p>
+<p>Stakeholder schemes are low-cost and provide easy access for savers. The rules state that providers must accept payments of just £20, and the maximum they can charge for the scheme is 1.5% a year.</p>
+<p>The provider cannot charge members for transferring money into or out of a stakeholder scheme. </p>
+<h2>Standard personal pensions </h2>
+<p>These offer more investment choice than stakeholder plans, with between 40 and 400 funds available from a range of managers. </p>
+<p>Many personal pension providers have now brought their plans in line with the stakeholder model, capping charges at 1.5% a year for the first 10 years and 1% thereafter.</p>
+<p>Be aware there is still no limit on personal pension charges outside a stakeholder, so check what these are before you apply.</p>
+<h2>Self-invested personal pensions (Sipps)</h2>
+<p>These are a step on from standard personal pensions and give a wider investment choice, usually at a higher cost. For those wanting to pick and choose the funds in which their pension invests, a Sipp may be a suitable choice.</p>
+<p>Dealing charges and management fees vary dramatically between providers, and can be hefty, making Sipps traditionally suited to high-net worth individuals.</p>
+<p>As well as set-up charges of between £400 and £500, and annual charges of around the same sum, you face initial and annual charges for each investment made.</p>
+<p>However, newer stakeholder-style contracts with lower charges are gradually being introduced,, giving Sipps wider appeal - although you can't invest in commercial property through these.</p>
+<p>Sipps are available from independent financial advisers and stockbrokers, as well as from traditional pension providers.</p>
+<p>Employer schemes also tend to have add-on benefits such as life insurance, also known as death-in-service benefits. </p>
+<p>Your scheme booklet should explain how the pension plan works and what your entitlements are.</p>
+<p>Most commonly, these schemes pay one-60th of your final pay for each year of membership. </p>
+<h2>Money purchase schemes </h2>
+<p>These are also known as defined contribution schemes as the only thing that is guaranteed is the amount going into the scheme - what comes out is subject to the performance of the investments bought by the pension fund manager.</p>
+<p>From April 2010, you will have to be 55 before you can draw on a company pension, unless you are in poor health.</p>
+<p>Taking out travel insurance is an important part of planning a trip abroad and will protect you against the cost of any unforeseen events.</p>
+<p>It may also meet the cost of new baggage if your luggage is lost or stolen, and compensate you if your trip is cancelled, your travel delayed or you miss your departure. </p>
+<p>It's now cheaper and easier than ever to get travel insurance, with some single trip policies only costing around a fiver. But remember that cheapest is not necessarily best, as the cover might be inadequate and the service a little thin.</p>
+<p>Buy your cover directly from the insurer rather than from a tour operator or travel agent. It will be cheaper, and if anything goes wrong you will have recourse to the Financial Ombudsman Service to claim compensation.</p>
+<p>If you are likely to take more than two trips a year, it is probably worthwhile investing in annual multi-trip insurance rather than a single trip policy.</p>
+<p>The amount of baggage cover you need depends on the value of the possessions you wish to take. There is often a limit of £200 an item, so make sure your home insurance covers you for any expensive items outside the house.</p>
+<p>Declare to your insurer any valuables you are taking - such as a camera or jewellery - to establish whether special procedures are required - for example locking them in a safe, or paying an additional premium.</p>
+<p>The excess, which is the sum you are required to pay of any claim before the cover kicks in, varies depending on the policy. Some insurers don't charge any, although these are few and far between. Typically it is around £50-£75.</p>
+<p>The minimum medical protection recommended for Europe is £1m, and £2m for the US where hospital costs are higher. However, many quality policies automatically cover up to £5m.</p>
+<p>Study the small print carefully, and make sure you're aware of any exclusions. Alcohol is one to consider - if you are ill or have an accident after drinking, your insurer is within its rights to refuse the claim.</p>
+<p>Insurers will not provide cover for any areas banned for travel by the Foreign Office. Traditionally, policies don't cover terrorism and would therefore not meet any medical costs if you were caught up in an incident.</p>
+<p>Activities with an added element of risk associated with them, such as jetskiing, hang-gliding, parachuting and bungee jumping will not be covered under a normal policy, but specialist cover is easy to find.</p>
+<p>· You will need to provide proof of any incident. Report all thefts or losses to the nearest police swiftly and ask them for a written police report. Get a receipt from the airline or baggage handler for lost or damaged luggage</p>
+<p>· Get your paperwork in order for medical claims, and keep all receipts for all expenses</p>
+<p>· Contact your insurer as soon as possible for a claim form. Complete it and return it with any suitable evidence, including copies of receipts, photographs and any police or medical reports you have</p>
+<p>· If you do send any original documents, always make sure it is by recorded delivery, and you keep photocopies</p>
+<p>· Keep all correspondence between yourself and the company. Make accurate records of every phone call, the name of the individual you spoke to and the time you spoke to them</p>
+<p>· fees charged by private medical staff for both diagnosis and treatment</p>
+<p>· operating expenses, including surgeons', anaesthetists' and operating theatre fees</p>
+<p>· accommodation and nursing charges</p>
+<p>· x-rays, dressings and medication while an inpatient</p>
+<p>· specialist treatment such as radiotherapy, chemotherapy and physiotherapy</p>
+<p>· home nursing costs, outpatient and day care treatment if linked to treatment received as an inpatient</p>
+<p>If you are prepared to pay a higher premium, you can get a policy that also provides cover for:</p>
+<p>· cash payments if you stay in hospital as an NHS patient (rather than claiming on the policy)</p>
+<p>· outpatient tests and treatment not linked to an inpatient stay</p>
+<p>· emergency medical treatment while travelling abroad</p>
+<p>Because private medical insurance covers the unforeseen, you will not be able to get cover for an illness you developed shortly before taking out the policy or for the recurrence of a recent illness, known as a "pre-existing medical condition". </p>
+<p>No policy will cover all your medical needs and the following are almost certain to be excluded:</p>
+<p>· routine check-ups from a GP, dentist or optician</p>
+<p>· incurable or chronic conditions, including the terminal stages of cancer</p>
+<p>· long-term illnesses such as asthma, diabetes and multiple sclerosis</p>
+<p>· normal pregnancy and childbirth</p>
+<p>· treatment needed because of self-inflicted harm, including drug or alcohol abuse</p>
+<p>· treatment needed as a result of pursuing a dangerous sport</p>
+<p>What you pay for PMI depends on your age, sex, health and where you live. The more comprehensive the cover offered by a policy the higher the premiums.</p>
+<p>· increase the policy excess, which means you contribute more towards the cost of your medical bills yourself </p>
+<p>· restrict your choice of hospitals to those nominated by your insurer</p>
+<p>· get treatment on the NHS if it's available without too long a wait, for example within six to 12 weeks</p>
+<p>· opt for only limited cover and pay for other treatments yourself</p>
+<p>Because policies vary widely in the cover they offer, the best way to buy PMI is through an <a> independent financial adviser</a>.</p>
+<p>Although any vendor must explain the cover provided by (and limitations of) a policy, only an independent adviser can trawl through all the policies on the market to find one to meet both your circumstances and your budget.</p>
+<p>If your furry friend needs medical care or surgery, the costs can mount up to thousands of pounds. <a>Pet insurance</a> gives owners peace of mind that hefty vet's bills will be covered in the event of illness or accident. </p>
+<p>Cats and dogs are the easiest pets for which to find insurance but most animals can be covered – even iguanas. However, you may have to approach a specialist provider if your pet is particularly exotic. </p>
+<p>Expected costs, for example for vaccinations or for spaying or neutering your pet, won't be covered by a pet insurance policy.</p>
+<p>Among a variety of providers, many big name insurers now offer pet insurance. You will even see leaflets advertising it in supermarkets and bank branches.</p>
+<p>Most providers base their quotes on the age and breed of your pet and the area in which you live. </p>
+<p>The cost of cover increases the older your pet is. Just like humans, older animals are more likely to need medical treatment.</p>
+<p>Pet insurance can cost as little as £5 a month but in some cases premiums can run into hundreds of pounds a year.</p>
+<p>Read the small print before you sign on a policy and make sure you are happy with the level of cover it provides. </p>
+<p>As well as checking how much cover you are getting, if you are planning to take your pet overseas you must ensure your policy will provide emergency expenses abroad.</p>
+<p>If your claim involves a third party, you should contact your insurance company before you do anything else, as it will deal directly with the third party.</p>
+<p>There are three basic types of motor insurance: third party; third party, fire and theft; and fully comprehensive.</p>
+<p>On top of the three basic types of insurance there is a bewildering array of extras - some thrown in by the insurer as standard, some optional that carry a cost. </p>
+<h2>What affects the cost of cover?</h2>
+<p>Each motor insurance provider will set a different premium rate for each car according to its own claims statistics. </p>
+<p>Factors that affect what you pay include your age, what car you drive, how long you have been driving, where you live and where the car is kept. </p>
+<p>Life insurance helps your dependants to cope financially in the event of your death. </p>
+<p>The cheapest, simplest form of life cover. It is straightforward insurance with no investment element and it pays out a lump sum if you die within a specified period. </p>
+<p>Often term assurance is bought at the same time as a mortgage, and taken out for the same 25-year period. If you are alive at the end of the term you don't get anything back. </p>
+<p>• Convertible term assurance - the policyholder has the option of switching in the future to another type of life insurance such as a "whole of life" or endowment policy without having to submit any further medical evidence. </p>
+<h2>Whole-of-life insurance</h2>
+<p>A policy that lasts throughout your life so your dependants are guaranteed a payout whenever you die. Because you are certain to die while holding the policy, premiums are substantially higher than for term assurance.</p>
+<p>Life cover is offered by insurance companies and some friendly societies; many insurers sell directly to the public, and through other outlets including mortgage brokers, banks and building societies and comparison websites.</p>
+<p>Income protection insurance - also known as permanent health insurance - is designed to replace part of your lost earnings if you are unable to work because of illness or disability.</p>
+<p>Income protection insurance pays out when you become ill or suffer an accident and, as a result, you are left unable to work.</p>
+<p>But how "unable to work" is defined varies from policy to policy and can be any of the following:</p>
+<p>· An inability to do your own job</p>
+<p>· An inability to do your own or a similar job for which you are qualified</p>
+<p>· An inability to do any kind of paid work</p>
+<p>For a limited period, some policies also make a "partial" or "rehabilitation" payment if you are able to return to your old job but in a reduced capacity - part-time, for example.</p>
+<p>Some policies also make a 'proportionate' payment which tops up earnings if you go back to work full-time but take a lower-paid job.</p>
+<p>Policies do not cover you if you are unable to work as a result of:</p>
+<p>· Health problems you had before taking the policy out – called "pre-existing medical conditions"</p>
+<p>· Taking part in dangerous sports or other activities which you failed to disclose when applying for the policy</p>
+<p>· Pregnancy or childbirth </p>
+<h2>Buying income protection insurance</h2>
+<p>What you pay for income protection insurance depends on your age, sex, state of health and the kind of work you do. Women tend to face higher premiums as do people in jobs where there is high risk of physical injury.</p>
+<p>When you buy income-protection insurance, you will need to decide:</p>
+<p>· How much you want the policy to pay out;</p>
+<p>· How long you want cover to last</p>
+<p>· How long you are prepared to wait before payment is made</p>
+<p>· Whether you want to build in increases to the cover - to keep up with inflation, for example</p>
+<p>Because policies vary - and insurers differ in their attitude to the risks posed by different jobs - it is worth buying through an independent adviser or a broker who specialises in protection insurance.</p>
+<p>An adviser will be able to trawl through all policies on the market and should be able to find the one offering the best cover for your particular circumstances.</p>
+<p>While you are receiving payments under the policy, you will usually have to provide monthly medical certificates from your doctor as ongoing proof of your ill health.</p>
+<p>Critical illness insurance pays out a tax-free lump sum if you are diagnosed as having one of the specific life-threatening conditions defined in the policy. </p>
+<p>Policies often offer combined life and critical illness cover. These pay out if you are diagnosed with a critical illness, or you die, whichever happens first. </p>
+<p>Not all policies cover all critical conditions but industry guidelines say that to call itself critical illness insurance, a policy must offer cover for:</p>
+<p>· Cancer - but only advanced cases </p>
+<p>· Heart attack - if sufficiently severe</p>
+<p>· Stroke - if it results in permanent symptoms</p>
+<p>In practice, most policies cover more critical conditions than just these three. A basic plan will typically also cover coronary bypass surgery, kidney failure, major organ transplants and multiple sclerosis. </p>
+<p>A more comprehensive policy will cover many more serious conditions including loss of sight, permanent loss of hearing and a total and permanent disability that stops you from working. Some policies also provide cover against the loss of a limb.</p>
+<p>Similarly, some conditions will not be covered if you suffer from them after reaching a certain age - for example, many policies will not cover Alzheimer's disease if diagnosed after the age of 60. </p>
+<p>In addition, most policies do not cover any claims made as a result of:</p>
+<p>· Flying - apart from normal passenger flights</p>
+<p>· Engaging in hazardous sports and pastimes</p>
+<p>· HIV- and Aids-related illnesses - unless caught from a blood transfusion, through physical assault or at work in the emergency services, medical profession or armed forces</p>
+<p>· Unreasonable failure to follow medical advice</p>
+<p>· War and/or taking part in a riot or other civil commotion</p>
+<h2>Buying critical illness insurance</h2>
+<p>Because policies vary widely in the cover they offer, the best way to buy critical illness insurance is through an independent financial adviser or a broker specialising in protection insurance. </p>
+<p>It is vital that you give full and accurate answers to all the questions asked when you apply for insurance. Failure to disclose "material facts" which affect an insurer's decision to offer cover can result in claims being turned down.</p>
+<p>How much you pay for critical illness cover will depend on a range of factors including what sort of policy you have chosen, your age, the amount you want the policy to pay out and whether or not you smoke.</p>
+<p>And, of course, if the condition you are suffering from does not meet any of the definitions listed in the policy, your claim will be turned down.</p>
+<p>When you take on a new mortgage you will be given a number of options. Among the things you need to decide are what kind of rate you want, how you will pay off the loan and how much you need to borrow.</p>
+<p>Discount rates The interest rate is a set margin below the lender's SVR for a set period, and during that time it moves up and down as the SVR changes.</p>
+<p>Choose an interest-only mortgage and, as the name suggests, your monthly payment is only paying off the interest. The monthly payment will be lower as a result, but you will need to work out how to pay off the capital at the end of the loan period.</p>
+<h2>How much you need to borrow</h2>
+<p>Most of the lowest interest rates are available on mortgages that are available only up to 60% LTV – that is, to people who can afford a deposit equal to 40% of the price of the property.</p>
+<p>Fortunately, it is possible to borrow more. Some lenders are doing loans of up 95% LTV to new buyers, but you will get a better choice of deal if you can afford a deposit of at least 10%.</p>
+<p>You are also likely to pay for the lender to have your chosen property valued.</p>
+<p>If you do find you are struggling to make your monthly payments, contact your lender as soon as possible to let it know. It is in everyone's best interests for it to try to help you to find a way to get back on track.</p>
+<p>There are two types of insurance you need to consider for your home - one covers the building and the other the contents.</p>
+<p>Not all contents policies cover accidental damage as a matter or course. If you want peace of mind should you spill tea on the carpet or paint on the sofa, you may have to pay extra for such cover. </p>
+<p>To reduce the cost of your cover, you could opt for a higher “excess” - the amount of any claim you must pay yourself.</p>
+<p>Another way to reduce your premiums is to increase security on your house: upgrading locks and buying burglar and smoke alarms make your home a lower risk for the insurer, resulting in cheaper insurance for you. </p>
+<p>While it may seem obvious, it is worth shopping around to find the cheapest policy that suits your needs. Brokers and online comparison tools will help you to find the best deals. </p>
+<p>While your bank will happily offer cover, it is unlikely to be the best value. </p>
+<p>Premiums will generally be lower for detached houses and higher for terraced houses and flats. </p>
+<p>You must make sure you do not give your insurance company any inaccurate or untrue information. You should also make sure you understand the small print of your policy to ensure it covers you for the risks you think you it does.</p>
+<p>You can be prosecuted for fraud if you provide inaccurate information. Remember, any claim you make will have to be declared to other insurers, and you may pay more for premiums in the future as a result.</p>
+<p>Conveyancing is the work that is done to enable the legal transfer of property, as well as all the work done in the run-up to the completion of the sale.</p>
+<p>The process is complicated and includes drawing up contracts, understanding and carrying out searches, and looking after all post-completion paperwork.</p>
+<h2> Buying and conveyancing</h2>
+<p>A conveyancer will act on your behalf once you have found your new home, and will contact the seller's conveyancer. He or she will also make any pre-contract enquiries on issues such as alterations to the property. </p>
+<p>Once everything is considered to be satisfactory, contracts and deeds are prepared and a date for completion is set.</p>
+<p>The conveyancer will also arrange for you to pay stamp duty on the property. He or she will let you know how much you owe and make sure you fill in the correct forms for HM Revenue Customs.</p>
+<h2>Selling and conveyancing</h2>
+<p>Your conveyancer will prepare draft documentation that should include a draft contract of sale and a copy of the lease if the property is a leasehold.</p>
+<p>They will also arrange for the buyer to pay a deposit - usually at least 5% of the total sale price - on the day the contracts are exchanged.</p>
+<p>On completion of the sale your conveyancer will receive the balance of the sale price and, in return, hand over the title deeds to the buyer's conveyancer.</p>
+<p>There will also be fees for third parties, known as disbursements. These can include fees for transferring money to a buyer, stamp duty and land registry costs.</p>
+<p>The protection covers undelivered and faulty goods, and services such as flights, if the retailer goes out of business or disappears. It applies to purchases made overseas, and to those made online or by phone from an overseas retailer.</p>
+<p>To make use of section 75 you only need to put the deposit for the purchase on your card, not the whole cost.</p>

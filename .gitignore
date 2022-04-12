@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+
+parser/tmp/
+parser/charemb-dataset/tmp/
+parser/htmlsecreg-dataset/tmp/
+
+*.ipynb

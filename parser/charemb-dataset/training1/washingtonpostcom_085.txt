@@ -1,0 +1,500 @@
+<li> <div> <div> <div> <a> <p>CBS All Access</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Chemours</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Chevron</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Children's National Hospital</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Cigna</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Cisco</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Cisco Webex</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>CIT</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Citrix</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Cleveland Clinic</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>CMEGroup</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Colonial Williamsburg Resorts</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Covid-19 Thought Leadership</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>CSX</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Dairy Management Inc</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Davita</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Dell</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Dell EMC</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Dell EMC US</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Dell Technologies</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Dell Technologies and Intel®</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Deloitte</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Destination Canada</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Discover</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Discover Student Loans</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Dorchester County Md</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Dorchester County Md and Talbot County Md</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Dropbox</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>DXC Technology</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>EagleBank</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Eli Lilly and Company</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Embassy of Italy</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Embassy of Japan</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Eni</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Fanatics</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Fawn Lake</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Firefox</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Fortinet</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Fox</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Frederick County</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Fresenius Medical Care</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>FX</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>GEICO</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Georgetown</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Georgetown Mccourt</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Gilead Sciences Inc</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Goldman Sachs</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Graves</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Guide to Graduate Education</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Harrys</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Health is Primary</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Hewlett Packard Enterprise</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Hilton</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Hitachi</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>HopSkipDrive</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>HP Wolf Security</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Huawei</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Hulu</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>IBM</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>IBM Power Systems</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>IBM Security</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Ikea</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Inc.</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Indeed</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Inova</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Intel</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>International Beverage Holdings Limited</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Intuit</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Intuit QuickBooks</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Jaguar</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>JobsOhio</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Johnnie Walker</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Johns Hopkins Kimmel Cancer Center</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>JPMorgan Chase</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>JPMorgan Chase + The Lily</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Justice for Kurds</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>K12</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Kaiser Permanente</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>KeyBank</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>KLM</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Land O' Lakes</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Land Rover</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Leidos</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Lennox</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Lockheed Martin</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Long Foster</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Long Roofing</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>LuminUltra</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Make in India</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Marriott Bonvoy</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Maryland Renaissance Festival</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Maryland's Beach and Beyond</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>MassMutual</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Mastercard</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Maxar</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>McDonald's</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>MedStar Health</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Mercedes-Benz</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>MGM National Harbor</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Microsoft</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Mike's Hard Lemonade</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Milner Foundation</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Mitsubishi Heavy Industries</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Montgomery MD</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Morgan Stanley</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>National Association of Realtors®</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>National Ready Mixed Concrete Association</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>National Taxpayers Union</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Net10 Wireless</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>NI</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Novartis Gene Therapies</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Omega</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Omni Hotels Resorts</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>On</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Onstar</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Oppenheimer Funds</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Optum</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>PayPal</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Pen Fed</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>PenFed</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Pfizer</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Philip Morris International</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Philips</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>PhRMA</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>PMI</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Principal Financial Group</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Principal®</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Providence ST. Joseph Health</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Prudential</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Purdue Pharma</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Purina</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>PwC</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Qualcomm</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Rackspace</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Raytheon</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>REALTORS®</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Red Hat</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Rocky Mountaineer</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Ryder</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Saatva Mattress</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Safeway</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Salesforce</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Salesforce.org</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Samsung</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Sanofi</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Sanofi Genzyme and Regeneron</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>SAP</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>SAP+Qualtrics</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Sea-Doo</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>SEI</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Shell</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Siemens</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Silverstone Watermark Communities</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Snowshoe Mountain Resort</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Stafford</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Stanford Children's Health</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Starz</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>StayArlington</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Sub-Zero</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Sub-Zero, Wolf, and Cove</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Subaru</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Talbot County MD</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Tempur-Pedic</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>The Allstate Foundation</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>The Coca-Cola Company</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>The Government of Japan</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>The Intuit Tax and Financial Center</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>The Kennedy Center</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>The National Association of REALTORS®</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>The National Geographic Channel</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>The Poland Foundation</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Thompson Creek Window Company</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Tide</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Tiny Jewel Box</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Tito's</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Tour Stafford Va</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Toyota</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>True Media</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>U.S. Bank</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Uber</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>UBS</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>UC Davis</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>UCLA</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>UPS</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>US Bank</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>USAFacts</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>UVA Darden</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Van Metre</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Van Metre Homes</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Vanguard</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Verizon Frontline</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Virginia Hospital Center</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Visit Annapolis</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>VISIT FLORIDA</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Visit Frederick</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Visit Fredericksburg Va</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Visit Hagerstown</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Visit Harford</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Visit Maine</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Visit Shenandoah County</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Volvo Cars</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>washington.org</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Wells Fargo</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Window Nation</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Wintergreen Resort</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Wolf</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>WPCG</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<li> <div> <div> <div> <a> <p>Yogi® Tea</p> </a> <a>Explore</a> </div> </div> </div> </li>
+<h2>Need wine advice? Put down the app and ask your local shop.</h2>
+<div>Among trustworthy sources for wine advice, don't forget to ask your local wine store.</div>
+<ul><li>By Dave McIntyre</li><li>7 hours ago</li></ul>
+<div> <div>(magnetcreative/iStockphoto)</div> </div>
+<div> <div> <div>Latest</div> </div> <div> <div>Latest</div> </div> </div>
+<h2>This fruit-forward Côtes du Rhône can be sipped now or savored in the years to come</h2>
+<h2>This chicken soup recipe brings ginger and turmeric to the classic warming bowl</h2>
+<div>Spike your chicken soup with a little ginger, turmeric and garlic for a flavor and nutrition boost.</div>
+<ul><li>By Ellie Krieger</li><li>8 hours ago</li></ul>
+<h2>This green socca recipe is based on the magnificent chickpea pancakes of Southern France</h2>
+<div>Kale, spinach or herbs turn this adaptable variation on Niçoise socca a glorious green.</div>
+<ul><li>By G. Daniela Galarza</li><li>11 hours ago</li></ul>
+<h2>Want to learn about cooking on a budget? Leanne Brown, author of “Good and Cheap,” is here to answer your questions!</h2>
+<div> <div> <div> <div> <h2>2021 Fall Dining Guide</h2> <div>Post Food critic Tom Sietsema's 48 favorite restaurants of the year in the D.C. area.</div> <ul><li>Oct 6</li></ul> </div> </div> </div> </div>
+<h2>Women allege racism, sexism at food media company Feedfeed</h2>
+<div>Rachel Gurjar and Sarah Henry-Bohoskey say they were mistreated while White employees thrived, but the company calls the accusations false.</div>
+<ul><li>By Tim Carman</li><li>2 days ago</li></ul>
+<h2>Red kidney beans shine in a rajma layered with spices, coconut and curry leaves</h2>
+<div>This flavor-packed, protein-rich rajma is typically served as a complement to an array of other dishes.</div>
+<ul><li>By Nandita Godbole</li><li>2 days ago</li></ul>
+<ul><li>Voraciously</li><li>Perspective</li></ul>
+<h2>Rajma, India’s red kidney bean stew, keeps me connected to home</h2>
+<div>Rajma has been part of Indian cuisine only since the late 18th century, but every Indian kitchen’s rajma is laden with family histories of migration.</div>
+<div> <ul><li>Voraciously</li></ul> <h2>9 easy recipes for dinner in a bowl, our ideal couch meal</h2> <div>Chili, jambalaya and fried rice are just a few dinner-in-a-bowl recipes we love.</div> <ul><li>By Kari Sonde</li><li>2 days ago</li></ul> </div>
+<h2>Even 1 small change can lead to healthier eating. Here are 6 to consider.</h2>
+<div>Rather than jumping on the latest diet bandwagon, do simple things like add dark leafy greens to your diet and cut back on red meat.</div>
+<ul><li>By Ellie Krieger</li><li>3 days ago</li></ul>
+<h2>This crisp apple salad gets its spark from ginger and chiles </h2>
+<div>A bright dressing turns crunchy apples and celery into a refreshing side dish.</div>
+<div> <ul><li>Voraciously</li></ul> <h2>These chicken fajitas can be on the table in 30 minutes </h2> <div>Chicken tenders and a store-bought spice mix make short work of this dish.</div> <ul><li>By Ellie Krieger</li><li>3 days ago</li></ul> </div>
+<h2>Add more leafy greens to your diet with this vegan collards and quinoa bowl </h2>
+<div>Nutritional yeast adds umami and ground turmeric or curry powder add flavor, too.</div>
+<h2>How to meal-plan: 6 tips for success</h2>
+<div>If you're resolving to get better at meal planning this year, have a look at our tips and goals to help turn you into a dinner pro.</div>
+<ul><li>By Becky Krystal</li><li>3 days ago</li></ul>
+<ul><li>Food</li><li>Review</li></ul>
+<h2>Charga Grill in Arlington is a delicious world unto itself</h2>
+<div>The Arlington restaurant specializes in comfort foods from around the globe, with an emphasis on Pakistani chicken.</div>
+<ul><li>By Tim Carman</li><li>3 days ago</li></ul>
+<h2>How to make ful medames, the simple fava bean stew beloved as a Middle Eastern breakfast</h2>
+<div>This recipe from Anissa Helou offers two ways to go: A simple Egyptian style and a slightly more elaborate Syrian version.</div>
+<ul><li>By Joe Yonan</li><li>4 days ago</li></ul>
+<h2>Beef, chicken, bean and vegetable recipes to make ahead for smarter meal prep</h2>
+<div>Whether you want to have an entire meal ready or just the components, we have some make-ahead options prime for meal planning.</div>
+<ul><li>By Becky Krystal</li><li>5 days ago</li></ul>
+<ul><li>Food</li><li>Perspective</li></ul>
+<h2>Wine bar customer writes expletive on $300 check to protest $6 service charge</h2>
+<div>The 2 percent service charge is to pay for employee health care.</div>
+<ul><li>By Dave McIntyre</li><li>Dec 30</li></ul>
+<h2><a>This three-cheese pasta bake is comforting, better for you and easy to make</a></h2>
+<div>It’s a healthier spin on a familiar favorite, baked ziti, made with whole-grain pasta and packed with mushrooms, broccoli and sun-dried tomatoes.</div>
+<ul><li>By Ellie Krieger</li><li>Dec 30</li></ul>
+<p>Film critic and reporter covering movies and the people who make them</p>
+<p>Education: Haverford College, BA in English literature</p>
+<div>Latest from Michael O'Sullivan</div>
+<div><div><div><ul><li>Movies</li></ul><a><h2>New movies to stream this week: ‘A Mouthful of Air,’ ‘American Siege’ and more</h2></a><p>Watch these new movies from home.</p><div>January 6, 2022</div></div></div></div>
+<a><h2>‘A Hero,’ from filmmaker Asghar Farhadi, is a Dostoyevskian tale of everyday tragedy</h2></a>
+<p>A man tries to extricate himself from debtor’s prison in the Iranian filmmaker’s latest drama.</p>
+<a><h2>Pedro Almodóvar confronts Spain’s past, in the moving, masterful ‘Parallel Mothers’</h2></a>
+<p>A twisty meditation on motherhood exhumes the buried history of the Spanish Civil War.</p>
+<a><h2>The movies that wowed Post critics in 2021 — and where to watch them</h2></a>
+<p>These 33 films — from drama to comedy and from musical to documentary — earned top marks.</p>
+<a><h2>‘Red Rocket’ movie review: cultural voyeurism masquerading as compassion</h2></a>
+<p>Sean Baker’s latest film follows a washed-up-porn star at the dawn of Trumpism.</p>
+<a><h2>‘The Tender Bar’ movie review: Liquor and life lessons, served neat</h2></a>
+<p>Ben Affleck shines as a boy’s avuncular mentor, in George Clooney’s adaptation of J.R. Moehringer’s memoir.</p>
+<a><h2>‘The King’s Man’ movie review: Comic book meets history book</h2></a>
+<p>Matthew Vaughn’s spy movie prequel paints a hallucinogenic history of World War I.</p>
+<div><ul><li><a>Movies</a></li></ul><a><h2>New movies to stream this week: ‘Mother/Android,’ ‘A California Christmas: City Lights’ and more</h2></a><p>Watch these new movies from home.</p><div>December 16, 2021</div></div>
+<a><h2>‘Spider-Man: No Way Home’ is a big, fat Christmas present for fans</h2></a>
+<p>Tom Holland’s third title outing as the webslinger is a Spider-Man movie on steroids.</p>
+<a><h2>‘Nightmare Alley’: The rise and fall of a con man, told in luscious, lurid detail</h2></a>
+<p>Guillermo del Toro’s film noir isn’t exactly horror, but it does take a dark view of humanity.</p>
+<div><div>Movies<div><div>Review</div><div>Review A professional critic’s assessment of a service, product, performance, or artistic or literary work</div></div></div></div>
+<div><h1>‘A Hero,’ from filmmaker Asghar Farhadi, is a Dostoyevskian tale of everyday tragedy</h1></div>
+<div><div><span><div><span><div><div>By Michael O'Sullivan</div></div>Reporter </span></div></span></div><div>Yesterday at 10:47 a.m. EST</div></div>
+<div><div><p>There are other aspects of the Iranian social order — such as a husband’s right to treat his wife like property, and her property as his — that inform the action of this Dostoyevskian tale.</p></div></div>
+<div><p><span>The movies that wowed Post critics in 2021 — and where to watch them</span></p></div>
+<div><div><p>It briefly works.</p></div></div>
+<div><div><p>But only briefly.</p></div></div>
+<div><div><p>When an official of the charity insists on meeting the owner of the purse — whose identity is unknown, and who may herself have lied about losing it — Rahim enlists Farkhondeh to impersonate the purse’s owner.</p></div></div>
+<p>The movie takes place in Iran, yet it’s really situated in the crack of daylight that separates truth from a lie. It’s a tight squeeze, Farhadi seems to say, and one whose pinch this tragedy of the everyday makes us feel, acutely.</p>
+<div><div><p><b>PG-13.</b> At area theaters, available Jan. 21 on Amazon. Contains some mature thematic elements, brief crude language and scuffling.</p></div></div>
+<div><div><p>In Farsi with subtitles. 127 minutes.</p></div></div>
+<div><div><div>Cooking tips and recipes, plus food news and views.</div></div></div>
+<div><div><a>Recipes</a></div><div><a>How-To</a></div><div><a>Dinner in Minutes</a></div><div><a>Trending</a></div><div><a>Newsletter</a></div><div><a>Video</a></div><a>instagram</a></div>
+<header><div><h1>This green socca recipe is based on the magnificent chickpea pancakes of Southern France</h1></div></header>
+<div>Start recipe<a>Reviews ()</a><a>Print recipe</a></div>
+<div><div><div>Green Socca With Antipasti </div><div><div>Total time:30 mins</div><div>Servings:2 to 4</div></div></div><div><div><div>Total time:30 mins</div></div></div><div><a>Start recipe</a>Reviews ()</div></div>
+<div><div><span><div><span><div><div>By G. Daniela Galarza</div></div></span></div></span></div><div>Today at 8:30 a.m. EST</div></div>
+<div><p>My last overseas trip was in 2019, when I went to Nice. On a cobblestone street lined with old wooden folding tables, accordion music twinkling up the block and the setting sun casting long shadows, I had socca for the first time.</p></div>
+<div><p>How to make buckwheat galettes, a heartier cousin to delicate crepes</p></div>
+<p>There are many types of chickpea pancake, a versatile and nutritious food that’s found across the globe. It can be thick and pillowy or dense as a baked potato, thin and spongy or crepe-like and crisp. My favorite might be Niçoise socca.</p>
+<div><div><p>The Niçoise are perhaps best known for their salad of tuna and vegetables in a garlicky dressing and a flatbread thick with caramelized onions and anchovies, pissaladière. But don’t sleep on their socca.</p></div></div>
+<div><div><p><a><i>Scale this recipe and get a printer-friendly, desktop version here.</i></a></p></div></div>
+<div><p>While making a green smoothie for myself one afternoon, I wondered what would happen if I added chickpea flour, poured the batter into puddles on a hot skillet and fried it into thin cakes. That’s how this green socca was born.</p></div>
+<div><div><h3><div>Green Socca With Antipasti</div></h3></div></div>
+<div><div><p>I like the addition of leafy greens in this version of the Niçoise chickpea pancakes known as soccas, but if you’d rather make a classic version, substitute 1/2 cup of water for the greens.</p></div></div>
+<div><div><p><i><b>Want to save this recipe? </b></i><i>Click the bookmark icon below the serving size at the top of this page, then go to </i><a><i>My Reading List in your washingtonpost.com user profile</i></a><i>.</i></p></div></div>
+<div><div><h3><div>Ingredients</div></h3></div></div>
+<div><div><p><b>For the socca</b></p></div></div>
+<li><span><b>5 ounces (about 5 packed cups) spinach, kale or a mixture of herbs and dark leafy greens, roughly chopped</b></span></li>
+<li><span><b>1 cup water</b></span></li>
+<li><span><b>2 tablespoons olive oil, plus more for cooking socca</b></span></li>
+<li><span><b>1/2 teaspoon fine sea salt or table salt</b></span></li>
+<li><span><b>1/2 teaspoon za’atar, ground cumin, sumac, paprika or other ground chile powder (optional)</b></span></li>
+<li><span><b>1 1/2 cups (5 ounces) chickpea flour</b></span></li>
+<div><div><p><b>For the accompaniments</b></p></div></div>
+<li><span><b>6 ounces salty cheese, such as manchego, pecorino Romano, Parmesan, feta or goat</b></span></li>
+<li><span><b>1 (2-ounce) can anchovies or other canned seafood, drained (optional)</b></span></li>
+<li><span><b>4 roasted red bell peppers from a jar, drained</b></span></li>
+<li><span><b>10 to 12 small pickled peppers, any kind, drained</b></span></li>
+<li><span><b>1/2 cup brined olives, any kind, drained</b></span></li>
+<div><div><h3><div>Step 1</div></h3></div></div>
+<div><div><h3><div>Step 2</div></h3></div></div>
+<div><div><h3><div>Step 3</div></h3></div></div>
+<div><div><h3><div>Step 4</div></h3></div></div>
+<div><div><p>Serve soccas hot, family style, with the accompaniments on the side.</p></div></div>
+<div><div><h3><div>Nutrition Information</div></h3></div></div>
+<div><div><p>Per serving (1 or 2 soccas), based on 4, soccas only</p></div></div>
+<div><div><p>Calories: 205; Total Fat: 9 g; Saturated Fat: 1 g; Cholesterol: 0 mg; Sodium: 358 mg; Carbohydrates: 22 g; Dietary Fiber: 5 g; Sugars: 4 g; Protein: 9 g.</p></div></div>
+<div><div><p><i>This analysis is an estimate based on available ingredients and this preparation. It should not substitute for a dietitian’s or nutritionist’s advice.</i></p></div></div>
+<div><div><p><i>From staff writer G. Daniela Galarza.</i></p></div></div>
+<div><div><p><a><i>Browse our Recipe Finder for more than 9,600 Post-tested recipes.</i></a></p></div></div>
+<div><div><p><b>Catch up on this week’s Eat Voraciously recipes:</b></p></div></div>
+<div><div><p>Monday: <a>Spicy Pork With Vegetables and Soba Noodles</a></p></div></div>
+<div><div><p>Tuesday: <a>Grain Bowls and Soft Boiled Eggs With Avocado and Kimchi</a></p></div></div>
+<div><div><p>Wednesday: <a>One-Pot Pasta</a></p></div></div>
+<div><div><p><a>The Eat Voraciously newsletter recipe archives</a></p></div></div>
+<div><div>Books<div><div>Review</div><div>Review A professional critic’s assessment of a service, product, performance, or artistic or literary work</div></div></div></div>
+<div><h1>In ‘The School for Good Mothers,’ parental mistakes have terrifying consequences</h1></div>
+<div><div><span><div><span><div><div>By Ilana Masad</div></div> </span></div></span></div><div>Today at 8:00 a.m. EST</div></div>
+<div><p>10 noteworthy books for January</p></div>
+<div><p>The books to read in 2022 based on what you loved in 2021</p></div>
+<a>series adaptation</a> in the works and it’s a
+<i>,</i>”but where Gilead’s extremely rigid social structure might seem horrifyingly unrecognizable, Chan’s setting is far too close for comfort. Parents accused by CPS of abuse or neglect
+<a>already face uphill battles</a>
+<a>to get their children back</a>, and
+<div><div><p><i>Ilana Masad is a critic and the author of “All My Mother’s Lovers.”</i></p></div></div>
+<div><div><h4><div>The School for Good Mothers</div></h4></div></div>
+<div><div><p>By Jessamine Chan</p></div></div>
+<div><div><p>Simon Schuster. 336 pp. $27</p></div></div>
+<div><div><div>A note to our readers</div><p>We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.</p></div></div>
+<h2>New York and Washington, D.C.</h2>
+<p>Education: Yale University, BA in English</p>
+<div>Latest from Peter Marks</div>
+<a><h2>Tony Award royalty will turn out to celebrate ‘50 Years of Broadway at the Kennedy Center’</h2></a>
+<p>Tony Award royalty will turn out in February to celebrate "50 Years of Broadway musicals at the Kennedy Center."</p>
+<ul><li><a>Theater Dance</a></li></ul>
+<a><h2>Military suicides are increasing. Theater of War is offering more than just a show of sympathy.</h2></a>
+<p>Through performance and discussion, soldiers find new meaning in ancient Greek drama.</p>
+<a><h2>Omicron could not come at a worse time for Broadway </h2></a>
+<p>But a week of dispiriting theater closings is topped off by a rejuvenating visit to a sensational new musical, "Kimberly Akimbo."</p>
+<a><h2>‘The Lehman Trilogy’ has been a critical standout on Broadway this fall. Its superb cast sheds light on how that happened.</h2></a>
+<p>Simon Russell Beale, Adrian Lester and Adam Godley talk about the rigors and pleasures of more than three hours onstage every night.</p>
+<a><h2>Britney Spears’s songs are packed into a new storybook musical, but this kingdom needs more magic</h2></a>
+<p>“Once Upon a One More Time,” about fairy-tale princesses, has its world premiere at Shakespeare Theatre Company. While it lacks finesse, lead performer Briga Heelan brings out the show’s potential.</p>
+<a><h2>A chorus of grateful singers gathers at Signature Theatre for an emotional Sondheim celebration</h2></a>
+<p>The Arlington, Va., company honors the composer who put it on the musical-theater map.</p>
+<a><h2>Broadway’s ‘Flying Over Sunset’ comes in for a crash landing</h2></a>
+<p>The new musical about celebrities in the 1950s taking LSD trips over its conceits.</p>
+<a><h2>August Wilson’s meandering ‘Seven Guitars’ at Arena Stage can feel like a slog</h2></a>
+<p>"Seven Guitars" is the 1940s entry in Wilson's cycle of 20th-century plays, one for each decade.</p>
+<a><h2>What’s next for Britney Spears fans? A Shakespeare Theatre musical that may be headed to Broadway.</h2></a>
+<p>“Once Upon a One More Time” has Broadway hopes and a Dec. 17 opening night at Washington’s Shakespeare Theatre Company.</p>
+<a><h2>It’s a welcome return of ‘Company’ to Broadway — with another Sondheim memory to savor</h2></a>
+<p>Directed Marianne Elliott switches the genders of the musical’s characters in this fine revival.</p>
+<div><div>Theater Dance</div></div>
+<div><h1>Tony Award royalty will turn out to celebrate ‘50 Years of Broadway at the Kennedy Center’</h1></div>
+<h2>Two nights of concerts will feature songs from some of the hundreds of musicals staged at the venerable arts center</h2>
+<div><div><span><div><span><div><div>By Peter Marks</div></div></span></div></span></div><div>Yesterday at 11:30 a.m. EST</div></div>
+<div><p>Kennedy Center plans massive season of in-person theater</p></div>
+<div><div><p>He expects a room filled with warm recollections in Washington. “I love being in front of an audience and taking them on a journey,” he said, “letting me be that voice, to take you down memory lane.”</p></div></div>
+<div><div><p><i>“50 Years of Broadway at the Kennedy Center” runs Feb. 11 and 12 at John F. Kennedy Center for the Performing Arts. 202-467-4600. kennedy-center.org</i></p></div></div>
+<div><p>Omicron could not come at a worse time for Broadway</p></div>
+<div><p>Britney Spears's songs are packed into a new musical</p></div>
+<div><p><span>It's a welcome return to Broadway for Sondheim's "Company"</span></p></div>
+<div>Latest from Inkoo Kang</div>
+<ul><li>TV</li><li>Review</li></ul>
+<a><h2>The story of Emmett Till has been told before. ‘Women of the Movement’ reveals new layers of depth and tragedy.</h2></a>
+<p>"Women of the Movement" stars Adrienne Warren as Emmett Till's mother, Mamie Till-Mobley, who didn't want America to turn away from the barbaric killing of her 14-year-old son.</p>
+<ul><li><a>TV</a></li><li>Analysis</li></ul>
+<a><h2>10 years after the end of her iconic show, Oprah Winfrey still best embodies TV today</h2></a>
+<p>Oprah remains television's great unifier, simultaneously embodying and transcending current trends in the medium. But as her onetime protege Dr. Oz's Senate candidacy suggests, her empire has a mixed track record.</p>
+<ul><li><a>FILM</a></li><li>Analysis</li></ul>
+<a><h2>Jane Campion’s masterful ‘Power of the Dog’ had a fascinating and much maligned precursor</h2></a>
+<p>"Power of the Dog" owes a debt to Campion’s "In the Cut," the film that took down Meg Ryan.</p>
+<ul><li><a>TV</a></li><li>Perspective</li></ul>
+<a><h2>Biden swerves between empathy, uplift and frustration while addressing nation on omicron</h2></a>
+<p>President Biden's speech, in which he discussed many new covid-related changes, channeled many Americans in trying to temper frustrations with empathy.</p>
+<a><h2>‘With Love’ is the rare feel-good holiday show that actually feels good</h2></a>
+<p>In "With Love," "One Day at a Time" co-creator Gloria Calderon Kellett's new Amazon series, a multigenerational Latinx family comes together on the holidays.</p>
+<a><h2>In ‘Station Eleven,’ a pandemic is both the end and beginning of the world</h2></a>
+<p>Mackenzie Davis stars in "Station Eleven," HBO Max's adaptation of the sci-fi bestseller, about a flu that nearly wipes out humanity.</p>
+<a><h2>‘Street Gang,’ a ‘Sesame Street’ documentary, is as sweet as the show — to its detriment</h2></a>
+<p>"Sesame Street's" origin story is told in "Street Gang," an HBO documentary that reminds us how revolutionary the show was upon its debut.</p>
+<a><h2>‘And Just Like That ...’ is ‘Sex and the City’ for 2021: A bloated, laugh-free comedy about grief</h2></a>
+<p>"Sex and the City" was HBO's zippy, intimate, charmingly featherlight landmark series. "And Just Like That..." is its ungainly, overly apologetic sister.</p>
+<a><h2>Best of TV 2021: ‘Succession,’ ‘You,’ Meghan and Harry’s Oprah interview and more</h2></a>
+<p>The best TV shows of the year proved there’s never been a better time to be “Inside” (with Bo Burnham) or discover untold LGBTQ stories.</p>
+<a><h2>‘PEN15’ was a radically honest, thoroughly singular show about Asian American girlhood</h2></a>
+<p>"PEN15," whose final episodes debut Friday, was a delightfully cringeworthy comedy underrated for its portrayal of Asian American tween angst.</p>
+<div> <div> <div> <div> <div> <h1> Travel</h1> </div> </div> <div> <ul> <li>Chat archives</li> <li> Andrea Sachs</li> <li> Go Here Not There</li> <li> You're Going Where?</li> </ul> </div> </div> </div> </div>
+<h2>A photographer learns he can ‘travel’ close to home</h2>
+<div><p>“Travel is as much based in your mind as it is in your physical location.”</p> </div>
+<div> <div>(Edward Munn)</div> </div>
+<div><p>The latest Dutch lifestyle trend to enter the United States celebrates physical exertion in the open air.</p></div>
+<h2>National parks and forests bring back reservation systems to control crowds</h2>
+<div><p>Floods of visitors during the pandemic have forced national parks and forests to institute crowd-control measures, such as day passes and timed entry.</p></div>
+<h2>Traveling? Make sure you have this health and emergency information with you.</h2>
+<div><p>Whatever your age or health status, you should carry your personal medical record when you travel.</p></div>
+<div> <div> <ul> <li>Perspective</li> </ul> <div> <h3>Coronavirus self-tests, hopes for future travel and Christmas destinations</h3> </div> <div><p>Read a transcript of the Travel section’s weekly online discussion.</p> </div> </div> </div>
+<div> <div> <ul> <li>Perspective</li> </ul> <div> <h3>Passport applications, hotel stays with kids and things to do in Ireland</h3> </div> <div><p>Read a transcript of the Travel section's weekly online discussion.</p> </div> </div> </div>
+<div> <div> <ul> <li>Perspective</li> </ul> <div> <h3>Health insurance for travelers, TSA headaches and heading south for warmer weather</h3> </div> <div><p>Read a transcript of the Travel section's weekly online discussion.</p> </div> </div> </div>
+<div><p>You should consider travel insurance for every trip, but not every trip needs to be insured.</p></div>
+<div><p>An early December cruise was full of Virgin's signature cheek, its eclectic style — and a few stumbles.</p></div>
+<h2>How Denver is making a name for itself as an arts destination</h2>
+<div><p>With new venues and upgrades to existing ones, Denver is for (art) lovers.</p></div>
+<h2>Laurie Lee’s classic vagabond tale channels joy on the open road</h2>
+<div><p>Drawing a pandemic-era lesson from Laurie Lee’s “As I Walked Out One Midsummer Morning.”</p></div>
+<h2>Be like George Washington and cross the Delaware River, to Lambertville, N.J.</h2>
+<div><p>Lambertville, N.J., across the Delaware from New Hope, Pa., offers a less crowded but still quaint and historic riverside-town experience.</p></div>
+<h2>How to prove your vaccination status when traveling internationally</h2>
+<div><p>Your CDC card could be enough to establish your vaccine status overseas, but you might have other options, too.</p></div>
+<h2>For five Jakes, Taylor Swift’s ‘All Too Well’ will become their soundtrack to travel</h2>
+<div><p>A contest awards a $300 credit to the namesakes of the reputed heartbreaker in her hit song.</p></div>
+<div><p>Fauci’s comments follow remarks from Southwest Airlines’ chief executive, who said last week before his own diagnosis of covid that masks “don’t add much, if anything, in the air cabin environment.”</p></div>
+<div><p>A day trip from Paris to Strasbourg — and one of Europe’s oldest Christmas markets.</p></div>
+<h2>Four ways to ski British Columbia’s legendary powder highway</h2>
+<div><p>Traditional resorts, backcountry tours, and cat- and heli-skiing are among the options to choose from in Canada’s winter paradise.</p></div>
+<div><p>The BBC crime drama “Shetland” has boosted tourism in the captivating Scottish archipelago.</p></div>
+<h2>In Las Vegas, the desert transforms into a winter wonderland</h2>
+<div><p>Seasonal pop-ups have enlivened December in Las Vegas.</p></div>
+<h2>With Hertz, road-trippers can get a charge out of Tesla rentals</h2>
+<div><p>Feeling the power of a Tesla on an electric vehicle road trip from Miami to Key West.</p></div>
+<h2>Four resort destinations that rebounded after natural disasters to be better, safer and greener than before</h2>
+<div><p>Faced with rebuilding, some hotels and lodges are taking the opportunity to become more sustainable and resilient.</p></div>
+<div><p>Having a Plan B is always a good idea, especially when it comes to lodging.</p></div>
+<h2>A look inside Sandringham House, site of the royals’ annual holiday retreat</h2>
+<div><p>The royal residence that provides the setting for “Spencer” is a backdrop for family drama.</p></div>
+<h2>Finding sun and seclusion by beach-hopping on Puerto Rico’s west coast</h2>
+<div><p>The island’s less-crowded side offers sunny beaches, big-wave surfing, natural wonders and intriguing history.</p></div>
+<div>Skip to main content<div><div><div><div><div>Detours with locals. Travel tips you can trust.</div></div></div><div><div><a>Cities</a></div><div><a>News</a></div><div><a>Tips</a></div><div><a>Newsletter</a></div><a>instagram</a></div></div></div></div>
+<header><div><h1>13 travel resolutions for 2022, according to pros</h1></div><h2>From Rick Steves to a leader at Airbnb, travel experts look forward to more remote work, domestic trips and family time</h2></header>
+<div><div><span><div><span><div>By Natalie B. Compton</div> and </span></div><div><span><div>Hannah Sampson</div></span></div></span></div><div>December 27, 2021 at 4:30 p.m. EST</div></div>
+<div><div><span><div><span><div>By Natalie B. Compton</div> and</span></div><div><span><div>Hannah Sampson</div></span></div></span></div><div>December 27, 2021 at 4:30 p.m. EST</div></div>
+<div><div><p>As yet another tumultuous year for travel comes to a close and yet another coronavirus wave sets records, the team at By The Way remains hopeful for what is to come in 2022.</p></div></div>
+<div><div><p>Those caveats can make the trips we take more memorable, more appreciated and more rewarding. So we keep planning, hoping for the best but preparing for the worst.</p></div></div>
+<div><div><p>To draw inspiration for our eventual adventures, we collected thoughts and goals from 13 of our favorite travelers. Here are their New Year’s resolutions, edited for length and clarity.</p></div></div>
+<div><p>The best travel advice of 2021, from By The Way Concierge</p></div>
+<div><div><h3><div>Carole Hopson, United Airlines pilot</div></h3></div></div>
+<div><div><p><b>IG: </b><a><b>@carole.hopson</b></a></p></div></div>
+<a>looming</a> when the world ground to a halt because of the coronavirus. The Cares Act had to be enacted twice to
+<a>save transportation jobs</a>, mine included. I launched the
+<a>Jet Black Foundation</a>, a program with the goal of recruiting and training 100 African-American female professional aviators. Our mission is not only purposeful, but also simultaneously solves a real-world business challenge.
+<div><p>U.S. passports are about to get more expensive</p></div>
+<div><div><h3><div>Victoria Leandra, journalist and podcast host</div></h3></div></div>
+<a>Inca Trail to Machu Picchu</a> with him. If there’s something I’ve learned from the pandemic is that family time is precious.
+<div><p>My last travel resolution for the new year is completing a full marathon abroad to officially become an international “travel runner,” a concept my friend and I started using after our half-marathons in Puerto Rico and Miami.</p></div>
+<div><div><h3><div>Rick Steves, travel author and host</div></h3></div></div>
+<div><div><p><b>IG: </b><a><b>@ricksteveseurope </b></a></p></div></div>
+<p>The news at home can stoke ill-founded anxiety. I wouldn’t tell Americans, “Sure, you can travel … no problem.” But I would say, “You’ll feel at least as safe in Europe as you do traveling here in the U.S.”</p>
+<a>Paris</a> corner cafe, the passeggiata (evening stroll) in
+<a>Rome</a> and the edgy street art tour in
+<a>Athens</a>. And from Norway to Portugal to Turkey, my resolution for 2022 is to happily (and safely) venture where my travel dreams take me.
+<div><p>Rick Steves looks to the future after an 18-month hiatus from European travel</p></div>
+<div><div><h3><div>Alvaro Silberstein, CEO of Wheel the World</div></h3></div></div>
+<div><div><p>My 2022 travel resolution is to continue creating opportunities for people with disabilities.</p></div></div>
+<a>Wheel the World</a>, a travel guide and booking site that prioritizes accessibility, and encourage other people with disabilities to feel empowered to travel without limitations.
+<div><p>From airport WiFi to ‘juice jacking’: 7 ways to protect your data when traveling</p></div>
+<div><div><h3><div>Marcella Hudson, co-founder and program director of beGirl.world</div></h3></div></div>
+<div><div><p><b>IG: </b><a><b>@begirl.world</b></a></p></div></div>
+<div><div><p>I am going to learn more about the lives of the tour guides I meet, extend graciousness and gratitude to the essential workers I encounter, and bask in the spirit of humanity and wonder.</p></div></div>
+<div><p>I stayed in a ski-town hostel during covid. Here’s what it was like.</p></div>
+<div><div><h3><div>Sarah Greaves-Gabbadon, travel writer and host</div></h3></div></div>
+<div><div><h3><div>Annie Cheng, founder of The Table Less Traveled</div></h3></div></div>
+<a>boutique culinary tours</a> has always felt more personal through the relationships and connections I made with locals around the world. Originally, I took those journeys independently, often leaving home and family for up to six months a year.
+<div><div><p>Our goal is to add extra days, or even weeks, to each destination so we can keep “home” and family together.</p></div></div>
+<div><p>The next step in space tourism? A luxury training center for civilians.</p></div>
+<div><div><h3><div>Adam Richman, host of the History Channel’s ‘Modern Marvels’</div></h3></div></div>
+<div><p>Before the pandemic began, I was living and filming a show in <a>London</a>, one of my favorite cities. When I had to return home, not only was the show unfinished, it also felt like I left my experience in London unfinished as well.</p></div>
+<div><div><p>In the new year, I hope to return to England. There are still places in Asia and Europe I have yet to visit that have long been on my bucket list, but with the surge of the omicron variant, I am going to proceed with caution.</p></div></div>
+<div><div><p>While Europe will have to wait, the beauty of the U.S. will not, and there is much left to explore in the coming year — wide open spaces that are covid-safe, inspiring and breathtaking.</p></div></div>
+<div><p>Decades later, ‘Home Alone’ fans are still casing the iconic house</p></div>
+<div><div><h3><div>Kathy McCabe, host of ‘Dream of Italy’ on PBS</div></h3></div></div>
+<div><div><p>My travel resolution is to listen more and appreciate everything I hear. Italy is the place I visit most often, and the most surprising thing I missed was the range of unique and even comforting everyday sounds.</p></div></div>
+<div><div><p>I promise not to take for granted the very sounds of travel itself, from the “ping” of the seat belt sign to the pound of the <a>passport</a> stamp.</p></div></div>
+<div><div><h3><div>Ruzwana Bashir, founder and CEO of Peek</div></h3></div></div>
+<a>road trip</a> to go hiking in Yosemite. Travel doesn’t feel guaranteed anymore, so next year I’m committed to being spontaneous and finding experiences to make the most of every moment.
+<div><p>Everything you need to know about traveling to Thailand</p></div>
+<div><div><h3><div>Sebastian Modak, Lonely Planet’s editor-at-large</div></h3></div></div>
+<div><div><h3><div>Catherine Powell, Airbnb’s global head of hosting</div></h3></div></div>

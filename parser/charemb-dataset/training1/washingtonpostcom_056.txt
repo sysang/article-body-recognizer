@@ -1,0 +1,500 @@
+<p>Health officials believe the virus has killed more people than state totals indicate, especially early in the pandemic before testing and effective treatments were widely available.</p>
+<p>A rise in deaths usually follows a rise in new cases by about a month. For example, after the delta variant caused a surge of new cases beginning in July 2021, the death toll began to climb in August.</p>
+<p>As with the new cases chart, occasional single-day anomalies reflect one-time adjustments by states. They are noted but not included in the seven-day averages.</p>
+<div><h3>Hospitalizations</h3></div>
+<div><h4>Reported covid-19 hospitalizations per 100,000 residents</h4><div><div> Currently hospitalized</div><div> Filled ICU beds</div></div></div>
+<p>A rise in hospitalizations tends to follow a rise in new cases by a couple of weeks.</p>
+<div><h3>Vaccinations</h3></div>
+<div><h4>Doses of covid-19 vaccines administered per 100,000 residents</h4><div><div> Reported doses administered per day</div></div><div>See more detailed vaccination statistics for each state in the Vaccine Tracker.</div></div>
+<p>The vaccine rollout beginning in December 2020 was limited and chaotic, but free vaccines are now widely available and recommended for everyone age 5 and older. The CDC also recommends booster shots for many people.</p>
+<p>Note: Fully vaccinated shows people who have completed vaccination, either through both doses of a two-dose vaccine, or a single dose of a one-dose vaccine.</p>
+<div><h3>Tests reported</h3></div>
+<div><h4>Tests reported per 100,000 residents</h4><div><div> Positive tests</div><div> Negative tests</div></div><p>Note: Data is preliminary. The most recent days are frequently revised upward.</p></div>
+<p>Testing was slow to ramp up in 2020, but it has become more robust, so the rate of positive tests is another clue to the concentration of the coronavirus in an area.</p>
+<h4>Reported cases per 100,000 residents by county (7-day average)</h4>
+<div>Drag to pan around the map. Pinch to zoom. Double-tap to explore county details. Click on a state to explore county details</div>
+<div>Note: Florida, Nebraska and Oklahoma do not report county-level data consistently.</div>
+<p>Testing data is from HHS. Testing data from the past three days is especially subject to upward revision, as reporting may be incomplete.</p>
+<p>All numbers are provisional and may be revised by the jurisdictions.</p>
+<p>Population data represents five-year estimates from the 2019 American Community Survey by the Census Bureau.</p>
+<p> Recent changes on this page</p>
+<p>November 10 Redesigned page and added features.</p>
+<p>March 3 Changed the data source for tests to the Department of Health and Human Services.</p>
+<p>February 23 Changed the data source for hospitalizations to the Department of Health and Human services. See the methodology note for more details.</p>
+<p>February 19 Marked anomalous days on the daily count chart, and reformatted the chart note to better track data anomalies.</p>
+<p>February 12 Updated vaccination charts to reflect reported doses administered per day.</p>
+<p>February 2 For five states with limited state hospitalization reports (WV, NV, ND, MS, and WY), data now comes from the Department of Health and Human Services, instead of state reports.</p>
+<p>January 8, 2021 Added a data table and charts for vaccinations, and changed the vaccination metrics to display the most reliable data available.</p>
+<p>December 23 Added vaccination data to state summaries where available.</p>
+<p>December 15 Removed anomalous data from the rolling averages (such as backlogged cases or deaths reported in bulk on a single day), and other data improvements.</p>
+<p>December 1 Updated the presentation of hospitalization and testing data, and added aggregate U.S. data for those indicators.</p>
+<p>October 30 Added several notes clarifying which days states are expected to report data.</p>
+<p>October 28 Switched to reported case counts from the Kansas Department of Health and Environment which only provides data updates on Mondays, Wednesdays and Fridays. This has also resulted in a one-day spike of reported cases on Oct. 28.</p>
+<p>August 24 Replaced the modeled trend with a more standard 7-day rolling average of new daily cases and deaths.</p>
+<p>August 20 Added a module to show the aggregate statistics in the U.S. and each state/territory over the past week.</p>
+<p>July 29 Added hospitalization data and other page improvements.</p>
+<p>July 2 Replaced the 7-day running average of new cases and deaths with a 14-day modeled trend. Added the week-over-week percentage change to the trends charts, using the modeled trend values. Also added additional columns to the data tables.</p>
+<p>June 23 Added charts showing new daily counts in each state, ordered by the percentage increase in cumulative cases over the last week. Changed the default view of the page to confirmed cases per 100k.</p>
+<p>June 11 Added an option to view change since last week to the map. The default view of the map is now deaths per 100k in the last seven days.</p>
+<p>May 6 Included revised data from New York City probable covid-19 deaths that attributes each death to the day it was first reported instead of on April 14.</p>
+<p>April 24 The data on the page was revised to include Post-reported numbers. Reported data for New York City is now reported separately by county instead of being aggregated into one New York City total.</p>
+<p>April 23 Date when states began reopening added to state charts.</p>
+<p>April 21 Charts showing testing data for all U.S. states and territories were added to the page.</p>
+<p>April 14 New York City adds nearly 3,700 probable covid-19 deaths to its total.</p>
+<p>April 7 <span>Labels showing the date state emergency and stay-at-home orders were declared added to the state charts.</span></p>
+<div>Skip to main content<div><div><div><div><div>Detours with locals. Travel tips you can trust.</div></div></div><div><div><a>Cities</a></div><div><a>News</a></div><div><a>Tips</a></div><div><a>Newsletter</a></div><a>instagram</a></div></div></div></div>
+<header><div><div><div><p>This article is more than 1 year old</p></div></div></div><div><h1>The unofficial rules for every seat on a plane: The window</h1></div></header>
+<div><div><span><div><span><div><div>By Natalie B. Compton</div></div></span></div></span></div><div>November 19, 2019</div></div>
+<div><div><p>No matter what seat you’re picking, we can agree that flying is a modern marvel. You’re 30,000 feet in the air, soaring through the clouds at high speed to get to destinations near and far.</p></div></div>
+<div><div><p>No matter what camp you fall in, here are the unofficial rules for both breeds of window-seat passenger.</p></div></div>
+<div><div><p>Ultimately it’s up to you, the occupant of the window seat, to decide whether you’ll be a benevolent or omnipotent ruler.</p></div></div>
+<div><div><p>Particularly given the tiny nature of seats in economy, it’s a hassle to squeak in and out of airplane rows these days. Don’t plague your rowmates with a barrage of requests to leave your seat.</p></div></div>
+<div><p>The unofficial rules for every seat on a plane: The middle</p></div>
+<a>apps that help nervous fliers</a>.
+<div><div><p><a>The holiday foods you can and can’t bring in a carry-on, according to TSA </a></p></div></div>
+<div><div><p><a>What holiday leftovers are allowed through airport security?</a></p></div></div>
+<div><div><p><a>The completely correct guide to reclining on an airplane</a></p></div></div>
+<div><div><a>Health</a></div><h1>What you need to know about the coronavirus variants</h1></div>
+<div><span><div>Adela Suliman</div> and </span></div>
+<div><span><div>Paulina Villegas</div></span></div>
+<a>coronavirus</a> have been identified. But several, including variants first found in the United Kingdom, South Africa, Brazil and India, are highly transmissible and have sparked concerns that vaccines may be less effective against them.
+<div><div><h3><div>The omicron variant (B.1.1.529)</div></h3></div></div>
+<div><div><h5><div>Where and when was it discovered?</div></h5></div></div>
+<div><div><p>This variant was first <a>identified in November</a> in southern Africa, where researchers shared discoveries about its mutations.</p></div></div>
+<div><div><h5><div>Where is it now?</div></h5></div></div>
+<b> </b>more than a dozen countries, including Canada, Spain, Portugal, Belgium, Hong Kong, Israel, Germany, Italy and the United Kingdom.
+<div><div><p>In <a>South Africa</a> — where nearly 25 percent of the adult population is fully vaccinated, the variant has spread rapidly.</p></div></div>
+<div><div><p>What makes it different?</p></div></div>
+<div><div><p>Omicron’s genetic profile is unique from other circulating variants. It represents a new lineage of the virus.</p></div></div>
+<b> </b>identified in the spike protein, the part of the virus that binds to human cells. There is concern that this could make it more transmissible and adept at evading the body’s immune defenses, but exactly how it behaves remains unknown.
+<div><div><h5><div>Will vaccines work?</div></h5></div></div>
+<div><div><p><a>What to know about the omicron variant of the coronavirus</a></p></div></div>
+<div><div><p><a>What to know about travel after omicron’s discovery</a></p></div></div>
+<div><div><p><a>Omicron found from U.K. to Hong Kong as countries race to impose controls</a></p></div></div>
+<div><div><h3><div>The delta variant (B.1.617)</div></h3></div></div>
+<div><div><p>This variant was first detected in Maharashtra, India, in October and <a>contributed to a devastating surge</a> in infections in that country this spring.</p></div></div>
+<div><div><p>The delta variant has been reported in dozens of countries, including the United States, United Kingdom, South Africa, Uganda and Kenya. As of July, delta represented more than half of new infections in the United States.</p></div></div>
+<div><div><h5><div>What makes it different?</div></h5></div></div>
+<p>Delta appears to be about 50 percent more contagious than the alpha variant, which became the predominant variant in the United States in the spring. There is limited data on whether delta results in more severe illness than other variants.</p>
+<div><div><h5><div>Related:</div></h5></div></div>
+<div><div><p><a>What you need to know about the highly contagious delta variant</a></p></div></div>
+<div><div><p><a>New study on delta variant reveals importance of receiving both vaccine shots, highlights challenges posed by mutations</a></p></div></div>
+<div><div><p><a>Coronavirus strain fueling India crisis is the newest ‘variant of concern’ and is spreading globally</a></p></div></div>
+<div><div><h3><div>The mu variant (B.1.621)</div></h3></div></div>
+<div><p>This variant was first reported in Colombia in January and classified as a “variant of interest” by the World Health Organization in late August. Mu is the <a>fifth variant of interest </a>currently being monitored by the WHO.</p></div>
+<div><div><h5><div>Where is it?</div></h5></div></div>
+<a>according to the WHO</a>. It remains on the rise in Colombia and Ecuador, the health organization said, with other outbreaks reported in nations in South America and Europe. Cases have also
+<a>been reported</a> in the United States, mostly in
+<a>California</a>, New York and Florida.
+<div><div><p><a>Alpha, delta and more: Why virus variants are causing alarm</a></p></div></div>
+<div><div><p><a>Here’s what we know about the delta-plus variant</a></p></div></div>
+<div><div><p><a>They’re called mild cases. But people with breakthrough covid can still feel pretty sick.</a></p></div></div>
+<div><div><h3><div>The lambda variant (C.37)</div></h3></div></div>
+<div><div><p>This variant was first identified in Peru in August 2020. It spread rapidly there in 2021 and now accounts for the majority of new cases.</p></div></div>
+<a>according to the WHO</a>. It has also been detected in Mexico and throughout Europe, though in relatively smaller numbers.
+<div><div><p>Lambda circulated for months in the United States, but it virtually disappeared after delta took over as the dominant variant, according to <a>CDC tracking</a>.</p></div></div>
+<div><div><p><a>What to know about the lambda variant of the novel coronavirus</a></p></div></div>
+<div><div><h3><div>The beta variant (B.1.351)</div></h3></div></div>
+<div><div><h5><div>Where and when was it discovered?</div></h5></div></div>
+<a>announced in December</a>, when the country’s health minister said the strain seemed to affect young people more than previous strains. It may have contributed to a surge of infections and hospitalizations across South Africa.
+<a>more than 80 countries</a>. On Jan. 28, South Carolina officials announced that this variant had affected two people there with no travel history — the
+<a>first instances of this strain</a> identified in the United States. It has since been found in at least three dozen other states.
+<a>appears to be more transmissible</a>. There is no evidence that it is more lethal. Former Food and Drug Administration commissioner Scott Gottlieb has suggested that this variant
+<a>might be more resistant</a> to antibody therapies.
+<div><p>There is some evidence that the beta variant could allow for reinfection: A man in France was in critical condition in mid-February after <a>being infected with this strain</a> four months after he was previously infected with the virus.</p></div>
+<div><div><h5><div>Will vaccines work?</div></h5></div></div>
+<div><div><p>Pfizer and BioNTech <a>released their own study</a>, not yet peer-reviewed, that suggests that their vaccine effectively neutralizes this variant, though was slightly less effective.</p></div></div>
+<a>Johnson Johnson said</a> its single-shot vaccine was robustly effective in a massive global trial, but that its protection against sickness was weaker in South Africa. Biotechnology company
+<a>Novavax</a> has also indicated that its vaccine was significantly less effective during a trial in South Africa.
+<div><div><p>In South Africa, the distribution of the Oxford-AstraZeneca vaccine was halted. The vaccine <a>did not provide sufficient protection</a> against mild and moderate cases caused by a new variant, health officials said.</p></div></div>
+<div><div><p><a>First known patient reinfected with South Africa coronavirus variant is in critical condition</a></p></div></div>
+<div><div><p><a>South Africa suspends Oxford-AstraZeneca vaccine rollout after researchers report ‘minimal’ protection against coronavirus variant</a></p></div></div>
+<div><div><p><a>Mutated virus may reinfect people already stricken once with covid-19, sparking debate and concerns</a></p></div></div>
+<div><div><h3><div>The alpha variant (B.1.1.7)</div></h3></div></div>
+<div><div><p>Dozens of countries have seen infections from this variant of the virus. The Centers for Disease Control and Prevention announced in April that this variant <a>had become the dominant one</a> in the United States.</p></div></div>
+<div><div><h5><div>What makes it different?</div></h5></div></div>
+<div><div><p>The alpha variant appears more transmissible than the more common strain. This strain also <a>may be 30 to 70 percent more lethal</a> than previous variants.</p></div></div>
+<div><p>Ravindra Gupta, a professor of clinical microbiology at the University of Cambridge, found in a study of older adults that the immune response triggered by the Pfizer vaccine was modestly less effective against the alpha variant.</p></div>
+<div><div><h5><div>Related:</div></h5></div></div>
+<div><div><p><a>Virus variant first detected in the U.K. has been deadlier, study confirms</a></p></div></div>
+<div><div><p><a>Denmark is sequencing all coronavirus samples and has an alarming view of the U.K. variant</a></p></div></div>
+<div><div><h3><div>The gamma variant (P. 1)</div></h3></div></div>
+<div><div><p>Sequencing studies found the variant in Brazil, mainly in Rio de Janeiro, as early as July 2020. Researchers in Japan discovered it in travelers from Brazil in January.</p></div></div>
+<div><div><h5><div>Where is it now?</div></h5></div></div>
+<a>first U.S. case of this variant</a> in a resident with recent travel history to Brazil. It has since been found in more than 30 states.
+<a>probably more transmissible</a>. There is also some evidence that
+<a>antibodies might not recognize the P.1 variant</a>, which could lead to reinfection.
+<div><p>There’s no strong evidence suggesting vaccines won’t work against the gamma variant. But scientists have raised the possibility that this variant can evade antibodies, which would impact the vaccines’ effectiveness.</p></div>
+<a>determined that it was highly effective</a> at neutralizing the gamma variant. Moderna has announced that it
+<a>would develop a new vaccine</a> tailored to a similar variant in case an updated shot becomes necessary.
+<div><div><p><a>The Amazonian city that hatched the Brazil variant has been crushed by it</a></p></div></div>
+<div><div><p><a>First U.S. case of highly transmissible Brazil coronavirus variant identified in Minnesota</a></p></div></div>
+<div><div><h3><div>The iota variant (B.1.526)</div></h3></div></div>
+<div><div><h5><div>Where and when was it discovered?</div></h5></div></div>
+<a>samples obtained as early as November</a>, probably emerged in the Washington Heights section of New York, Fauci told reporters in March. By the middle of that month, this variant
+<a>made up nearly half</a> of the city’s new infections.
+<div><div><p>Officials have reported this variant in at least 14 other states, including Texas, Wyoming and Maryland, <a>Bloomberg reported</a>.</p></div></div>
+<div><p>Some scientists are concerned that this variant may be more transmissible than previous versions. Gottlieb <a>expressed worry</a> that a mutation on this variant could enable it to reinfect people who have already had the virus.</p></div>
+<a>said on CBS News’s “Face the Nation.”</a> Gottlieb said he was also concerned that this variant could partly elude the effects of vaccination.
+<div><div><p><a>After weeks of declining cases, echoes of hot spots emerge in Upper Midwest, New York City area</a></p></div></div>
+<div><div><h3><div>The ‘Eeek’ mutation (E484K)</div></h3></div></div>
+<div><div><h5><div>Where is it?</div></h5></div></div>
+<div><div><p>Eeek has been seen in the beta and gamma variants and some strains of the alpha variant.</p></div></div>
+<div><div><h5><div>Will vaccines work?</div></h5></div></div>
+<div><div><p><a>Worrisome E484K coronavirus mutation seen in U.K. variant and in some U.S. samples</a></p></div></div>
+<div><div><h3><div>The Denmark/California mutation (L452R)</div></h3></div></div>
+<div><div><p>This mutation was detected in Denmark in March 2020.</p></div></div>
+<a>might make the virus more resistant to vaccines</a> because the mutation is in the spike protein, which enables the virus to attach to cells. But scientists also say that more study is needed before they can draw conclusions.
+<div><div><p><a>New research shows California coronavirus variant is more transmissible</a></p></div></div>
+<div><div><p><a>Another coronavirus variant linked to growing share of cases, several large outbreaks, in California</a></p></div></div>
+<div><div><h3><div>The original variant (D614G)</div></h3></div></div>
+<div><div><p>This variant,<a> known to scientists simply as “G,”</a> was discovered in China in January 2020. It soon spread through New York City and Europe.</p></div></div>
+<div><div><p>The “G” variant has become ubiquitous. By July 2020, about 70 percent of the 50,000 genomes of the coronavirus uploaded by researchers worldwide to a shared database carried the variant.</p></div></div>
+<div><div><h5><div>What makes it different?</div></h5></div></div>
+<a>four to five times more spikes</a> on its surface. Those spikes enable the virus to latch onto and infect cells. But other scientists still contest the greater transmissibility.
+<div><div><h5><div>Related:</div></h5></div></div>
+<div><div><p><a>This coronavirus mutation has taken over the world. Scientists are trying to understand why.</a></p></div></div>
+<div><div><p><a>Massive genetic study shows coronavirus mutating and potentially evolving amid rapid U.S. spread</a></p></div></div>
+<div><div><p><a>British officials identify coronavirus mutations, but significance remains unclear</a></p></div></div>
+<div><div><h3><div>What do the variants mean for vaccines?</div></h3></div></div>
+<a>testing new variants against their vaccines and spinning up new trials</a>. Moderna and Pfizer can update their vaccines quickly because of their mRNA technology, which can be reprogrammed to target new variants.
+<div><div><p><a>New coronavirus variants accelerate race to make sure vaccines keep up</a></p></div></div>
+<div><div><p><i>Joel Achenbach, Lindsey Bever, William Booth, Carolyn Y. Johnson, Sarah Kaplan, Laurie McGinley and Fenit Nirappil contributed to this report.</i></p></div></div>
+<p><b>Coronavirus maps: </b><a>Cases and deaths in the U.S.</a> | <a>Cases and deaths worldwide</a></p>
+<p><b>Vaccines:</b> <a>Tracker by state</a> | <a>Booster shots</a><b> </b>| <a>For kids 5 to 11</a> | <a>Guidance for vaccinated people</a> | <a>How long does immunity last?</a> | <a>County-level vaccine data</a></p>
+<p><b>Impact of the pandemic:</b> <a>Supply chain</a> | <a>Education</a> | <a>Housing</a></p>
+<p><b>Got a pandemic question? </b><a>We answer one every day in our coronavirus newsletter</a></p>
+<div><div><div>MORE ON THE OMICRON VARIANT</div><div><div>HAND CURATED</div></div></div></div>
+<div>Skip to main content<div><div><div><div><div>Detours with locals. Travel tips you can trust.</div></div></div><div><div><a>Cities</a></div><div><a>News</a></div><div><a>Tips</a></div><div><a>Newsletter</a></div><a>instagram</a></div></div></div></div>
+<header><div><h1>The airline lost your luggage. Now what?</h1></div><h2>Here’s how to find your luggage — and how to get what you are owed</h2></header>
+<div><div><span><div><span><div><div>By Natalie B. Compton</div></div></span></div></span></div><div>Yesterday at 2:25 p.m. EST</div></div>
+<div><div><p>Mishandled bags have always plagued travelers, but pandemic challenges have given airline employees extra obstacles to get passengers their bags.</p></div></div>
+<div><div><p>All of these factors are causing overall issues with passenger luggage, according to Jen Moyse, senior director of product for the travel app TripIt.</p></div></div>
+<div><div><p>“Bags are being more frequently loaded, unloaded, rerouted and returned, and there seem to be more opportunities for an item to become temporarily (or in some cases permanently) lost,” Moyse said in an email.</p></div></div>
+<div><div><p>If you’re one of the unlucky travelers dealing with damaged, lost or delayed luggage, here’s how to handle the situation.</p></div></div>
+<div><p>From airport WiFi to ‘juice jacking’: 7 ways to protect your data when traveling</p></div>
+<div><div><h3><div>What you can do if your bag is lost</div></h3></div></div>
+<div><div><p>When your bag is missing, the airline is responsible for getting your items back. Thanks to airlines’ tracking systems, they should know where your bag is and when it will arrive.</p></div></div>
+<div><div><p>You can track your bag through some airlines’ app or website. There is also the airline’s call center, but lately it has been difficult <a>to connect with a representative in a timely fashion</a>.</p></div></div>
+<div><div><p>As the airline tries to find your bag, Moyse says, you should review your airline’s policies for baggage-fee reimbursement.</p></div></div>
+<div><p>Our best travel advice of 2021</p></div>
+<div><div><h3><div>What you are entitled to from the airlines</div></h3></div></div>
+<div><div><p>At the very least, LaBar says, most airlines will reimburse your checked bag fee if your luggage isn’t returned within a certain time frame.</p></div></div>
+<div><div><p>If your stuff is permanently lost or damaged, LaBar says, you will need to provide an inventory of the packed items and their approximate dollar value to get compensation.</p></div></div>
+<a>airlines are liable</a> for up to $3,800 for lost, damaged or delayed bags. International flights fall under different rules; the maximum baggage liability is about $1,780. (Airlines can pay you more than that, but they’re not required to by law.)
+<a>Airheart</a>, says to check with the card to see whether they have a lost luggage policy. Some cards — such as ones with travel perks — may come with that benefit.
+<div><p>How to protect your travel plans from covid chaos</p></div>
+<div><div><h3><div>Before travel, consider buying insurance</div></h3></div></div>
+<div><div><p>In fact, John Rose, chief risk officer for the travel management company <a>ALTOUR</a>, says one of the most-used assistance services in a travel insurance policy is helping with missing luggage.</p></div></div>
+<div><div><p>Remember: Buying travel insurance does not mean you will get all of your money back if something goes wrong. Insurance companies probably will not pay out the full market value of your lost belongings, Renken says.</p></div></div>
+<div><p>How to get refunds if your flight is canceled</p></div>
+<div><div><h3><div>Plan travel strategically</div></h3></div></div>
+<div><div><p>Before you leave the house, make sure your bag is identifiable. Moyse says to put up-to-date contact information both on a luggage tag and inside the bag in case the tag rips off.</p></div></div>
+<div><p>LaBar also suggests taking a photo of your suitcase before you check it; this can be helpful to reference if you need to fill out a lost luggage claim, which will request the color, make, size and additional details about your bag.</p></div>
+<a>checking a bag</a> to avoid lost luggage woes. If you never hand it over to the airlines, they never have the chance to lose it. But that can be more challenging as overhead bin space becomes limited and passengers are asked to gate-check their bags.
+<div><div><p>Plus, not everyone can pare down enough to make a carry-on work. If you’re going to check a bag, Renken says, you should pack valuable items and essentials such as medication in your carry-on.</p></div></div>
+<div><div><p>To take your lost luggage defense one step further, Renken recommends that travelers take a nonstop flight whenever possible. The fewer transfers you have to make, the fewer chances your bag has to get mishandled.</p></div></div>
+<a>Your guide to traveling again, in 5 steps</a>
+<a>What to do if your flight gets canceled</a>
+<a>Getting through to airline customer service</a>
+<a>Who’s welcome back on cruises</a>
+<a>When to get a covid test for travel</a>
+<a>Are PreCheck, Global Entry or CLEAR still worth it?</a>
+<a>Do you know how to tip?<b> </b></a>
+<a>What do travel advisories mean?</a>
+<p><b>Road trips: </b><a>Should you fly or drive?</a> <b>|</b> <a>Best planning tips</a> <b>|</b> <a>Snacks</a> <b>| </b><a>Overlanding advice</a> <b>| </b><a>Rental cars</a><b>| </b><a>National park tips</a> <b>|</b> <a>Rental car disasters</a></p>
+<p><b>Camping: </b><a>Finding a campsite</a> <b>| </b><a>Plan your meals</a><b> | </b><a>Solo camping</a><b> | </b><a>First-time tips</a> <b> | </b><a>Watch out for wildlife</a></p>
+<a>Get started on holiday travel planning</a>
+<div><div><div>National</div><a>Live updates:Covid-19 live updates: U.S. approaches new records as experts debate which ...</a></div></div>
+<div><div><div>Opinions</div>With omicron, let’s not fight the last war</div></div>
+<div><div><div>Health</div>In the nation’s hospitals, this covid wave is different</div></div>
+<div><div><div>Launcher News</div>Video game expo E3 cancels in-person event, citing enduring covid-19 fears</div></div>
+<div><div><div>Opinions</div><a>Omicron is not a reason to keep schools closed</a></div></div>
+<div><div><div>Health</div>Former Biden advisers call for ‘new’ covid strategy</div></div>
+<header><div/><div><h1>Opinion: Everyone should be wearing N95 masks now</h1></div></header>
+<div><div><span><div><span><div><div>By Joseph G. Allen</div></div> </span></div></span></div><div>January 26, 2021 at 11:18 a.m. EST</div></div>
+<i>Joseph G. Allen is an associate professor and director of the Healthy Buildings program at Harvard University’s T.H. Chan School of Public Health. He co-wrote “</i>
+<a><i>Healthy Buildings: How Indoor Spaces Drive Performance and Productivity</i></a>
+<div><div><p>We are rightly grateful to the front-line health-care workers who put their lives on the line each day. Their relative risk of death rose 20 percent in 2020 over previous years.</p></div></div>
+<p>We should also be grateful for the bakers and cooks, whose risk of death rose more than 50 percent. And for maids and truck drivers, who saw a 30 percent increase in death risk. And construction workers and shipping clerks, up more than 40 percent.</p>
+<p>Those numbers come from a new report out of California that shines a light on the shocking risk to covid-19 by occupation. It also shows how necessary it is that we ramp up protections for essential workers. The best way to do that: better masks.</p>
+<div><div><p>In the scrambling for information and tools in early days of the pandemic, it was acceptable to just say any cloth mask will do because it’s true. Any face covering is better than none.</p></div></div>
+<div><div><p>But there’s no reason any essential worker — and, really, everyone in the country — should go without masks that filter 95 percent.</p></div></div>
+<div><p>FAQ: Single or double? The latest advice on masks and covid.</p></div>
+<a>91 percent</a> of particles. Not bad. But two N95s result in greater than a 99 percent reduction in exposure.
+<a>Rainbow Passage</a>” that’s commonly used for respirator fit testing, and see whether the mask slides around too much when you talk.
+<a>certified</a> in the United States. Barring that, I’d go for the certified mask used in South Korea, the KF94. Next I’d choose KN95s, but there is a catch:
+<a>The government reports</a> that KN95s out of China might not meet standards unless the manufacturer holds a “NIOSH (National Institute for Occupational Safety and Health) Certificate.”
+<a>Research</a> shows this can achieve greater than 90 percent filtration.
+<div><div><p><a>Letter to the Editor: Doubling up on masks for safety</a></p></div></div>
+<div><div><p><a>Joseph G. Allen: Why three feet of social distancing should be enough in schools</a></p></div></div>
+<div><div><p><a>Gary Abernathy: I’m not so sure on masks. But here’s why I wear one.</a></p></div></div>
+<div><div><p><a>The Post’s View: Face masks are vital to stopping the spread of the virus. Wear one.</a></p></div></div>
+<div><div><p><a>Jennifer Rubin: 50 things that are better already</a></p></div></div>
+<div><div><p><a>The Post’s View: As the virus mutates, here’s another public health failing that needs correcting</a></p></div></div>
+<p><b>Coronavirus maps: </b><a>Cases and deaths in the U.S.</a> | <a>Cases and deaths worldwide</a></p>
+<p><b>Vaccines:</b> <a>Tracker by state</a> | <a>Booster shots</a><b> </b>| <a>For kids 5 to 11</a> | <a>Guidance for vaccinated people</a> | <a>How long does immunity last?</a> | <a>County-level vaccine data</a></p>
+<p><b>Impact of the pandemic:</b> <a>Supply chain</a> | <a>Education</a> | <a>Housing</a></p>
+<p><b>Got a pandemic question? </b><a>We answer one every day in our coronavirus newsletter</a></p>
+<div>Skip to main content<div><div><div><div><div>Detours with locals. Travel tips you can trust.</div></div></div><div><div><a>Cities</a></div><div><a>News</a></div><div><a>Tips</a></div><div><a>Newsletter</a></div><a>instagram</a></div></div></div></div>
+<div><div><div>Opinions</div>Omicron is not a reason to keep schools closed</div></div>
+<header><div/><div><h1>The best travel advice of 2021, from By The Way Concierge</h1></div><h2>You asked our advice columnist about covid chaos, canceled flights, refunds and more </h2></header>
+<div><div><span><div><span><div><div>By Natalie B. Compton</div></div></span></div></span></div><div>December 23, 2021 at 12:21 p.m. EST</div></div>
+<div><div><p>Through the constant travel whiplash of 2021, we scrambled to keep up with border closures and testing requirements. We learned about new variants and vaccines.</p></div></div>
+<div><div><p>We compiled that advice through our By The Way Concierge column, and to end the year, we’re revisiting our most helpful tips to prepare you for 2022 travels. And as always, <a>send us your latest dilemmas. </a></p></div></div>
+<div><div><h3><div>Are PreCheck, Global Entry or CLEAR still worth it?</div></h3></div></div>
+<div><div><p><i><b>Should I get TSA PreCheck or Global Entry? Are they worth it?</b></i></p></div></div>
+<div><p>The airport can be so unpredictable these days. Any of these line-cutting services may be a godsend one day, and completely unnecessary the next. Your travel style and where you are traveling most may also be <a>part of the equation.</a></p></div>
+<div><div><h3><div>How should I handle holiday visits to unvaccinated households?</div></h3></div></div>
+<div><div><p><i><b>How should I handle visits (after air travel) to households where some members are unvaccinated?</b></i></p></div></div>
+<div><div><p>While <a>the subject of vaccinations</a> with families can be a thorny subject during the holidays, experts agreed on some key tools to get you through it: tests, masks and gathering outside.</p></div></div>
+<div><div><h3><div>My Airbnb host won’t refund me. How can I get my money back?</div></h3></div></div>
+<div><div><p><i><b>Airbnb host refused to refund me even though Airbnb has asked multiple times. Am I entitled to a refund? I have met all the Extenuating Circumstances besides canceling the reservation myself.</b></i></p></div></div>
+<div><div><h3><div>The airline rescheduled our flight. What can we do?</div></h3></div></div>
+<div><div><p>While a rescheduled flight is definitely a hassle, you might want to keep the new itinerary unless it significantly upsets travel plans. <a>Here’s why.</a></p></div></div>
+<div><div><h3><div>How do I find a coronavirus test in a foreign country?</div></h3></div></div>
+<div><div><p><i><b>Please explain how you can obtain a coronavirus test for reentry to the U.S. when you do not know the location, cost, procedure or language to get this service.</b></i></p></div></div>
+<div><div><p>Packing <a>your own test may be the best move</a>, but many hotels offer to arrange testing to take some of the stress off travelers. The specifics will vary from property to property.</p></div></div>
+<div><div><h3><div>Will travel insurance protect your trip as covid spreads?</div></h3></div></div>
+<div><p>Travel insurance is not one-size-fits-all. <a>Policies and what they cover can vary wildly</a>. And everyone’s will be priced differently. If you are looking for a policy that covers covid, you should expect to pay even more.</p></div>
+<a>Your guide to traveling again, in 5 steps</a>
+<a>What to do if your flight gets canceled</a>
+<a>Getting through to airline customer service</a>
+<a>Who’s welcome back on cruises</a>
+<a>When to get a covid test for travel</a>
+<a>Are PreCheck, Global Entry or CLEAR still worth it?</a>
+<a>Do you know how to tip?<b> </b></a>
+<a>What do travel advisories mean?</a>
+<p><b>Road trips: </b><a>Should you fly or drive?</a> <b>|</b> <a>Best planning tips</a> <b>|</b> <a>Snacks</a> <b>| </b><a>Overlanding advice</a> <b>| </b><a>Rental cars</a><b>| </b><a>National park tips</a> <b>|</b> <a>Rental car disasters</a></p>
+<p><b>Camping: </b><a>Finding a campsite</a> <b>| </b><a>Plan your meals</a><b> | </b><a>Solo camping</a><b> | </b><a>First-time tips</a> <b> | </b><a>Watch out for wildlife</a></p>
+<a>Get started on holiday travel planning</a>
+<div><div><div>MORE TRAVEL ADVICE</div><div><div>HAND CURATED</div></div></div></div>
+<div><div>The Health 202<div><div>Analysis</div><div>Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events</div></div></div></div>
+<div><div><p>A newsletter briefing on the health-care policy debate in Washington.</p></div></div>
+<div><h1>Forecasters say omicron peak could come this month</h1></div>
+<div><p>A newsletter briefing on the health-care policy debate in Washington.</p></div>
+<div><div><div><span><div><span><div><div>By Rachel Roubein</div></div></span></div></span><p>with research by Alexandra Ellerbeck</p></div></div><div>January 4, 2022 at 7:44 a.m. EST</div></div>
+<div><div><p>Good morning — we hope you enjoyed yesterday's winter weather as much as this panda rolling around in his first snow.</p></div></div>
+<div><div><p>Below: The FDA authorized booster shots for 12-to-15-year-olds, and coronavirus cases are spiking on Capitol Hill. But first:</p></div></div>
+<div><div><h4><div>Forecasters say omicron peak could come this month</div></h4></div></div>
+<div><div><p>The latest surge of coronavirus cases could peak as soon as this month while the highly contagious omicron variant speeds through the U.S. population.</p></div></div>
+<div><div><p>The nation’s case count is already reaching record levels, as the omicron variant tears through the Northeast and the Mid-Atlantic. </p></div></div>
+<div><div><h5><div>Forecasting the future</div></h5></div></div>
+<div><ul><li>“It’s spreading much faster than we ever expected,” said Ali Mokdad, a professor of health metrics sciences at IHME.</li></ul></div>
+<div><div><p>The caveat: Some health experts are quick to note the virus has proven itself to be unpredictable time and time again. </p></div></div>
+<div><div><h5><div>An important indicator</div></h5></div></div>
+<li>“The real bottom line that you want to be concerned about is, are we getting protected by the vaccines from severe disease leading to hospitalization?” Fauci said Sunday on ABC’s “This Week.”</li>
+<div><p>Data on case counts and hospitalizations serve different purposes, some say. For state officials, infection rates are important to understand where the virus is spreading and the demographics of the populations most impacted. </p></div>
+<div><div><p>Some governors are already sounding the alarm, as they ready for what's likely to be a brutal next few weeks as the country enters Year 3 of its pandemic response. </p></div></div>
+<div><div><h3><div>Coronavirus</div></h3></div></div>
+<div><div><h4><div>The FDA authorized Pfizer-BioNTech boosters for 12-to-15-year-olds</div></h4></div></div>
+<div><div><p>On tap Wednesday: The Centers for Disease Control and Prevention advisers are expected to review the moves, with the agency director, Rochelle Walensky, expected to sign off as soon as that day.</p></div></div>
+<div><div><h4><div>Here's what else we're watching:</div></h4></div></div>
+<li>More than 3,000 flights were canceled yesterday as airlines grappled with winter weather and staffing shortages tied to surging coronavirus cases, per our colleague Lori Aratani.</li>
+<div><div><h3><div>On the Hill</div></h3></div></div>
+<div><div><h4><div>Coronavirus cases skyrocket on Capitol Hill</div></h4></div></div>
+<div><ul><li>House and Senate offices should telework much as possible, Monahan wrote, and those on the Hill should upgrade their masks, using more protective KN95 or N95 masks instead of cloth or surgical masks.</li></ul></div>
+<div><div><h4><div>GOP senators blast the Biden administration for the nation’s testing shortage</div></h4></div></div>
+<div><div><p>Sens. Roy Blunt (R-Mo.) and Richard Burr (R-N.C.) are demanding answers from the Biden administration over the country’s testing crunch.</p></div></div>
+<div><div><h3><div>In the courts</div></h3></div></div>
+<div><div><h4><div>Elizabeth Holmes found guilty on four counts in fraud case</div></h4></div></div>
+<div><ul><li>Holmes was found guilty on four counts of wire fraud and conspiracy to commit fraud against investors. The jury was deadlocked on three other counts related to defrauding investors.</li></ul></div>
+<div><div><h4><div>Cuomo won’t face charges in nursing home investigation</div></h4></div></div>
+<div><div><p>The Manhattan District Attorney’s Office has closed its probe into the Cuomo administration’s handling of nursing home data, a spokesperson for former New York governor Andrew Cuomo said Monday, NBC reports.</p></div></div>
+<p>Cuomo faced accusations that he downplayed the toll of the coronavirus on the state’s nursing homes by reportedly withholding data on nursing home residents who died of the virus while outside of the facilities, for instance in hospitals.</p>
+<div><div><h3><div>Sugar rush</div></h3></div></div>
+<div><div><div><div><div>3:48</div></div></div></div><div><div>What to do if your flight is delayed or canceled</div><div>Yesterday</div></div></div>
+<div><div><div><div><div>3:38</div></div></div></div><div><div>Jan. 6 insurrection: How Congress marked one year since attack</div><div>Today</div></div></div>
+<div><div><div><div><div>6:21</div></div></div></div><div><div>'I lost my life’: Jamal Khashoggi’s widow shares her story</div><div>2 weeks ago</div></div></div>
+<div><div><div><div><div>4:55</div></div></div></div><div><div>Attorneys deliver closing arguments in trial for manslaughter of Daunte Wright</div><div>2 weeks ago</div></div></div>
+<div><div><div><div><div>0:46</div></div></div></div><div><div>Abortion rights activists demonstrate outside the Supreme Court</div><div>2 weeks ago</div></div></div>
+<h1>What to do if your flight is delayed or canceled</h1>
+<div>From traveling light to booking your flight directly through the airline, here are some helpful tips to keep in mind during particularly messy travel seasons.</div>
+<header><div/><div><div><a>Health</a></div></div><div><h1>Are the coronavirus vaccines safe for someone with cancer, dementia or MS?</h1></div></header>
+<div><div><span><div><span><div><div>By Judith Graham</div></div></span></div></span></div><div>January 31, 2021 at 12:30 p.m. EST</div></div>
+<div><div>FAQ: What to know about the omicron variant of the coronavirus</div></div>
+<div><div><p>Experts’ advice may be helpful since states are beginning to offer vaccines to adults over age 65, 70 or 75, including those with serious underlying medical conditions.</p></div></div>
+<div><div><p>But people 65 and older undergoing cancer treatment were not included in these studies. As a result, it’s not known what degree of protection they might derive.</p></div></div>
+<div><p>The exception, which applies to everyone, not just cancer patients: people who are allergic to the coronavirus vaccine components or who experience severe allergic responses after getting a first shot shouldn’t get the vaccines.</p></div>
+<p>One approach might be trying to time vaccination “in between cycles of chemotherapy, if possible,” said Catherine Liu, a professor in the vaccine and infectious-disease division at Fred Hutchinson Cancer Research Center in Seattle.</p>
+<div><div><p><b>Q: Should my 97-year-old mom, in a nursing home with dementia, even get the vaccine?</b></p></div></div>
+<div><div><p>“My advice is that everyone should get vaccinated, regardless of what stage of dementia they’re in,” Rafii said. That includes dementia patients at the end of their lives in hospice care, he said.</p></div></div>
+<div><div><p><b>Q: I’m 80 and I have Type 2 diabetes and an autoimmune disease. Should I get the vaccine?</b></p></div></div>
+<div><div><p>A: There are two parts to this question. The first has to do with “comorbidities” — having more than one medical condition. Should older adults with comorbidities get the coronavirus vaccines?</p></div></div>
+<div><div><p>Absolutely, because they’re at higher risk of becoming seriously ill from covid-19, said Abinash Virk, an infectious diseases specialist and co-chair of the Mayo Clinic’s vaccine rollout.</p></div></div>
+<div><div><p>“Pfizer’s and Moderna’s studies specifically looked at people who were older and had comorbidities, and they showed that vaccine response was similar to [that of] people who were younger,” she noted.</p></div></div>
+<p>The second part has to do with autoimmune illnesses such as lupus or rheumatoid arthritis, which also put people at higher risk. The concern here is that a vaccine might trigger inflammatory responses that could exacerbate these conditions.</p>
+<div><div><p>The National Multiple Sclerosis Society recently recommended that most patients with multiple sclerosis — another serious autoimmune condition — get the Pfizer or Moderna vaccines.</p></div></div>
+<div><div><p>“The vaccines are not likely to trigger an MS relapse or to worsen your chronic MS symptoms. The risk of getting COVID-19 far outweighs any risk of having an MS relapse from the vaccine,” it said in a statement.</p></div></div>
+<div><p>Often, the elderly handle the pandemic very well. Here’s why.</p></div>
+<div><p><span>As you grow older, some preventive medical tests can actually be skipped</span></p></div>
+<div> Omicron dominant Omicron not dominantOmicron detected (low samples) No data</div>
+<header><div><h1>How fast the omicron variant is spreading in the world</h1><h2>The variant detected in November has overtaken delta as the dominant version of the coronavirus</h2></div></header>
+<div><div><div><span><div><span><div>By Dan Keating</div>,</span></div><div><span><div>Madison Dong</div> and </span></div><div><span><div>Youjin Shin</div></span></div></span></div></div></div>
+<div>Updated Jan. 6 at 11:11 a.m.Originally published Dec. 21, 2021</div>
+<div>Share of variants in sequenced cases globally</div>
+<div> Alpha Beta Delta Gamma Others Omicron</div>
+<p>The giant blue delta spread began a year ago and covered the world by summer. Omicron is taking over even faster.</p>
+<h3><b>Countries where omicron is most prominent</b></h3>
+<p>Public and private laboratories submit their sequencing results to the worldwide GISAID database, a nonprofit partnership that broadcasts trends of viral diseases.</p>
+<p>[Understanding omicron’s many mutations]</p>
+<p>Only a very small sample of coronavirus cases are sequenced, and the process takes about a week. That makes the latest view always a bit out of date compared with daily covid case counts that have shown real-time shifts over the past two years.</p>
+<p>Although the level of sequencing varies widely across the world and in the United States, many countries are generating sufficient public genome samples to reveal a trend.</p>
+<h3><b>Countries where omicron is also growing</b></h3>
+<h3>United States variant trend</h3>
+<p><i>This project will be updated.</i></p>
+<p><a><i>Leslie Shapiro</i></a><i> and </i><a><i>Leo Dominguez</i></a><i> contributed to this report.</i></p>
+<div><div><div><div>Dan KeatingFollow</div>Dan Keating analyzes data for projects, stories, graphics and interactive online presentations. </div></div></div>
+<div><div><div>National</div><a>Live updates:Covid-19 live updates: With 9.5 million new coronavirus cases, global count...</a></div></div>
+<div><div><div>Health</div>Former Biden advisers call for ‘new’ covid strategy</div></div>
+<div><div><div>By The Way</div>South Africa tourism was just starting to rebound. Then omicron arrived. </div></div>
+<div><div><div>By The Way</div>You asked: I’m unvaccinated and immunocompromised. How can I travel safely?...</div></div>
+<div><div><div>Health</div><a>How fast the omicron variant is spreading in the world</a></div></div>
+<div><div><div>Health</div>What to know about the omicron variant of the coronavirus</div></div>
+<header><div/><div><div><a>Courts Law</a></div></div><div><h1>Supreme Court is set to review Biden’s vaccine rules for businesses, health-care workers. Here’s what to know.</h1></div></header>
+<div><div><span><div><span><div>By Ann E. Marimow</div> and </span></div><div><span><div>Robert Barnes</div></span></div></span></div><div>Today at 5:00 a.m. EST</div></div>
+<div><div><span><div><span><div>By Ann E. Marimow</div> and</span></div><div><span><div>Robert Barnes</div></span></div></span></div><div>Today at 5:00 a.m. EST</div></div>
+<a>vaccine policies</a> affecting nearly 100 million workers. Most already have made the choice to be vaccinated, but Biden has said the numbers are not good enough.
+<div><div><p>One measure requires large private companies to implement a vaccination requirement or impose a masking and weekly testing regimen. The second applies to health-care workers at facilities that receive certain federal funding.</p></div></div>
+<div><div><p>Together, <a>the cases test a signature aspect of the White House’s response to the pandemic</a> that has killed more than 800,000 people in the United States.</p></div></div>
+<div><div><p>Here’s an overview of the cases, the history and the issues that the justices will consider Friday.</p></div></div>
+<div><div><p><b>Can the U.S. government force private companies and health-care facilities to require vaccinations for their workers?</b></p></div></div>
+<div><div><p>The federal government has never before tried to impose a vaccine-or-test policy on U.S. companies and their workers.</p></div></div>
+<div><div><p>Employers must provide paid time off to get vaccinated, but they are not required to pay for coronavirus testing.</p></div></div>
+<div><div><p>The rules were set to take effect Jan. 4, but OSHA pushed back the date in response to the litigation and said it would not immediately issue citations for those not in compliance.</p></div></div>
+<div><div><p>The other policy from the Centers for Medicare and Medicaid Services requires vaccinations for more than 17 million health-care workers at 76,000 facilities that receive federal money tied to those programs.</p></div></div>
+<div><div><p><b>Who is challenging the vaccination policies and why?</b></p></div></div>
+<div><div><p>Any delay, according to the Biden administration, will “cost dozens or even hundreds of lives per day.”</p></div></div>
+<div><div><p>The vaccine mandate for health-care workers, opponents say, is “plainly unlawful.”</p></div></div>
+<div><div><p><b>Have workplace safety requirements previously been issued on an emergency basis?</b></p></div></div>
+<div><p>OSHA, the federal safety agency, has used its <a>emergency authority infrequently</a> after mixed results in court in the 1970s and ’80s in response to rules to regulate exposure to benzene, asbestos and certain pesticides.</p></div>
+<div><div><p>The term “grave danger” is not defined in statute, and courts also have not provided clear guidance about the term.</p></div></div>
+<div><div><p><b>Hasn’t the Supreme Court upheld vaccination requirements for college campuses and those imposed by local officials?</b></p></div></div>
+<div><div><p>Yes, the justices have generally been supportive of vaccination requirements by local governments and universities. For instance, it allowed New York and Maine to mandate vaccinations for their health-care workers.</p></div></div>
+<div><div><p>But the court has also been skeptical when it comes to federal agency power generally, and with respect to the pandemic.</p></div></div>
+<div><p>The justices, for instance, rejected an eviction moratorium — first imposed by the Trump administration and extended by Biden — because it said the Centers for Disease Control and Prevention had exceeded its authority.</p></div>
+<div><div><p><b>What have lower courts said about Biden’s policies?</b></p></div></div>
+<div><div><p>They are divided.</p></div></div>
+<div><div><p>Soon after the administration announced the rules for private companies in November, the U.S. Court of Appeals for the 5th Circuit blocked enforcement of the policy.</p></div></div>
+<div><p>But lawsuits sprung up around the nation and were consolidated for review by a different court. A panel of the U.S. Court of Appeals for the 6th Circuit dissolved the 5th Circuit’s stay, saying the rules could go into effect.</p></div>
+<div><div><p>Opponents then asked the Supreme Court to intervene.</p></div></div>
+<div><div><p>The lower courts also were divided on the health-care worker mandate.</p></div></div>
+<div><div><p>A panel of the U.S. Court of Appeals for the 11th Circuit dismissed a request from Florida to stop the requirement. But a district judge in Missouri stopped the rules, and the 5th Circuit agreed with a challenge from Louisiana.</p></div></div>
+<div><div><p>At the Supreme Court, a coalition of Republican-led states said the rules should be blocked.</p></div></div>
+<div><div><p>But the Biden administration said its authority is clear.</p></div></div>
+<div><div><p><b>What about the Supreme Court’s own coronavirus policies for the justices and court visitors? </b></p></div></div>
+<div><div><p>The courthouse has been closed to the public since March 2020. All nine justices have been vaccinated and received boosters. Justice Amy Coney Barrett had covid before she was confirmed to the high court in September 2020.</p></div></div>
+<div><div><p>After returning to in-person oral arguments this past fall, Justice Brett M. Kavanaugh participated in some from home after he tested positive.</p></div></div>
+<div><div><p>The justices have not required lawyers arguing cases and credentialed reporters observing the proceedings to be vaccinated. But they must have received negative test results and be masked.</p></div></div>
+<div><div><p>The health-care worker cases are <i>Biden v. Missouri </i>and<i> Becerra v. Louisiana</i>. The OSHA cases are <i>National Federation of Independent Business v. Department of Labor </i>and<i> Ohio v. Department of Labor</i>.</p></div></div>
+<p><b>Coronavirus maps: </b><a>Cases and deaths in the U.S.</a> | <a>Cases and deaths worldwide</a></p>
+<p><b>Vaccines:</b> <a>Tracker by state</a> | <a>Booster shots</a><b> </b>| <a>For kids 5 to 11</a> | <a>Guidance for vaccinated people</a> | <a>How long does immunity last?</a> | <a>County-level vaccine data</a></p>
+<p><b>Impact of the pandemic:</b> <a>Supply chain</a> | <a>Education</a> | <a>Housing</a></p>
+<p><b>Got a pandemic question? </b><a>We answer one every day in our coronavirus newsletter</a></p>
+<div><div><div>MORE ON THE OMICRON VARIANT</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><div>National</div><a>Live updates:Covid-19 live updates: Record 4,000 children hospitalized amid U.S. omicron...</a></div></div>
+<div><div><div>Health</div>What to know about the omicron variant of the coronavirus</div></div>
+<div><div><div>Tennis</div>‘Rules are rules’: Australia cancels Novak Djokovic’s visa amid vaccine exe...</div></div>
+<div><div><div>Courts Law</div>Supreme Court is set to review Biden’s vaccine rules for businesses, health...</div></div>
+<div><div><div>Asia</div><a>Novak Djokovic thought he’d aced Australian immigration. It now looks like ...</a></div></div>
+<div><div><div>Asia</div>Tales of anguish emerge from China’s locked-down Xian, as hospital staffers...</div></div>
+<header><div/><div><div><a>Tennis</a></div></div><div><h1>‘Rules are rules’: Australia cancels Novak Djokovic’s visa amid vaccine exemption uproar</h1></div></header>
+<div><span><div><span><div>By Liz Clarke</div>, </span></div><div><span><div>Cindy Boren</div> and </span></div><div><span><div>Des Bieler</div></span></div></span></div>
+<div><div><span><div><span><div>By Liz Clarke</div>,</span></div><div><span><div>Cindy Boren</div> and </span></div><div><span><div>Des Bieler</div></span></div></span></div><div>Yesterday at 8:24 a.m. EST|Updated today at 7:13 a.m. EST</div></div>
+<div><div><p>His reception, however, was not what the world’s No. 1 player anticipated.</p></div></div>
+<div><div><p>Border authorities then canceled his visa.</p></div></div>
+<div><p>Novak Djokovic’s vaccine exemption for Australian Open is met with skepticism</p></div>
+<div><div><p>Australia Prime Minister Scott Morrison was equally resolute, citing the imperative of enforcing the country’s strict coronavirus protocols without favor.</p></div></div>
+<div><div><p>Australian Open officials had no immediate comment.</p></div></div>
+<div><div><p>“He did everything correctly,” the person said. “But the goal posts have been changed — for him.”</p></div></div>
+<a>tested positive for the coronavirus</a>.
+<div><div><p>His announcement Tuesday that he had received an exemption to play made no mention of whether his opinion on the protocols had changed.</p></div></div>
+<div><div><p>Tiley placed the onus on Djokovic to reveal the reason for his exemption.</p></div></div>
+<a>Tiley said</a>, adding, “We’ve been through a very tough period over the past two years, and we would appreciate some answers to that.”
+<div><div><p>Criticism of the exemption, with whispers of special treatment for the top player in Australia’s highest-profile international sports event, was swift, with skepticism giving way to indignant outrage.</p></div></div>
+<div><p>From February: Meet the beloved former college coach tasked with staging the Australian Open in a pandemic</p></div>
+<a>wrote in a News Corp. column</a>.
+<div><div><p>“However, it is ultimately up to him to discuss with the public his condition, if he chooses to do that, and the reasons why he received an exemption.”</p></div></div>
+<p>Tennis star <a>Novak Djokovic is facing deportation</a> after his travel visa for Australia was canceled.</p>
+<p>Djokovic, whose vaccination status is unknown, arrived in Melbourne with a medical exemption to the <a>mandatory coronavirus vaccination</a> to compete in the Australian Open.</p>
+<p>News of Djokovic’s vaccine exemption was <a>met with skepticism and pushback</a> from other quarters in the sport.</p>
+<p>Australia Prime Minister Scott Morrison said earlier that Djokovic would be “on the next plane home” if the tennis star could not prove why he needed an <a>exemption from getting vaccinated</a>.</p>
+<p>The world No. 1 tennis star is now <a>reportedly being held at a hotel</a> used to house asylum seekers as his lawyers lodge an appeal.</p>
+<p>Djokovic has <a>previously tested positive</a> for the coronavirus.</p>
+<div>Health<div><a>Health Care </a></div><div><a>Medical Mysteries </a></div><div><a>Science </a></div><div><a>Wellness </a></div></div>
+<h1>What to know about the omicron variant of the coronavirus</h1>
+<h2>Omicron has sparked alarm among health experts worried about the new variant’s ability to spread rapidly and evade the body’s immune defenses. Scientists are racing to learn more as cases rise.</h2>
+<span><div><span><div>By Meryl Kornfield</div>, </span></div><div><span><div>Adela Suliman</div>, </span></div><div><span><div>María Luisa Paúl</div> and </span></div><div><span><div>Lindsey Bever</div></span></div></span>
+<div><span><div><span><div>By Meryl Kornfield</div>,</span></div><div><span><div>Adela Suliman</div>, </span></div><div><span><div>María Luisa Paúl</div> and </span></div><div><span><div>Lindsey Bever</div></span></div></span></div>
+<div><div><p>The highly transmissible omicron variant of the coronavirus has taken over as the dominant strain in the United States.</p></div></div>
+<div><div><p>Amesh Adalja, a senior scholar at the Johns Hopkins Center for Health Security, said omicron “is not something that can be avoided.”</p></div></div>
+<div><p>With omicron, many vaccinated Americans will at some point test positive. Here’s what to do.</p></div>
+<a>milder infections</a> than other variants, public health experts say the sudden swell of cases and large number of people who remain unvaccinated could still overwhelm strapped health-care systems.
+<div><p>How scary is omicron? Scientists are racing to find answers.</p></div>
+<div><div><p>That said, much is still unknown about omicron, and U.S. leaders note that there are many more tools to combat the surge in cases than at the start of the pandemic.</p></div></div>
+<p><b>Coronavirus maps: </b><a>Cases and deaths in the U.S.</a> | <a>Cases and deaths worldwide</a></p>
+<p><b>Vaccines:</b> <a>Tracker by state</a> | <a>Booster shots</a><b> </b>| <a>For kids 5 to 11</a> | <a>Guidance for vaccinated people</a> | <a>How long does immunity last?</a> | <a>County-level vaccine data</a></p>
+<p><b>Impact of the pandemic:</b> <a>Supply chain</a> | <a>Education</a> | <a>Housing</a></p>
+<p><b>Got a pandemic question? </b><a>We answer one every day in our coronavirus newsletter</a></p>
+<div> Omicron dominant Omicron not dominantOmicron detected (low samples) No data</div>
+<header><div><h1>How fast the omicron variant is spreading in the world</h1><h2>The variant detected in November has overtaken delta as the dominant version of the coronavirus</h2></div></header>
+<div><div><div><span><div><span><div>By Dan Keating</div>,</span></div><div><span><div>Madison Dong</div> and </span></div><div><span><div>Youjin Shin</div></span></div></span></div></div></div>
+<div>Updated Jan. 6 at 11:11 a.m.Originally published Dec. 21, 2021</div>
+<div>Share of variants in sequenced cases globally</div>
+<div> Alpha Beta Delta Gamma Others Omicron</div>
+<p>The giant blue delta spread began a year ago and covered the world by summer. Omicron is taking over even faster.</p>
+<h3><b>Countries where omicron is most prominent</b></h3>
+<p>Public and private laboratories submit their sequencing results to the worldwide GISAID database, a nonprofit partnership that broadcasts trends of viral diseases.</p>
+<p>[Understanding omicron’s many mutations]</p>
+<p>Only a very small sample of coronavirus cases are sequenced, and the process takes about a week. That makes the latest view always a bit out of date compared with daily covid case counts that have shown real-time shifts over the past two years.</p>
+<p>Although the level of sequencing varies widely across the world and in the United States, many countries are generating sufficient public genome samples to reveal a trend.</p>
+<h3><b>Countries where omicron is also growing</b></h3>
+<h3>United States variant trend</h3>
+<p><i>This project will be updated.</i></p>
+<p><a><i>Leslie Shapiro</i></a><i> and </i><a><i>Leo Dominguez</i></a><i> contributed to this report.</i></p>
+<div><div><div><div>Dan KeatingFollow</div>Dan Keating analyzes data for projects, stories, graphics and interactive online presentations. </div></div></div>
+<div><div><h1>Covid-19 live updates U.S. approaches new records as experts debate which numbers are most important </h1></div></div>
+<div><div>Key coronavirus updates from around the world</div></div>
+<div><div><a>Omicron unlikely to be the last coronavirus variant, WHO officials say</a></div></div>
+<div><div><a>Record 4,000 children hospitalized amid omicron surge</a></div></div>
+<div><span><div><span><div>By Reis Thebault</div>, </span></div><div><span><div>Brittany Shammas</div>, </span></div><div><span><div>Andrew Jeong</div> and </span></div><div><span><div>Jennifer Hassan</div></span></div></span></div>
+<div><div><p>As the United States hurtled toward new coronavirus pandemic records on Thursday, experts debated the utility of some long-standing metrics to measure the impact of covid-19.</p></div></div>
+<p>Here’s what to know</p>
+<li>The omicron variant represented 95 percent of all U.S. coronavirus cases for the week ending Jan. 1, according to the CDC. This chart shows how fast the variant is spreading around the world.</li>
+<li>Global coronavirus infections have reached a pandemic high, with 9.5 million new cases reported last week, the World Health Organization said Thursday.</li>
+<h2>United States hurtles toward new pandemic records as experts debate which numbers are most important</h2>Return to menu
+<div><div><div>By Reis Thebault and Jacqueline Dupree7:13 p.m.</div></div><div>Link copied</div></div>
+<div><div><div><div>Updates continue below advertisement</div></div></div></div>
+<h2>Cornell University, which saw huge surge of virus cases in December, to begin semester virtually</h2>Return to menu
+<div><div><div>By Susan Svrluga6:33 p.m.</div></div><div>Link copied</div></div>
+<b> </b>of students from winter break and testing before and after students get to the Ivy League campus, the university’s leaders announced Thursday.
+<div><p>Cloth masks worn alone no longer meet university standards for protection, university president Martha E. Pollack and other officials noted. Cornell will provide masks such as N95s and KN95s to campus community members who need them.</p></div>
+<div><div><p>Cornell saw a huge surge in student cases before the break, with more than 1,000 students testing positive one week in December, leading school officials to switch to virtual finals and make other changes.</p></div></div>
+<h2>Former Biden advisers call for ‘new’ covid strategy </h2>Return to menu
+<div><div><div>By Dan Diamond5:29 p.m.</div></div><div>Link copied</div></div>
+<p>Six former health advisers to President Biden’s transition team released a series of journal articles on Thursday calling for a “new normal” in the nation’s approach to fighting the coronavirus and other viral threats.</p>
+<div><div><p>They also suggest investments in tests, vaccines and prevention beyond what the White House has done, such as mailing vouchers to Americans that could be used to obtain free, high-quality face masks.</p></div></div>
+<p>Rather than continuing in “a perpetual state of emergency,” he and the others argue, the United States must shift to a strategy of seeking to live with the virus by suppressing its peaks, rather than attempting to eliminate it.</p>
+<h2>Yale tells students to avoid local businesses, including outdoor restaurants</h2>Return to menu
+<div><div><div>By Brittany Shammas4:44 p.m.</div></div><div>Link copied</div></div>
+<div><div><p>Yale is directing students to avoid local businesses — even outdoor restaurants and bars — as they return to campus after winter break.</p></div></div>
+<div><div><p>The campuswide quarantine is expected to continue until Feb. 7. But Boyd noted that it “may extend beyond that date if on- or off-campus covid-19 rates are high.”</p></div></div>
+<h2>Key coronavirus updates from around the world</h2>Return to menu
+<div><div><div>By News Services and Staff Reports3:57 p.m.</div></div><div>Link copied</div></div>
+<div><div><p>Here’s what to know about the top coronavirus stories around the globe from news service reports.</p></div></div>
+<li><span><b>Italy </b>announced that vaccination for people 50 and over would become mandatory immediately. The government had already made vaccination mandatory for teachers and health-care staff in the country.</span></li>
+<b>Canada’s</b> prime minister, Justin Trudeau, said that Canadians are “angry” and “frustrated” with the unvaccinated, whose refusal to be immunized against the coronavirus is placing further pressure on hospitals.
+<span><b>Brazil’s</b> Sao Paulo Carnival will be canceled amid the omicron surge. Other cities, including Rio de Janeiro, have already announced the cancellation of street parties known as “blocos” for the second straight year.</span>
+<h2>Tennis star Djokovic draws renewed attention to Australia’s ‘detention hotels’</h2>Return to menu
+<div><div><div>By Maite Fernández Simon3:16 p.m.</div></div><div>Link copied</div></div>
+<div><div><p>The Park Hotel is most associated with immigrants seeking visas to remain in Australia, some of whom have stayed in the building for years. About 50 refugees are being held now, according to Australia’s 9 News.</p></div></div>
+<h2>Omicron unlikely to be the last coronavirus variant, WHO officials say</h2>
+<div><div><div>By Brittany Shammas2:38 p.m.</div></div><div>Link copied</div></div>
+<div><div><p>Omicron is unlikely to be the coronavirus’s last variant of concern, World Health Organization officials said Thursday, noting the virus will continue to mutate as it circulates.</p></div></div>
+<p>Speaking during a news briefing, WHO emergencies chief Mike Ryan said there is “still a lot of energy in this virus.” When the delta variant emerged, he said, some scientists wondered how it could adapt further when it had become so fit.</p>
+<div><div><p>“And yet, we’ve seen a further variant emerge that is even more transmissible than delta, which was itself more transmissible than previous variants,” he said.</p></div></div>
+<div><div><p>Maria Van Kerkhove, head of the WHO’s emerging-disease and zoonosis unit, said the question is what kinds of mutations happen in the future — and what their effect on the severity of the virus will be.</p></div></div>
+<div><div><p>“There is no inevitability that the next variant will be less severe or more severe,” she said. “We just have to see what happens as this virus evolves.”</p></div></div>
+<h2>More than 2,100 flights canceled Thursday after two weeks of disruption</h2>Return to menu
+<div><div><div>By Lori Aratani1:43 p.m.</div></div><div>Link copied</div></div>
+<h2>Record 4,000 children hospitalized amid omicron surge</h2>

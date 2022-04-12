@@ -1,0 +1,500 @@
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <div> <h3> <a>Cami Rosso</a> </h3> <div> <a>The Future Brain</a> </div> </div> </div> </div>
+<h1> AI Spots Success Formula for Artists, Directors, Scientists </h1>
+<h2> Northwestern University’s AI identifies pattern onset of career “hot streaks." </h2>
+<div> <div> <div> <div>Source: ElisaRiva/Pixabay</div> </div> </div> </div>
+<a>artificial intelligence</a> (AI) deep learning to provide insights and identify common patterns on
+<a>career</a> hot streaks across artistic, cultural, and scientific realms.
+<a>intelligence</a> machine learning.
+<p>To identify the metrics for success, the study used data from more than 2,100 artists, 4,300 directors, and 20,000 scientists.</p>
+<a>creativity</a> and learning — has been discussed extensively across a broad set of disciplines, ranging from computer science, to psychology, to
+<a>neuroscience</a>, to computational social science, to strategic
+<a>management</a> and organization theory,” wrote the researchers.
+<p>Using artificial intelligence to identify patterns in large data sets, the researchers have uncovered a new understanding that may impact how talented individuals in creative domains are identified and cultivated in the future.</p>
+<div> <div> <h3> <a>How Van Gogh’s “Hot Streak” Fits Some Universal Patterns</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Learns to Evaluate Its Own Decisions</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Model Shortens Drug Discovery to Days, Not Years</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Open-Source AI Machine Learning Tools to Fight Cancer</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Accelerates Behavioral Science and Neuroscience Research</a> </h3> </div> </div>
+<div> <div> <h3> <a>Brain-Computer Interface Speeds Neuroscience Research</a> </h3> </div> </div>
+<h1> AI and Optogenetics Disrupt the Neuroscience of Dopamine </h1>
+<h2> Vanderbilt study finds that dopamine is more than just a “pleasure molecule.” </h2>
+<div> <div> <div> <div> <h3>THE BASICS</h3> </div> <ul> <li> What Is Dopamine? </li> <li> <a>Find counselling near me</a> </li> </ul> </div> </div> </div>
+<div> <div> <div> <div>Source: Geralt/Pixabay</div> </div> </div> </div>
+<a>artificial intelligence</a> (AI) machine learning and optogenetics are accelerating discoveries in life sciences, especially in the field of
+<a>neuroscience</a>. A new breakthrough study published in
+<a>Current Biology</a> by pioneering brain researchers at Vanderbilt University used optogenetics and AI machine learning to reveal that
+<a>dopamine</a> is not just a “pleasure molecule” — a revolutionary finding that may impact how
+<a>psychiatric</a> diseases are treated in the future.
+<a>collaboration</a> with Lin Tian, professor and vice chair of biochemistry and molecular medicine at the University of California, Davis.
+<h2>Dopamine Essential Reads</h2>
+<div> <article> <div> <h3> <a>What Makes Us Human? Dopamine and the Cerebellum Hold Clues</a> </h3> </div> </article> <article> <div> <h3> <a>Why You Might Want to Be With Someone You Don’t Really Like </a> </h3> </div> </article> </div>
+<a>cognition</a>, behavioral dysfunction, and psychological disorders.
+<div> <div> <h3> <a>What Makes Us Human? Dopamine and the Cerebellum Hold Clues</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>Dopamine's Role in Learning and Memory</a> </h3> </div> </div>
+<div> <div> <h3> <a>Zero Motivation to Exercise? Dopamine Receptors Could Be Why</a> </h3> </div> </div>
+<div> <div> <h3> <a>Deficits in Cognition </a> </h3> </div> </div>
+<div> <div> <h3> <a>DeepMind on the Brain’s Dopamine System and AI</a> </h3> </div> </div>
+<div> <div> <h3> <a>Optogenetics Flaws Reveal Clues About Huntington’s Disease</a> </h3> </div> </div>
+<div> <div> <h3> <a>Won’t or Can’t? Motivation and the Question of Free Will</a> </h3> </div> </div>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <div> <h3> <a>Cami Rosso</a> </h3> <div> <a>The Future Brain</a> </div> </div> </div> </div>
+<h1> Stanford Releases Report on the Current State of AI </h1>
+<h2> Published every 5 years, the study cites present concerns and future directions. </h2>
+<a>The One Hundred Year Study on Artificial Intelligence (AI100)</a> 2021 Study Panel Report.
+<a>report </a>published five years ago in September 2016. Stanford plans to continue to publish the A1100 report once every five years for a hundred years or longer.
+<p>“The field of artificial intelligence has made remarkable progress in the past five years and is having real-world impact on people, institutions and culture,” the researchers wrote.</p>
+<a>neuroscience</a> since the last AI100 report has helped further advances in computational modeling, as machine-learning algorithms that draw inspiration from an improved understanding of the biological brain.
+<p>As for artificial <a>general intelligence</a> (AGI), the study states that although there has been significant progress, the “field is still far from producing fully general AI system.”</p>
+<div> <div> <h3> <a>Counting Down the Months of the Year</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>Global Trends in Artificial Intelligence: The AI Index 2021</a> </h3> </div> </div>
+<div> <div> <h3> <a>Can Photonics Enable Artificial General Intelligence?</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI's Paradigm Shift to Foundation Models</a> </h3> </div> </div>
+<div> <div> <h3> <a>Rachel Thomas on Making AI Accessible</a> </h3> </div> </div>
+<div> <div> <h3> <a>Can AI Enable Machines with Fluid Intelligence?</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Gains Social Intelligence; Infers Goals and Failed Plans</a> </h3> </div> </div>
+<h1> AI Spots Potentially Fatal Blood Clots from Ultrasounds </h1>
+<h2> Using AI to diagnose DVT clots from scans. </h2>
+<div> <div> <div> <div>Source: allinonemovie/Pixabay</div> </div> </div> </div>
+<a>npj Digital Medicine</a> demonstrates how AI deep learning was able to distinguish healthy patients from those who have deep vein thrombosis (DVT) as accurately as the existing gold standard method from ultrasound scans.
+<p>According to the scientists, this is the first study to demonstrate the potential benefit of AI machine learning for diagnosing deep vein thrombosis based on ultrasound images.</p>
+<div> <div> <h3> <a>How Memories of Events in Your Past May Affect Perception</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>Old Drugs, New Worries</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Detects Breast Cancer from Ultrasounds</a> </h3> </div> </div>
+<div> <div> <h3> <a>Ever Fly? Protect Yourself from Travel-Associated Risks</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Detects Brain Cancer from a Blood Test </a> </h3> </div> </div>
+<div> <div> <h3> <a>Trends in Applied AI and Precision Oncology</a> </h3> </div> </div>
+<div> <div> <h3> <a>FDA Has New Regulatory Plans for AI Machine Learning</a> </h3> </div> </div>
+<h1> First Approved AI Digital Pathology for Prostate Cancer </h1>
+<h2> Paige Prostate is the 1st FDA-Approved AI for prostate cancer detection. </h2>
+<div> <div> <div> <div>Source: Free-Photos/Pixabay</div> </div> </div> </div>
+<a>marketing</a> of an AI machine learning software called Paige Prostate—the first approved AI-based software that identifies prostate cancer to assist pathologists.
+<p>The FDA De Novo pre-market review pathway is for new types of devices that are either low or moderate risk. With FDA De Novo approval, the new device is authorized for marketing in compliance with regulatory controls.</p>
+<p>With this new FDA approval, AI-based software is making significant inroads in shaping the future of assistive tools for detecting diseases.</p>
+<div> <div> <h3> <a>New Study Shows How Dogs and AI Detect Prostate Cancer</a> </h3> </div> </div>
+<div> <div> <h3> <a>The Future of AI in Health Care</a> </h3> </div> </div>
+<div> <div> <h3> <a>Novel AI Model Predicts Breast Cancer as well as Doctors</a> </h3> </div> </div>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <div> <h3> <a>Cami Rosso</a> </h3> <div> <a>The Future Brain</a> </div> </div> </div> </div>
+<h1> New AI Detects Breast Cancer from Ultrasounds </h1>
+<h2> AI machine learning as a breast cancer pathology tool. </h2>
+<div> <div> <div> <div>Source: Engin_Akyurt/Pixabay</div> </div> </div> </div>
+<a>collaboration</a> with co-investigator and radiologist Linda Moy, MD. a professor at NYU Grossman School of Medicine, and their research colleagues. Both Geras and Moy are members of the Perlmutter Cancer Center.
+<p>Breast cancer is a leading cause of death among women worldwide. Globally last year there were around two million new breast cancer cases according to figures from Susan G. Komen.</p>
+<p>Additionally, breast cancer is not just limited to women. In 2021 there will be 2,650 new cases of invasive breast cancer and 530 breast cancer deaths in American men according to the estimates from Susan G. Komen.</p>
+<p>Another drawback to mammography is that it requires expensive specialty equipment, skilled operators, and radiologists—something that is out of reach for remote and rural areas where health care specialist resources and budgets are limited.</p>
+<p>However, ultrasound is not without its challenges. “Though consistently shown to detect mammographically occult cancers, breast ultrasound has been noted to have high false-positive rates,” the NYU Langone Health researchers wrote.</p>
+<a>neural</a> network. The training dataset use had over 3.9 million images from over 209,100 exams from more than 101,400 patients.
+<div> <div> <h3> <a>MIT's AI Spots Breast Cancer up to Half a Decade in Advance</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Spots Potentially Fatal Blood Clots from Ultrasounds</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Deep Learning Classifies Brain Tumors from a Brain Scan</a> </h3> </div> </div>
+<div> <div> <h3> <a>Worry About Mammograms, Callbacks, and Biopsies</a> </h3> </div> </div>
+<h1> New Synthetic Learning May Inspire Future Neuromorphic AI </h1>
+<h2> Scientists mimic aspect of human intelligence using quantum synthetic matter. </h2>
+<div> <div> <div> <div>Source: Hainguynrp/Pixabay</div> </div> </div> </div>
+<a>intelligence</a>, can be recreated in synthetic matter—a discovery that can lead to new forms of
+<a>artificial intelligence</a> (AI) and neuromorphic computing in the future.
+<a>neural</a> networks and potential use in neuromorphic computing.”
+<a>cognition</a> in modern electronic devices such as computers. The aim of neuromorphic computing is to overcome the limitations of von Neumann architecture with a solution that more closely mimics the biological brain.
+<a>long-term memory</a> storage and it requires a lot of energy to transmit data between the processing and memory units.
+<p>Using gases to stimulate the quantum material at and above room temperature, the scientists found that nickel oxide had habituation and sensitization like that of Aplysia, a genus of medium-sized to giant sea slugs.</p>
+<div> <div> <h3> <a>How Memories of Events in Your Past May Affect Perception</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Paradigm May Reduce a Heavy Carbon Footprint</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Brain-like Photonic Chip Able to “Learn” from Light</a> </h3> </div> </div>
+<div> <div> <h3> <a>Scientists Bridge Neuroscience With AI Machine Learning</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Biocompatible AI May Aid Medicine and Healthcare</a> </h3> </div> </div>
+<div> <div> <h3> <a>Neuromorphic Computing Breakthrough May Disrupt AI</a> </h3> </div> </div>
+<div> <div> <h3> <a>Can Photonics Enable Artificial General Intelligence?</a> </h3> </div> </div>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <div> <h3> <a>Cami Rosso</a> </h3> <div> <a>The Future Brain</a> </div> </div> </div> </div>
+<h1> AI Finds Potential Treatment for Incurable Pediatric Brain Cancer </h1>
+<h2> New potential drug combo for kids with brain cancer found using BenevolentAI. </h2>
+<div> <div> <div> <div>Source: 2344799/Pixabay</div> </div> </div> </div>
+<a>Cancer Discovery </a>shows how AI machine learning can identify a new possible treatment for incurable pediatric brain cancer.
+<p>“25% patients with the incurable brainstem tumor DIPG harbor somatic activating mutations in ACVR1, however there are no approved drugs targeting the receptor,” wrote the researchers.</p>
+<a>nervous system</a> (CNS) penetration.”
+<p>In addition to using the AI platform to see if a combination would be effective, the researchers evaluated compounds for potential feedback mechanisms that could be thwarted by a combination of inhibitors.</p>
+<a>Intelligence</a>, we identify and validate the novel combination of vandetanib and everolimus in these children based upon both signaling and pharmacokinetic synergies, experimentally and clinically,” reported the researchers.
+<a>concentration</a> of vandetanib in the brains of mice by 56 percent, compared to just using vandetanib only.
+<div> <div> <h3> <a>Seeking Self-Improvement? Start With IQ... By Ditching It</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>Trends in Applied AI and Precision Oncology</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Model Shortens Drug Discovery to Days, Not Years</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Deep Learning Classifies Brain Tumors from a Brain Scan</a> </h3> </div> </div>
+<div> <div> <h3> <a>DeepMind and EMBL Release AI-predicted Protein Database</a> </h3> </div> </div>
+<div> <div> <h3> <a>How AI and Genomics Can Treat Epilepsy</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Deep Learning Finds Off-Label Uses for FDA-Approved Drugs</a> </h3> </div> </div>
+<h1> AI Improves Electronic Health Record (EHR) Systems </h1>
+<h2> Integrating information retrieval with note-taking systems. </h2>
+<div> <div> <div> <div>Source: geralt/pixabay</div> </div> </div> </div>
+<a>intelligence</a> (AI) machine learning and published their findings in a recent
+<a>burnout and stress among physicians</a> according to the researchers. Clinicians are spending time on using the electronic health records instead of talking with patients.
+<p>Although EHRs offer vast improvements in speeding up the access and retrieval of patient records, the documentation systems can be time-consuming and burdensome for clinicians to use.</p>
+<p>“To better support this information synthesis, clinical documentation tools must enable rapid contextual access to the patient's medical record,” wrote the researchers.</p>
+<p>According to the study, the average system usability scale rating by the scribes was 83.75 out of a possible 100. The researchers report that the scribes found their AI-based system easy to learn and use, and that they would use it frequently.</p>
+<div> <div> <h3> <a>How Memories of Events in Your Past May Affect Perception</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>How “Magic” Led to MIT Innovation in AI for Neuroscience</a> </h3> </div> </div>
+<div> <div> <h3> <a>MIT's AI Spots Breast Cancer up to Half a Decade in Advance</a> </h3> </div> </div>
+<div> <div> <h3> <a>Using Artificial Intelligence to Identify Diseases via Health Records </a> </h3> </div> </div>
+<div> <div> <h3> <a>Can AI Enable Machines with Fluid Intelligence?</a> </h3> </div> </div>
+<div> <div> <h3> <a>The Future of AI in Health Care</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Speeds Discovery in Synthetic Biology</a> </h3> </div> </div>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <div> <h3> <a>Cami Rosso</a> </h3> <div> <a>The Future Brain</a> </div> </div> </div> </div>
+<h1> First Personalized Deep Brain Stimulation Treats Depression </h1>
+<h2> Severely depressed patient treated via a personalized neural biomarker. </h2>
+<div> <div> <div> <div> <h3>THE BASICS</h3> </div> <ul> <li> What Is Depression? </li> <li> <a>Find counselling to overcome depression</a> </li> </ul> </div> </div> </div>
+<div> <div> <div> <div>Source: Geralt/Pixabay</div> </div> </div> </div>
+<a>medication</a> that is based on information about a patient’s
+<a>genetics</a>, lifestyle, and environment. A new study published in
+<a>Nature Medicine</a> shows how the combination of precision-medicine and deep brain stimulation (DBS) successfully treated a patient with severe treatment-resistant
+<p>Existing studies in deep brain stimulation has had limited success for depression treatment in the past because those devices only give constant electrical stimulation, and usually in only one part of the brain.</p>
+<div> <div> <h3> <a>8 Keys to Warding Off Depression</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>Deep-Brain Stimulation Therapy for Depression</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Method Predicts Cancer Drug Response Using Genomics</a> </h3> </div> </div>
+<div> <div> <h3> <a>Treating Depression With Deep Brain Stimulation</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Improves Electronic Health Record (EHR) Systems</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Deep Learning Method for Genomics Is More Transparent</a> </h3> </div> </div>
+<h1> Neuroscientists Unveil Brain Atlas for Movement Control </h1>
+<h2> A brain motor cortex map may accelerate neuroscience. </h2>
+<a>Nature</a>, representing the cumulation of nearly half a decade of progress.
+<a>autism</a> spectrum disorder, ALS (Lou Gehrig’s disease), schizophrenia, Alzheimer’s disease, epilepsy,
+<a>dementia</a>, Parkinson’s disease, and many more.
+<p>The researchers combined integrated computational analysis with data from single-cell transcriptomes, chromatin accessibility, DNA methylomes, morphology, electrophysiological properties, and input–output mapping.</p>
+<p>By combining epigenomic and single-cell transcriptomic analysis, the researchers were able to see a unified molecular genetic landscape of cortical cell types that combine the chromatin state, DNA methylation, and gene expression.</p>
+<a>the environment</a> can change how your
+<a>genes</a> function. Changes to the genome and the epigenome can cause cancer. Lifestyle, behavior, and environment can change the epigenome. For example, cigarette
+<p>Chromatin is the DNA and protein found inside a <a>chromosome</a> in eukaryotic cells. Most of the proteins in chromatins are histones. Unlike prokaryotes, eukaryotes are organisms that have cells with a nucleus that is surrounded by a membrane.</p>
+<p>DNA methylation, an <a>epigenetic</a> mechanism, is a biological process that regulates gene expression by adding a methyl (CH3) group to DNA, which often changes the way genes express and function.</p>
+<p>The team of scientists performed an analysis across three species (mouse, marmoset and human) in order to classify transcriptomic types. This was accomplished by creating a consensus taxonomy to standardize mammalian cell types.</p>
+<a>statement</a>. “The atlas will provide a springboard for future research into the structure and function of the brain within and across species.”
+<div> <div> <h3> <a>7 Differences in the ADHD Brain vs. the Neurotypical Brain </a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>Novel COVID-19 Test Uses CRISPR Technology</a> </h3> </div> </div>
+<div> <div> <h3> <a>Atlas of Breast Cancer Ecosystem Made by AI Machine Learning</a> </h3> </div> </div>
+<div> <div> <h3> <a>NVIDIA and Harvard Create New AI Deep Learning Genomics Tool</a> </h3> </div> </div>
+<div> <div> <h3> <a>Reviewing the Evidence for Mental Illness Being Epigenetic</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Framework May Accelerate Novel Therapeutics </a> </h3> </div> </div>
+<div> <div> <h3> <a>Can AI Explain How Simple Organisms Make Decisions?</a> </h3> </div> </div>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <div> <h3> <a>Cami Rosso</a> </h3> <div> <a>The Future Brain</a> </div> </div> </div> </div>
+<h1> AI Helps Humans Annotate Biological Data in Real-Time </h1>
+<h2> New human-augmenting AI labeling system may accelerate biomedical research. </h2>
+<div> <div> <div> <div>Source: Seanbatty/Pixabay</div> </div> </div> </div>
+<a>npj Digital Medicine</a> demonstrates how Human-Augmenting Labeling System (HALS) can reduce the manual work of labeling data by over 90 percent and increase the quality of biological data annotation.
+<div> <div> <h3> <a>How Memories of Events in Your Past May Affect Perception</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Surpasses Neuroscientists in Spotting Neurons</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Open-Source AI Machine Learning Tools to Fight Cancer</a> </h3> </div> </div>
+<div> <div> <h3> <a>Innovative AI Framework May Improve Health Care Privacy</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI and Machine Learning Explained Simply</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI May Underperform in Spotting Cancer for Darker Skin</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Speeds Discovery in Synthetic Biology</a> </h3> </div> </div>
+<h1> AI Finds Brain Networks Associated with Child Aggression </h1>
+<h2> Machine learning provides brain insights for developing psychiatric biomarkers. </h2>
+<div> <div> <div> <div> <h3>THE BASICS</h3> </div> <ul> <li> How Can I Manage My Anger? </li> <li> <a>Find counselling to heal from anger</a> </li> </ul> </div> </div> </div>
+<div> <div> <div> <div>Source: Geralt/Pixabay</div> </div> </div> </div>
+<a>Artificial intelligence</a> (AI) machine learning is rapidly being deployed to help accelerate
+<a>neuroscience</a>, psychology, and psychiatry research. A new study published in
+<a>Molecular Psychiatry</a> by researchers affiliated with Yale University shows how AI machine learning can identify patterns of neural connections in the brain associated with aggressive behavior in children.
+<a>emotion regulation</a> have been long implicated in maladaptive
+<a>aggression</a>,” wrote the researchers. “However, the association of connectivity between large-scale functional networks with aggressive behavior has not been tested.”
+<a>attention</a>-deficit/hyperactivity disorder (
+<a>ADHD</a>). ADHD is one of the most common neurodevelopmental disorders in American children according to the U.S. Centers for Disease Control and Prevention (CDC).
+<a>psychiatric</a> disorders in the future by harnessing the predictive and pattern-recognition capabilities of AI machine learning.
+<div> <div> <h3> <a>The Relationship Between Empathy and Anger Is Complicated</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>Machine Learning Algorithm Classifies Schizophrenia With High Accuracy</a> </h3> </div> </div>
+<div> <div> <h3> <a>Physicists Use AI to Enable Synthetic Microswimmers to Learn</a> </h3> </div> </div>
+<div> <div> <h3> <a>Improved Neuromorphic AI Uses Human Brain Scans</a> </h3> </div> </div>
+<div> <div> <h3> <a>Artificial Intelligence Detects Risk of Genetic Syndromes in Children</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Study Links Learning Disabilities to Brain Hubs</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <div> <h3> <a>Cami Rosso</a> </h3> <div> <a>The Future Brain</a> </div> </div> </div> </div>
+<h1> New AI Rapid Test for Glaucoma Delivers Results in Seconds </h1>
+<h2> AI enables early detection for a leading cause of irreversible blindness. </h2>
+<div> <div> <div> <div>Source: TheDigitalArtist/Pixabay</div> </div> </div> </div>
+<a>IEEE Access</a> by researchers at the Royal Melbourne Institute of Technology (RMIT) shows an AI machine learning algorithm that can screen for glaucoma in just ten seconds.
+<a>report</a>. “Existing AI glaucoma tests require the patient to be perfectly still for up to 10 minutes. Our tech does the job in 10 seconds, without compromising on accuracy.”
+<a>medication</a>, eye drops, and laser treatment or surgery to drain eye fluid, will not reverse any vision damage, but may help prevent further loss.
+<p>“Pupillary light responses are an interesting new technique for the detection of glaucoma,” wrote the researchers at the Royal Melbourne Institute of Technology (RMIT).</p>
+<a>neural</a> networks. Activation functions check if incoming values are larger than a certain threshold, if so, the activation function fires or activates.
+<div> <div> <h3> <a>How Memories of Events in Your Past May Affect Perception</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Model to Reduce AI Bias in Life Sciences and Biomedicine</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI May Improve Diagnosis of Eye and Brain Diseases</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Brain-like Photonic Chip Able to “Learn” from Light</a> </h3> </div> </div>
+<div> <div> <h3> <a>Stanford AI Predicts Cholesterol-raising Genetic Disease</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Study Shows How Dogs and AI Detect Prostate Cancer</a> </h3> </div> </div>
+<h1> AI Finds and Ranks Best Drugs for a Rare Cancer </h1>
+<h2> New AI predicts most effective drugs to thwart bile duct cancer cell growth. </h2>
+<div> <div> <div> <div>Source: GDJ/Pixabay</div> </div> </div> </div>
+<a>Cancer Research</a> , a journal of the American Association of Cancer Research, shows how an AI algorithm can rank the accuracy of drug therapies to treat bile duct cancer.
+<p>With this proof-of-concept, AI machine learning has enabled a greater understanding of the diverse elements of the biochemical pathway activation in cholangiocarcinoma that may help accelerate personalized cancer therapies in the future.</p>
+<div> <div> <h3> <a>New AI Method Predicts Cancer Drug Response Using Genomics</a> </h3> </div> </div>
+<div> <div> <h3> <a>Using AI to Manage Opioid Use in Hospital ICUs</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Study Finds Drugs for COVID-19 Based on Phenotypes</a> </h3> </div> </div>
+<div> <div> <h3> <a>The Digitization of Biotech: AI Designs a Serotonin Sensor</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Speeds Discovery in Synthetic Biology</a> </h3> </div> </div>
+<h1> New AI Method Predicts Cancer Drug Response Using Genomics </h1>
+<h2> AI machine learning algorithm advances precision oncology and pharmacogenomics. </h2>
+<div> <div> <div> <div>Source: Mcmurrayjulie/Pixabay</div> </div> </div> </div>
+<a>artificial intelligence</a> (AI) machine learning algorithm that can predict cancer drug responses based on gene expression data—demonstrating state-of-the-art pharmacogenomics that may improve the accuracy of precision oncology.
+<a>neural</a> network called Velodrome.
+<p>Velodrome uses both labeled data of gene expression from cell line and unlabeled data from patient datasets in order to predict drug responses.</p>
+<p>“To the best of our knowledge, Velodrome is the first method for semi-supervised out-of-distribution generalization from labeled cell lines and unlabeled patients to different preclinical and clinical datasets,” the researchers wrote.</p>
+<p>According to the scientists, their deep neural network achieved state-of-the-art performance for multiple drugs across various preclinical and clinical pharmacogenomics datasets, enabling more accurate precision oncology.</p>
+<div> <div> <h3> <a>Counting Down the Months of the Year</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Deep Learning Method for Genomics Is More Transparent</a> </h3> </div> </div>
+<div> <div> <h3> <a>How Synthetic Data Accelerates AI for Neuroscience </a> </h3> </div> </div>
+<div> <div> <h3> <a>The Future of AI in Health Care</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Machine Learning Gains a Toehold on Synthetic Biology</a> </h3> </div> </div>
+<div> <div> <h3> <a>Trends in Applied AI and Precision Oncology</a> </h3> </div> </div>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <div> <h3> <a>Cami Rosso</a> </h3> <div> <a>The Future Brain</a> </div> </div> </div> </div>
+<h1> AI May Underperform in Spotting Cancer for Darker Skin </h1>
+<h2> Training databases for AI cancer detection lack important data. </h2>
+<div> <div> <div> <div>Source: Geralt/Pixabay</div> </div> </div> </div>
+<a>The Lancet Digital Health</a> has found that darker skin is underrepresented in the publicly available image datasets used to train AI algorithms to spot skin cancer.
+<p>The researchers discovered that only 21 percent of the 14 datasets that identified the country of origin came from a region other than North America, Europe, and Oceania.</p>
+<p>“There was limited and variable reporting of characteristics and metadata among datasets, with substantial under-representation of darker skin types,” the researchers reported.</p>
+<p>“Quality standards for characteristics and metadata reporting for skin image datasets are needed,” concluded the researchers.</p>
+<div> <div> <h3> <a>Seeking Self-Improvement? Start With IQ... By Ditching It</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Finds and Ranks Best Drugs for a Rare Cancer</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Helps Humans Annotate Biological Data in Real-Time</a> </h3> </div> </div>
+<div> <div> <h3> <a>Artificial Intelligence Detects Risk of Genetic Syndromes in Children</a> </h3> </div> </div>
+<div> <div> <h3> <a>Stanford Unveils AI Tool for Finding Brain Aneurysms</a> </h3> </div> </div>
+<h1> The BCI System MoveAgain Wins FDA Breakthrough Device Status </h1>
+<h2> Brain-computer Interface enables patients to control devices with thoughts. </h2>
+<div> <div> <div> <div>Source: Cassiapowell/Pixabay</div> </div> </div> </div>
+<a>artificial intelligence</a> (AI) to read and decode electrical signals from the brain to identify the user’s visual focus.
+<p>The MoveAgain system is designed to enable immobile patients to use their brain signals from thinking to control external devices such as a wheelchair, prosthetics, mobile phones, computer cursor, or keyboard.</p>
+<a>neural</a> implants could be as common as cardiac pacemakers are today -- offering patients a whole new world of options that restore their independence."
+<div> <div> <h3> <a>New Brain-Computer Interface Enables Wireless Communication</a> </h3> </div> </div>
+<div> <div> <h3> <a>Autos to Integrate AI-based Brain-Computer Interfaces (BCIs)</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Synthetic AI Data May Improve Brain-Computer Interfaces</a> </h3> </div> </div>
+<div> <div> <h3> <a>Elon Musk’s Neuralink BCI Enables Monkey to Play MindPong</a> </h3> </div> </div>
+<div> <div> <h3> <a>Brain-Computer Interface Recreates Bird Song from Brainwaves</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI and VR Transform Thoughts to Action with Wireless BCI</a> </h3> </div> </div>
+<h1> AI Predicts New Psychoactive Substances </h1>
+<h2> New AI deep generative model identifies structures of future designer drugs. </h2>
+<div> <div> <div> <div>Source: GJD/Pixabay</div> </div> </div> </div>
+<a>artificial intelligence</a> (AI) deep
+<a>neural</a> network called DarkNPS is able to predict future designer drugs before they emerge, a technology that may help save lives.
+<a>Addiction</a> Centers, serious complications that may arise from synthetic cannabinoid use include
+<a>psychiatric</a> effects such as
+<a>Crime</a>, the European Monitoring Centre of Drugs and Drug Addiction, the Federal Criminal Police Office of Germany, and the U.S. Drug Enforcement Agency.
+<div> <div> <h3> <a>Counting Down the Months of the Year</a> </h3> </div> <div> <h3> <a>AI Enables Users to Control Robots with Brain Thoughts</a> </h3> </div> </div>
+<div> <div> <h3> <a>DeepMind on the Brain’s Dopamine System and AI</a> </h3> </div> </div>
+<div> <div> <h3> <a>New AI Machine Learning Gains a Toehold on Synthetic Biology</a> </h3> </div> </div>
+<div> <div> <h3> <a>The Exponential Growth of AI in Brain Care and Treatment </a> </h3> </div> </div>
+<div> <div> <h3> <a>Can AI Enable Machines with Fluid Intelligence?</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Biocompatible AI May Aid Medicine and Healthcare</a> </h3> </div> </div>
+<div> <div> <h3> <a>How a New AI Model Mimics the Brain’s Prefrontal Cortex</a> </h3> </div> </div>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <div> <h3> <a>Cami Rosso</a> </h3> <div> <a>The Future Brain</a> </div> </div> </div> </div>
+<h1> New Synthetic AI Data May Improve Brain-Computer Interfaces </h1>
+<h2> AI used to “imagine” brain activity to improve brain-computer interfaces (BCIs). </h2>
+<div> <div> <div> <div>Source: Geralt/Pixabay</div> </div> </div> </div>
+<a>Nature Biomedical Engineering</a> by researchers at the University of Southern California (USC) apply deepfake AI technology in order to improve the performance of brain-computer interfaces to help those with speech impairment or mobility issues.
+<a> generative adversarial model (GAN)</a>, a type of AI
+<a>Blackrock Neurotech</a> (formerly Blackrock Microsystems). This GAN synthesizer then generated synthetic neural data that was then combined with new real data to train a
+<a>brain-computer interface</a>. According to a
+<a>USC </a>report, this approach improved the training speed by up to 20 times faster.
+<div> <div> <h3> <a>The BCI System MoveAgain Wins FDA Breakthrough Device Status</a> </h3> </div> </div>
+<div> <div> <h3> <a>AI Brain-Computer Interface Turns Mental Handwriting to Text</a> </h3> </div> </div>
+<div> <div> <h3> <a>Brain-Computer Interface Speeds Neuroscience Research</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Brain-Computer Interface Enables Wireless Communication</a> </h3> </div> </div>
+<h1> AI Enables Users to Control Robots with Brain Thoughts </h1>
+<h2> Brain-computer interfaces may help those with brain and spinal cord injuries. </h2>
+<a>brain-computer interface</a> solution that enables patients to command a robot with their thoughts and published their study in
+<a>École Polytechnique Fédérale de Lausanne (EPFL)</a> and the University of Texas at Austin enabled patients to train robot controllers to adapt to obstacles using the mind instead of speech or movement.
+<p>The research team was led by Aude Billard, an EPFL Professor and Director of the Learning Algorithms and Systems Laboratory (LASA), along with José del R. Millán, a professor at The University of Texas at Austin.</p>
+<a>neuroprosthetic</a> that unifies human control with artificial
+<p>With this proof-of-concept, the researchers plan to expand their study with the hope of one day being able to enable users to control a wheelchair with the mind according to an <a>EPFL </a>news report.</p>
+<div> <div> <h3> <a>Counting Down the Months of the Year</a> </h3> </div> <div> <h3> <a>New Synthetic AI Data May Improve Brain-Computer Interfaces</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Neuroprosthetic Is an AI Robotics Breakthrough</a> </h3> </div> </div>
+<div> <div> <h3> <a>Autos to Integrate AI-based Brain-Computer Interfaces (BCIs)</a> </h3> </div> </div>
+<div> <div> <h3> <a>Brain-Computer Interface Recreates Bird Song from Brainwaves</a> </h3> </div> </div>
+<div> <div> <h3> <a>New Synthetic AI Data May Improve Brain-Computer Interfaces</a> </h3> </div> </div>
+<div> <div> <article> </article> </div> <div> <h1>Grit</h1> <p> <a> Reviewed by Psychology Today Staff </a> </p> </div> </div>
+<a>resilience</a>, passion, hard work, and practice, practice, practice. If you persist and face all the obstacles, you may just win, argue those who tout grit as a component of success.
+<div> <h3> What does having grit mean? </h3> </div>
+<div> <h3> Who came up with the concept of grit? </h3> </div>
+<div> <h3> Can grit be taught? </h3> </div>
+<a>motivation</a> can be nurtured, the perseverance dimension of grit can be, too. More research is needed to determine the best practices for doing so and whether there’s an ideal timeline for
+<a>developing grit in order to succeed.</a>
+<div> <h3> What is an example of having grit? </h3> </div>
+<div> <h3> Do people who have grit show it all the time? </h3> </div>
+<a>show grit to the same extent all the time.</a> They may have particular domains (such as sports or academics) in which they show an especially high degree of passion and perseverance, relative to how they approach other areas or life in general.
+<div> <div> <div> article continues after advertisement </div> </div> </div>
+<p>Grit is also comparable to the time-honored construct of "hope," which has been researched for decades. Hope in this context means being determined and having the will and the motivation to reach clear-cut goals. </p>
+<div> <h3> Is grit overrated? </h3> </div>
+<a>dreams</a> if they have grit is widely appealing today. But the concept of grit has been criticized for potentially overlapping with existing personality concepts. And 
+<a>it’s not clear how much grit as a whole</a> is related to well-being, compared to similar traits or the specific component of perseverance.
+<div> <h3> Is grit really the key to success? </h3> </div>
+<a>In addition to grit,</a> successful people often share other qualities, like talent,
+<a>intelligence</a>, conscientiousness,
+<div> <h3> How do you know if you have grit? </h3> </div>
+<div> <h3> Are grit and perseverance the same? </h3> </div>
+<a>Perseverance appears to be more strongly related to positive outcomes</a> than having consistent interests does.
+<div> <h3> What’s wrong with having grit? </h3> </div>
+<a>There may be perils</a> associated with high levels of persistence for some people. Someone’s perspective might become too single-minded and myopic to see the big picture. They might suffer fatigue or
+<a>burnout</a> from constantly striving only to be disappointed.
+<a>growth mindset</a>—may contribute to making a person more “gritty.”
+<div> <h3> How do you develop grit and resilience? </h3> </div>
+<a>find your passion(s).</a> Accept that you will stall and even fail on the road to achieving your goal. Do your best to view failure as a learning opportunity rather than a reason to quit on your dream. It may also help to
+<a>surround yourself with gritty people.</a>
+<div> <h3> Why do kids need grit? </h3> </div>
+<a>encourage children to help them become grittier.</a>
+<div> <h3> How can grit help a student to succeed? </h3> </div>
+<div> <h3> How can I improve my child’s grit? </h3> </div>
+<a>athletic</a>, and artistic experiences to give them an opportunity to
+<a>find their passion</a>. You can also model grittiness in your own life and praise your child for their efforts and progress, rather than focusing only on their innate talents.
+<div> There's no denying the challenges of surviving a childhood history of complex PTSD. There can also be hidden resources, values, and strengths in adulthood. </div>
+<article> <div> <div> <a> Is It Possible to Have Too Much Grit? </a> </div> <div> Grit helps us attain difficult goals, but it must be used in the context of other talents and character strengths to be effective. </div> </div> </article>
+<div> <div> <a> The Neuroscience of Motivation and Persistence </a> </div> <div> New research sheds light on how the human brain makes fatigue-based choices and decides what's worth the effort to keep going when the going gets tough. </div> </div>
+<article> <div> <div> <a> 2021, Are You Kidding Me? </a> </div> <div> 2021 looks set to be as challenging and uncertain as its predecessor, but there is something you can do about it </div> </div> </article>
+<h2> <a>COVID and the Great Baseline Lowering</a> </h2>
+<p><a>Zachary Alti LCSW</a> on January 10, 2022 in <a>The Mental Hygienist</a></p>
+<p> How can we live our best lives if quarantine is back for a bit? What lessons do quarantine, illness, and forced baseline lowering have for us? </p>
+<h2> <a>Self-Care Is a Necessity, Not a Luxury </a> </h2>
+<p><a>Stephanie A. Sarkis Ph.D.</a> on December 20, 2021 in <a>Here, There, and Everywhere</a></p>
+<p> There is always time to put yourself first because it's a necessity. Learn easy-to-manage ways to add self-care into your life. </p>
+<h2> <a>Why It's So Important to Know Just How Much a Partner Can Annoy You</a> </h2>
+<p><a>Tyler Jamison Ph.D.</a> on December 2, 2021 in <a>Assembly Required</a></p>
+<p> No romantic partner is perfect. Try searching for someone who has faults you can live with. </p>
+<h2> <a>Flailing — Not Failing — When Facing Challenges</a> </h2>
+<p><a>Annalisa Enrile Ph.D.</a> on November 9, 2021 in <a>Muse-ish</a></p>
+<p> With all the challenges we have experienced in the past two years, it is not surprising that we are flailing. But, we are not failing. What a difference one letter can make. </p>
+<h2> <a>10 Ways to Create a Resilient and Lasting Relationship</a> </h2>
+<p><a>Ann Gold Buscho Ph.D.</a> on October 12, 2021 in <a>A Better Divorce</a></p>
+<p> You can cultivate a resilient marriage. Not all marriages can be resilient, but many that move to divorce might have been strengthened with these 11 tips. </p>
+<h2> <a>How to Take Criticism Gracefully</a> </h2>
+<p><a>Ellen Hendriksen, Ph.D.</a> on September 29, 2021 in <a>How to Be Yourself</a></p>
+<p> Having trouble facing feedback? Don’t let criticism paralyze you. Try these 12 tips to take the sting out of evaluation. </p>
+<h2> <a>Positive Psychology Practices During Crisis</a> </h2>
+<p><a>Maike Neuhaus, Ph.D.</a> on September 6, 2021 in <a>Self-Leadership</a></p>
+<p> Public health changes that organizations, communities, and nations have adopted in order to prevent disease spread also highlight the capacity for positive systemic change. </p>
+<div> <h2> <a>3 Olympic Athletes Who Helped Me Stop Competing</a> </h2> <p><a>Erin Peavey</a> on August 12, 2021 in <a>Designed for Happiness</a></p> <p> Struggling to balance it all? How to listen to your inner voice and redefine your worth. </p> </div>
+<p> Struggling to balance it all? How to listen to your inner voice and redefine your worth. </p>
+<div> <div> <h2> <a>How to Heal a Broken Heart</a> </h2> <p><a>Gina Vild</a> on August 10, 2021 in <a>A Buoyant Life</a></p> <p> A Personal Perspective: Here is a surefire path to healing. </p> </div> </div>
+<p> A Personal Perspective: Here is a surefire path to healing. </p>
+<h2> <a>The Olympic Pressure to Repeatedly Win</a> </h2>
+<p><a>Raj Persaud, M.D. and Peter Bruggen, M.D.</a> on July 30, 2021 in <a>Slightly Blighty</a></p>
+<p> ...when it comes to your sporting destiny, 4th place is just as good as 3rd... </p>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<div> <div> <article> </article> </div> <div> <h1>Neuroplasticity</h1> <p> <a> Reviewed by Psychology Today Staff </a> </p> </div> </div>
+<p>The importance of neuroplasticity can’t be overstated: It means that it is possible to change dysfunctional patterns of thinking and behaving and to develop new mindsets, new memories, new skills, and new abilities.</p>
+<div> <h4>Contents</h4> <ul> <li> The Science of Neuroplasticity </li> <li> Neuroplasticity in Everyday Life </li> <li> How to Stimulate Neuroplasticity </li> </ul> </div>
+<h2> The Science of Neuroplasticity </h2>
+<div> <h3> Does neuroplasticity occur throughout life? </h3> </div>
+<div> <h3> What is neurogenesis? </h3> </div>
+<div> <h3> How do neurogenesis and neuroplasticity work together? </h3> </div>
+<div> <div> <div> article continues after advertisement </div> </div> </div>
+<h2> Neuroplasticity in Everyday Life </h2>
+<p>The ability of the brain to change and grow in response to experience enables people to bounce back from setbacks and adversity—to be resilient. They can bend without breaking.</p>
+<p>All psychotherapy is intended to foster resilience; the goal is to help people examine distressing feelings and experience and redirect them into more functional patterns, restoring cognitive and behavioral flexibility.</p>
+<div> <h3> Can the brain rewire itself after an injury? </h3> </div>
+<p>People who have endured traumatic brain injuries have revealed the remarkable capacity for the brain to change and heal. The brain can move critical functions from a damaged area to a healthy one, or recreate connections that were lost.</p>
+<div> <h3> What is phantom limb syndrome? </h3> </div>
+<div> <h3> Can therapy change the brain? </h3> </div>
+<div> <h3> How do I develop cognitive flexibility? </h3> </div>
+<h2> How to Stimulate Neuroplasticity </h2>
+<p>It is not only possible but necessary to use your mind and your body to reshape your brain. Enhancing synaptic connectivity through any of a variety of means actively promotes cognitive and mental health and blunts the impact of negative stimuli.</p>
+<li>Engaging in positive social interactions</li>
+<li>Participating in novel activities</li>
+<li>Being in enriched and stimulating environments</li>
+<li>Practicing and repeating positive activities—even mentally rehearsing them</li>
+<li>Engaging in mental training strategies such as mindfulness meditation</li>
+<li>Developing a sense of purpose in life.</li>
+<div> <h3> How does BDNF facilitate neurogenesis? </h3> </div>
+<div> <h3> How does exercise stimulate neurogenesis? </h3> </div>
+<div> <h3> Can I rewire my brain? </h3> </div>
+<article> <div> <div> <a> It Is as Healthy to Give as to Receive </a> </div> <div> Neuroplasticity, or brain adaptation due to stimuli, can show positive changes when one gives support just as when one is a receiver of support. </div> </div> </article>
+<div> <div> <a> Exercise Is Shown to Be an Effective Depression Treatment </a> </div> <div> A new study shows that only three weeks of exercise significantly reduced symptoms and restored neuroplasticity in volunteers with depression. </div> </div>
+<div> What if someone told you there was a way for you to learn to control your own brainwaves, and by learning to do so you’d be able to alleviate a host of unpleasant symptoms? </div>
+<article> <div> <div> <a> How Exercise Helps the Depressed Brain </a> </div> <div> A three-week exercise program improved deficits in people with major depression and alleviated symptoms. </div> </div> </article>
+<h2> <a>Awareness as a Tool: The "Circle of Life"</a> </h2>
+<p><a>David Hanscom MD</a> on December 31, 2021 in <a>Anxiety: Another Name for Pain</a></p>
+<p> We don't like feeling pain, so we often try to avoid or suppress it. You must first feel the pain to reprogram your brain. The "circle of life" provides a framework in which to navigate. </p>
+<h2> <a>Keeping Hope Alive During Uncertain Times</a> </h2>
+<p><a>Marina Heifetz Ph.D., C.Psych</a> on December 22, 2021 in <a>Raising Mindful Kids</a></p>
+<p> Given the current wave of COVID-19 and the increased frustration, one of the most important ways to stay resilient and mentally healthy is to strengthen our hopeful thinking. </p>
+<h2> <a>Sign Language and the Left Half of the Brain</a> </h2>
+<p><a>Sebastian Ocklenburg, Ph.D.</a> on December 14, 2021 in <a>The Asymmetric Brain</a></p>
+<p> We know that spoken language is generally controlled by the left half of the brain. But what about sign language? </p>
+<h2> <a>Neurological Research Changes Our Understanding of Stuttering</a> </h2>
+<p><a>Christopher Bergland</a> on December 3, 2021 in <a>The Athlete's Way </a></p>
+<p> Traditional views on the origins of stuttering are being upended by groundbreaking research methods that focus on speech initiation issues rooted in the basal ganglia. </p>
+<h2> <a>Bruce Lee Did Not Grow Old Yet Still Helps the Elderly</a> </h2>
+<p><a>E. Paul Zehr Ph.D.</a> on November 26, 2021 in <a>Black Belt Brain</a></p>
+<p> The interest and popularity in martial arts that Bruce Lee helped foster is now being leveraged for therapeutic application in older adults. </p>
+<h2> <a>Flip Your Consciousness: 4 Types of Awareness </a> </h2>
+<p><a>David Hanscom MD</a> on November 17, 2021 in <a>Anxiety: Another Name for Pain</a></p>
+<p> Our worldview is shaped by our past experiences, so we are continually projecting our worldview onto everything. What if you could reverse it? </p>
+<h2> <a>Beginning the Healing Journey: Return to the Resilient Zone </a> </h2>
+<p><a>Glenn R. Schiraldi Ph.D.</a> on November 8, 2021 in <a>Hidden Wounds</a></p>
+<p> Healing the hidden wounds from adverse childhood experiences starts by taming dysregulated stress. </p>
+<h2> <a>A New, Rapid-Fire Brain Stimulation Jolts Depression</a> </h2>
+<p><a>Christopher Bergland</a> on November 5, 2021 in <a>The Athlete's Way </a></p>
+<p> Treatment-resistant depression lives up to its name; most attempts to help patients with TRD fall short. A groundbreaking new 5-day brain stimulation therapy offers new hope. </p>
+<h2> <a>Preserve Tomorrow's Function With What You Do Today </a> </h2>
+<p><a>E. Paul Zehr Ph.D.</a> on October 31, 2021 in <a>Black Belt Brain</a></p>
+<p> When you are out there karate-kicking, going for a run, or gardening, keep in mind that you are helping your mind with movement. Your future self says thanks. </p>
+<h2> <a>Is Giftedness Innate? Or Is It Complex and Dynamic?</a> </h2>
+<p><a>Dona Matthews Ph.D.</a> on October 22, 2021 in <a>Going Beyond Intelligence</a></p>
+<p> Giftedness is not innate. But it does develop, and kids who are intellectually advanced need special learning opportunities that match their ability. </p>
+<div> <a> <h3> January 2022 </h3> <h3> The Hardest Person to Forgive </h3> </a> <div><p> Many roads to contentment begin with self-forgiveness. It is among the most difficult—and most important—steps one can take. </p></div> </div>
+<li> <article> <div> <h3> <a>3 Resolutions to Combat the "Great Resignation"</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>5 Ways Children’s Genes Shape their Behavior</a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>Is Love Best When It's Fresh? </a> </h3> </div> </article> </li>
+<li> <article> <div> <h3> <a>What to Do When Partners Want Different Amounts of Sex</a> </h3> </div> </article> </li>
+<h2> <a>Recognizing Collective Trauma Is Step One</a> </h2>
+<p><a>Pamela Steiner Ed.D.</a> on January 6, 2022 in <a>Our Collective Trauma</a></p>
+<p> We have another burden to carry, like it or not. Here’s a start on understanding collective traumas’ many faces. </p>
+<h2> <a>Wait, Are We Back Here Again? </a> </h2>
+<p><a>Jennifer Reid M.D.</a> on January 5, 2022 in <a>Think Like a Shrink</a></p>
+<p> We may feel like we are reliving early 2020. right now, but there are ways to stay grounded and remind ourselves of just how much has changed. </p>
+<h2> <a>The 4 Principles of Trauma Sensitive Yoga and Why It Works</a> </h2>
+<p><a>The Staff of the Menninger Clinic</a> on January 5, 2022 in <a>Mind Matters from Menninger </a></p>
+<p> Trauma Sensitive Yoga is an effective treatment for trauma disorders. Its core principles emphasize the value of actions and choices. </p>
+<h2> <a>Why People Dream of Apocalypse</a> </h2>
+<p><a>Kelly Bulkeley Ph.D,</a> on January 5, 2022 in <a>Dreaming in the Digital Age</a></p>
+<p> The archetype of apocalypse is a latent potentiality of human dreaming, ready to be activated if waking-life circumstances become sufficiently dire. </p>
+<h2> <a>Going from One Problem to the Next as Gracefully as Possible</a> </h2>

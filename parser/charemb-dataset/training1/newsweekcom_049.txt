@@ -1,0 +1,500 @@
+<li> <date><a>November 29, 2019</a></date></li>
+<li> <date><a>November 22, 2019</a></date></li>
+<li> <date><a>November 15, 2019</a></date></li>
+<li> <date><a>November 01, 2019</a></date></li>
+<li> <date><a>October 25, 2019</a></date></li>
+<li> <date><a>October 18, 2019</a></date></li>
+<li> <date><a>October 04, 2019</a></date></li>
+<li> <date><a>September 27, 2019</a></date></li>
+<li> <date><a>September 20, 2019</a></date></li>
+<li> <date><a>September 06, 2019</a></date></li>
+<li> <date><a>August 30, 2019</a></date></li>
+<li> <date><a>August 23, 2019</a></date></li>
+<li> <date><a>August 09, 2019</a></date></li>
+<li> <date><a>August 02, 2019</a></date></li>
+<li> <date><a>July 26, 2019</a></date></li>
+<li> <date><a>July 19, 2019</a></date></li>
+<li> <date><a>July 05, 2019</a></date></li>
+<li> <date><a>June 28, 2019</a></date></li>
+<li> <date><a>June 14, 2019</a></date></li>
+<li> <date><a>June 07, 2019</a></date></li>
+<li> <date><a>May 31, 2019</a></date></li>
+<li> <date><a>May 17, 2019</a></date></li>
+<li> <date><a>May 10, 2019</a></date></li>
+<li> <date><a>May 03, 2019</a></date></li>
+<li> <date><a>April 19, 2019</a></date></li>
+<li> <date><a>April 12, 2019</a></date></li>
+<li> <date><a>April 05, 2019</a></date></li>
+<li> <date><a>March 22, 2019</a></date></li>
+<li> <date><a>March 15, 2019</a></date></li>
+<li> <date><a>March 08, 2019</a></date></li>
+<li> <date><a>February 22, 2019</a></date></li>
+<li> <date><a>February 15, 2019</a></date></li>
+<li> <date><a>February 08, 2019</a></date></li>
+<li> <date><a>January 25, 2019</a></date></li>
+<li> <date><a>January 18, 2019</a></date></li>
+<li> <date><a>January 04, 2019</a></date></li>
+<li> <date><a>December 25, 2020</a></date></li>
+<li> <date><a>December 18, 2020</a></date></li>
+<li> <date><a>December 11, 2020</a></date></li>
+<li> <date><a>November 27, 2020</a></date></li>
+<li> <date><a>November 20, 2020</a></date></li>
+<li> <date><a>November 13, 2020</a></date></li>
+<li> <date><a>October 30, 2020</a></date></li>
+<li> <date><a>October 23, 2020</a></date></li>
+<li> <date><a>October 16, 2020</a></date></li>
+<li> <date><a>October 02, 2020</a></date></li>
+<li> <date><a>September 25, 2020</a></date></li>
+<li> <date><a>September 18, 2020</a></date></li>
+<li> <date><a>September 04, 2020</a></date></li>
+<li> <date><a>August 28, 2020</a></date></li>
+<li> <date><a>August 14, 2020</a></date></li>
+<li> <date><a>August 07, 2020</a></date></li>
+<li> <date><a>July 24, 2020</a></date></li>
+<li> <date><a>July 17, 2020</a></date></li>
+<li> <date><a>July 03, 2020</a></date></li>
+<li> <date><a>June 26, 2020</a></date></li>
+<li> <date><a>June 12, 2020</a></date></li>
+<li> <date><a>June 05, 2020</a></date></li>
+<li> <date><a>May 22, 2020</a></date></li>
+<li> <date><a>May 15, 2020</a></date></li>
+<li> <date><a>May 01, 2020</a></date></li>
+<li> <date><a>April 24, 2020</a></date></li>
+<li> <date><a>April 10, 2020</a></date></li>
+<li> <date><a>April 03, 2020</a></date></li>
+<li> <date><a>March 27, 2020</a></date></li>
+<li> <date><a>March 13, 2020</a></date></li>
+<li> <date><a>March 06, 2020</a></date></li>
+<li> <date><a>February 28, 2020</a></date></li>
+<li> <date><a>February 14, 2020</a></date></li>
+<li> <date><a>February 07, 2020</a></date></li>
+<li> <date><a>January 31, 2020</a></date></li>
+<li> <date><a>January 17, 2020</a></date></li>
+<li> <date><a>December 31, 2021</a></date></li>
+<li> <date><a>December 24, 2021</a></date></li>
+<li> <date><a>December 17, 2021</a></date></li>
+<li> <date><a>December 10, 2021</a></date></li>
+<li> <date><a>November 26, 2021</a></date></li>
+<li> <date><a>November 19, 2021</a></date></li>
+<li> <date><a>November 12, 2021</a></date></li>
+<li> <date><a>November 05, 2021</a></date></li>
+<li> <date><a>October 29, 2021</a></date></li>
+<li> <date><a>October 22, 2021</a></date></li>
+<li> <date><a>October 15, 2021</a></date></li>
+<li> <date><a>October 08, 2021</a></date></li>
+<li> <date><a>October 01, 2021</a></date></li>
+<li> <date><a>September 24, 2021</a></date></li>
+<li> <date><a>September 17, 2021</a></date></li>
+<li> <date><a>September 10, 2021</a></date></li>
+<li> <date><a>September 03, 2021</a></date></li>
+<li> <date><a>August 27, 2021</a></date></li>
+<li> <date><a>August 20, 2021</a></date></li>
+<li> <date><a>August 13, 2021</a></date></li>
+<li> <date><a>August 06, 2021</a></date></li>
+<li> <date><a>July 30, 2021</a></date></li>
+<li> <date><a>July 23, 2021</a></date></li>
+<li> <date><a>July 09, 2021</a></date></li>
+<li> <date><a>June 25, 2021</a></date></li>
+<li> <date><a>June 11, 2021</a></date></li>
+<li> <date><a>May 28, 2021</a></date></li>
+<li> <date><a>May 14, 2021</a></date></li>
+<li> <date><a>May 07, 2021</a></date></li>
+<li> <date><a>April 30, 2021</a></date></li>
+<li> <date><a>April 16, 2021</a></date></li>
+<li> <date><a>April 09, 2021</a></date></li>
+<li> <date><a>March 26, 2021</a></date></li>
+<li> <date><a>March 12, 2021</a></date></li>
+<li> <date><a>March 05, 2021</a></date></li>
+<li> <date><a>February 19, 2021</a></date></li>
+<li> <date><a>February 12, 2021</a></date></li>
+<li> <date><a>February 05, 2021</a></date></li>
+<li> <date><a>January 22, 2021</a></date></li>
+<li> <date><a>January 15, 2021</a></date></li>
+<li> <date><a>January 08, 2021</a></date></li>
+<div><ul><li> <date><a>January 14, 2022</a></date></li></ul></div>
+<div> <a>Home</a> > <a>World</a> > China</div>
+<div> Joe Biden and Xi Jinping Cool Flaring U.S.-China Tensions in First Summit</div>
+<h2><a>Joe Biden and Xi Jinping Cool Flaring U.S.-China Tensions in First Summit</a></h2>
+<div>The leaders, meeting virtually face-to-face for the first time this year, reaffirmed their respective positions during the summit focused on averting conflict.</div>
+<h2><a>China Confines 1,500 University Students to Dorms After COVID Outbreak</a></h2>
+<div>On Monday, the National Health Commission announced 32 new coronavirus cases in the last 24 hours, 25 of them in the northeastern city of Dalian.</div>
+<h2><a>Chinese COVID Worker Reportedly Beats, Kills Dog While Owner in Quarantine</a></h2>
+<div>The alleged incident has caused significant attention and backlash on Chinese social media website Weibo.</div>
+<h2><a>Woman's Urine Turned 'Soy Sauce-Colored' After Swarm of Wasps Attacked Her</a></h2>
+<div>The woman went into kidney and liver failure and had to have several plasma exchange treatments before she recovered.</div>
+<h2><a>Some U.S. Athltetes Still Unsure How to Get to China for Winter Olympics</a></h2>
+<div>No flights to Beijing are out of North America, leaving U.S. athletes to charter connecting flights that could double their travel times to China.</div>
+<h2><a>Amid Tensions With China, Biden to Discuss Competition in Summit with Xi</a></h2>
+<div>White House officials hold low expectations for the meeting between the two leaders on Monday evening, and expect no major announcements to come from it.</div>
+<h2><a>China Lashes Out at Human Rights Watch for Politicizing 2022 Olympics</a></h2>
+<div>After the Human Rights Watch sent letters to the IOC's TOP sponsors asking them to be aware of human rights climate, China continued to deny violations.</div>
+<div>Foreign Minister Dorde Radulovic told Newsweek that Podgorica wants to pivot West, but needs money to do so.</div>
+<h2><a>We Must Act Now To Stop China's Growing Military Prowess</a></h2>
+<div>It is important to recognize that many in the tech world have taken a stand against the CCP.</div>
+<h2><a>Enes Kanter Won't Back Down Against China—The NBA Should Be Nervous</a></h2>
+<div>Boston Celtics games are no longer streamed in China, but more NBA broadcasts could be cut if Kanter's campaign is backed by his peers.</div>
+<h2><a>China Decries 'Interference' as Blinken Signals U.S. Action Over Taiwan</a></h2>
+<div>The secretary of state said on Wednesday that the U.S. and its allies would "take action" if China attacked Taiwan.</div>
+<h2><a>How Long COVID Last on Surfaces As Chinese Authorities Test Parcels</a></h2>
+<div>Parcel deliveries in two cities and a town have stopped after workers at a company that makes children's clothing tested positive for the virus.</div>
+<h2><a>Congress Must Pass Senator Hawley's Arm Taiwan Act</a></h2>
+<div>From reserve numbers to fighter jets, Taiwan is playing catch-up in a military buildup race it will never win.</div>
+<h2><a>China's Xi Warns Against Cold War 'Relapse' Before Meeting Biden</a></h2>
+<div>The leaders are set to have their first "face-to-face" virtual meeting next week, with reports suggesting the summit could take place as soon as Monday.</div>
+<h2><a>Blinken Says China Attacking Taiwan Would Be a 'Very Unfortunate Action'</a></h2>
+<div>Secretary of State Antony Blinken emphasized actions that could be taken now in order to prevent conflict.</div>
+<div>Washington and Beijing also agreed to share technology to help reduce greenhouse gas emissions.</div>
+<h2><a>China Rejects Historic U.S. Law Protecting Taiwan As 'Illegal and Invalid'</a></h2>
+<div>The Taiwan Relations Act, which forms of part of the U.S. "one China" policy, was supported by then Senator Joe Biden in 1979.</div>
+<h2><a>China Sends Over 9K Tourists Into Quarantine After COVID Cases Found</a></h2>
+<div>"For everyone's health, for society to be more stable, some people have to make sacrifices," one tourist told the AP.</div>
+<h2><a>China Holds Military Drills Near Taiwan, Calls U.S. Visit a 'Violation'</a></h2>
+<div>In response to a U.S. congressional delegation visit to Taiwan, the Chinese People's Liberation Army has been holding preparedness drills near the island.</div>
+<h2><a>China Could Launch Third Aircraft Carrier Within Six Months, Study Shows</a></h2>
+<div>Researchers at the Washington, D.C.-based think tank CSIS estimate the People's Liberation Army Navy's Type 003 carrier could be completed by early 2022.</div>
+<h2><a>Chinese Space Debris Heading Towards International Space Station</a></h2>
+<div>The ISS will have to dodge the debris, which reportedly has come from an old Chinese weather satellite that was blown up over a decade ago.</div>
+<h2><a>China's Shock Hypersonic Missile Test Alarms U.S. Lawmakers</a></h2>
+<div>Sen. Jim Inhofe told Newsweek that Beijing's recent test must serve as a "wake-up call" to U.S. leaders.</div>
+<h2><a>It's Time to End the Trade War With China</a></h2>
+<div>It's important that President Joe Biden and the leaders in his administration continue to look for ways that can remove undue stresses on the economy and put it in the best position to recover as quickly and as robustly as possible.</div>
+<h2><a>Xi Jinping Says China 'Ready to Work' With U.S. Ahead of Joe Biden Meeting</a></h2>
+<div>The two leaders could hold virtual talks as soon as next week, but it will only be the third time they have spoken this year.</div>
+<h2><a>Ex-Australia Leader Urges Country to Avoid Military Conflict With China</a></h2>
+<div>Paul Keating, who was prime minister of Australia from 1991 to 1996, has criticized the AUKUS submarine deal struck by Canberra, London and Washington.</div>
+<h2><a>Republicans Meet Taiwan President as GOP Pushes for Strengthening Defenses</a></h2>
+<div>Television cameras captured the diplomatic convoy arriving at Taiwan's Presidential Office early on Wednesday, but the group continues to maintain a low-profile.</div>
+<h2><a>China Forcing Sterilization, Enslavement, Holocaust Memorial Museum Says</a></h2>
+<div>The museum's Simon-Skjodt Center for the Prevention of Genocide released a report highlighting "crimes against humanity" the Chinese government has committed.</div>
+<h2><a>China Wants to Take Taiwan 'Without a Fight,' Says Defense Report</a></h2>
+<div>Taiwan's 2021 National Defense Report, released on Tuesday, said the Chinese military was already capable of blockading the island during a conflict.</div>
+<h2><a>Senate and House Lawmakers Arrive in Taiwan for Diplomatic Visit</a></h2>
+<div>Taiwan's Foreign Ministry said it was facilitating the arrival of the delegation, whose trip has been arranged by the American Institute in Taiwan.</div>
+<h2><a>More Than 600 U.S. Personnel in Taiwan in Past Two Years: Defense Report</a></h2>
+<div>Taiwan's biennial defense report puts a figure on the military exchanges confirmed publicly by President Tsai Ing-wen late last month.</div>
+<div> <a>Home</a> > <a>World</a> > China</div>
+<div> At Odds with U.S., Islamic Republics Iran and Pakistan Forge New Ties</div>
+<h2><a>At Odds with U.S., Islamic Republics Iran and Pakistan Forge New Ties</a></h2>
+<div>"Iran and Pakistan have many common goals in the region and the Islamic world, from peace and stability in the region, including Afghanistan," Iran embassy in Pakistan spokesperson Hamaneh Karimi-Kia told Newsweek.</div>
+<h2><a>IOW Won't Comment on Chinese Tennis Player Peng Shuai's Disappearance</a></h2>
+<div>The Chinese tennis player disappeared after accusing a former top official of sexual assault. The IOC and Chinese government refused to comment.</div>
+<h2><a>China Furious With Biden As He Mulls Diplomatic Boycott of Beijing Olympics</a></h2>
+<div>"Politicizing sports is against the Olympic spirit and harms the interests of athletes from all countries," said a Chinese foreign ministry spokesperson.</div>
+<h2><a>The International Community Must Resist China's Abuse of Interpol</a></h2>
+<div>Authoritarian states around the world are using Interpol as a weapon to target dissidents, opposition figures and vulnerable communities who have sought sanctuary abroad.</div>
+<h2><a>Scientists React to COVID Study Suggesting New Date for First Known Case</a></h2>
+<div>The study suggesting the virus originated in a live animal market in Wuhan, China, has been both praised and criticized by scientists.</div>
+<h2><a>Hong Kong Officers Lure Wild Boars for Euthanization Amid Attack Increases</a></h2>
+<div>In an attack last week, a wild boar knocked down a police officer and bit his leg last week before the animal fell from a residential car park and died.</div>
+<h2><a>While Athletes Plan to Compete in China, Biden Considers Diplomatic Protest</a></h2>
+<div>Biden told reporters Thursday that a diplomatic boycott of the winter event is "something we're considering."</div>
+<h2><a>There is No Such Thing as a One-Size-Fits-All China Policy</a></h2>
+<div>U.S. officials should continue to encourage its allies and partners in the Indo-Pacific to take ownership of their own security, bolstering the region's ability to check China from becoming a Eurasian hegemon.</div>
+<h2><a>Democrats, Republicans in Joint Push for Laws Protecting Taiwan From China</a></h2>
+<div>Dozens of bills introduced in Congress this year included pro-Taiwan provisions. Several will have a direct impact on Taiwan's defense preparations.</div>
+<h2><a>Philippines Warns China of U.S. Treaty After Water Cannon Fired at Boats</a></h2>
+<div>Chinese coast guard water-cannoned Philippine supply ships at the disputed Second Thomas Shoal, prompting Filipino officials to remind them of a U.S. treaty.</div>
+<h2><a>Wife of Missing Chinese Official Calls Government a 'Monster'</a></h2>
+<div>"During the past three years, I learned—just like we know how to live with the COVID—I know how to live with the monster, the authority," Grace Meng said.</div>
+<h2><a>Olympic Committee Believes Peng Shuai is 'Safe,' WTA Demands Answers</a></h2>
+<div>"The WTA and the rest of the world need independent and verifiable proof that she is safe," wrote Steve Simon, chairman and CEO of WTA.</div>
+<h2><a>China Believes Its 'Time Has Come' to Return to Power, Singapore PM Says</a></h2>
+<div>Lee Hsien Loong said he doesn't believe conflict over Taiwan is imminent, but the risk of a "mishap" remains.</div>
+<h2><a>Dubious Peng Shuai Letter Sparks Fears About Chinese Tennis Star's Safety</a></h2>
+<div>Steve Simon, head of the Women's Tennis Association, said the email had left him more concerned about the wellbeing of the 35-year-old player.</div>
+<h2><a>China Coast Guard Ships Fire Water Cannons at Philippine Vessels</a></h2>
+<div>Manila called the Chinese actions "illegal" and reminded Beijing of the U.S.'s backing on South China Sea disputes.</div>
+<h2><a>China to Give U.S. Journalists 1-Year Work Visas After New Agreement</a></h2>
+<div>The agreement comes after both nations drastically reduced press freedoms from each other.</div>
+<h2><a>China's New Data Law Disrupts the Congested Supply Chain Ahead of Holidays</a></h2>
+<div>Under the new law, foreign shipping companies are being blocked from accessing data necessary to plan shipping routes to avoid delays and congested ports.</div>
+<h2><a>China Not Looking to 'Surpass or Replace' United States, Beijing Says</a></h2>
+<div>China's Foreign Ministry echoed recent comments by Xi Jinping, who said both China and the U.S. stood to lose from confrontation.</div>
+<h2><a>Concerns Grow Over Missing Chinese Tennis Star Peng Shuai</a></h2>
+<div>The former doubles no. 1 has not been seen or heard from since making sexual assault allegations against a former high-ranking Chinese official.</div>
+<h2><a>China Says Joe Biden's Taiwan Policy Based on 'Cooked Up' Domestic Law</a></h2>
+<div>China's Foreign Ministry responded Wednesday after President Biden said Taiwan was "independent," and that the U.S. would not change its "one China" policy.</div>
+<h2><a>Cornyn Warns Taiwan Is 'First Domino' in China's Quest for Global Dominance</a></h2>
+<div>Senator John Cornyn of Texas was one of six U.S. lawmakers who visited Taipei last week and met with senior Taiwanese officials.</div>
+<h2><a>FedEx Closes Hong Kong Base, Announces California Crews Will Pick Up Slack</a></h2>
+<div>The company stated that flights leaving the city were unlikely to be affected.</div>
+<div>The president told reporters that "we're not going to change our policy at all."</div>
+<h2><a>Aircraft Carriers Won't Solve China's Energy Crisis, Taiwan Premier Says</a></h2>
+<div>Su Tseng-chang, who was blacklisted by China earlier this month, responded positively to the Biden-Xi summit, saying dialogue was the best remedy for disputes.</div>
+<h2><a>China Sends Bomber Planes to Indian Border in 'Warning' to Country</a></h2>
+<div>The Indian capital of New Delhi and several Indian airbases are within striking range of these newly relocated bomber planes.</div>
+<div>The annual meeting—arranged before Monday's Biden-Xi summit—is to take place between Tuesday and Wednesday in Washington, D.C.</div>
+<h2><a>China Dodges Genocide Reports as Xi and Biden Disagree on Human Rights</a></h2>
+<div>The Biden administration has upheld the determination that China's treatment of Uyghurs in Xinjiang amounts to "genocide."</div>
+<h2><a>Xi Warns Biden China Could Be 'Compelled' to Use Force Against Taiwan</a></h2>
+<div>In the first leaders' summit between Joe Biden and Xi Jinping, the Chinese president said his country would remain patient on the question of Taiwan.</div>
+<h2><a>Biden-Xi Meeting Live Updates: Presidents Agree Not to 'Veer Into Conflict'</a></h2>
+<div>Joe Biden and Xi Jinping have agreed not to "veer into conflict" as the leaders navigate a frosty period of relations between the U.S. and China. Follow Newsweek's liveblog for all the latest updates.</div>
+<header><div> <a>World</a></div><h1>China Space Station First Step in Country's Plans to Colonize Space</h1><div> By John Feng <time>On 6/17/21 at 8:42 AM EDT</time></div> </header>
+<p>China's far-reaching ambition for a permanent presence in outer space began in earnest on Thursday with the <a>launch of its first crew</a> bound for a new space station.</p>
+<p>It signals a great leap forward for the country's burgeoning space program, which took its first step beyond Earth's atmosphere when it launched the satellite Dongfanghong 1, or China 1 in the West, in April 1970.</p>
+<p>Fast-forward half a century, the People's Republic of China finds itself among the world's history-making space powers.</p>
+<p>Accordingly, it has already articulated plans for prolonged missions in low Earth orbit, then on the <a>moon</a> and <a>Mars</a>.</p>
+<p>In January 2019, China became the first nation to put a rover on the far side of the moon, landing Chang'e 4—named for the mythological Chinese goddess who resides there—in the permanent shadow facing away from Earth due to tidal locking.</p>
+<p>Last December, its Chang'e 5 probe returned to Earth bearing the first lunar samples in 44 years.</p>
+<p>Like the U.S., China's plans also extend further into the solar system. It became only the second country to put a working rover on Mars when Zhurong—named after the god of fire—<a>touched down on the red planet</a> on May 14.</p>
+<p>Last Friday, Zhurong was celebrated by the public when it <a>beamed back a symbolic selfie</a> showing the Chinese flag on the Martian surface.</p>
+<p>Following the success of its Tianwen-1 ("Questions to Heaven") mission to Mars, CNSA wants unmanned missions to begin returning Martian rock samples to Earth within the next two decades—its next rover is scheduled for 2028.</p>
+<p>Between 2040 and 2060, China's space agency plans to send crewed missions with the goal of establishing a sustained human presence on the planet after that.</p>
+<a>NASA</a> and the European Space Agency (ESA) have already revealed mission designs that include bringing back samples collected by the rover
+<a>Perseverance</a> in the 2030s. Meanwhile,
+<a>Elon Musk</a> says he is selling all his belongings in order to fund a 1-million-strong Mars colony by 2050.
+<p>China's plans to colonize space will inevitably begin closer to home. Thursday's <a>launch of Shenzhou-12</a> ("Devine Vessel") atop a Long March-2F Y12 rocket in the Gobi Desert was its first manned mission in five years.</p>
+<p>If all goes according to plan, astronauts Nie Haisheng, 56, Liu Boming, 54, and Tang Hongbo, 45, will embark on the country's longest-ever space mission, lasting three months, and take part in two planned spacewalks.</p>
+<p>The crew will be the first to occupy and test the living quarters and life-support systems onboard Tianhe ("Harmony of the Heavens"), the core module of the Chinese space station that was <a>sent into space on April 29</a>.</p>
+<p>When fully assembled at the end of next year, China's <a>Tiangong</a> ("Heavenly Palace") is <a>expected to outlast</a> the <a>International Space Station—</a>which is due to retire as early as 2024 after a quarter century in service.</p>
+<p>There will be a total of 11 launches in the intense program to build Tiangong: four manned missions, four cargo launches and three module launches, after which China will be able to maintain a permanent presence starting in late 2022.</p>
+<p>When the ISS is decommissioned, Tiangong will be the only laboratory in space for many years. To complement its studies of deep space, China also intends to launch a telescope module Xuntian ("Touring the Heavens") in 2024.</p>
+<p>Before that, however, NASA, ESA and the Canadian Space Agency will first put the James Webb Space Telescope in orbit this November. It will succeed the Hubble Space Telescope, launched 31 years ago.</p>
+<p>Tiangong will be a landmark achievement for Bejing's larger space ambitions. Due to U.S. political objections, Chinese taikonauts have never participated in the ISS.</p>
+<p>Some observers have warned of China's goal of one day dominating space and becoming its sole arbiter by wielding technological superiority.</p>
+<p>Concerns have also been raised about the lack of transparency beyond its stated ambitions, and the likelihood of space exploration being linked to efforts to modernize its military by 2049.</p>
+<p>Ye Peijian, the chief designer of China's lunar program, is most often cited when wary analysts describe the country's darker motives.</p>
+<a>Senkaku Islands</a> and the Philippine-claimed Scarborough Shoal—known by the Chinese government as the islands Diaoyu and Huangyan, respectively.
+<p>Current comparisons show China's space program is still a distance away from U.S. technical and innovative standards. America also has a far greater budget, but that may not last forever.</p>
+<p>In a January paper for the French Institute of International Relations, researcher Marc Julienne concluded that China's space ambitions were built on the pillars of national development, military empowerment and great-power competition.</p>
+<p>"Besides building national pride and international prestige, space is a strategic field where Beijing needs to fill the technological gap with the US, and where it is searching for US vulnerabilities," he wrote.</p>
+<p>Newsweek has contacted CNSA for comment on its upcoming missions.</p>
+<p>Police in South Africa have arrested a 46-year-old man accused of attempting to transport rhinoceros horn to China inside boxes of chocolate, police said.</p>
+<p>The suspect hasn't been publicly named by police.</p>
+<p>The parcels were meant to be shipped to China's Shandong province on the country's eastern coast, just across the Yellow Sea from North and South Korea, authorities said.</p>
+<p>After arresting the suspect, the Hawks found an undisclosed amount of money under the driver's seat of the suspect's vehicle, DPCI Lieutenant Colonel Philani Nkwalase said in a statement.</p>
+<p>Rhino horn is also regarded as a wealth status symbol in China and Vietnam. The horns are often polished and sometimes turned into statues, cups or jewelry.</p>
+<p>Of the five species of rhinoceros, all are in danger of being hunted to extinction for their horns, the group added. Rhinos are also protected globally under the Convention on International Trade in Endangered Species.</p>
+<p>The declining number of rhinos drives the price for their horns even higher, compelling poachers to hunt and kill the few remaining creatures.</p>
+<p>Newsweek contacted the World Wildlife Fund for comment.</p>
+<p>On Monday, President Joe Biden signed a $768.2 billion defense bill into law that keeps women from the military draft and alters the military justice system.</p>
+<p>The National Defense Authorization Act has measures in it that change how the military justice system manages sexual assault and other related crimes, essentially removing military commanders' prosecutorial jurisdiction over those cases.</p>
+<p>Republicans were able to prevent attempts to include women in the draft and added a measure that prohibits dishonorable discharge for service members who refuse to take the COVID vaccine.</p>
+<p>"The Act provides vital benefits and enhances access to justice for military personnel and their families, and includes critical authorities to support our country's national defense," the president said in a statement.</p>
+<a>Congress</a> in a prior proposal that was rejected by members of both parties out of concerns it would undermine U.S. efforts to keep pace militarily with China and Russia.
+<p>The bill includes $7.1 billion for the Pacific Deterrence Initiative and a statement of congressional support for the defense of Taiwan, measures intended to counteract China's influence in the region.</p>
+<p>It also includes $300 million for the Ukraine Security Assistance Initiative, a show of support in the face of Russian aggression, as well as $4 billion for the European Defense Initiative.</p>
+<p>In his statement, the president also outlined a number of provisions his administration opposes over what he characterized as "constitutional concerns or questions of construction."</p>
+<p>The Associated Press contributed to this report. </p>
+<div> <a>Home</a> > Communist Party</div>
+<h2><a>Kim Jong-Un Looks Noticeably Thinner in North Korea TV Appearance</a></h2>
+<div>An expert told Newsweek that Kim's weight loss could be him signalling to the public that he recognizes the tough economic environment in his country.</div>
+<h2><a>Combatant China Tabloid Chief Resigns in Mysterious Circumstances</a></h2>
+<div>Hu Xijin—perhaps the loudest voice in China's English-language media circles—announced his imminent departure in a brief social media post on Thursday.</div>
+<h2><a>EU Calls on China to Give 'Proof' Peng Shuai Is 'Free and Not Under Threat'</a></h2>
+<div>"Her recent public reappearance does not ease concerns about her safety and freedom," a European Union spokesperson said.</div>
+<h2><a>Chinese Communist Party Will Outlive United States—State Media Editor</a></h2>
+<div>The comment by Global Times editor Hu Xijin came after JPMorgan CEO Jamie Dimon said the investment bank would outlast China's ruling party.</div>
+<h2><a>IOC Accused of Spreading China's Propaganda After Peng Shuai Video Call</a></h2>
+<div>According to the IOC's statement, Peng Shuai said in the 30-minute video call that she is doing well, appreciated the concern but asked for her privacy.</div>
+<h2><a>IOW Won't Comment on Chinese Tennis Player Peng Shuai's Disappearance</a></h2>
+<div>The Chinese tennis player disappeared after accusing a former top official of sexual assault. The IOC and Chinese government refused to comment.</div>
+<h2><a>Xi Jinping's 'Historical Resolutions'</a></h2>
+<div>It seems that the Chinese Communist Party values historical experience more than any other political party, and successive CCP leaders have been adept at twisting history to their own advantage.</div>
+<h2><a>Lloyd Austin Won't Discuss 'Hypothetical' Where China Attacks Taiwan</a></h2>
+<div>"Nobody wants to see cross-Strait issues come to blows—certainly not President Biden, and there's no reason that it should," Austin said.</div>
+<h2><a>Communist Party Members Detained in Russia as Group Sues Over Election</a></h2>
+<div>"From the tribune of the courtroom, we will spill light on all the methods that the authorities used to falsify the results of the election," Valery Rashkin said.</div>
+<h2><a>Florida Boaters Head to Cuba for Solidarity Protest Off Island's Coast</a></h2>
+<div>Boaters said they would not enter Cuban territory in an effort to avoid escalation and potential consequences.</div>
+<h2><a>Protesters Against Cuban Communism Shut Down Florida Highway</a></h2>
+<div>Police were forced to block traffic on Tuesday due to people rallying in support of Cuban protesters marching on the Palmetto Expressway.</div>
+<h2><a>China's Communist Party Over 100 Years, in Pictures</a></h2>
+<div>The Chinese Communist Party emerged from a grassroots movement 10 years after the end of Imperial China. A century later, it is the largest ruling party in the world.</div>
+<h2><a>The Rise of China—How Communist Party Transformed Country into a Superpower</a></h2>
+<div>China has evolved from Mao Zedong's socialist revolution into a formidable nuclear power on the world stage.</div>
+<h2><a>Xi Jinping Says China to Become Dominant World Power Within 30 Years</a></h2>
+<div>"Only socialism could save China. Only socialism with Chinese characteristics can develop China," President Xi Jinping declared amid celebrations in Beijing.</div>
+<h2><a>China Obsesses Over Miami Condo Collapse, Downplays Own Major Disasters</a></h2>
+<div>As state-run media seek to create a spotless image for the Communist Party centennial, coverage of the Florida collapse outweighs reporting on local tragedies.</div>
+<h2><a>The Chinese Communist Party Still Controls the Family</a></h2>
+<div>The results of China's seventh census revealed that the country's population has dropped precipitously. In response, the Chinese Communist Party gathered an emergency meeting of the Politburo.</div>
+<h2><a>Chinese Military Helicopters Spotted Flying in the Shape of '100'</a></h2>
+<div>The People's Liberation Army may be preparing for an air show as part of the Communist Party's 100th anniversary celebrations in Beijing this summer.</div>
+<h2><a>China State Media Says Rocket Debris 'Likely' to Fall in Water</a></h2>
+<div>A Chinese newspaper aligned with the country's government published a story that downplays the Pentagon's monitoring of potentially dangerous space debris from a Chinese rocket as "nothing but Western hype."</div>
+<h2><a>China State Media Slams West's 'Potent and Malicious Attack' on Xinjiang</a></h2>
+<div>The main state newspaper released a report on its findings about "lies" from the U.S. and other countries on the region.</div>
+<h2><a>Castro Era Ends in Cuba as Raul Steps Down</a></h2>
+<div>Raul Castro announced on Friday that he is stepping down as the leader of Cuba's Communist Party without publicly naming who he would endorse as his successor.</div>
+<h2><a>China Claims Record Communist Party Members As Xi Jinping Eyes Centennial</a></h2>
+<div>There will be no military parade to mark the Communist Party's 100th anniversary, but Chairman Xi Jinping will deliver a speech, a senior information officer said a press conference on Tuesday,</div>
+<h2><a>China's Whip on Dissent Masked as Anti-Corruption Campaign</a></h2>
+<div>There has been a slow but consistent rise of dissenting views in the face of China's repressive state power.</div>
+<h2><a>Communist China Is Preparing To Eat Joe Biden's Lunch</a></h2>
+<div>The sum total of a Biden China policy at this point seems to be multilateralism. Toward what end, we have not the faintest idea.</div>
+<h2><a>NBA Commissioner Defends League, BLM After Trump Called Players 'Nasty'</a></h2>
+<div>NBA commissioner Adam Silver responded to President Donald Trump referring to the league's players as "nasty" and "dumb" for holding silent protests during the playing of the National Anthem.</div>
+<h2><a>Pompeo Calls for U.S.-European Unity in Response to 'China Challenge'</a></h2>
+<div>United States Secretary of State Mike Pompeo is touting an international coalition against China, using his social media accounts to highlight criticisms of the Communist Chinese government from across the globe.</div>
+<h2><a>Companies Like Zoom Must Choose: America or China</a></h2>
+<div>"We are forced to comply with the local laws in the jurisdictions in which we operate" will no longer cut it.</div>
+<h2><a>Cruz Co-Authors Bill to Keep U.S. Officials Off Chinese Telecom Products</a></h2>
+<div>Cruz said some Chinese companies like Huawei and Tencent were "espionage operations for the Chinese Communist party" in a Thursday statement.</div>
+<h2><a>Chinese Media Calls Hong Kong Protesters' Push for Democracy a 'Pipe Dream'</a></h2>
+<div>"We must leave no room for collusion and interaction between Hong Kong's radical opposition and the U.S. government," an editorial in The Global Times argued.</div>
+<h2><a>The Fantasy of a Benevolent China Is Over. Fortunately, America Has Trump</a></h2>
+<div>We now face a serious competitor that does not want to share the world stage—it wants to dominate and control it.</div>
+<h2><a>Billionaires Like Bloomberg Are Willfully Lying to Themselves About China</a></h2>
+<div>President Xi Jinping is running a ruthless police state dictatorship, and any fantasies claiming otherwise betray the people fighting for freedom in Hong Kong and elsewhere.</div>
+<header><div> <a>World</a></div><h1>Xi Jinping Says China to Become Dominant World Power Within 30 Years</h1><div> By John Feng <time>On 7/1/21 at 3:27 AM EDT</time></div> </header>
+<p>Chinese President <a>Xi Jinping</a> hailed the achievements of the <a>Communist Party</a> of China (CPC) and confidently declared its future goals on Thursday as tens of thousands gathered in Beijing to celebrate its 100th anniversary.</p>
+<p>The paramount leader, who donned a Mao suit while other officials arrived in formal attire, told attendees at Tiananmen Square that the party had accomplished its centennial goal of creating a "moderately prosperous society."</p>
+<p>"[W]e now march in confident strides toward the second 100-year goal of building China into a great modern socialist country in all respects," he declared, referring to the People's Republic of China centennial in 2049.</p>
+<p>"We have never bullied, oppressed or subjugated the people of any other country, and we never will," he told the nation, before warning of the party's "unshakeable commitment" to resolving the "<a>Taiwan</a> question."</p>
+<p>"China has caught up with the times," he added.</p>
+<p>In his hour-long address, Xi said the CPC had helped China overcome "subversion, sabotage and armed provocation by imperialist and hegemonic powers."</p>
+<p>The party was central in dismantling the "old world" and building a new one, he added. It was a callback to the famous Mao Zedong-era slogan that he would later also repeat: "Without the Communist Party, there would be no New China."</p>
+<p>"Only socialism could save China. Only socialism with Chinese characteristics can develop China," Xi declared.</p>
+<p>China's Communist Party chairman referenced the contributions of notable former leaders, including Mao, Deng, Jiang Zemin and his immediate predecessor Hu Jintao.</p>
+<p>As large crowds watched on, many without masks, the central section of Xi's speech reinforced the centrality of the CPC in the country.</p>
+<p>"The leadership of the party is the defining feature of socialism with Chinese characteristics, as well as the greatest strength of the system," he said. It is the crux upon which "all Chinese people depend," the president noted.</p>
+<p>"We must uphold the party's overall leadership and continue to enhance its leadership," Xi said, noting: "Marxism works."</p>
+<p>The CPC's vision of a "great modern socialist country in all respects" inevitably involves a world-beating military, which some China watchers say seeks to outcompete the United States in the region, perhaps globally.</p>
+<p>Xi stressed the importance of military strength and military strategy as China embarks on its next phase of development. The party's "absolute leadership over the armed forces" is paramount, he said, as is the loyalty of its troops.</p>
+<p>A defiant Xi, who was overseeing the most significant event of his leadership thus far, said the country would "never allow any foreign force to bully, oppress or subjugate us," drawing a loud applause.</p>
+<p>"Anyone who attempts to do so will find themselves on a collision course with a great wall of steel, forged by the flesh and blood of over 1.4 billion Chinese people," he said to some of the loudest cheers of the morning.</p>
+<p>With <a>Carrie Lam</a> in attendance, Xi remarked on the central government's authority over <a>Hong Kong</a> and <a>Macau</a>, as well as China's "one country, two systems" model, which is meant to grant each city a "high degree of autonomy."</p>
+<p>In some of his most bellicose sentences of the day, Xi turned to the topic Taiwan, which he has hinted at capturing in his lifetime.</p>
+<p>"Resolving the Taiwan question and realizing China's complete unification is a historic mission and an unshakable commitment of the Communist Party of China," he told the crowd from atop Tiananmen.</p>
+<p>"All the sons and daughters of the Chinese nation, including compatriots on both sides of the Taiwan Strait, must come together, move forward and resolutely oppose any attempt at Taiwan independence," the Chinese president said.</p>
+<p>"No one should underestimate the great resolve, the strong will and the extraordinary capability of the Chinese people to defend their national sovereignty and territorial integrity," he concluded, drawing more loud cheers.</p>
+<p>In his address, Xi did not abandon the phrase "peaceful national unification," but Beijing had already formalized its policy of never renouncing the use of force against Taiwan with the passing of its Anti-Secession Law 16 years earlier.</p>
+<p>In his closing, the Chinese leader, who is expected to be re-elected for a third term next year, called backed his "Chinese Dream" and the "great rejuvenation of the Chinese nation."</p>
+<p>Professor <a>Steve Tsang</a>, director of the SOAS China Institute at SOAS University of London, identifies the CPC's post-Deng political system as that of consultative Leninism.</p>
+<p>With Xi's replacement of the standardized succession process, the party now works as a "Leninist instrument of control" under one core leader, he said.</p>
+<p>"But this core leader (Xi) thinks that whatever he (and by implication, the Party) does is good for China as a whole, and allows no scope for challenging such a view," he said.</p>
+<p>"Chinese nationalism and Chinese supremacy"—not only material benefits but also the chance to partake in "China's glory"—are how the CPC seeks to appeal to Chinese abroad, including in <a>Singapore</a> and Taiwan, Hofstede added.</p>
+<p>Update 07/01/2021, 6:05 a.m. ET: This article has been updated with further context throughout. </p>
+<header><div> <a>World</a></div><h1>China Celebrates As Space Station Launch Signals Country's Growing Ambitions</h1><div> By John Feng <time>On 6/17/21 at 6:13 AM EDT</time></div> </header>
+<p>China's deep-space ambitions took another meaningful step forward early Thursday when the country <a>launched the first crewed mission</a> to its own space station in low Earth orbit.</p>
+<p><a>Weibo</a>, China's largest social media website, was awash with celebrations as state broadcaster CCTV aired images of the Shenzhou-12 liftoff atop the Long March-2F Y12 rocket at 9:22:27 a.m. Beijing time.</p>
+<p>The launch from China's Jiuquan site in the Gobi Desert is the country's <a>first manned mission in five years</a>. The crew of three onboard Shenzhen-12 ("Divine Vessel") will embark on China's longest space mission to date, lasting 90 days.</p>
+<a>sent into space on April 29</a>.
+<p>Party newspaper Global Times is among the publications to have noted the significant timing of the Shenzhou-12 mission, which will coincide with the centennial.</p>
+<a>Tiangong</a> ("Heavenly Palace").
+<p>While all three crew are members of the Communist Part of China, Nie, the most experienced of the three taikonauts and already recognized by the title of "space hero," could be given the historic honor of waving the flag.</p>
+<p>The crew will also conduct maintenance and scientific operations onboard, with the main aim of verifying existing technology on Tianhe.</p>
+<p>China's space station Tiangong is scheduled for completion by the end of 2022. It is <a>designed to last 10 years</a> but could be operational for up to 15.</p>
+<p>Before that, China has already scheduled a Tianzhou-3 ("Heavenly Ship") cargo launch for this September and the Shenzhou-13 mission for October.</p>
+<header><div> <a>Tech Science</a></div><h1>Why Is China Banned From ISS? Beijing Launches First Part of Its Own Station</h1><div> By Ed Browne <time>On 4/30/21 at 4:32 AM EDT</time></div> </header>
+<p>China successfully launched the first module of its own space station on Thursday, prompting curiosity about why the country does not simply use the International Space Station (ISS), according to <a>Google</a> Search data.</p>
+<p>The core module of China's station, which will eventually be known as Tiangong, or the China Space Station (CSS), is the largest spacecraft China has ever developed and is 54.4 feet long, 13.7 feet in diameter, and weighs nearly 25 tons</p>
+<p>Once complete, Tiangong will form a T-shape with the core Tianhe module in the middle and laboratory modules docked around it.</p>
+<p>In 2019, the U.N. confirmed that six experiments were going to be conducted on the CSS involving institutions from Germany, Switzerland, India, Russia and others.</p>
+<p>Gu Yidong, chief scientist of the China Manned Space program, told Scientific American: "We do not intend to compete with the ISS in terms of scale." But the elephant in the room remains: China has never been to the ISS.</p>
+<p>As its name suggests, the International Space Station is a global project, even though the vast majority of its inhabitants have come from the U.S. and Russia.</p>
+<p>Other countries that have sent astronauts to the ISS include Canada, Brazil, the U.K., the Netherlands, Germany, Belgium, South Korea, Malaysia, Japan and others.</p>
+<p>China is conspicuous by its absence from this list, and the reason lies simply in the fact that the U.S. does not want it to be there.</p>
+<a>NASA</a> may not use funds from that division to collaborate in any way with China unless a law specifically authorizes it.
+<p>Reuters reported in 2015 that the ban was due to human rights issues and national security concerns.</p>
+<a>CNN</a> the idea of the U.S. collaborating with China "gets shut down immediately" whenever it is brought up near
+<a>Congress</a>, adding that the Chinese Communist Party is "viewed as a government that seeks to take our intellectual property."
+<p>"The Chinese government has always advocated the peaceful use of outer space," Wang Jin, a spokesman for Beijing's Ministry of Defense, said at the time.</p>
+<p>The future of the ISS is currently uncertain. Partnerships and funding are due to run out in 2024. NASA told the Financial Times this month: "From a technical standpoint, we have cleared ISS to fly until the end of 2028."</p>
+<p>But Russia—one of the station's most crucial partners—has already said it would withdraw from the program in 2025, marking the end of a significant period of international cooperation.</p>
+<header><div> <a>Tech Science</a></div><h1>What SpaceX Starlink Satellites Do and How Many Have Been Launched Into Space</h1><div> By Aristos Georgiou <time>On 3/15/21 at 8:04 AM EDT</time></div> </header>
+<p>On Sunday, Elon Musk's <a>SpaceX</a> launched <a>another 60 Starlink</a> satellites into orbit around the Earth. But what is the aim of the Starlink project and how many satellites has the company sent into space so far?</p>
+<p>The goal of Starlink is to provide superfast global internet coverage with very low latency, even in rural or remote areas that may normally lack reliable connectivity.</p>
+<p>In order to do this, the company is planning to deploy tens of thousands of mass-produced broadband satellites in low Earth orbit, creating a "mega-constellation" that will communicate with receivers on the ground.</p>
+<p>Starlink satellites are being deployed around 60 times closer to Earth than traditional satellites. SpaceX says this results in lower latency and the "the ability to support services typically not possible with traditional satellite internet."</p>
+<p>SpaceX has received regulatory approval from the Federal Communications Commission to deploy up to 12,000 satellites, and is planning to launch around 30,000 more.</p>
+<p>The company's initial constellation will consist of 1,440 satellites, which they hope will provide "near-global coverage of the populated world in 2021."</p>
+<p>SpaceX has successfully conducted more than 20 <a>Starlink launches</a> to date, sending satellites into space mostly in batches of 60, with the vast majority being deployed at an orbital altitude of around 340 miles.</p>
+<p>So far, the company has launched 1,325 Starlink satellites, although 64 of these have reentered the Earth's atmosphere leaving 1,261 in orbit. SpaceX now owns around one-third of all the active satellites in orbit above the Earth.</p>
+<p>Each satellite weighs around 570 pounds, according to the company. They measure about the same size as a table, Sky Telescope magazine reported.</p>
+<p>The company said data speed and latency will "improve dramatically" as more satellites are launched and more ground stations are installed.</p>
+<p>The project has received criticism from some in the astronomical community who say that the satellites could have a negative impact on <a>scientific observations</a>, while adding more objects to the already crammed orbital environment.</p>
+<div> <a>Home</a> > SpaceX</div>
+<div> Humans Could Land on Mars in 5 to 10 Years, if Elon Musk Has His Way</div>
+<h2><a>Humans Could Land on Mars in 5 to 10 Years, if Elon Musk Has His Way</a></h2>
+<div>"No amount of money can get you a ticket to Mars. We need to get that to something that is actually possible at all," Musk added.</div>
+<h2><a>China Complains Space Station Was Forced to Dodge Elon Musk's Satellites</a></h2>
+<div>China classed both incidents as constituting "dangers to the life or health of astronauts aboard the China Space Station."</div>
+<h2><a>SpaceX Completes 100th Landing, Carries Christmas Gifts, Food to Astronauts</a></h2>
+<div>"I won't get in front of Santa Claus and tell you what's going to be sent up," said Joel Montalbano, NASA's space station program manager.</div>
+<h2><a>'Misogyny Is Rampant': Ashley Kosak Says Male SpaceX Co-Workers Groped Her</a></h2>
+<div>"A fellow intern approached me in our intern housing and grabbed my butt while I was washing my dishes," Ashley Kosak, the former SpaceX engineer wrote.</div>
+<h2><a>Reactions Pour in to Elon Musk as Time's Person of the Year</a></h2>
+<div>While some observers celebrated the win for the Tesla CEO, others slammed the magazine for honoring him.</div>
+<h2><a>FAA Says Uptick in Commercial Space Travel Means No More Astronauts Wings</a></h2>
+<div>The wings will be replaced with an online registry. This does not affect NASA's astronauts getting their wings, as they receive theirs from the space agency.</div>
+<h2><a>NASA Plans Additional SpaceX Flights to ISS as Delays Hinder Starliner</a></h2>
+<div>The administration stated that it plans to launch the additional SpaceX flights as early as 2023.</div>
+<h2><a>Watch SpaceX Falcon 9 Send Satellites Into Orbit in Record-Breaking Launch</a></h2>
+<div>The Falcon 9 launch on Thursday, the 27th launch of 2021 for Elon Musk's SpaceX, with five more planned in what remains of the year.</div>
+<h2><a>Elon Musk Responds to Leaked SpaceX Bankruptcy Email</a></h2>
+<div>The SpaceX and Tesla CEO said Raptor engine production was in "crisis" and that SpaceX would need "all hands on deck" to recover.</div>
+<h2><a>Elon Musk Says He Sends Half His Tweets from the Toilet</a></h2>
+<div>Tesla and SpaceX founder reveals where he sometimes likes to communicate with his 64 million followers.</div>
+<h2><a>Creating a Magnetic Field Around Mars Could Help Us Colonize It</a></h2>
+<div>Unlike the Earth, Mars does not have a strong, global magnetic field. This field helps to protect our planet from cosmic rays and retain its atmosphere.</div>
+<h2><a>SpaceX's Starship Rocket Compared to Others As Musk Eyes January Launch</a></h2>
+<div>The colossal rocket will one day be tasked with carrying humans to Mars and maybe beyond, the SpaceX founder and CEO has said.</div>
+<h2><a>NASA Astronaut Jessica Watkins to Become First Black Woman on ISS</a></h2>
+<div>Watkins will serve as a mission specialist on the upcoming SpaceX Crew-4 launch to the International Space Station. The journey will mark the first time the astronaut has traveled to space.</div>
+<h2><a>Elon Musk Sells $150+M in Tesla Stock Options, Shares, SEC Documents Show</a></h2>
+<div>The sale comes days after Senator Bernie Sanders stated that Musk should "pay his fair share."</div>
+<h2><a>Elon Musk Should Pay Taxes</a></h2>
+<div>The avoidance to pay taxes by Elon Musk and other billionaires is inexcusable considering their wealth has often been reliant on public funds.</div>
+<h2><a>Bernie Sanders Mocked by Elon Musk Saying He Forgets He's Still Alive</a></h2>
+<div>The billionaire was replying to a tweet from the senator which said: "We must demand that the extremely wealthy pay their fair share. Period."</div>
+<h2><a>SpaceX Starlink Launch From Florida Rescheduled Due to Poor Weather</a></h2>
+<div>When the launch takes places, viewers will be able to watch the Falcon 9 lift off before it deploys a batch of 53 Starlink broadband satellites.</div>
+<h2><a>Who's on the International Space Station After Arrival of Crew-3 Astronauts</a></h2>
+<div>With seven people on board, the ISS is now back to its standard capacity following a crew switchover.</div>
+<h2><a>Videos Show SpaceX Crew-3 Launch in Fastest Spaceflight Turnaround Ever</a></h2>
+<div>The launch put four fresh astronauts en route to the International Space Station station to replace the crew that had returned to Earth just days ago.</div>
+<h2><a>SpaceX Crew-2 Re-entry Videos Show Astronauts' Fiery Return to Earth</a></h2>
+<div>The astronauts blazed through Earth's atmosphere aboard a Dragon spacecraft following their six-month mission on the International Space Station.</div>
+<h2><a>Elon Musk's 'Lorde Edge' Twitter Name Change Sparks Questions Over Meaning</a></h2>
+<h2><a>Broken Toilet Will Force Astronauts to Wear Diapers on Their Way Home</a></h2>
+<div>Pools of urine were discovered in the capsule due to a loosened pipe. Despite the break, the capsule is otherwise safe to board and return in.</div>
+<h2><a>Bad Weather, Astronaut's Medical Issue Force Delay of SpaceX Launch</a></h2>
+<div>The U.S.-German crew was supposed to launch into space to the International Space Station last weekend, but inclement weather resulted in the first delay.</div>
+<h2><a>Elon Musk Trolls Jeff Bezos After Losing NASA Lawsuit</a></h2>
+<div>Bezos and Blue Origin first filed the lawsuit against NASA in August, after the space agency chose Musk's SpaceX to develop a Human Landing System to bring astronauts to the moon.</div>
+<h2><a>SpaceX Crew-3 Launch Date Changed Again After Astronaut's 'Medical Issue'</a></h2>
+<div>The mission marks the first ever spaceflight for three of the crew members who will be onboard the ISS-bound Crew Dragon spacecraft.</div>
+<h2><a>Elon Musk's Off-Color Joke About New Texas College Fails To Land</a></h2>
+<h2><a>Shiba Inu Crypto Hits All-Time High Despite Being Snubbed by Elon Musk</a></h2>
+<div>The dog-themed token's community pushed back after the multi-billionaire said he had not invested in it.</div>
+<h2><a>Leaky Toilets on Capsules Proving Troublesome for SpaceX Ahead of Launch</a></h2>
+<div>SpaceX conducted its first private flight into space last month, but a tube in the capsule came unglued and allowed urine to spill onto fans beneath the floor.</div>
+<h2><a>Video Shows SpaceX Raptor Vacuum Engine Firing on Starship</a></h2>
+<div>The firing test of the Starship prototype took place on Thursday night at SpaceX's facility in southern Texas.</div>
+<h2><a>Elon Musk Can Extend Tesla Highway Under Las Vegas</a></h2>
+<div>Musk's Boring Co. won approval for its plan to build a 29-mile tunnel system underneath the Vegas Strip.</div>
+<div><div><div> <header><div><h1>John Feng</h1><div>Contributing Editor, Asia</div></div><div> <a>Twitter</a></div> </header></div></div></div>
+<h2><a>7 Out of 10 in Taiwan Would Fight China To Stop Forced Unification—Poll</a></h2>
+<div>Another general survey this week found only 40.3 percent of respondents were willing to fight or see their family members take up arms against China.</div>
+<h2><a>China Publicly Shames COVID Rule Breakers by Parading Them in Hazmat Suits</a></h2>
+<div>Local prosecutors also charged a pair of suspects with breaching smuggling and public health laws earlier this month.</div>
+<h2><a>Trump Says Biden 'Bowing Down to China' by Not Investigating COVID Origins</a></h2>
+<div>In a year-end newsletter to his supporters, Trump called Biden "a failed president."</div>
+<h2><a>Taiwan Eyes Deeper U.S. Security Ties After Joe Biden Signs Defense Bill</a></h2>
+<div>Taipei said it welcomes pro-Taiwan initiatives in the NDAA and would conduct its own assessment about appropriate areas for cooperation with the U.S.</div>
+<h2><a>Top U.S. Official in Taiwan Says China Military Flights 'Not Acceptable'</a></h2>
+<div>Sandra Oudkirk, director of the American Institute in Taiwan, said the Chinese military air incursions are destabilizing and "run the risk of miscalculation."</div>
+<div>The Japan-based civilian employee tested positive postmortem, the naval base said in a press release on Tuesday.</div>
+<h2><a>Japan Stands Firm Against China As Senior Officials Clash Over Islands</a></h2>
+<div>Top defense officials from Japan and China agreed to establish a hotline for crisis management in 2022.</div>
+<h2><a>China Complains Space Station Was Forced to Dodge Elon Musk's Satellites</a></h2>
+<div>China classed both incidents as constituting "dangers to the life or health of astronauts aboard the China Space Station."</div>
+<h2><a>Biggest Box Office Movie of 2021 Is Chinese Film About U.S. Military Defeat</a></h2>
+<div>'The Battle at Lake Changjin' has made more money at the global box office than blockbusters like 'Spider-Man: No Way Home.'</div>
+<h2><a>Sculptor of Tiananmen Square Massacre Statue Threatens Lawsuit Over Removal</a></h2>
+<div>The sculpture, by Danish artist Jens Galschiøt, was erected in Hong Kong in 1997. It was pulled down under a shroud of secrecy on Thursday.</div>
+<h2><a>Intel Apologizes for Xinjiang Boycott After China Backlash</a></h2>
+<div>Chinese state media criticized Intel this week before the American chipmaker issued an apology on Thursday.</div>
+<h2><a>China Says Stop Worrying About Tibet As U.S. Appoints New Official</a></h2>
+<div>Beijing decried what it considers foreign interference this week as the State Department appointed career diplomat Uzra Zeya to the role of Tibet coordinator.</div>
+<h2><a>China Puts Entire City of 13 Million Under Lockdown Amid COVID Surge</a></h2>
+<div>The Chinese province of Shaanxi has reported a growing cluster of 149 cases in the past two weeks.</div>
+<h2><a>China Sent Nearly 1,000 Military Aircraft Near Taiwan in 2021: Taipei</a></h2>
+<div>Chinese air force operations in the international airspace around the island have nearly tripled from the same period last year.</div>
+<h2><a>'Racism' at Heart of U.S. Policy Toward China, Former Ambassador Says</a></h2>
+<div>Cui Tiankai, China's long-serving former envoy in Washington, D.C., said the United States won't accept the rise of a great power belonging to another race.</div>
+<h2><a>China Says It Does Not Fear Confrontation With the United States</a></h2>
+<div>Chinese Foreign Minister Wang Yi pinned the blame for difficult U.S.-China relations squarely on "strategic misjudgment" in Washington.</div>

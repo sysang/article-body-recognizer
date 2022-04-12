@@ -1,0 +1,500 @@
+<p>Almost all of this laborious deciphering needs to be done by hand, not by machine: The documents can be quirky and unpredictable, featuring sometimes complex notations and symbols. </p>
+<div> <div> <p>Time</p> </div> <div> <p>Date</p> </div> <div> <p>Observations</p> </div> <div> <p>Coordinates</p> </div> </div>
+<div> <div> <p>Hour</p> </div> <div> <p>Wind</p> </div> <div> <p>Air temperature</p> </div> </div>
+<div> <div> <p>Air temperature</p> </div> <div> <p>Hour</p> </div> <div> <p>Wind</p> </div> </div>
+<div> <div> <p><b>The logbook kept by Capt. William Bligh of HMS Bounty</b> shows how crews meticulously recorded meteorological observations in the late 1700s at sea. The numbers on these pages have not made their way into a database.</p> </div> </div>
+<p>Although logbooks were not in a standard format, <b>they typically had a date, a time, temperature, wind, barometric pressure — and longitude and latitude</b>. So we know exactly where the observation was recorded in space and time.</p>
+<b>“very squally and dark gloomy” and “cloudy with a fresh gale.”</b> One week later came mutiny on the Bounty, and the captain and his loyalists were set adrift at sea — but not before he grabbed his logbook.
+<div> <div> <p><b>Temperatures were recorded about every four hours</b>, standard for Royal Navy logs. The temperature, noted in Fahrenheit, stayed consistently around 80 degrees.</p> </div> </div>
+<div> <div> <p>The coordinates at the bottom of the page <b>locate the ship</b> near Tonga, a small archipelago about two-thirds of the way from Hawaii to New Zealand.</p> </div> </div>
+<p> To rescue these records, researchers have used the sophisticated searchability of this era’s Internet to recruit volunteers passionate about the weather, as well as an earlier era’s efforts to measure and forecast it.</p>
+<a>Southern Weather Discovery</a> and
+<p>What has persisted over centuries, from seafarers to meteorologists, is a stringent requirement for precision that often reveals with dismaying clarity the disasters of weather and climate. </p>
+<p>Few places exemplify this as vividly as Sonnblick, where devotion to pristine record-keeping has been a source of pride for generations, and where the very mountain is melting beneath it. </p>
+<div> <div> <h2><a>John Muyskens</a></h2> <p>John Muyskens is a graphics editor at the Washington Post specializing in data reporting. </p> </div> </div>
+<div> <h2><a>Aaron Steckelberg</a></h2> <p>Aaron Steckelberg is a senior graphics editor who creates maps, charts and diagrams that provide greater depth and context to stories over a wide range of topics. He has worked at the Post since 2016. </p> </div>
+<div> <div> <h2><a>Monica Ulmanu</a></h2> <p>Monica Ulmanu is an assignment editor for the Washington Post. She joined The Post in 2018 from the Guardian newsroom in London. </p> </div> </div>
+<div> <div> <h2><a>Ann Gerhart</a></h2> <p>Ann Gerhart, senior editor at large, collaborates with journalists in video, photography and graphics to produce digital enterprise and to create new story forms. </p> </div> </div>
+<a>International Comprehensive Ocean-Atmosphere Data Set</a>
+<div> <div> <div>Share</div> </div> </div>
+<h5> Lives adrift in a rapidly warming world: A photographic portrait </h5>
+<p> Climate change may seem like a distant danger to many, but around the globe, people are seeing its full, transformative impact. From Alaska to Angola, Qatar to Colorado and more, Post photographers share their stories of a growing crisis. </p>
+<h5> <a> Gone in a generation: Across America, climate change is already disrupting lives. </a> </h5>
+<p> The continental United States is 1.8 degrees Fahrenheit warmer than it was a century ago. Seas around the coasts are nine inches higher. Damage is mounting because of these fundamental changes, and Americans are living it. </p>
+<div> <p>Most Read</p> <div> <p>Follow Post Graphics</p> </div> </div>
+<header><div><div><div>INVISIBLE</div></div></div><h1>Countries’ climate pledges built on flawed data, Post investigation finds</h1></header>
+<div><span><div>Anu Narayanswamy</div> and </span></div>
+<div><span><div>Naema Ahmed</div></span></div>
+<p>The surprising claim has allowed the country to subtract over <mark>243 million tons</mark> of carbon dioxide from its 2016 inventory — slashing 73 percent of emissions from its bottom line.</p>
+<mark>8.5 billion</mark> to as high as
+<mark>13.3 billion tons</mark> a year of underreported emissions — big enough to move the needle on how much the Earth will warm.
+<p>The plan to save the world from the worst of climate change is built on data. But the data the world is relying on is inaccurate.</p>
+<p>At the low end, the gap is larger than the yearly emissions of the United States. At the high end, it approaches the emissions of China and comprises 23 percent of humanity’s total contribution to the planet’s warming, The Post found.</p>
+<p>That means the challenge is even larger than world leaders have acknowledged.</p>
+<p>[Measuring the Invisible: How The Post did its global emissions analysis]</p>
+<b> </b>action, as opposed to claiming
+<b> </b>natural forest regrowth unrelated to national policies.
+<p>And some of this carbon absorption isn’t even happening — or at least not on the scale that countries assert.</p>
+<mark>81 million tons</mark>, less than those of the small European nation of Belgium.
+<b> </b> 57 million and 76 million tons more of human-caused methane emissions hitting the atmosphere than U.N. country reports do. That converts to between 1.6 billion and 2.1 billion tons of carbon dioxide-equivalent emissions.
+<b> </b>landfills are a major source.
+<p>President Biden told delegates meeting in Glasgow that cutting methane emissions is essential to limit global warming to 1.5 degrees Celsius (2.7 degrees Fahrenheit).</p>
+<p>“One of the most important things we can do in this decisive decade — to keep 1.5 degrees in reach — is reduce our methane emissions as quickly as possible,” Biden said.</p>
+<p>[Russia allows methane leaks at planet’s peril]</p>
+<p>A reporting system riddled with flaws and undercounting of emissions</p>
+<b> </b>Developing nations are not required to report their emissions annually to the United Nations, leaving holes in the database.
+<div><div><div><p>China, for example, the world’s top emitter, only submitted reports in five years, the most recent in 2014.</p></div></div></div>
+<div><div><div><p>When we looked at the most recent year of reporting to the United Nations for all 196 countries, we found that only 45 of them, almost all developed, reported in 2019, the last available year for country reports.</p></div></div></div>
+<b> </b>largest emitters, has not filed an inventory since 2010; Qatar, a large natural gas producer, last revealed its emissions in 2007; and Algeria, a major oil and gas producer, in 2000.
+<div><div><div><p>To bring these old reports to date, The Post created a model to predict what the 148 countries that don’t have a 2019 report would have likely reported that year.</p></div></div></div>
+<div><div><div><p>When we add the reported and predicted 2019 numbers for all countries, the total greenhouse gas emissions amount to 44.2 billion tons.</p></div></div></div>
+<b> </b>8.5 billion to 13.3 billion tons of greenhouse gas emissions. This excludes more than 1 billion tons of emissions from international air travel and shipping, for which no country takes responsibility.
+<h3><b>At the verge of the abyss</b></h3>
+<p>The emissions reports are so unwieldy that the United Nations does not have a complete database to track country emissions. Some 45 countries have not reported any new greenhouse gas numbers since 2009.</p>
+<b> </b>from megafires, which have
+<a>worsened<b> </b>due to climate change</a>, from its annual totals. A study by Ciais and his colleagues found that the country also underreported
+<b> </b>its 2016 emissions of nitrous oxide gas, a powerful warming agent that principally comes from farming, by a factor of four to seven.
+<p>Drawing on emissions data from the Food and Agriculture Organization, The Post found a similar gap: three times as much nitrous oxide as Australia’s reports to the United Nations.</p>
+<p>Climate negotiators have known for decades that this data-gathering process is flawed, but instead they have focused on persuading global leaders to engage in serious talks and take real steps to rein in emissions.</p>
+<b> </b>co-chaired negotiations for the Paris agreement. “If you want to think about strengthening the whole process, the whole climate process, this is a very, very fertile area to explore.”
+<p>In a recent interview, U.N. Secretary General António Guterres said he hoped nations would recognize the implications of their actions.</p>
+<p>“There is a growing consciousness that we are really at the verge of the abyss,” he said. “And when you are at the verge of the abyss, you need to be very careful about your next step.”</p>
+<p>In the spring of 2020, the lockdown sent carbon dioxide emissions plummeting — along with oil prices. Ciais realized it was a unique moment to study country emissions.</p>
+<p>Ciais started adding together U.N. emissions reports and comparing them with satellite and atmospheric measurements of forest growth, methane and nitrous oxide emissions from the world’s largest emitters.</p>
+<p>He expected a gap and wondered what it would look like. But when he saw what instead was a chasm, he instantly realized the implication for the politics of the Paris agreement.</p>
+<p>“It's already hard to make sense of the pledges,” he said. “If the baseline is underreported, the percentage of emission reductions that you get will be flawed.”</p>
+<p>Ciais’s 2021 study, conducted with Zhu Deng of Tsinghua University in Beijing and 31 other researchers, is still undergoing peer review, but it, along with his data set, is publicly available.</p>
+<p>In one of the most striking cases, Ciais’s study found that methane leakage from fossil fuel operations in the oil states of the Persian Gulf could be as much as seven times more than what they officially report.</p>
+<b> </b>when forests are chopped down or lost to fire, peatlands are drained, or
+<b> </b>excess fertilizer is spread on agricultural fields.
+<p>But those counts easily can be wrong, and so can the emissions factors. When that happens, emissions reporting becomes little more than guesswork, a case of “garbage in, garbage out.”</p>
+<h3><b>Basements and ballrooms</b></h3>
+<p>Malaysia’s skewed data vividly illustrates the high stakes countries face as they confront the growing pressure to reduce emissions while managing the very real economic consequences that process triggers.</p>
+<p>Jenny Goldstein, then a new faculty member at Cornell University, walked into the five-star Pullman Kuching Hotel and found herself in the midst of a propaganda war to make the controversial oil palm industry look good.</p>
+<p>Out of curiosity, Goldstein ventured upstairs.</p>
+<p>When peatland is drained, it releases a rapid pulse of carbon dioxide and other greenhouse gases as the once-waterlogged plants’ remains degrade with the sudden exposure to air. Emissions then continue for decades, until all the peat is gone.</p>
+<p>The conference was a historic occasion, held in the tropics for the first time in its 62-year history, and hosted by the Malaysian Peat Society with the Sarawak government’s support.</p>
+<p>Melling said in an interview with The Post that other peat scientists, who have studied peat in other parts of the world, don’t understand the unique qualities of the peat in her region.</p>
+<p>“It’s like comparing cheesecake with Swiss cheese,” she said.</p>
+<p>“I single handedly, backed by my small laboratory, pioneered and published the groundbreaking research work on peat use and [greenhouse gas] emission to rebut the maligned western detractors on the use of peat as arable land,” she said.</p>
+<p>Melling’s pro-industry stance took scientists at the conference by surprise, Goldstein said, as did her use of vulgar language in public remarks.</p>
+<p>Melling has said she uses suggestive language to make her science memorable.</p>
+<p>“I first dabbled with humour to get my point across in 2007, when I organised a soil science seminar entitled, Big hole, small hole KY Jelly,” she said in an April 2016 interview with TTG Associations, an Asian Pacific trade group.</p>
+<p>In response, 139 scientists — including Goldstein — objected to the articles, noting an abundance of peer-reviewed studies on peatland emissions. The letter was published by scientific journal Global Change Biology.</p>
+<p>“The oil palm industry is basically an arm of the government,” Goldstein said.</p>
+<p>Nicholas Mujah Ason has seen both the cause and the effect of global warming: the sea of oil palm plantations surrounding him and the rainforest that never cools.</p>
+<p>Mujah, who has lived in the state of Sarawak most of his life, has been fighting the development since the early 1980s, when he was first jailed for protesting the encroachment of loggers.</p>
+<p>“It's not that we hate palm oil,” he said. “We hate how palm oil has been planted into our land.”</p>
+<p>His family has lived deep in the rainforest for eight generations, and the 62-year-old has been involved in multiple legal actions as the secretary general of the Sarawak Dayak Iban Association, an Indigenous rights group.</p>
+<p>“It’s not like a normal heat that we faced before,” he said. “You’ll feel the biting heat, and your skin will be burned.”</p>
+<p>Malaysia’s government has downplayed the palm oil industry’s climate impact across several categories in its U.N. reports.</p>
+<p>In 2016, Malaysia claimed that it had not converted a single acre to cropland.</p>
+<p>“This is patently untrue,” said Susan Page, an expert on peatlands at the University of Leicester<b> </b>who also signed the letter objecting to presentations at the 2016 International Peat Congress.</p>
+<div><div><div><div><p>(Planet Labs)</p></div><div><p>(Planet Labs)</p></div><div><p>(Planet Labs)</p></div></div></div></div>
+<div><div><p>Malaysia reported that not a single acre of land had been converted to cropland in 2016. This satellite image shows an existing oil palm plantation in the Sebauh district of Sarawak, Malaysia, on May 28, 2015.</p>(Planet Labs)</div></div>
+<div><div><p>In a study funded by the Malaysian government, scientists documented the expansion of a palm plantation in 2016, shown here.</p>(Planet Labs)</div></div>
+<div><div><p>By 2021, satellite images show additional forest clearance. </p>(Planet Labs)</div></div>
+<p>And then comes the biggest problem of all.</p>
+<p>Malaysia claims an annual forest carbon sink of over <mark>243 million tons</mark> from just about 68,000 square miles of forested area. That‘s not far from what neighboring Indonesia claims for a forest more than five times its size.</p>
+<p>The Malaysian government said its reports comply with U.N. guidelines and are subject to rigorous review but did not respond to detailed questions about the country’s land sector reporting.</p>
+<p>“It’s not surprising to me that governments are trying to hide pollution,” Hurowitz said, “but it’s shameful they’re getting away with it.”</p>
+<h3><b>Tolerating disarray</b></h3>
+<p>Jackson believes that the atmosphere is the ultimate check on what countries report — and what they pledge. The gap in the data is an urgent problem.</p>
+<p>Earlier this year, the United Nations published a “synthesis report,” which forecasts the effect of countries’ climate promises on future emissions and the planet’s temperature.</p>
+<b> </b>The United Nations declined to provide its data set to support the number, but did explain a number of steps by which countries numbers’ had been adjusted.
+<p>“It is surprising to see that the authors of the U.N. report did not use the original data reported by each country,” said Ciais, who also contributes to the Global Carbon Project.</p>
+<p>Saier, the UNFCCC spokesman, defended the approach in an email, saying that “there is indeed a small upscaling.”</p>
+<p>In a sense, the UNFCCC adjusted the country numbers to match what science says is being emitted: It closed the gap that The Post found.</p>
+<p>From a political perspective, there may not be any other option. Without requiring satellite or atmospheric measurements, richer and poorer countries alike are likely to underreport for years to come.</p>
+<p>After all, in the end there is no way to make the Paris agreement, emissions cuts or accurate emissions reports mandatory. Every country reports what it reports and promises what it promises.</p>
+<p>“I think that’s part of the reason this is all tolerated, is the sense that, at least the countries are providing something and participating and thinking about it,” said Jackson.</p>
+<p>“That’s why people tolerate this disarray, because the alternative is for them to walk away.”</p>
+<p>But Jackson is an optimist.</p>
+<p>“I believe information is powerful. Data and information have not nudged the climate world as quickly as I wished it had,” he said. “But I’m still naively hoping to leave the world better for my kids than I found it.”</p>
+<p><i>Brady Dennis, Nick Trombola, Taylor Telford and Caroline Cliona Boyle contributed to this report.</i></p>
+<p>Read how The Post did its global emissions analysis.</p>
+<div><div>Emissions calculator</div></div>
+<div><div>Over the next 100 years...</div></div>
+<div><div><div><h3> of </h3></div></div><h5>would have the same warming impact as the annual greenhouse gas emissions from ... </h5><div><div><h3>NaNundefined cars.</h3></div></div></div>
+<h5>There were 251 million passenger vehicles registered in the U.S. in 2018.</h5>
+<h5>Clarification: A previous version of this calculator referred to a car's annual carbon dioxide emissions, when it should have referred to all greenhouse gas emissions, which are 99.3% carbon dioxide.</h5>
+<div><div><div><div>John MuyskensFollow</div>John Muyskens is a graphics editor at the Washington Post specializing in data reporting.</div></div></div>
+<div><div>The Climate 202<div><div>Analysis</div><div>Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events</div></div></div></div>
+<div><h1>Five big takeaways from COP26</h1></div>
+<div><div><div><span><div><span><div><div>By Maxine Joselow</div></div></span></div></span></div></div><div>November 15, 2021 at 7:45 a.m. EST</div></div>
+<p>Good morning! We're back in Washington after two weeks in Glasgow, Scotland, covering COP26, the United Nations climate conference. We regret that we didn't bring back any whisky or Irn-Bru, the second national drink of Scotland. But first:</p>
+<div><div><h4><div>Five major takeaways from the U.N. climate talks in Glasgow</div></h4></div></div>
+<div><div><p>After two weeks of intense deliberations, diplomats from nearly 200 countries reached a final deal Saturday evening to work together to stave off the worst effects of climate change for current and future generations. </p></div></div>
+<p>As soon as the agreement was announced, a variety of hot takes started flooding our Twitter feed. Youth climate activists including Greta Thunberg slammed the deal, while some delegates from vulnerable countries defended it as “real progress."</p>
+<div><div><p>It can be difficult to sort through these takes and figure out what, exactly, was included in the “Glasgow Climate Pact.” Here are our major takeaways from two weeks of tracking the negotiations:</p></div></div>
+<div><div><p>1. Weakened fossil fuel language made the cut</p></div></div>
+<li>And on Saturday, China and India successfully pushed for another last-minute change to the crucial phrase, saying they would agree only to “phase-down unabated coal,” rather than “phase out."</li>
+<div><div><p>2. The deal doesn't include a fund for loss and damage</p></div></div>
+<div><div><p>“In Glasgow, the needs of the world's vulnerable people have been sacrificed on the altar of the rich world's selfishness," <a>tweeted</a> Mohamed Adow, director of the think tank Power Shift Africa. </p></div></div>
+<div><div><p>3. The deal keeps the 1.5-degree target alive — sort of</p></div></div>
+<div><div><p>"Today we can say with credibility that we have kept 1.5 degrees within reach, but its pulse is weak," COP26 President Alok Sharma said Saturday. "It will only survive if we keep our promises."</p></div></div>
+<div><div><p>4. The timeline for climate action was accelerated</p></div></div>
+<div><div><p>Tina Stege, climate envoy for the Marshall Islands, one of the countries most vulnerable to sea-level rise, <a>called</a> the faster timeline a “priority that didn't always seem possible."</p></div></div>
+<div><div><p>5. Young people had a big presence at COP26</p></div></div>
+<a>More than 100,000 young people marched</a> in the streets of Glasgow last weekend to demand climate action. Their presence was palpable inside the conference venue, where even former president Barack Obama
+<a>urged the youth to “stay angry”</a> about inaction on global warming.
+<a>cracked down on peaceful dissent</a>.
+<div><div><p>“It's hard for me to imagine Egyptian officials being comfortable with the massive, freewheeling street protests that we saw in Glasgow,” Dunn said.</p></div></div>
+<div><p><i>In tomorrow's edition of The Climate 202, we'll delve into expectations for COP27 in greater detail. </i>In the meantime, check out this helpful <a>annotated version of the Glasgow Climate Pact</a> from our Washington Post colleagues.</p></div>
+<div><div><h3><div>More on COP26</div></h3></div></div>
+<div><div><h4><div>Many world leaders and activists are disappointed with the climate deal</div></h4></div></div>
+<div><div><p>Many world leaders expressed disappointment with the final agreement, saying it is not enough to stop catastrophic warming, <a>The Post's Steven Mufson and Annabelle Timsit report</a>.</p></div></div>
+<div><div><p>European Commission President Ursula von der Leyen said that while some progress had been made, it remained to be seen how the commitments would be implemented. "The work is far from done,” she said.</p></div></div>
+<div><div><p>Many delegates and advocates were also frustrated that wealthy countries did not commit to fulfilling a long-overdue promise to provide $100 annually to help poor nations most vulnerable to climate change.</p></div></div>
+<div><div><h4><div>The United States reclaimed a leading role at COP26</div></h4></div></div>
+<div><div><p>"Delegates from around the world have praised the United States and condemned the United States, but one thing they could not do was ignore the United States,” <a>Steven and The Post's Michael Birnbaum write.</a></p></div></div>
+<div><div><h4><div>Panama channeled a warning from young people at the climate summit</div></h4></div></div>
+<div><div><p>Panama, which claimed to have the youngest delegation at COP26, became a voice for young people around the world, <a>The Post’s Dan Zak reports</a>.</p></div></div>
+<div><div><p>When youth activists were desperate to send a message to the conference, even though they lacked the status of a nation-state, they turned to Panama. </p></div></div>
+<div><div><p>Panama’s deputy lead negotiator, Mari Helena Castillo Mariscal, 25, delivered a rousing speech at Thursday’s plenary “on behalf," she said, "of over 11,500 youth from more than 129 nations.” </p></div></div>
+<div><div><p>“You say your actions are ‘ambitious,’ but your ambitions keep us on track to a fatal 2.4 degrees of warming,” Castillo told world leaders.</p></div></div>
+<div><div><h3><div>Agency alert</div></h3></div></div>
+<div><div><h4><div>The Biden administration proposed a 20-year ban on drilling in Chaco Canyon</div></h4></div></div>
+<div><p>The administration is directing the Bureau of Land Management to consider a ban on oil and gas drilling within a 10-mile radius around Chaco Culture National Historical Park, <a>The Post’s Joshua Partlow and Darryl Fears report</a>.</p></div>
+<div><div><h3><div>Extreme events</div></h3></div></div>
+<div><div><h4><div>Extreme weather was rampant during COP26</div></h4></div></div>
+<div><div><p>As world leaders made pledges and delegates negotiated the intricacies of a climate agreement, their constituents at home were dealing with heat, floods and other extreme weather, <a>The Post's Kasha Patel reports</a>.</p></div></div>
+<div><div><h3><div>Viral</div></h3></div></div>
+<header><div><div><h1>The Glasgow climate pact, annotated</h1></div></div></header>
+<div><div><div><div><div><span><div><span><div><div>By Washington Post Staff</div></div></span></div></span></div></div></div><div>Nov. 13, 2021</div></div></div>
+<p>After two weeks of talks in Glasgow, diplomats from almost 200 countries have agreed to ramp up their carbon-cutting commitments, phase out some fossil fuels and increase aid to poor countries on the front lines of climate change.</p>
+<p>[<a>At COP26, nations speed climate action but leave world still headed for dangerous warming</a>]</p>
+<p>The agreement will not put the world on track to avoid catastrophic warming beyond 1.5 degrees Celsius (2.7 degrees Fahrenheit). But officials said it represents a significant step on a path to a safer future.</p>
+<p><i>The Conference of the Parties serving as the meeting of the Parties to the Paris Agreement</i>,</p>
+<p><i>Recalling </i><mark>Article 2 of the Paris Agreement<sup>1</sup></mark>,</p>
+<p><i>Also recalling </i>decisions 3/CMA.1 and 1/CMA.2, <i>Noting </i>decision -/CP.26,</p>
+<p><i>Recognizing </i>the role of multilateralism in addressing climate change and promoting regional and international cooperation in order to strengthen climate action in the context of sustainable development and efforts to eradicate poverty,</p>
+<mark>the devastating impacts of the coronavirus disease 2019 pandemic<sup>2</sup></mark> and the importance of ensuring a sustainable, resilient and inclusive global recovery, showing solidarity particularly with developing country Parties,
+<i>Noting </i>the importance of ensuring the integrity of all ecosystems, including in forests, the ocean and the cryosphere, and the protection of biodiversity, recognized by some cultures as Mother Earth, and
+<i>also noting </i>the importance
+<mark>for some of the concept of ‘climate justice’<sup>3</sup></mark>, when taking action to address climate change,
+<i>Recognizing </i>the important role of indigenous peoples, local communities and civil society, including youth and children, in addressing and responding to climate change, and
+<i>highlighting </i>the urgent need for multilevel and cooperative action,
+<p>1. <i>Recognizes </i>the importance of the best available science for effective climate action and policymaking;</p>
+<i>Welcomes </i>the contribution of Working Group I to
+<mark>the Intergovernmental Panel on Climate Change Sixth Assessment Report and the recent global and regional reports on the state of the climate from the World Meteorological Organization<sup>4</sup></mark>, and
+<i>invites </i>the Intergovernmental Panel on Climate Change to present its forthcoming reports to the Subsidiary Body for Scientific and Technological Advice in 2022;
+<i>Expresses alarm and utmost concern </i>that human activities have caused around 1.1°C of warming to date, that impacts are already being felt in every region, and that
+<mark>carbon budgets consistent with achieving the Paris Agreement temperature goal are now small and being rapidly depleted<sup>5</sup></mark>;
+<p>5. <i>Stresses </i>the urgency of enhancing ambition and action in relation to mitigation, adaptation and finance in this critical decade to address the gaps in the implementation of the goals of the Paris Agreement;</p>
+<p>8. <i>Welcomes </i>the adaptation communications and national adaptation plans submitted to date, which enhance the understanding and implementation of adaptation actions and priorities;</p>
+<p><i>9. Urges </i>Parties to further <mark>integrate adaptation into local, national and regional planning<sup>6</sup></mark>;</p>
+<i>Recognizes </i>the importance of the global goal on adaptation for the effective implementation of the Paris Agreement, and
+<i>welcomes </i>the launch of the comprehensive two-year Glasgow-Sharm el-Sheikh work programme on the global goal on adaptation;
+<p>12. <i>Notes </i>that the implementation of the Glasgow-Sharm el-Sheikh work programme will start immediately after the third session of the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement;</p>
+<i>calls upon </i>the research community to further the understanding of global, regional and local impacts of climate change, response options and adaptation needs;
+<h4>III. Adaptation finance</h4>
+<p>14. <i>Notes with concern </i>that <mark>the current provision of climate finance for adaptation<sup>7</sup></mark> remains insufficient to respond to worsening climate change impacts in developing country Parties;</p>
+<p><sup>7</sup> As climate disasters intensify and the prospects for avoiding even more catastrophic warming grow dim, U.N. experts say the world must spend five to 10 times more helping vulnerable people adapt to inevitable environmental upheaval.</p>
+<i>Recognizes </i>the importance of the adequacy and predictability of adaptation finance, including the value of the Adaptation Fund in delivering dedicated support for adaptation, and
+<i>invites </i>developed country Parties to consider multi-annual pledges;
+<i>Urges </i>developed country Parties to
+<div><p><sup>8</sup> Getting this increased financial commitment was a key COP26 goal for many developing countries. They also successfully pushed for far more to be spent on adaption rather than on initiatives that avoid future emissions.</p></div>
+<mark>multilateral development banks, other financial institutions and the private sector to enhance finance mobilization<sup>9</sup></mark> in order to deliver the scale of resources needed to achieve climate plans, particularly for adaptation, and
+<i>encourages </i>Parties to continue to explore innovative approaches and instruments for mobilizing finance for adaptation from private sources;
+<i>Reaffirms </i>the Paris Agreement temperature goal of holding the increase in the global average temperature to well below 2°C above pre-industrial levels and pursuing efforts to limit the temperature increase to
+<mark>1.5°C above pre-industrial levels<sup>10</sup></mark>;
+<i>Recognizes </i>that the impacts of climate change will be much lower at the temperature increase of
+<mark>1.5°C compared with 2°C<sup>11</sup></mark> and
+<i>resolves </i>to pursue efforts to limit the temperature increase to 1.5°C;
+<i>Notes with serious concern </i>the findings of the synthesis
+<i>Emphasizes </i>the urgent need for Parties to increase their efforts to collectively reduce emissions through accelerated action and implementation of domestic mitigation measures in accordance with Article 4, paragraph 2, of the Paris Agreement;
+<i>Decides </i>to establish a work programme to urgently scale up
+<mark>mitigation ambition<sup>12</sup></mark> and implementation in this critical decade, and
+<i>Recalls </i>Article 3 and Article 4, paragraphs 3, 4, 5 and 11, of the Paris Agreement and
+<i>requests </i>Parties to revisit and strengthen the 2030 targets in their nationally determined contributions as necessary to
+<mark>align with the Paris Agreement temperature goal by the end of 2022<sup>13</sup></mark>, taking into account different national circumstances;
+<p>31. <i>Decides </i>to convene an annual high-level ministerial round table on pre-2030 ambition, beginning at the fourth session of the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement;</p>
+<p>33. <i>Invites </i>Parties to update the strategies referred to in paragraph 32 above regularly, as appropriate, in line with the best available science;</p>
+<p>35. <i>Notes </i>the importance of aligning nationally determined contributions with long-term low greenhouse gas emission development strategies;</p>
+<mark>accelerating efforts towards the phase-down of unabated coal power and inefficient fossil fuel subsidies, recognizing the need for support towards a just transition<sup>14</sup></mark>;
+<p>37. <i>Invites </i>Parties to consider further actions to reduce by 2030 non-carbon dioxide greenhouse gas emissions, including methane;</p>
+<p>39. <i>Recognizes </i>that enhanced support for developing country Parties will allow for higher ambition in their actions;</p>
+<h4>V. Finance, technology transfer and capacity-building for mitigation and adaptation</h4>
+<i>encourages </i>other Parties to provide or continue to provide such support voluntarily;
+<p>41. <i>Notes with concern </i>the growing needs of developing country Parties, in particular due to the increasing impacts of climate change and increased indebtedness as a consequence of the coronavirus disease 2019 pandemic;</p>
+<i>Emphasizes </i>the need to mobilize climate finance from all sources to reach the level needed to achieve the goals of the Paris Agreement, including significantly increasing support for developing country Parties, beyond USD 100 billion per year;
+<i>Notes with deep regret </i>that
+<mark>the goal of developed country Parties to mobilize jointly USD 100 billion per year by 2020 in the context of meaningful mitigation actions and transparency on implementation has not yet been met<sup>15</sup></mark>, and
+<i>welcomes </i>the increased pledges made by many developed country Parties and the
+<a><i>Climate Finance Delivery Plan: Meeting the US$100 Billion Goal</i></a> and the collective actions contained therein;
+<p>45. <i>Calls upon </i>developed country Parties to provide greater clarity on their pledges referred to in paragraph 44 above through their next biennial communications under Article 9, paragraph 5, of the Paris Agreement;</p>
+<p>46. <i>Urges </i>developed country Parties to fully deliver on the USD 100 billion goal urgently and through to 2025 and <i>emphasizes </i>the importance of transparency in the implementation of their pledges;</p>
+<i>Urges </i>the operating entities of the Financial Mechanism, multilateral development banks and other financial institutions to further scale up investments in climate action and
+<i>calls for </i>a continued increase in the scale and effectiveness of climate finance from all sources globally, including grants and other highly concessional forms of finance;
+<i>Re-emphasizes </i>the need for scaled-up financial resources to take into account the needs of those countries particularly vulnerable to the adverse effects of climate change, and in this regard
+<i>encourages </i>relevant multilateral institutions to consider how climate vulnerabilities should be reflected in the provision and mobilization of concessional financial resources and other forms of support, including special drawing rights;
+<i>Welcomes with appreciation </i>the initiation of deliberations on a new collective quantified goal on climate finance, and
+<i>looks forward </i>to the ad hoc work programme established under decision -/CMA.3 and to engaging constructively in the actions contained therein;
+<p>51. <i>Emphasizes </i>the challenges faced by many developing country Parties in accessing finance and <i>encourages </i>further efforts to enhance access to finance, including by the operating entities of the Financial Mechanism;</p>
+<i>Notes </i>the specific concerns raised with regard to eligibility and ability to access concessional forms of climate finance, and
+<i>re-emphasizes </i>the importance of the provision of scaled-up financial resources, taking into account the needs of developing country Parties that are particularly vulnerable to the adverse effects of climate change;
+<p>55. <i>Calls upon </i>developed country Parties, multilateral development banks and other financial institutions to accelerate the alignment of their financing activities with the goals of the Paris Agreement;</p>
+<p>56. <i>Acknowledges </i>the progress made on capacity-building, particularly in relation to enhancing the coherence and coordination of capacity-building activities towards the implementation of the Convention and the Paris Agreement;</p>
+<p>57. <i>Recognizes </i>the need to continue supporting developing country Parties in identifying and addressing both current and emerging capacity-building gaps and needs, and to catalyse climate action and solutions to respond;</p>
+<p>58. <i>Welcomes </i>the outcomes of the “COP26 Catalyst for Climate Action” and the strong commitments made by many Parties to take forward action on capacity-building;</p>
+<p>59. <i>Also welcomes </i>the joint annual reports of the Technology Executive Committee and the Climate Technology Centre and Network for 2020 and 2021, and <i>invites </i>the two bodies to strengthen their collaboration;</p>
+<i>Acknowledges </i>that climate change has already caused and will increasingly cause
+<mark>loss and damage<sup>16</sup></mark> and that, as temperatures rise, impacts from climate and weather extremes, as well as slow onset events, will pose an ever-greater social, economic and environmental threat;
+<i>Reiterates </i>the urgency of scaling up action and support, as appropriate, including finance, technology transfer and capacity-building, for implementing approaches for averting,
+<mark>minimizing and addressing loss and damage associated with the adverse effects of climate change in developing country Parties<sup>17</sup></mark> that are particularly vulnerable to these effects;
+<p>65. <i>Recognizes </i>the importance of demand-driven technical assistance in building capacity to implement approaches to averting, minimizing and addressing loss and damage associated with the adverse effects of climate change;</p>
+<p>68. <i>Also decides </i>that the modalities for the management of funds provided for technical assistance under the Santiago network and the terms for their disbursement shall be determined by the process set out in paragraph 10 of decision -/CMA.3;</p>
+<p>69. <i>Further decides </i>that the body providing secretarial services to facilitate work under the Santiago network to be determined in accordance with paragraph 10 of decision -/CMA.3 will administer the funds referred to in paragraph 67 above;</p>
+<p>70. <i>Urges </i>developed country Parties to provide funds for the operation of the Santiago network and for the provision of technical assistance as set out in paragraph 67 above;</p>
+<p>71. <i>Acknowledges </i>the importance of coherent action to respond to the scale of needs caused by the adverse impacts of climate change;</p>
+<p>74. <i>Requests </i>the Subsidiary Body for Implementation to organize the Glasgow Dialogue in cooperation with the Executive Committee of the Warsaw International Mechanism for Loss and Damage associated with Climate Change Impacts;</p>
+<p><i>75. Resolves </i>to move swiftly with the full implementation of the Paris Agreement;</p>
+<i>76. Welcomes </i>the start of the global stocktake, and
+<i>expresses its determination </i>for the process to be comprehensive, inclusive and consistent with Article 14 of the Paris Agreement and decision 19/CMA.1, in the light of paragraph 5 above;
+<p>77. <i>Encourages </i>the high-level champions to support the effective participation of non-Party stakeholders in the global stocktake;</p>
+<p>78. <i>Recalls </i><mark>the Katowice climate package, and <i>welcomes with appreciation </i>the completion of the Paris Agreement work programme<sup>20</sup></mark>, including the adoption of decisions on the following:</p>
+<p>(a) Common time frames for nationally determined contributions referred to in Article 4, paragraph 10, of the Paris Agreement (decision -/CMA.3);</p>
+<p>(b) Methodological issues relating to the enhanced transparency framework for action and support referred to in Article 13 of the Paris Agreement (decision -/CMA.3);</p>
+<p>(c) Modalities and procedures for the operation and use of a public registry referred to in Article 4, paragraph 12, of the Paris Agreement (decision -/CMA.3);</p>
+<p>(d) Modalities and procedures for the operation and use of a public registry referred to in Article 7, paragraph 12, of the Paris Agreement (decision -/CMA.3);</p>
+<p>(e) Guidance on cooperative approaches referred to in Article 6, paragraph 2, of the Paris Agreement (decision -/CMA.3);</p>
+<p>(f) Rules, modalities and procedures for the mechanism established by Article 6, paragraph 4, of the Paris Agreement (decision -/CMA.3);</p>
+<p>(g) Work programme under the framework for non-market approaches referred to in Article 6, paragraph 8, of the Paris Agreement (decision -/CMA.3);</p>
+<p>79. <i>Urges </i>Parties to swiftly make the necessary preparations for ensuring timely reporting under the enhanced transparency framework in line with Article 13 of the Paris Agreement and the timelines set out in decision 18/CMA.1;</p>
+<p>80. <i>Acknowledges </i>the call from developing countries for increased support for the implementation of the enhanced transparency framework under Article 13 of the Paris Agreement in a timely, adequate and predictable manner;</p>
+<i>Welcomes </i>decision -/CP.26, which encourages the Global Environment Facility, as part of the eighth replenishment process, to duly consider ways to increase the financial resources allocated for climate, and
+<i>Welcomes </i>decision -/CMA.3, which requests the Global Environment Facility to continue to facilitate improved access to the Capacity-building Initiative for Transparency by developing country Parties, and
+<i>encourages </i>the Global Environment Facility to work closely with other institutions and initiatives to enhance these efforts, such as the Taskforce on Access to Climate Finance and the “COP26 Catalyst for Climate Action”;
+<p>83. <i>Takes note </i>of the revised terms of reference of the Consultative Group of Experts, contained in the annex to decision -/CP.26;</p>
+<i>Recognizes </i>the need to take into consideration the concerns of Parties with economies most affected by the impacts of response measures, particularly developing country Parties, in line with Article 4, paragraph 15, of the Paris Agreement;
+<p>86. <i>Notes </i>the urgent need to close the gaps in implementation towards the goals of the Paris Agreement and <i>invites </i>the Secretary-General of the United Nations to convene world leaders in 2023 to consider ambition to 2030;</p>
+<i>Recognizes </i>the importance of international collaboration on innovative climate action, including technological advancement, across all actors of society, sectors and regions, in contributing to progress towards the goals of the Paris Agreement;
+<i>Also recognizes </i>the important role of non-Party stakeholders, including civil society,
+<mark>indigenous peoples, local communities, youth, children<sup>21</sup></mark>, local and regional governments and other stakeholders, in contributing to progress towards the goals of the Paris Agreement;
+<i>Welcomes </i>the improvement of
+<a>the high-level communiqué</a> on the regional climate weeks and
+<i>encourages </i>the continuation of regional climate weeks where Parties and non-Party stakeholders can strengthen their credible and durable response to climate change at the regional level;
+<i>Urges </i>Parties to swiftly begin implementing the Glasgow work programme on Action for Climate Empowerment, respecting, promoting and considering their respective obligations on human rights, as well as gender equality and empowerment of women;
+<p>92. <i>Also urges </i>Parties and stakeholders to ensure meaningful youth participation and representation in multilateral, national and local decision-making processes, including under the Paris Agreement;</p>
+<i>Emphasizes </i>the important role of indigenous peoples’ and local communities’ culture and knowledge in effective action on climate change, and
+<i>urges </i>Parties to actively involve indigenous peoples and local communities in designing and implementing climate action;
+<i>Encourages </i>Parties to increase the full, meaningful and equal participation of women in climate action and to ensure gender-responsive implementation and means of implementation, which are vital for raising ambition and achieving climate goals;
+<p>96. <i>Takes note </i>of the estimated budgetary implications of the activities to be undertaken by the secretariat referred to in this decision;</p>
+<p>97. <i>Requests </i>that the actions of the secretariat called for in this decision be undertaken subject to the availability of financial resources.</p>
+<div><div><div>Climate and Environment</div><a>Tracking Biden’s environmental actions </a></div></div>
+<div><div><div>Climate and Environment</div>Biden submits treaty fighting climate super-pollutants for Senate approval</div></div>
+<div><div><div>Asia Pacific</div>China declares coal peak, India readies pollution lockdown days after U.N. ...</div></div>
+<div><div><div>Climate and Environment</div>‘It is not enough’: World leaders react to COP26 climate agreement </div></div>
+<div><div><div>Climate and Environment</div><a>At COP26, nations speed climate action but leave world still headed for dan...</a></div></div>
+<div><div><div>Climate and Environment</div>The full text of the Glasgow Climate Pact</div></div>
+<div><div><a>Climate and Environment</a></div></div>
+<div><h1>At COP26, nations speed climate action but leave world still headed for dangerous warming</h1></div>
+<h2>As negotiators praised the compromise, the minister from the low-lying Maldives noted, “It will be too late” for her nation and others most vulnerable to climate impacts.</h2>
+<div><div><span><div><span><div>By Brady Dennis</div> and</span></div><div><span><div>Sarah Kaplan</div></span></div></span></div><div>November 13, 2021|Updated November 13, 2021 at 3:12 p.m. EST</div></div>
+<b> </b>more urgent climate action, but without offering
+<b> </b>the transformative breakthrough scientists say must happen if humanity is to avert disastrous planetary warming.
+<a>move away from fossil fuels</a> faster. It insists that wealthy countries fulfill a broken promise to help vulnerable nations
+<a>cope with the rising costs of climate change</a>. And it cracks open the door to future payments developed nations might make for damage already done.
+<div><p>The Glasgow climate pact, annotated</p></div>
+<div><div><p>And representatives from hard-hit nations feared that the deal still leaves their people facing an existential threat.</p></div></div>
+<div><div><p>Organizers acknowledged that the hard-fought agreement doesn’t go nearly far enough. But they argued that the progress made here creates a road map to a safer future and “keeps 1.5 alive.”</p></div></div>
+<div><div><p>But he insisted that the deal adopted by the nations would set out “tangible next steps and very clear milestones” to push the world closer to those goals.</p></div></div>
+<div><p>Countries’ climate pledges built on flawed data, Post investigation finds</p></div>
+<div><div><p>Uncertainty flooded the room, said Andrea Meza, Costa Rica’s environment minister. Neither she nor many of her developing-nation allies knew the challenge was coming.</p></div></div>
+<div><div><p>“We were very anxious,” she said. “Everything is so fragile, these commitments. Then if you start taking [out] the pins, everything can fall down so easily.”</p></div></div>
+<div><div><p>Country after country rose to object to the 11th-hour change.</p></div></div>
+<div><div><p>Ultimately, Stege said that she would accept the language change “only because there are critical elements of this package that people in my country need as a lifeline for their future.”</p></div></div>
+<div><div><p>The episode was a reminder of how laborious the international effort to slow climate change can be, hinging on hard-fought compromises and sometimes a change to a single word.</p></div></div>
+<div><div><p>Moments later, he put forward the agreement, including the “phase down” language, and then gaveled it into history.</p></div></div>
+<p>The final agreement at COP26 did recognize the scientific reality that putting the brakes on climate change will require nations to almost halve emissions in the next decade, rather than merely commit to far off “net zero” targets.</p>
+<a>joint pledge</a> issued by China and the United States during the gathering also acknowledged the need to do more in this decade.
+<div><div><p>The deal also lays out a plan to resolve disputes around rules for global carbon markets that allow investors to buy and sell emissions reduction credits — a topic that for years has tripped up delegates at climate talks.</p></div></div>
+<div><div><p>No sooner had the final gavel fallen in Glasgow than activists began picking apart the summit’s failings, calling the pact little more than a parade of empty promises.</p></div></div>
+<div><p>Humans have pushed the climate into ‘unprecedented’ territory, landmark report finds</p></div>
+<p>Some of the harshest condemnations were reserved for wealthy countries, which have released the bulk of greenhouse gases now in the atmosphere but have often resisted mandates to provide cash for developing nations and limit their massive pollution.</p>
+<div><p>Rich countries have “pushed to transfer their responsibilities to the developing world,” Bolivian negotiator Diego Pacheco Balanza said Saturday, accusing delegates from the developed world of “carbon colonialism.”</p></div>
+<div><div><p>Richie Merzian, a former Australian climate official, quipped this week of his coal-exporting nation, “The only thing Australia has brought to this negotiation is good coffee over at the Australian pavilion.”</p></div></div>
+<div><p>As prices rise, Australia digs in on coal</p></div>
+<div><div><p>“The alarm bells are deafening,” said U.N. Secretary General António Guterres said at the time.</p></div></div>
+<div><div><p>The scientific warnings seemed almost superfluous amid a year of monstrous hurricanes, raging wildfires and deadly heat waves. These crises cost nations hundreds of billions of dollars and took thousands of lives.</p></div></div>
+<div><p>Voices from around the world on what’s at stake at COP26</p></div>
+<div><div><p>“Try harder,” she told an auditorium brimming with powerful leaders. “Try harder.”</p></div></div>
+<div><div><p>Halfway through the summit, an estimated 100,000 protesters <a>swarmed the streets of Glasgow</a>, weathering the Scottish wind and rain to remind those inside that they were watching and expecting bolder policies.</p></div></div>
+<div><p>Indigenous leaders in traditional dress, and grandmothers shouting expletives about the fossil fuel industry joined the swirling mass. Schoolchildren clutched their parents’ hands and waved signs saying “Act now.”</p></div>
+<div><div><p>“Cut the crap,” was emblazoned on a cart pushed by 55-year-old Malcom Strong. Inside the cart: a bucket of manure.</p></div></div>
+<div><p>Throughout, “keep 1.5 alive” was a rallying cry for world leaders and activists alike. The success of COP26 would be measured, they argued, by how much closer humanity got to the collective goals it set six years ago in Paris.</p></div>
+<div><div><p>“Paris promised,” Sharma said repeatedly. “Glasgow must deliver.”</p></div></div>
+<div><div><p>But delivering, it turned out, did not come easily.</p></div></div>
+<div><div><p>By the second week of the conference, the fanfare had given way to a sobering reality: Commitments made here, however promising, will depend on words becoming concrete action.</p></div></div>
+<a>Earth on track to warm 2.5 degrees Celsius</a> (4.5 degrees Fahrenheit) — though other analyses suggested the number could drop if countries take swift action to fulfill long-term pledges.
+<div><p>Dangerous new hot zones are already spreading around the world</p></div>
+<p>Despite a wave of vows to zero out emissions by the middle of the century, the U.N. analysis found, countries’ plans between now and the end of the decade would give humanity less than a 20 percent chance of keeping warming to 1.5 Celsius.</p>
+<div><div><p>Asked whether she believed the Glasgow agreement would keep the hope of 1.5 alive, University of East Anglia climate scientist Corinne Le Quéré said: “Just barely.”</p></div></div>
+<div><div><p>Ultimately, some of the same officials who once hoped for a profound leap in Glasgow, who saw COP26 as a defining moment, by Saturday night described it not as an ending but as a beginning.</p></div></div>
+<div><div><p>“Glasgow ends today. But the real work begins now,” said Seve Paeniu, climate minister for the low-lying atoll nation of Tuvalu.</p></div></div>
+<div><div><p>Saturday evening, the spectacle that had once carried so many hopes started to fade.</p></div></div>
+<div><div><p>And nearby, a still-lit neon sign flashed its silent message:</p></div></div>
+<div><div><p>“Hurry up please. It’s time.”</p></div></div>
+<div><div><p><i>Michael Birnbaum and Steven Mufson in Glasgow, Scotland, and Sammy Westfall and Abha Bhattarai in Washington contributed to this report.</i></p></div></div>
+<a>reached an agreement</a> to ramp up their carbon-cutting commitments, phase down fossil fuels and increase aid to poor countries on the front lines of climate change.
+<a><b>Read the full text of the agreement here, with annotations.</b></a>
+<p><b>More reporting from COP26: </b><a>Five big takeaways from COP26</a> | <a>Countries’ climate pledges built on flawed data, Post investigation finds</a> | <a>Nations reach agreement to speed climate action, but world remains off target</a></p>
+<b>More on the causes and effects climate change:</b>
+<a>The undeniable link between weather disasters and climate change </a>
+<b>More on climate change solutions:</b>
+<a>Harnessing the energy of the ocean to power homes, planes and whisky distilleries</a>
+<div><div><div>MORE ON CLIMATE CHANGE</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><a>Climate and Environment</a></div></div>
+<div><h1>Biden administration moves to curtail toxic ‘forever chemicals’</h1></div>
+<h2>“This is a really bold set of actions for a big problem,” EPA Administrator Michael Regan said, even as some advocates remain wary.</h2>
+<div><div><span><div><span><div>By Brady Dennis</div> and</span></div><div><span><div>Darryl Fears</div></span></div></span></div><div>October 18, 2021|Updated October 18, 2021 at 6:14 p.m. EDT</div></div>
+<b> </b>even as they continue to be used in an array of products such as cosmetics, dental floss, food packaging,
+<b> </b>clothing and cleaning supplies.
+<div><div><p>EPA<b> </b>also will require manufacturers to provide detailed data about entire classes of compounds they produce, and plans to designate some of them as hazardous chemicals under the nation’s Superfund law.</p></div></div>
+<div><div><p>The agency will also review past actions taken on the chemicals to determine whether they “are insufficiently protective,” the EPA said in a statement.</p></div></div>
+<div><p>‘Not a problem you can run away from’: Communities confront the threat of unregulated chemicals in their drinking water</p></div>
+<div><p>The durability of PFAS gives them tremendous commercial value, but over decades the chemicals have leached into Americans’ soil, water, food and even blood — potentially <a>harming people’s health </a>in the process.</p></div>
+<div><div><p><a>Peer-reviewed studies show </a>that exposure to PFAS at certain levels can lead to infertility risks, thyroid disease, certain types of cancers, and developmental problems in children, <a>according to the EPA</a>.</p></div></div>
+<div><p>One indication of how widespread the problem is came in a 2016 study, in which Harvard University researchers found that drinking water supplies serving more than 6 million Americans contain unsafe levels of the industrial chemicals.</p></div>
+<a>in 2019</a>. But little meaningful change has resulted, as the chemicals have continued to surface across the country and remain unregulated by the federal government in the nation’s water systems.
+<a>lawsuits</a>, and also have led the
+<div><div><p>Environmental and public health advocates who have long called for increased oversight of the ubiquitous chemicals reacted with optimism, but wariness, to the latest promise for action.</p></div></div>
+<div><div><p>Another interest group, the Public Employees for Environmental Responsibility (PEER), called the EPA’s new road map “woefully inadequate” to offset “an escalating PFAS contamination crisis.”</p></div></div>
+<p>The road map is essentially “future promises of planning to plan,” the group said. Developing toxicity standards for only seven PFAS chemicals, out of thousands, is a “whack-a-mole” approach to government oversight.</p>
+<div><div><p>“All PFAS are not the same, and they should not all be regulated the same way,” the group said.</p></div></div>
+<p>Various lawmakers have introduced bills aimed at regulating PFAS in water and industrial waste, and the House has twice passed bipartisan legislation to more closely regulate the harmful chemicals. The Senate has yet to adopt the measures.</p>
+<div><div><p>“I want to go as far and as fast as possible so that we can get our arms around these dangerous chemicals and get it out of our communities,” he said.</p></div></div>
+<div><p>In U.S. drinking water, many chemicals are regulated — but many aren’t</p></div>
+<div><div><p>“We believe much more needs to be done and that a quicker timeline should be pursued,” the group’s chairman, Richard Moore, wrote to the then-EPA Administrator Andrew Wheeler.</p></div></div>
+<div><div><p>But critics called that plan hollow half-measures in the face of a well-documented health threat.</p></div></div>
+<div><div><p>“It all sounded great. But essentially, nothing happened,” said Robert Bilott, an environmental attorney who in the past successfully sued DuPont on behalf of plaintiffs exposed to PFOA in Ohio and West Virginia.</p></div></div>
+<div><div><p>This time, federal officials are promising more concrete action, much of it on defined timelines.</p></div></div>
+<div><div><p>“I hate to be cynical, but I’ve been seeing this for 20 years,” said Bilott, who began writing about the risks of chemicals in 2001.</p></div></div>
+<div><div><p>“It’s massively overdue. It’s decades overdue,” he said. “This is a huge public health threat, and it’s something that has just gone on way too long.”</p></div></div>
+<a>reached an agreement</a> to ramp up their carbon-cutting commitments, phase down fossil fuels and increase aid to poor countries on the front lines of climate change.
+<a><b>Read the full text of the agreement here, with annotations.</b></a>
+<p><b>More reporting from COP26: </b><a>Five big takeaways from COP26</a> | <a>Countries’ climate pledges built on flawed data, Post investigation finds</a> | <a>Nations reach agreement to speed climate action, but world remains off target</a></p>
+<b>More on the causes and effects climate change:</b>
+<a>The undeniable link between weather disasters and climate change </a>
+<b>More on climate change solutions:</b>
+<a>Harnessing the energy of the ocean to power homes, planes and whisky distilleries</a>
+<div><div><a>Climate and Environment</a></div></div>
+<div><h1>Biden administration moves to curtail toxic ‘forever chemicals’</h1></div>
+<h2>“This is a really bold set of actions for a big problem,” EPA Administrator Michael Regan said, even as some advocates remain wary.</h2>
+<div><div><span><div><span><div>By Brady Dennis</div> and</span></div><div><span><div>Darryl Fears</div></span></div></span></div><div>October 18, 2021|Updated October 18, 2021 at 6:14 p.m. EDT</div></div>
+<b> </b>even as they continue to be used in an array of products such as cosmetics, dental floss, food packaging,
+<b> </b>clothing and cleaning supplies.
+<div><div><p>EPA<b> </b>also will require manufacturers to provide detailed data about entire classes of compounds they produce, and plans to designate some of them as hazardous chemicals under the nation’s Superfund law.</p></div></div>
+<div><div><p>The agency will also review past actions taken on the chemicals to determine whether they “are insufficiently protective,” the EPA said in a statement.</p></div></div>
+<div><p>‘Not a problem you can run away from’: Communities confront the threat of unregulated chemicals in their drinking water</p></div>
+<div><p>The durability of PFAS gives them tremendous commercial value, but over decades the chemicals have leached into Americans’ soil, water, food and even blood — potentially <a>harming people’s health </a>in the process.</p></div>
+<div><div><p><a>Peer-reviewed studies show </a>that exposure to PFAS at certain levels can lead to infertility risks, thyroid disease, certain types of cancers, and developmental problems in children, <a>according to the EPA</a>.</p></div></div>
+<div><p>One indication of how widespread the problem is came in a 2016 study, in which Harvard University researchers found that drinking water supplies serving more than 6 million Americans contain unsafe levels of the industrial chemicals.</p></div>
+<a>in 2019</a>. But little meaningful change has resulted, as the chemicals have continued to surface across the country and remain unregulated by the federal government in the nation’s water systems.
+<a>lawsuits</a>, and also have led the
+<div><div><p>Environmental and public health advocates who have long called for increased oversight of the ubiquitous chemicals reacted with optimism, but wariness, to the latest promise for action.</p></div></div>
+<div><div><p>Another interest group, the Public Employees for Environmental Responsibility (PEER), called the EPA’s new road map “woefully inadequate” to offset “an escalating PFAS contamination crisis.”</p></div></div>
+<p>The road map is essentially “future promises of planning to plan,” the group said. Developing toxicity standards for only seven PFAS chemicals, out of thousands, is a “whack-a-mole” approach to government oversight.</p>
+<div><div><p>“All PFAS are not the same, and they should not all be regulated the same way,” the group said.</p></div></div>
+<p>Various lawmakers have introduced bills aimed at regulating PFAS in water and industrial waste, and the House has twice passed bipartisan legislation to more closely regulate the harmful chemicals. The Senate has yet to adopt the measures.</p>
+<div><div><p>“I want to go as far and as fast as possible so that we can get our arms around these dangerous chemicals and get it out of our communities,” he said.</p></div></div>
+<div><p>In U.S. drinking water, many chemicals are regulated — but many aren’t</p></div>
+<div><div><p>“We believe much more needs to be done and that a quicker timeline should be pursued,” the group’s chairman, Richard Moore, wrote to the then-EPA Administrator Andrew Wheeler.</p></div></div>
+<div><div><p>But critics called that plan hollow half-measures in the face of a well-documented health threat.</p></div></div>
+<div><div><p>“It all sounded great. But essentially, nothing happened,” said Robert Bilott, an environmental attorney who in the past successfully sued DuPont on behalf of plaintiffs exposed to PFOA in Ohio and West Virginia.</p></div></div>
+<div><div><p>This time, federal officials are promising more concrete action, much of it on defined timelines.</p></div></div>
+<div><div><p>“I hate to be cynical, but I’ve been seeing this for 20 years,” said Bilott, who began writing about the risks of chemicals in 2001.</p></div></div>
+<div><div><p>“It’s massively overdue. It’s decades overdue,” he said. “This is a huge public health threat, and it’s something that has just gone on way too long.”</p></div></div>
+<a>reached an agreement</a> to ramp up their carbon-cutting commitments, phase down fossil fuels and increase aid to poor countries on the front lines of climate change.
+<a><b>Read the full text of the agreement here, with annotations.</b></a>
+<p><b>More reporting from COP26: </b><a>Five big takeaways from COP26</a> | <a>Countries’ climate pledges built on flawed data, Post investigation finds</a> | <a>Nations reach agreement to speed climate action, but world remains off target</a></p>
+<b>More on the causes and effects climate change:</b>
+<a>The undeniable link between weather disasters and climate change </a>
+<b>More on climate change solutions:</b>
+<a>Harnessing the energy of the ocean to power homes, planes and whisky distilleries</a>
+<header><div><div><div><p>This article is more than 1 year old</p></div></div></div><div><div>Climate and Environment</div></div><div><h1>The EPA is about to change a rule cutting mercury pollution. The industry doesn’t want it.</h1></div></header>
+<div><div><span><div><span><div>By Juliet Eilperin</div> and </span></div><div><span><div>Brady Dennis</div></span></div></span></div><div>February 17, 2020</div></div>
+<div><div><span><div><span><div>By Juliet Eilperin</div> and</span></div><div><span><div>Brady Dennis</div></span></div></span></div><div>February 17, 2020</div></div>
+<div><div><p>Thanks, but no thanks.</p></div></div>
+<div><div><p>Kathy Robertson, a senior manager for environmental policy at the company, said the industry long ago complied with the rule.</p></div></div>
+<div><div><p>“And it works,” she said. “The sector has gotten so much cleaner as a result of this rule.”</p></div></div>
+<b> </b>Coal executives have lobbied for it, arguing it represented one of the worst excesses of what President Trump calls “the war on coal.”
+<div><div><p>The changes could give a boost to struggling coal companies, while hamstringing future efforts to limit mercury emissions from the nation’s power plants.</p></div></div>
+<div><div><p>The rule in question, known as the Mercury and Air Toxics Standards (MATS), targets a powerful neurotoxin that can affect the IQ and motor skills of children, even in utero. <b/></p></div></div>
+<div><div><p>Between 2006, when states began to curb mercury from coal plants, and 2016, when the Obama-era rule took full effect, emissions have declined 85 percent.</p></div></div>
+<div><div><p>Those estimates included not just lower mercury emissions but collateral benefits from reductions in soot and other smog-forming pollutants that contribute to asthma and other respiratory problems.</p></div></div>
+<div><div><p>The power industry ultimately paid far less to comply. It spent about $18 billion between 2012 and 2018, or $3 billion annually.</p></div></div>
+<div><div><p>The Trump administration has argued that it is inappropriate to count such “co-benefits” when considering the economic impact of regulation, saying Obama used creative math to justify burdensome new requirements.</p></div></div>
+<div><div><p>The 2011 requirements did more to hasten the closure of coal-fired power plants than any other regulation adopted under Obama.</p></div></div>
+<div><div><p>Facing the first-ever limits on these pollutants, companies across the country chose to switch to natural gas or renewable energy rather than invest in costly new pollution controls.</p></div></div>
+<div><div><p>The agency is scrambling to finalize some of its most significant rollbacks before Trump’s first term ends, including its effort to relax federal mileage standards.</p></div></div>
+<div><div><p>Administration officials insist their mercury rollback is merely a response to the Supreme Court ruling — not an effort to once again allow emissions of a harmful set of toxins.</p></div></div>
+<div><div><p>“Under the proposal, no more mercury will be emitted into the air than before this rule,” EPA spokeswoman Corry Schiermeyer said in an email.</p></div></div>
+<div><div><p>But the electric industry is skeptical.</p></div></div>
+<div><div><p>What’s more, many experts expect a coal company or conservative group to quickly petition a federal judge to scrap the rule on the grounds that it was never warranted in the first place.</p></div></div>
+<p>“We’ve already made these investments,” Scott Weaver, American Electric Power’s director of air quality, said in an interview. “We’re happy to comply with this rule. Let sleeping dogs lie, so to speak.”</p>
+<div><p><span>EPA to roll back environmental rules, despite scientific advisers’ criticism</span></p></div>
+<div><p>Exelon argued in comments to the EPA that the rollback could lead existing coal plants in some states to turn off their pollution controls to save money, leading to the spewing of more mercury and other toxic substances into the air.</p></div>
+<div><div><p>Greenstone, who under Obama served as chief economist on the White House Council of Economic Advisers, said the move also would upend how costs and benefits of major rules have been analyzed since the Reagan administration.</p></div></div>
+<div><div><p>Some experts argue that the administration is relying on an outdated analysis and that recent research suggests mercury emissions from power plants harm Americans more than previously estimated.</p></div></div>
+<div><div><p>Coal officials, meanwhile, have asked the EPA to reverse the rule altogether. Bob Murray, a coal mining executive and major Trump donor, identified the rollback in a memo he wrote to Vice President Pence in March 2017.</p></div></div>
+<div><div><p>Some communities, meanwhile, are awaiting the EPA’s decision with dread.</p></div></div>
+<div><div><p>Mercury in the atmosphere can dissolve into water, and Heaton worries that means more of it eventually winding up in her community.</p></div></div>
+<header><div><div><div>INVISIBLE</div></div></div><h1>Countries’ climate pledges built on flawed data, Post investigation finds</h1></header>
+<div><span><div>Anu Narayanswamy</div> and </span></div>
+<div><span><div>Naema Ahmed</div></span></div>
+<p>The surprising claim has allowed the country to subtract over <mark>243 million tons</mark> of carbon dioxide from its 2016 inventory — slashing 73 percent of emissions from its bottom line.</p>
+<mark>8.5 billion</mark> to as high as
+<mark>13.3 billion tons</mark> a year of underreported emissions — big enough to move the needle on how much the Earth will warm.
+<p>The plan to save the world from the worst of climate change is built on data. But the data the world is relying on is inaccurate.</p>
+<p>At the low end, the gap is larger than the yearly emissions of the United States. At the high end, it approaches the emissions of China and comprises 23 percent of humanity’s total contribution to the planet’s warming, The Post found.</p>
+<p>That means the challenge is even larger than world leaders have acknowledged.</p>
+<p>[Measuring the Invisible: How The Post did its global emissions analysis]</p>
+<b> </b>action, as opposed to claiming
+<b> </b>natural forest regrowth unrelated to national policies.
+<p>And some of this carbon absorption isn’t even happening — or at least not on the scale that countries assert.</p>
+<mark>81 million tons</mark>, less than those of the small European nation of Belgium.
+<b> </b> 57 million and 76 million tons more of human-caused methane emissions hitting the atmosphere than U.N. country reports do. That converts to between 1.6 billion and 2.1 billion tons of carbon dioxide-equivalent emissions.
+<b> </b>landfills are a major source.
+<p>President Biden told delegates meeting in Glasgow that cutting methane emissions is essential to limit global warming to 1.5 degrees Celsius (2.7 degrees Fahrenheit).</p>
+<p>“One of the most important things we can do in this decisive decade — to keep 1.5 degrees in reach — is reduce our methane emissions as quickly as possible,” Biden said.</p>
+<p>[Russia allows methane leaks at planet’s peril]</p>
+<p>A reporting system riddled with flaws and undercounting of emissions</p>
+<b> </b>Developing nations are not required to report their emissions annually to the United Nations, leaving holes in the database.
+<div><div><div><p>China, for example, the world’s top emitter, only submitted reports in five years, the most recent in 2014.</p></div></div></div>
+<div><div><div><p>When we looked at the most recent year of reporting to the United Nations for all 196 countries, we found that only 45 of them, almost all developed, reported in 2019, the last available year for country reports.</p></div></div></div>
+<b> </b>largest emitters, has not filed an inventory since 2010; Qatar, a large natural gas producer, last revealed its emissions in 2007; and Algeria, a major oil and gas producer, in 2000.
+<div><div><div><p>To bring these old reports to date, The Post created a model to predict what the 148 countries that don’t have a 2019 report would have likely reported that year.</p></div></div></div>
+<div><div><div><p>When we add the reported and predicted 2019 numbers for all countries, the total greenhouse gas emissions amount to 44.2 billion tons.</p></div></div></div>
+<b> </b>8.5 billion to 13.3 billion tons of greenhouse gas emissions. This excludes more than 1 billion tons of emissions from international air travel and shipping, for which no country takes responsibility.
+<h3><b>At the verge of the abyss</b></h3>
+<p>The emissions reports are so unwieldy that the United Nations does not have a complete database to track country emissions. Some 45 countries have not reported any new greenhouse gas numbers since 2009.</p>
+<b> </b>from megafires, which have
+<a>worsened<b> </b>due to climate change</a>, from its annual totals. A study by Ciais and his colleagues found that the country also underreported
+<b> </b>its 2016 emissions of nitrous oxide gas, a powerful warming agent that principally comes from farming, by a factor of four to seven.
+<p>Drawing on emissions data from the Food and Agriculture Organization, The Post found a similar gap: three times as much nitrous oxide as Australia’s reports to the United Nations.</p>
+<p>Climate negotiators have known for decades that this data-gathering process is flawed, but instead they have focused on persuading global leaders to engage in serious talks and take real steps to rein in emissions.</p>
+<b> </b>co-chaired negotiations for the Paris agreement. “If you want to think about strengthening the whole process, the whole climate process, this is a very, very fertile area to explore.”
+<p>In a recent interview, U.N. Secretary General António Guterres said he hoped nations would recognize the implications of their actions.</p>
+<p>“There is a growing consciousness that we are really at the verge of the abyss,” he said. “And when you are at the verge of the abyss, you need to be very careful about your next step.”</p>
+<p>In the spring of 2020, the lockdown sent carbon dioxide emissions plummeting — along with oil prices. Ciais realized it was a unique moment to study country emissions.</p>
+<p>Ciais started adding together U.N. emissions reports and comparing them with satellite and atmospheric measurements of forest growth, methane and nitrous oxide emissions from the world’s largest emitters.</p>
+<p>He expected a gap and wondered what it would look like. But when he saw what instead was a chasm, he instantly realized the implication for the politics of the Paris agreement.</p>
+<p>“It's already hard to make sense of the pledges,” he said. “If the baseline is underreported, the percentage of emission reductions that you get will be flawed.”</p>
+<p>Ciais’s 2021 study, conducted with Zhu Deng of Tsinghua University in Beijing and 31 other researchers, is still undergoing peer review, but it, along with his data set, is publicly available.</p>
+<p>In one of the most striking cases, Ciais’s study found that methane leakage from fossil fuel operations in the oil states of the Persian Gulf could be as much as seven times more than what they officially report.</p>
+<b> </b>when forests are chopped down or lost to fire, peatlands are drained, or
+<b> </b>excess fertilizer is spread on agricultural fields.
+<p>But those counts easily can be wrong, and so can the emissions factors. When that happens, emissions reporting becomes little more than guesswork, a case of “garbage in, garbage out.”</p>
+<h3><b>Basements and ballrooms</b></h3>
+<p>Malaysia’s skewed data vividly illustrates the high stakes countries face as they confront the growing pressure to reduce emissions while managing the very real economic consequences that process triggers.</p>
+<p>Jenny Goldstein, then a new faculty member at Cornell University, walked into the five-star Pullman Kuching Hotel and found herself in the midst of a propaganda war to make the controversial oil palm industry look good.</p>
+<p>Out of curiosity, Goldstein ventured upstairs.</p>
+<p>When peatland is drained, it releases a rapid pulse of carbon dioxide and other greenhouse gases as the once-waterlogged plants’ remains degrade with the sudden exposure to air. Emissions then continue for decades, until all the peat is gone.</p>
+<p>The conference was a historic occasion, held in the tropics for the first time in its 62-year history, and hosted by the Malaysian Peat Society with the Sarawak government’s support.</p>
+<p>Melling said in an interview with The Post that other peat scientists, who have studied peat in other parts of the world, don’t understand the unique qualities of the peat in her region.</p>
+<p>“It’s like comparing cheesecake with Swiss cheese,” she said.</p>
+<p>“I single handedly, backed by my small laboratory, pioneered and published the groundbreaking research work on peat use and [greenhouse gas] emission to rebut the maligned western detractors on the use of peat as arable land,” she said.</p>
+<p>Melling’s pro-industry stance took scientists at the conference by surprise, Goldstein said, as did her use of vulgar language in public remarks.</p>
+<p>Melling has said she uses suggestive language to make her science memorable.</p>

@@ -1,0 +1,500 @@
+<div> Tags <a>Anthony Fauci</a> <a>Joe Biden</a> </div>
+<div>A must-read political newsletter that breaks news and catches you up on what is happening.</div>
+<div><ul> <li> Delivered to your inbox midday</li> </ul></div>
+<div> <div> <div>The Hill's Morning Report Tipsheet</div> <div>Most Popular - Easy to read, daily digest of the news from The Hill and around the world</div> </div> </div>
+<div> <div> <div>12:30 Report</div> <div>The Hill's must read political newsletter that breaks news and catches you up on what happened in the morning and what to look for after lunch</div> </div> </div>
+<div> <div> <div>Breaking News</div> <div>Get breaking news as it happens</div> </div> </div>
+<div> <div> <label>Defense </label> </div> <div> <label>Campaign </label> </div> <div> <label>Technology </label> </div> </div>
+<div> <div> <label>Finance Economy </label> </div> <div> <label>Agency Insider </label> </div> </div>
+<div> <div> <label>Healthcare </label> </div> <div> <label>Cybersecurity </label> </div> </div>
+<div> <h1>US home prices up 18.4 percent in October</h1> <div> By Joseph Choi - 12/28/21 12:47 PM EST </div> </div>
+<p>Home prices in the U.S. rose by 18.4 percent in October, according to the data from the SP Dow Jones CoreLogic Case-Shiller 20-City Composite Home Price NSA Index released on Tuesday.</p>
+<p>This growth in home prices marked a slight drop from the 19.1 percent increase that was reported in September.</p>
+<p>According to the SP Dow Jones, Phoenix, Tampa and Miami saw the highest year-over-year increase in October among the 20 cities included in the index, with all three cities seeing growth of more than 25 percent.</p>
+<p>The housing market has remained strong, The Associated Press noted, due to low mortgage rates, heightened demand and a low supply of homes.</p>
+<p>Chief economist for Realtor.com Danielle Hale told the AP that growth in housing prices will likely slow down in the next year, though prices would still continue to rise.</p>
+<a>Economic impact of the COVID-19 pandemic in the United States</a>
+<div>The 'On the Money' Newsletter: Today's daily digest and what's expected to break tomorrow.</div>
+<div><ul> <li>Delivered to inboxes every weekday evening.</li> </ul></div>
+<div> <h1>On the Money – Washington grapples with regulating crypto</h1> <div> By Sylvan Lane,Naomi Jagoda and Aris Folley - 12/28/21 05:00 PM EST </div> </div>
+<p>Today’s Big Deal: Lawmakers and federal agencies are focused on how to regulate the cryptocurrency industry. We’ll also look at rising home prices and increased interest in Congress in strengthening cybersecurity.</p>
+<p> Washington works to expand crypto oversight</p>
+<p>The cryptocurrency explosion has forced Washington to adapt federal financial rules to a quickly growing and changing industry.</p>
+<p>Americans have poured billions of dollars into cryptocurrencies and a wide array of blockchain-based financial platforms over the past year as the pandemic triggered an investment boom.</p>
+<p>While the crypto market has picked up steam steadily over the past decade, a surge of interest in the space and the rapid rise of decentralized financial networks has drawn fresh attention from regulators and lawmakers:</p>
+<li><p>The SEC and CFTC have focused primarily on crypto firms and offerings that clearly violate general investor protection and anti-fraud laws.</p></li>
+<li><p>Democratic lawmakers and regulators in both parties have also expressed particular concerns with “stablecoins,” tokens tied to cash or other safer assets held by the coin’s issuer.</p></li>
+<div>US home prices up 18.4 percent in October</div>
+<p>Home prices in the U.S. rose by 18.4 percent on a year-over-year basis in October, according to the data from the SP Dow Jones CoreLogic Case-Shiller 20-City Composite Home Price NSA Index released on Tuesday.</p>
+<p>This growth in home prices marked a slight drop from the 19.1 percent increase that was reported in September.</p>
+<li><p>Phoenix, Tampa and Miami saw the highest year-over-year increase in October among the 20 cities included in the index, with all three cities seeing growth of more than 25 percent.</p></li>
+<li><p>Chicago, Washington, D.C, and Minneapolis saw the lowest year-over-year change of the cities on the list, with increases of just 11 to 12 percent.</p></li>
+<p><u>CYBER IN THE SPOTLIGHT</u></p>
+<p>Congress zooms in on cybersecurity after banner year of attacks</p>
+<p>The past 12 months stand as a banner year in the severity of cyberattacks that wreaked havoc on organizations large and small. </p>
+<p>But in the wake of the chaos, a silver lining has emerged around a never before seen level of bipartisan support and genuine interest on Capitol Hill for strengthening the nation's cybersecurity. </p>
+<a>reached a settlement</a> over the golf group’s decision to pull a major tournament from Trump's Bedminster, N.J., golf course following the Jan. 6 attack on the Capitol.
+<p>Here’s what else have our eye on:</p>
+<li><p>Riot Games <a>will pay $100 million</a> to settle a discrimination and harassment case brought by more than 2,000 women employees, California’s civil rights agency announced.</p></li>
+<li><p>A federal appeals court on Monday <a>upheld Google’s settlement</a> in a class action case over allegations that it collected Wi-Fi data illegally with its Street View program.</p></li>
+<p>That’s it for today. Thanks for reading and check out The Hill’s <a>Finance page</a> for the latest news and coverage. We’ll see you tomorrow.</p>
+<div> Tags Jim Langevin Joe Biden </div>
+<div> <div> <div>The Hill's Morning Report Tipsheet</div> <div>Most Popular - Easy to read, daily digest of the news from The Hill and around the world</div> </div> </div>
+<div> <div> <div>12:30 Report</div> <div>The Hill's must read political newsletter that breaks news and catches you up on what happened in the morning and what to look for after lunch</div> </div> </div>
+<div> <div> <div>Breaking News</div> <div>Get breaking news as it happens</div> </div> </div>
+<div> <div> <label>Defense </label> </div> <div> <label>Campaign </label> </div> <div> <label>Technology </label> </div> </div>
+<div> <div> <label>Finance Economy </label> </div> <div> <label>Agency Insider </label> </div> </div>
+<div> <div> <label>Healthcare </label> </div> <div> <label>Cybersecurity </label> </div> </div>
+<div> <h1>Retailers opened more stores than they closed this year: report</h1> <div> By Monique Beals - 12/29/21 02:59 PM EST </div> </div>
+<p>More retail stores opened than closed in 2021, a complete turnaround for the industry that saw so many closures just last year. </p>
+<p>Overall, 5,083 stores opened and 5,079 closed in 2021 through Dec. 16, according to <a>NBC News</a>. </p>
+<p>The slightly higher number of stores opening marks a potential recovery from an industry left shuttered at times as a result of COVID-19 orders. </p>
+<p>Specifically, Coresight Research, an advisory group specializing in retail and technology, said the figures signaled that the retail world had struck a balance between online shopping and in-store experiences, the network added. </p>
+<p>Additionally, major retail stores like Walmart, Target and Home Depot exceeded expected profits despite supply chain concerns that limited inventory, NBC reported. </p>
+<p>Despite high inflation rates, retail sales were on a steady rise throughout the second half of 2021. </p>
+<div>The 'On the Money' Newsletter: Today's daily digest and what's expected to break tomorrow.</div>
+<div><ul> <li>Delivered to inboxes every weekday evening.</li> </ul></div>
+<div> <h1>On the Money – CDC guidance, omicron threatens businesses</h1> <div> By Sylvan Lane,Naomi Jagoda and Aris Folley - 12/29/21 06:19 PM EST </div> </div>
+<p> Guidance, rising cases may hurt businesses</p>
+<p>The decision to cut isolation time in half for those with asymptomatic COVID-19 is seeing backlash among employee representatives and experts who say big business sparked the decision more than science did.</p>
+<li>“If you are asymptomatic and you are infected, we want to get people back to the jobs, especially those with essential jobs,” Fauci said. “They can get back to the workplace, doing things that are important to keep society running smoothly.”</li>
+<li>The CDC said the change was driven by science showing that the majority of virus transmission occurs early in the course of illness, generally in the first two days prior to onset of symptoms and the two to three days after.</li>
+<li>Delta said the guidance allows more flexibility for employers to support the busy travel season. But the CDC's change is also getting significant pushback from employee representatives for being too focused on employers and not enough on workers.</li>
+<p>The Hill’s Alex Gangitano has more here.</p>
+<p>Cyber agency warns of increased threats to manufacturing groups </p>
+<p>Manufacturing organizations are at higher risk of being targeted by hackers during the COVID-19 pandemic, the nation’s key cybersecurity agency warned Wednesday.</p>
+<li>Ransomware attacks, which have become a major concern during the course of the pandemic in all sectors, have also become a threat to manufacturing companies. </li>
+<p>Retailers opened more stores than they closed this year</p>
+<p>Overall, 5,083 stores opened and 5,079 closed in 2021 through Dec. 16, according to NBC News. </p>
+<p>The Hill’s Monique Beals has more here.</p>
+<p>Domestic travel vaccine mandate back in spotlight</p>
+<p>The debate over requiring COVID-19 vaccines for domestic travel is back in the spotlight this week, despite pushback from the business community and the potential for strong backlash if the Biden administration imposes a mandate.</p>
+<p>The White House said that a potential mandate is not off the table, and the uptick in COVID-19 cases brought on by the highly transmissible omicron variant has raised questions over whether a requirement is another way to keep Americans safe.</p>
+<p>President Biden’s chief medical adviser, Anthony Fauci, said on Wednesday that the administration is discussing a mandate, but pointed to the safety of the mask requirement in place for all U.S. transportation networks.</p>
+<p>San Francisco-based delivery company DoorDash will require all employees to make deliveries under its reinstated WeDash immersion program, a spokesperson confirmed Wednesday. </p>
+<p>Here’s what else have our eye on:</p>
+<ul><li>Apple is offering large bonuses to employees in an attempt to retain talent from rivals such as Meta, the parent company of Facebook.</li></ul>
+<p>That’s it for today. Thanks for reading and check out The Hill’s Finance page for the latest news and coverage. We’ll see you tomorrow.</p>
+<div> Tags Anthony Fauci <a>Joe Biden</a> </div>
+<div> <div> <div>The Hill's Morning Report Tipsheet</div> <div>Most Popular - Easy to read, daily digest of the news from The Hill and around the world</div> </div> </div>
+<div> <div> <div>12:30 Report</div> <div>The Hill's must read political newsletter that breaks news and catches you up on what happened in the morning and what to look for after lunch</div> </div> </div>
+<div> <div> <div>Breaking News</div> <div>Get breaking news as it happens</div> </div> </div>
+<div> <div> <label>Defense </label> </div> <div> <label>Campaign </label> </div> <div> <label>Technology </label> </div> </div>
+<div> <div> <label>Finance Economy </label> </div> <div> <label>Agency Insider </label> </div> </div>
+<div> <div> <label>Healthcare </label> </div> <div> <label>Cybersecurity </label> </div> </div>
+<div> <h1>On the Money — Gas price projections problematic for Biden</h1> <div> By Sylvan Lane,Aris Folley and Naomi Jagoda - 12/30/21 05:46 PM EST </div> </div>
+<p>There is no newsletter for tomorrow, but On the Money will return on Monday. Have a Happy New Year.</p>
+<p> Rising gas prices complicate Biden's horizons </p>
+<p>Analysts expect U.S. gasoline prices to rise as high as $4 per gallon by this summer, putting a pinch on drivers and exacerbating problems for President Biden.</p>
+<p>But a new forecast from fuel price app GasBuddy said fuel prices this June could climb to anywhere between $3.43 and $4.13 per gallon.</p>
+<li>The same forecast predicts prices will then fall later in the year, which could provide some relief, with gasoline prices expected to drop to about $3.16 per gallon in October.</li>
+<li>They’re forecasted to be lower in the fall, with prices ranging from between $3.09 and $3.52 in September, $2.96 and $3.35 in October and $2.87 and $3.24 in November.</li>
+<li>GasBuddy’s head of petroleum analysis, Patrick De Haan, noted that the “potential outcomes vary widely,” and said that a lot of uncertainty is caused by the pandemic.</li>
+<p>The Hill’s Rachel Frazin has more here.</p>
+<p>Major airlines continue to cancel flights amid COVID-19 spike</p>
+<p>JetBlue Airways announced on Thursday that it would cancel more than 1,200 flights stretching into mid-January amid a spike in coronavirus cases driven by the highly transmissible omicron variant.</p>
+<p>The airline is canceling 1,280 flights, or roughly 10 percent of its bookings, until Jan. 13 in an effort “to get even further ahead of the expected increase in Omicron cases,” executives wrote in a note to employees.</p>
+<li>Major airlines from Spirit to United continue to cancel flights as they struggle with staffing shortages as case numbers rise. More than 1,000 flights were canceled in the U.S. on Thursday, according to the flight-tracking website FlightAware.</li>
+<p><u>BY HULL OR HIGH WATER</u></p>
+<p>CDC says to avoid cruise ships regardless of vaccine status</p>
+<p>The Centers for Disease Control and Prevention (CDC) has advised Americans to avoid traveling by cruise ships regardless of their vaccination status amid a global surge of coronavirus cases. </p>
+<p>In a statement released Thursday, the health agency’s COVID-19 Travel Health Notice updated the warning from level 3 to level 4, which is the health agency’s highest level of warning. </p>
+<p>The agency stated that vaccinated and boosted individuals are at risk of spreading the virus onboard. </p>
+<p>The Hill’s Olafimihan Oshin has more here.</p>
+<p><u>FROM MUSK TIL DAWN</u></p>
+<p>Tesla recalls nearly 500K US vehicles over safety issues</p>
+<p>Tesla has recalled nearly 500,000 U.S.-based vehicles due to safety concerns. </p>
+<p>Amazon updated its Alexa artificial intelligence (AI) after a user posted that an Amazon device told their child to do what is known as the “penny challenge,” a company spokesperson said Thursday.</p>
+<ul><li>Tesla says it’s planning to recall nearly 500,000 U.S.-based vehicles due to safety concerns.</li></ul>
+<p>That’s it for today. Thanks for reading and check out The Hill’s Finance page for the latest news and coverage. </p>
+<div>The 'On the Money' Newsletter: Today's daily digest and what's expected to break tomorrow.</div>
+<div><ul> <li>Delivered to inboxes every weekday evening.</li> </ul></div>
+<div> <h1>Germany will likely miss 2022 climate targets, official says</h1> <div> By Joseph Choi - 12/29/21 07:03 PM EST </div> </div>
+<p>A top German official said in an interview published Wednesday that Germany will likely miss carbon emission reduction targets next year.</p>
+<p>"We will probably miss our targets for 2022. ... Even for 2023 it will be difficult enough. We are starting with a drastic backlog," German Economy and Climate Protection Minister Robert Habeck told the German newspaper Die Zeit, Reuters reported.</p>
+<p>"2022 will be one of the most exhausting years this ministry has experienced in a long time," Habeck added.</p>
+<p>Earlier this year, the German government set ambitious climate goals of being carbon neutral by 2045 after a court ruled that the government must strengthen its climate protection laws.</p>
+<p>Reuters noted that Germany set a 2022 goal of reducing emissions from industry by 177 million carbon dioxide tonnes — 38 percent lower than 1990 levels.</p>
+<p>Germany has also set a goal of reducing emissions from transportation by 139 million tonnes — a 15 percent reduction from 1990.</p>
+<p>Aside from emissions reductions, Germany is also aiming to increase the number of wind turbines built each year to 1,000-1,500, Habeck said.</p>
+<p>Earlier this week, newly sworn-in German Finance Minister Christian Lindner introduced a bill that would transfer what remained of COVID-19 pandemic loans in 2021 to investments made for climate protection.</p>
+<p>According to Deutsche Welle, the bill would move roughly $70 million to the Energy and Climate Fund which would help "the transformation of one of the largest industrialized nations toward climate neutrality," said Lindner.</p>
+<div>A must-read political newsletter that breaks news and catches you up on what is happening.</div>
+<div><ul> <li> Delivered to your inbox midday</li> </ul></div>
+<div> <div> <div>The Hill's Morning Report Tipsheet</div> <div>Most Popular - Easy to read, daily digest of the news from The Hill and around the world</div> </div> </div>
+<div> <div> <div>12:30 Report</div> <div>The Hill's must read political newsletter that breaks news and catches you up on what happened in the morning and what to look for after lunch</div> </div> </div>
+<div> <div> <div>Breaking News</div> <div>Get breaking news as it happens</div> </div> </div>
+<div> <div> <label>Defense </label> </div> <div> <label>Campaign </label> </div> <div> <label>Technology </label> </div> </div>
+<div> <div> <label>Finance Economy </label> </div> <div> <label>Agency Insider </label> </div> </div>
+<div> <div> <label>Healthcare </label> </div> <div> <label>Cybersecurity </label> </div> </div>
+<div> <h1>Overnight Energy Environment — Activists pan EPA chemical testing move</h1> <div> By Rachel Frazin and Zack Budryk - 12/29/21 07:27 PM EST </div> </div>
+<p>Today we’re looking at a test for the EPA regarding PFAS testing, high temperatures in an Alaskan city and the political ramifications of projected gas prices.</p>
+<p>Advocates unhappy with PFAS testing move</p>
+<p>It also said that these chemicals are similar to 14 others from the petition and that it will test for four chemicals that are not part of the groups’ request, but that are similar to nine of the chemicals. </p>
+<p>The EPA argued that in doing this, it’s covering 30 of the 54 chemicals from the petition. </p>
+<p>The big picture: The move is one of the Biden administration’s first concrete indications of the approach it will take to a class of chemicals called PFAS after it announced a plan in October to tackle them.</p>
+<p>Certain types of PFAS, or perfluoroalkyl and polyfluoroalkyl substances, have been linked to health issues including kidney and testicular cancer.</p>
+<p>The Trump administration initially denied the petition.</p>
+<p>The complaint: Lawyer Bob Sussman, who represents the environmental groups, said the requirements are not enough, noting that only seven of the chemicals will actually be studied.</p>
+<p>The tests outlined in the petition will include animal studies, but Sussman said he’d specifically like to see epidemiological studies on people who live in Eastern North Carolina. </p>
+<p> Alaskan city sees record-high temperatures </p>
+<p>In recent days, temperatures in Kodiak, Alaska, have set record highs, and prompted concerns about the changing climate. </p>
+<p>Over the weekend, temperatures as high as 67 degrees Fahrenheit were recorded, and on <a>Monday</a> and <a>Tuesday</a>, the city also set daily temperature records. </p>
+<p>Meanwhile, the Alaska temperatures caught the concern of some activists. </p>
+<p>“Alaska has smashed its old December temperature record by 11 degrees. It would also have set a new record for November, January, February or March,” tweeted environmentalist Bill McKibben. “It is insane, and it is dangerous.”</p>
+<p>DEMS' POTENTIAL GAS PRICE PROBLEM</p>
+<p>Yesterday, we looked at projections showing that gasoline prices could rise. Today we’re looking at what this could mean for the midterms. </p>
+<div>Higher prices for gas expected in 2022 could pose an additional hurdle for Democrats who are already considered likely to lose seats in the midterm elections.</div>
+<p>A new forecast from fuel price app GasBuddy released on Wednesday said fuel prices this June could climb to anywhere between $3.43 and $4.13 per gallon.</p>
+<p>Prices at the higher end in particular would be an unwelcome development for Democrats in a midterm election year, as the party currently retains slim majorities in the House and Senate. </p>
+<p>But, prices are expected to fall later in the year, with the GasBuddy analysis pegging them at about $3.16 per gallon in October. </p>
+<p>Bannon, who has contributed opinion articles to The Hill, called the expected decrease between June and November “good news for Democrats.”</p>
+<p>“Americans have short memories,” he said. “Everything is relative. If gas prices are, say $4 in June and they’re down to $3.50 or lower in the fall, I think that helps Democrats a lot because it’s all relative.”</p>
+<p>But, he said, the party should combat this by focusing on economic issues themselves.</p>
+<p>“So long as the message becomes clear that the presidency and the Democrats are all about making the burden at peoples’ pocketbooks easier, I’m sure that they can keep their support,” he said.</p>
+<p>And the GOP? Republicans are expected to go on the attack against Biden and Democrats if prices rise, as they already have been doing.</p>
+<p>Asked how the price news impacts its 2022 strategy, a National Republican Campaign Committee spokesperson argued that Democrats should get blame.</p>
+<p>“Democrats have absolutely no credibility left on the issue of rising prices after they spent months claiming inflation was transitory,” said Mike Berg, a spokesman for the Republicans’ house campaign organization, wrote in an email.</p>
+<p><u>WHAT WE'RE READING</u></p>
+<li>Chile Rewrites Its Constitution, Confronting Climate Change Head On, The New York Times reports</li>
+<li>Hidden drains and secret pumps: How a Seattle company evaded the EPA to dump toxic water into Puget Sound for years, MarketWatch reports</li>
+<li>Fed survey: oil firms predict rising output, but warn of higher costs, <a>Reuters reports</a></li>
+<p>And finally, something offbeat and off-beat: <a>We don’t blame them for needing a nap.</a></p>
+<p>That’s it for today, thanks for reading. Check out The Hill’s energy environment page for the latest news and coverage. We’ll see you Thursday.</p>
+<div> Tags Michael Regan </div>
+<div>A must-read political newsletter that breaks news and catches you up on what is happening.</div>
+<div><ul> <li> Delivered to your inbox midday</li> </ul></div>
+<div> <div> <div>The Hill's Morning Report Tipsheet</div> <div>Most Popular - Easy to read, daily digest of the news from The Hill and around the world</div> </div> </div>
+<div> <div> <div>12:30 Report</div> <div>The Hill's must read political newsletter that breaks news and catches you up on what happened in the morning and what to look for after lunch</div> </div> </div>
+<div> <div> <div>Breaking News</div> <div>Get breaking news as it happens</div> </div> </div>
+<div> <div> <label>Defense </label> </div> <div> <label>Campaign </label> </div> <div> <label>Technology </label> </div> </div>
+<div> <div> <label>Finance Economy </label> </div> <div> <label>Agency Insider </label> </div> </div>
+<div> <div> <label>Healthcare </label> </div> <div> <label>Cybersecurity </label> </div> </div>
+<div> <h1>Rising gas price projections complicate Biden's horizons</h1> <div> By Rachel Frazin - 12/30/21 06:01 AM EST </div> </div>
+<div> <h1>Germany powering down three nuclear plants in shift to renewables</h1> <div> By Joseph Choi - 12/30/21 04:56 PM EST </div> </div>
+<p>Germany will be shutting down three of its six remaining nuclear power stations on Friday as it moves away from nuclear power in favor of renewable energy.</p>
+<p>The nuclear reactors in the cities of Grohnde, Brokdorf and Gundremmingen will be shut down and disconnected on the evening of Dec. 31. According to SP Global, the three plants combined had an output of 4.2 gigawatts.</p>
+<p><a>As Reuters reported</a>, Germany's decision to fast-track its transition away from nuclear power was influenced by the 2011 nuclear meltdown in Fukushima, Japan.</p>
+<p>Germany's six nuclear power plants contributed about 12 percent of the country's electricity production, compared to 41 percent coming from renewable energy, 28 percent from coal and 15 percent from gas.</p>
+<p>The last three operating nuclear plants — Isar 2, Emsland and Neckarwestheim II — are scheduled to be shut down by the end of 2022.</p>
+<p>However, Habeck also predicted that Germany will likely miss its carbon emissions reduction target in 2022.</p>
+<p>"Even for 2023 it will be difficult enough. We are starting with a drastic backlog," Habeck said.</p>
+<div> <h1>Energy Environment — The biggest climate news of 2021</h1> <div> By Rachel Frazin and Zack Budryk - 12/30/21 06:37 PM EST </div> </div>
+<p> Biden comes in with a bang</p>
+<p>The presidential transition was a turning point for climate policy as the country shifted from a president who called climate change a “hoax” to one who named combating global warming as one of his top priorities.</p>
+<a>revoked a key permit for the Keystone XL pipeline</a> — eventually leading to the project’s cancellation and halted leasing Arctic National Wildlife Refuge.
+<p>Days later, he also implemented a contentious <a>pause on new oil and gas leasing</a> while the Interior Department reviews its oil and gas drilling program on federal lands. </p>
+<p><u>US REGIONS GRAPPLE WITH EXTREMES</u></p>
+<a>removed</a> by its board soon after.
+<a>set</a> a dryness record of 56 days during a period when a total of 15 large fires were burning across the state.
+<p>Portland saw three consecutive days of record-high temperatures and briefly <a>suspended</a> its streetcar and light rail services due to heat so extreme it melted cables. In late June, Seattle <a>saw</a> a then-record temperature of 107 degrees.</p>
+<p>Also over the summer, Hurricane Ida made landfall in Louisiana before turning northeast, causing an estimated <a>$65 billion</a> worth of damage.</p>
+<p> US sets big 2030 emissions goals </p>
+<p>Biden's announcement came as he seeks to reassert U.S. leadership on climate, and put pressure on the administration to move toward policies that will make it a reality.</p>
+<p> Green groups pan lack of action on pipelines</p>
+<p>Although President Biden shut down the Keystone XL pipeline on his first day in office, he has taken no action on two other pipelines: the Dakota Access Pipeline and the replacement of Line 3 of Enbridge’s pipeline in Minnesota.</p>
+<p>Both pipelines drew numerous protests from environmentalist and Indigenous rights groups, who argued they would disrupt their local environments as well as pose broader risks. </p>
+<p>The Justice Department has defended the permitting process for Line 3, which took place during the Trump administration.</p>
+<p>The construction was eventually completed this year. </p>
+<p>The administration and a federal court both declined to shut down the Dakota Access pipeline, although an appeals court ruled at the beginning of the year that the government must conduct a full Environmental Impact Statement for the project.</p>
+<p>“Yet, President Biden’s actions today fail to live up to the climate and Tribal commitments he made, nor is it in line with the bold action he has taken since taking office.”</p>
+<p><u>NEW EMISSIONS, MILEAGE STANDARDS</u></p>
+<p>The Biden administration took steps to strengthen vehicle emissions loosened during the Trump administration, as well as proposed mileage standards, which are expected to push the market toward electric vehicles. </p>
+<p>Over the summer, the Biden administration also indicated that it would pursue longer term standards for light- and medium-duty vehicles, and set the goal of making half of new U.S. vehicle sales in this country electric by 2030.</p>
+<p>Meanwhile, automakers also unveiled electric vehicle goals of their own, like GM, which pledged to have an <a>all-electric light-duty fleet by 2035</a> (and who could forget that <a>Superbowl ad?</a>). </p>
+<a>reinstate California’s authority</a> to set its own vehicle tailpipe emissions standards, with the
+<a>Transportation Department finalizing its part of the action last week</a>, while the EPA’s work is still ongoing.
+<p>Some environmentalist advocacy groups have expressed hope that the signature legislation, and its climate provisions, may be salvageable.</p>
+<p>“I do think that the negotiations can continue. And I also think that we have to get to ‘yes’ ” said Melinda Pierce, legislative director for the Sierra Club, said earlier this month.</p>
+<p>In the meantime, the smaller bipartisan infrastructure bill Biden signed into law in November contains a number of climate provisions as well:</p>
+<li>$50 billion for weatherization and resilience funds</li>
+<li>Increased funding for the Federal Emergency Management Agency’s disaster response</li>
+<li>$7.5 billion for building out electric vehicle charging station infrastructure,</li>
+<li><a>$1 billion</a> for the backlog of federal Superfund sites.</li>
+<a>indicated</a> it could increase carbon emissions if its surface transportation funds are used to expand highways rather than road maintenance.
+<p><u>CHANGE 'UNEQUIVOCALLY' CAUSED BY HUMANS</u></p>
+<p>A report issued in August from the UN’s Intergovernmental Panel on Climate Change said that it’s <a>“unequivocal” that human influence has warmed the planet.</a></p>
+<p>And, it warned that as the Earth heats up, climate change will increasingly be seen in heat waves, more frequent and intense precipitation and droughts — as well as sea level rise. But, many are<a> already seeing climate damage today</a>.</p>
+<p> Exxon tape prompts congressional grilling</p>
+<a>subpoenaed</a> the witnesses, demanding records and internal communications she said they failed to produce voluntarily.
+<p> Biden, Dems say America is 'back' at COP26 </p>
+<p>“Our legislation is far reaching, ensuring that [the] future economy is greener and cleaner,” Pelosi said.</p>
+<p>Ultimately, world leaders at the summit agreed on a goal of reducing global carbon emissions 45 percent by 2030 and increasing funding to the developing world for climate resilience.</p>
+<p>And, for the first time, the agreement mentioned fossil fuels, though this language was eventually watered down to calling for a “phasedown” of unabated coal instead of a “phaseout.”</p>
+<a>told The Washington Post the summit</a> was a “PR event.”
+<p>COP26 “doesn't mean anything unless that actually leads to increased ambition and if they actually fulfill those ambitions," she said.</p>
+<p><u>TO LEASE OR NOT TO LEASE, THAT IS THE QUESTION</u></p>
+<p>On Black Friday, the Biden administration released a report detailing its long anticipated recommendations for reforms to oil and gas drilling on federal lands and waters. </p>
+<a>recommending increases for the fees</a> that companies pay to drill on public lands, but falling short of President Biden’s call for “banning new oil and gas permitting on public lands and waters.”
+<p>Meanwhile its timing drew comparisons to the Trump administration, which <a>dropped a major climate change report on Black Friday in 2018</a>.</p>
+<a>temporarily blocked it</a> following lawsuits from Republican-led states.
+<p>Then, the administration moved ahead with a sale that<a> offered up 80 million acres in the Gulf of Mexico for lease</a>, drawing ire from environmental groups who opposed it. </p>
+<p><u>WHAT WE'RE READING</u></p>
+<li>This tree has stood here for 500 years. Will it be sold for $17,500? <a>The Washington Post reports</a></li>
+<li>After the Wars in Iraq, ‘Everything Living is Dying,’ Inside Climate News reports</li>
+<li>ERCOT: Power generators 'ready' if another freeze sweeps Texas, <a>The Houston Chronicle reports</a></li>
+<li>Wind-driven wildfires prompt evacuation order for Colorado town of 13,000, <a>Reuters reports</a></li>
+<li>Dire drought conditions dominate Utah’s environmental landscape in 2021, KUER reports</li>
+<ul><li>Germany <a>will likely miss 2022 climate targets</a>, official says</li><li>Rising gas price projections complicate Biden's horizons</li></ul>
+<p>And finally, something offbeat and off-beat: Capybaras enjoy their baths.</p>
+<p>That’s it for today, thanks for reading. Check out The Hill’s<a> energy environment page</a> for the latest news and coverage. We’ll see you Monday!</p>
+<div>A must-read political newsletter that breaks news and catches you up on what is happening.</div>
+<div><ul> <li> Delivered to your inbox midday</li> </ul></div>
+<div> <div> <div>The Hill's Morning Report Tipsheet</div> <div>Most Popular - Easy to read, daily digest of the news from The Hill and around the world</div> </div> </div>
+<div> <div> <div>12:30 Report</div> <div>The Hill's must read political newsletter that breaks news and catches you up on what happened in the morning and what to look for after lunch</div> </div> </div>
+<div> <div> <div>Breaking News</div> <div>Get breaking news as it happens</div> </div> </div>
+<div> <div> <label>Defense </label> </div> <div> <label>Campaign </label> </div> <div> <label>Technology </label> </div> </div>
+<div> <div> <label>Finance Economy </label> </div> <div> <label>Agency Insider </label> </div> </div>
+<div> <div> <label>Healthcare </label> </div> <div> <label>Cybersecurity </label> </div> </div>
+<div> <h1>South Korea 'effectively' reaches agreement with US to end Korean war</h1> <div> By Jordan Williams - 12/30/21 02:45 PM EST </div> </div>
+<p>The United States and South Korea have “effectively” reached an agreement on a draft declaration that would formally end the Korean War, South Korea’s top diplomat said Wednesday.</p>
+<p>An armistice was signed in July 1953 to end a war that began in 1950 when North Korean troops invaded South Korea. A formal peace treaty ending the war was never signed.</p>
+<p>North Korea has been unresponsive to talks on formally ending the war, Yonhap noted. </p>
+<p>South Korean Foreign Minister Chung Eui-yong told reporters on Wednesday that his country and the U.S. have “already shared the understanding” on the importance of ending the war, according to South Korean Yonhap News Agency.</p>
+<p>"Regarding the end-of-war declaration, South Korea and the U.S. have already shared the understanding on its importance, and the two sides have effectively reached an agreement on its draft text,” Chung said. </p>
+<p>In September, North Korea’s Vice Foreign Minister Ri Thae Song said Pyongyang would not agree to an official declaration unless the U.S. stopped its “hostile policy” towards the nation.</p>
+<p>“The U.S. withdrawal of its double-standards and hostile policy is the top priority in stabilizing the situation of the Korean peninsula and ensuring peace on it,” he said at the time. </p>
+<div>The Defense Newsletter: Today's daily digest and what's expected to break tomorrow.</div>
+<div><ul> <li>Delivered to inboxes every weekday evening.</li> </ul></div>
+<div> <h1>Overnight Defense National Security — The next fight for military justice</h1> <div> By Jordan Williams - 12/30/21 06:13 PM EST </div> </div>
+<p>The 2022 National Defense Authorization Act included major reforms for the military justice system, but sets up a new fight for further reform. </p>
+<p>More on that, plus the latest Marines to be separated for refusing the COVID-19 vaccine, and the Pentagon’s contract for producing COVID-19 test materials. </p>
+<div>Note: Overnight Defense will be taking off tomorrow but will return Monday. Happy New Year!</div>
+<p> NDAA sets up new fight for military justice </p>
+<p>The fiscal 2022 National Defense Authorization Act (NDAA) last week ushered in a massive military justice overhaul, but also set up the next political fight over the role of commanders in prosecutions.</p>
+<p>A provision of the mammoth defense bill would remove commanders from the chain of command when prosecuting certain crimes like sexual assault, while still giving them some authorities like picking juries and calling witnesses.</p>
+<p>Advocates and their allies in Congress are gearing up for the next push, demanding that among other things commanders be completely removed from the process. </p>
+<p>What the NDAA accomplished: The most controversial reform included in the final version is how the military prosecutes certain crimes under the Uniform Code of Military Justice.</p>
+<p>Under the legislation, the decision to prosecute 11 crimes — like rape, murder, manslaughter and child pornography — would be given to “special trial prosecutors” who are outside of the chain of command.</p>
+<p>But despite the controversy surrounding some aspects of the bill, advocates hailed other reforms in the NDAA that largely went unnoticed. </p>
+<p>For example, the legislation makes sexual harassment a punishable offense under the Uniform Code of Military Justice and allows judges to hand down sentences in noncapital courts-martial.</p>
+<p>Rachel VanLandingham, a professor of law at Southwestern Law School, characterized the changes as a “chink in the armor” of military justice reform.</p>
+<p>What now? The Department of Defense will soon begin to implement the changes included in the NDAA, and it remains to be seen how these changes will impact military justice.</p>
+<p>Read the full story here.</p>
+<p><u>A MESSAGE FROM HUAWEI</u></p>
+<p>Over 200 Marines booted for vaccine refusal</p>
+<p>More than 200 Marines have been removed for refusing to comply with the Pentagon's COVID-19 vaccine mandate. </p>
+<p>Capt. Andrew Wood, a Marine Corps spokesperson, said in an emailed statement that 206 Marines have been separated to date for not getting vaccinated. </p>
+<p>Earlier this month, the Marines announced that 103 service members had been separated for refusing to comply. Last week, that number rose to 169. </p>
+<p>The Marine’s current stats: The deadline for active-duty Marines to get vaccinated was Nov. 28, and reservists had until Tuesday to be in compliance. </p>
+<p>Overall, 95 percent of the more than 182,000 active-duty Marines are at least partially vaccinated, while 94 percent are fully vaccinated, Wood said in the statement. These numbers are on par with the vaccination rate from earlier this month.</p>
+<p>However, the vaccination rate for reservists increased, with at least 86 percent of reservists at least partially vaccinated and 83 percent fully inoculated.</p>
+<p>The Marine Corps is still tracking 1,007 approved administrative or medical exemptions, Wood added. </p>
+<p>The number of requests for religious accommodations, however, has risen to 3,247. Of these, the service has not approved any of the 3,115 requests that it has processed.</p>
+<p> $136M contract for COVID-19 test materials</p>
+<p>The Department of Defense (DOD) announced on Wednesday that it was awarding a $136.7 million contract to the Merck-owned brand MilliporeSigma for the domestic production of a material critical for COVID-19 rapid point-of-care tests.</p>
+<p>Testing in short supply: The contract comes amid short supply of COVID-19 tests amid the surge of the highly transmissible omicron variant, which has driven a surge in infections. </p>
+<a>ensure coronavirus testing availability</a>.
+<p>“Seeing how tough it was for some folks to get a test this weekend shows that we have more work to do. We’re doing it,” Biden said in a COVID-19 response team call with governors on Monday.</p>
+<p>While touting the recently approved availability of at-home COVID-19 tests, Biden acknowledged that "it’s not enough, it’s clearly not enough."</p>
+<p><u>WHAT WE’RE READING</u></p>
+<li>$4 million worth of heroin <a>seized by US Navy</a> in Arabian Sea</li>
+<li>South Korea ‘effectively’ reaches agreement with US to end Korean war</li>
+<li>Former Afghan president says he had no choice but to flee Kabul as Taliban closed in</li>
+<li>Associated Press: Hundreds of Afghans denied humanitarian entry into US</li>
+<li>The Washington Post: He was waterboarded at VMI. His tormentors <a>still got into</a> the military</li>
+<li>Military Times: COVID-19 cases within VA <a>hit new pandemic highs</a></li>
+<p>Well, That’s it for today! Check out The Hill’s defense and national security pages for latest coverage. See you Monday!</p>
+<div> Tags Joni Ernst Joe Biden </div>
+<div>The Defense Newsletter: Today's daily digest and what's expected to break tomorrow.</div>
+<div><ul> <li>Delivered to inboxes every weekday evening.</li> </ul></div>
+<div> <div> <div>The Hill's Morning Report Tipsheet</div> <div>Most Popular - Easy to read, daily digest of the news from The Hill and around the world</div> </div> </div>
+<div> <div> <div>12:30 Report</div> <div>The Hill's must read political newsletter that breaks news and catches you up on what happened in the morning and what to look for after lunch</div> </div> </div>
+<div> <div> <div>Breaking News</div> <div>Get breaking news as it happens</div> </div> </div>
+<div> <div> <label>Defense </label> </div> <div> <label>Campaign </label> </div> <div> <label>Technology </label> </div> </div>
+<div> <div> <label>Finance Economy </label> </div> <div> <label>Agency Insider </label> </div> </div>
+<div> <div> <label>Healthcare </label> </div> <div> <label>Cybersecurity </label> </div> </div>
+<div> <h1>Pentagon streamlines process for requesting National Guard in DC </h1> <div> By Caroline Vakil - 12/30/21 06:38 PM EST </div> </div>
+<p>The Department of Defense is streamlining the process for requesting National Guard services in Washington, D.C., granting approval authority for certain D.C. government requests to the Defense secretary, according to a memo released on Thursday.</p>
+<p>Since then, law enforcement leaders have pledged to step up their security efforts. The Capitol Police remounted security fencing and added personnel around the Capitol in September during the “Justice for J6” rally.</p>
+<div> <h1>Oklahoma National Guard says unvaccinated airmen can't participate in drills</h1> <div> By Jordan Williams - 12/30/21 07:20 PM EST </div> </div>
+<p>The Oklahoma National Guard said unvaccinated airmen cannot participate in drills, days after a federal judge turned down the state’s bid to block the Pentagon’s vaccine mandate for National Guard members.</p>
+<p>Brig. Gen. Thomas Mancino, commander of the state's National Guard, acknowledged Tuesday’s court ruling <a>in a message to the force</a>, though he said the ruling doesn’t mean the legal fight is over.</p>
+<p>Mancino also noted that the Department of Defense has said it will recoup pay provided to unvaccinated airmen who drill after Jan. 1, which can be enforced outside of the state's control. </p>
+<p>The Air Force recently extended the deadline for Air National Guard members to be vaccinated from Dec. 2 to Dec. 31. The Army gave its National Guard members until June 30, 2022, to come into compliance.</p>
+<p>In a ruling on Tuesday, U.S. District Judge Stephen Friot denied a motion from Oklahoma Gov. Kevin Stitt (R) and Attorney General John O’Connor to block the vaccine mandate, finding that their claims were without merit.</p>
+<p>Shortly after the request, which was later denied, Mancino issued a memo stipulating that no member of the Oklahoma National Guard was required to be vaccinated.</p>
+<p>But in a statement issued on Dec. 9, Mancino <a>seemingly acknowledged that the state couldn’t evade</a> the mandate when troops are called up for drills or further school. </p>
+<p>“I continue to encourage everyone to get vaccinated, if you choose, and will continue to facilitate that option for any Airmen who wish to take it,” Mancino wrote in his latest message. </p>
+<div> Tags Lloyd Austin <a>Kevin Stitt</a> <a>Pentagon vaccine mandate</a> </div>
+<div> <h1>Save time on web content with this AI writer who does the hard work for you</h1> <div> By StackCommerce - 12/25/21 12:04 PM EST </div> </div>
+<p>The Hill may be compensated and/or receive an affiliate commission if you buy through our links.</p>
+<p>Make copywriting less of a hassle and get the Texta.ai Copywriting Premium Plan: Lifetime Subscription for $49.99 (reg. $4680).</p>
+<p>Prices subject to change.</p>
+<div> <h1>Enjoy high-quality audio with this gaming headset while playing your favorite video games</h1> <div> By StackCommerce - 12/25/21 04:16 PM EST </div> </div>
+<a> gaming experience</a> a lot more enjoyable.
+<p>The Alpha Bravo received a promising rating on Amazon with 4.7 out of 5 stars. One customer raves, "They have great, dynamic sound. I primarily use these for online gaming ... The mic is very clear and cancels out background noise very well."</p>
+<p>Get the Alpha Bravo GX-1 Gaming Headset before it's all gone at the affordable price of $119.99.</p>
+<div> <h1>Get an extra 20% off this documentary streaming and VPN bundle for our Cyber Week Sale</h1> <div> By StackCommerce - 12/26/21 12:10 PM EST </div> </div>
+<a>MagellanTV Documentary Streaming Service and KeepSolid VPN Unlimited Lifetime Subscriptions</a>. This two-part bundle is on sale for just $143.20 in our Cyber Week Sale when you use the code CYBER20.
+<p>Amp up your cybersecurity and privacy with VPN Unlimited. PC Mag’s top VPN is trusted for its military-grade AES 256-bit encryption and zero log policy. Its advanced and practical features make it a great choice of VPN. </p>
+<p>Save big when you buy the MagellanTV Documentary Streaming Service KeepSolid VPN Unlimited Lifetime Subscriptions during our Cyber Week Sale. Use the code CYBER20 at checkout to get an extra 20% off, for just $143.20. </p>
+<div> <h1>Take your charging system to the next level with this on-sale 5-in-1 wireless charging station </h1> <div> By StackCommerce - 12/26/21 04:31 PM EST </div> </div>
+<p>The OMNIA Q5 5-in-1 Wireless Charging Station provides an ideal solution to both clutter and low battery. Get it on sale for $79.96 during our Cyber Week Sale when you use the code CYBER20 at checkout. </p>
+<p>Yes, most devices come with charging cables. But, those can fray and break. The OMNIA Q5 will take your charging setup to the next level, providing much more than standard cables do. </p>
+<div> <h1>Score access to a VPN service, PlayStation Plus, and an e-learning platform for an extra 20% off</h1> <div> By StackCommerce - 12/27/21 04:46 PM EST </div> </div>
+<p>The PlayStation Plus, VPN Unlimited, StackSkills Super Bundle normally goes for $1753, but for a limited time, you can snag it on sale for $63.20 with code CYBER20.</p>
+<div> <h1>Enjoy an extra 20% discount on a subscription to this app that makes wireframing easy</h1> <div> By StackCommerce - 12/27/21 06:25 PM EST </div> </div>
+<a> design elements</a> and content should be arranged on the screen, allowing designers to determine whether a page or app is actually usable and functional.
+<p>Zen Wireframe Pro currently boasts a rating of 5 out 5 stars on AppSumo.com. Find out why by picking up a lifetime subscription for only $52 (MSRP $1080) with the code CYBER20.</p>
+<div> <h1>Save an extra 20% on this Post Planner subscription during our Cyber Week Sale</h1> <div> By StackCommerce - 12/28/21 12:16 PM EST </div> </div>
+<p>Prices subject to change. </p>
+<div> <h1>Organize your thoughts with Zen Mind, discounted for Cyber Week Sale</h1> <div> By StackCommerce - 12/28/21 04:31 PM EST </div> </div>
+<div> <h1>Turn your Mac into a media powerhouse with this bundle of apps on sale for an extra 20% off</h1> <div> By StackCommerce - 12/29/21 12:40 PM EST </div> </div>
+<p>When bought separately, these 4 apps will set you back $79. But this Cyber Week, you can get them all on sale for $31.20 with the code CYBER20.</p>
+<div> <h1>Save an extra 20% discount on a lifetime subscription to this VPN service</h1> <div> By StackCommerce - 12/29/21 04:43 PM EST </div> </div>
+<div> <h1>Request and share passwords and sensitive information with ease with a subscription to this online service</h1> <div> By StackCommerce - 12/30/21 12:11 PM EST </div> </div>
+<p>Take full ownership of your sensitive information with KeysForWeb. A lifetime subscription usually costs $480, but for a limited time, you can grab it on sale for $39.20 with code CYBER20.</p>
+<div> <h1>Ditch the 9-to-5 and start your own online business with this on-sale Amazon FBA bundle</h1> <div> By StackCommerce - 12/30/21 04:31 PM EST </div> </div>
+<p>For a limited time, save more than ever getting your business started with The 2022 Amazon FBA Dropshipping Bundle on sale for $27.99 with code CYBER20 to get your business going with Amazon FBA and achieve a dream of financial independence. </p>
+<div> <h2>Articles by Alexander Bolton</h2> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Harry Reid, political pugilist and longtime Senate majority leader, dies</a></h2> <p> BY Alexander Bolton 12/28/21 08:13 PM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Democrats set to play hardball with Manchin</a></h2> <p> BY Alexander Bolton 12/21/21 06:00 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Biden's relationship with 'Joe-Joe' Manchin hits the rocks</a></h2> <p> BY Alex Gangitano and Alexander Bolton 12/20/21 05:21 PM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Manchin undercuts Biden, leaving his agenda in limbo</a></h2> <p> BY Alexander Bolton 12/20/21 06:00 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Manchin says he will not vote for Build Back Better: 'This is a no'</a></h2> <p> BY Alexander Bolton 12/19/21 09:17 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Schumer says Build Back Better will be delayed</a></h2> <p> BY Alexander Bolton 12/17/21 10:50 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Democrats lack backup plan with expanded child tax credit set to lapse</a></h2> <p> BY Alexander Bolton and Naomi Jagoda 12/16/21 06:43 PM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Biden's Build Back Better bill suddenly in serious danger</a></h2> <p> BY Alexander Bolton 12/16/21 01:34 PM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>No. 2 Senate Democrat 'stunned' by Manchin's stance on child tax credit</a></h2> <p> BY Alexander Bolton 12/16/21 11:57 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Democratic talks with Manchin show signs of melting down</a></h2> <p> BY Alexander Bolton 12/15/21 04:22 PM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Manchin yells at reporter: 'You're bull----'</a></h2> <p> BY Alexander Bolton 12/15/21 01:44 PM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Energy Environment</a> </div> <header> <h2><a>Democrats divided over how hard to push Manchin</a></h2> <p> BY Alexander Bolton 12/15/21 06:00 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Schumer threatens weekend votes to break GOP blockade of Biden nominees</a></h2> <p> BY Alexander Bolton 12/14/21 03:25 PM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Biden tries to budge Manchin</a></h2> <p> BY Alexander Bolton and … 12/13/21 06:05 PM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Trump demands undermine unity of GOP leaders</a></h2> <p> BY Alexander Bolton and Scott Wong 12/11/21 05:58 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Democrats don't think Manchin wants Biden agenda vote by Christmas</a></h2> <p> BY Alexander Bolton 12/10/21 06:00 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Graham warns GOP about Trump's wrath on debt vote</a></h2> <p> BY Alexander Bolton 12/09/21 06:00 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Senate poised to pass resolution to nullify Biden vaccine mandate</a></h2> <p> BY Alexander Bolton 12/08/21 06:00 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Second Senate Democrat to back vote against Biden vaccine mandate</a></h2> <p> BY Alexander Bolton 12/07/21 04:23 PM EST </p> </header> </article> </div>
+<div> <article> <div> <a>House</a> </div> <header> <h2><a>Democrats offer bill to raise debt ceiling, avoid filibuster</a></h2> <p> BY Alexander Bolton and Mike Lillis 12/07/21 01:15 PM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Democrats seek to avoid internal disputes over Russia and China</a></h2> <p> BY Alexander Bolton 12/07/21 06:00 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Democrats see Christmas goal slipping away</a></h2> <p> BY Alexander Bolton 12/06/21 06:00 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Finance</a> </div> <header> <h2><a>Senate dodges initial December crisis with last-minute deal</a></h2> <p> BY Alexander Bolton 12/03/21 06:00 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>GOP blocks bill to expand gun background checks after Michigan school shooting</a></h2> <p> BY Alexander Bolton 12/02/21 02:17 PM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>Schumer warns of 'Republican anti-vaccine shutdown'</a></h2> <p> BY Alexander Bolton 12/02/21 11:10 AM EST </p> </header> </article> </div>
+<div> <article> <div> <a>Senate</a> </div> <header> <h2><a>GOP fears boomerang as threat of government shutdown grows</a></h2> <p> BY Alexander Bolton and Mike Lillis 12/02/21 06:00 AM EST </p> </header> </article> </div>
+<h1>Ken Klippenstein discusses demands of striking Kellogg workers</h1>
+<p>Investigative reporter Ken Klippenstein on Monday delved into the demands of striking Kellogg workers, as well as the company's reaction to their efforts. </p>
+<p>Last week, Kellogg North America President Chris Hood said the company would need to move forward its regular operations after having 19 negotiation sessions with striking workers. </p>
+<p>About two months ago, roughly 1,440 Kellogg employees began striking when the company and their union, the Bakery, Confectionery, Tobacco Workers and Grain Millers International Union, had a contract dispute. </p>
+<p>After the employees rejected a proposed five-year contract, Hood said that Kellogg had "no choice but to continue executing the next phase of our contingency plan including hiring replacement employees in positions vacated by striking workers." </p>
+<p>During his interview, Klippenstein said such a decision is "something that's illegal in a lot of countries." </p>
+<div> <div> <div>Rising</div> </div> <div> 23 hours 37 min ago </div> <div> Rising: December 30, 2021 </div> </div>
+<div> 17 hours 14 min ago </div>
+<div> Federalist editor sees little impact from Maxwell verdict on Prince Andrew case </div>
+<div> <div><p>Emily Jashinsky, culture editor at The Federalist, said Ghislaine Maxwell’s conviction on charges involving underage sex is likely to have little impact on other allegations against Prince Andrew, who</p></div> </div>
+<div> 18 hours 14 min ago </div>
+<div> Matt Taibbi: School closures, not critical race theory, was primary issue for parents in Virginia election </div>
+<div> <div><p>Journalist and podcaster Matt Taibbi said Thursday that Democrats are on the road to losing more support on an issue where they have had an advantage for decades — education. </p></div> </div>
+<div> 18 hours 27 min ago </div>
+<div> Briahna Joy Gray discusses Harris's declining approval numbers </div>
+<div> <div><p>Recent declining approval numbers have led Vice President Kamala Harris to turn to confidants such as Hillary Clinton for advice, Briahna Joy Gray said, adding that doing so is not a good idea. </p></div> </div>
+<div> 1 day 13 hours ago </div>
+<div> Rep. Bonnie Watson Coleman discusses decision to keep some people on home confinement out of prison </div>
+<div> <div><p>Rep. Bonnie Watson Coleman (D-N.J.) is voicing support for allowing some prisoners released to home confinement during the coronavirus pandemic to remain out of prison. </p></div> </div>
+<div> <div> <div>Rising</div> </div> <div> 1 day 23 hours ago </div> <div> Rising: December 29, 2021 </div> </div>
+<div> <div> <div>Rising</div> </div> <div> 2 days 23 hours ago </div> <div> Rising: December 28, 2021 </div> </div>
+<div> <div> <div>Rising</div> </div> <div> 3 days 23 hours ago </div> <div> Rising: December 27, 2021 </div> </div>
+<div> <div> <div><a>Rising</a></div> </div> <div> 6 days 36 min ago </div> <div> Rising: December 25, 2021 </div> </div>
+<div> <div> <div><a>Rising</a></div> </div> <div> 1 week 36 min ago </div> <div> Rising: December 24, 2021 </div> </div>
+<h1>Marans: Political Co-Op dividing Rhode Island progressives</h1>
+<p>Huffington Post reporter Daniel Marans said the Rhode Island Political Cooperative, a progressive organization that provides campaign services to candidates it endorses, is creating a rift within the state’s Democratic party.</p>
+<p>“There was a special state Senate election where there was a co-op candidate and there was another candidate from the left. Arguably, they may have cannibalized some of their own votes and one of the established candidates won,” Marans said.</p>
+<p>Despite the fact that Co-Op-backed candidates successfully ousted a number of “old guard,” “pro-labor,” and “socially conservative” Democrats in recent years, he said, the tide in the Ocean State is shifting.</p>
+<p>“In 2022, I suspect that the centrist to conservative Democratic machine will try to unseat some of these [Co-Op backed] members,” Marans said. </p>
+<p>Marans said that Co-Op infighting has caused many candidates to distance themselves from the organization that includes some on their own accord and others ousted by leadership. </p>
+<p>He named Tiara Mack, a progressive activist turned state Senator who was backed by the Co-Op during her campaign and later left the group, citing a lack of confidence in leadership.</p>
+<p>Marans said other lawmakers that were formerly associated with the Co-Op left due to the group’s hard line tactics that made it difficult for them to work with more moderate colleagues to accomplish common goals.</p>
+<p>“You can play hardball, but can you sustain those gains if you over play your hand?” Marans said.</p>
+<div> <div> <div>Rising</div> </div> <div> 23 hours 18 min ago </div> <div> Rising: December 30, 2021 </div> </div>
+<div> 16 hours 55 min ago </div>
+<div> 17 hours 54 min ago </div>
+<div> 18 hours 8 min ago </div>
+<div> <div> <div><a>Rising</a></div> </div> <div> 3 days 23 hours ago </div> <div> Rising: December 27, 2021 </div> </div>
+<div> <div> <div><a>Rising</a></div> </div> <div> 6 days 17 min ago </div> <div> Rising: December 25, 2021 </div> </div>
+<div> <div> <div><a>Rising</a></div> </div> <div> 1 week 17 min ago </div> <div> Rising: December 24, 2021 </div> </div>
+<h1>Rep. Bonnie Watson Coleman discusses decision to keep some people on home confinement out of prison</h1>
+<a>announced last week</a> that the Department of Justice would allow some prisoners released on home confinement because of COVID-19 to stay out of prison.
+<p>Garland's decision reversed a former policy adopted in the final days of the Trump administration.</p>
+<div> <div> <div>Rising</div> </div> <div> 23 hours 47 min ago </div> <div> Rising: December 30, 2021 </div> </div>
+<div> 17 hours 23 min ago </div>
+<div> Federalist editor sees little impact from Maxwell verdict on Prince Andrew case </div>
+<div> <div><p>Emily Jashinsky, culture editor at The Federalist, said Ghislaine Maxwell’s conviction on charges involving underage sex is likely to have little impact on other allegations against Prince Andrew, who</p></div> </div>
+<div> 18 hours 23 min ago </div>
+<div> Matt Taibbi: School closures, not critical race theory, was primary issue for parents in Virginia election </div>
+<div> <div><p>Journalist and podcaster Matt Taibbi said Thursday that Democrats are on the road to losing more support on an issue where they have had an advantage for decades — education. </p></div> </div>
+<div> 18 hours 36 min ago </div>
+<div> Briahna Joy Gray discusses Harris's declining approval numbers </div>
+<div> <div><p>Recent declining approval numbers have led Vice President Kamala Harris to turn to confidants such as Hillary Clinton for advice, Briahna Joy Gray said, adding that doing so is not a good idea. </p></div> </div>
+<div> 1 day 14 hours ago </div>
+<div> Rep. Bonnie Watson Coleman discusses decision to keep some people on home confinement out of prison </div>
+<div> <div><p>Rep. Bonnie Watson Coleman (D-N.J.) is voicing support for allowing some prisoners released to home confinement during the coronavirus pandemic to remain out of prison. </p></div> </div>
+<div> <div> <div>Rising</div> </div> <div> 1 day 23 hours ago </div> <div> Rising: December 29, 2021 </div> </div>
+<div> <div> <div>Rising</div> </div> <div> 2 days 23 hours ago </div> <div> Rising: December 28, 2021 </div> </div>
+<div> <div> <div>Rising</div> </div> <div> 3 days 23 hours ago </div> <div> Rising: December 27, 2021 </div> </div>
+<div> <div> <div><a>Rising</a></div> </div> <div> 6 days 46 min ago </div> <div> Rising: December 25, 2021 </div> </div>
+<div> <div> <div><a>Rising</a></div> </div> <div> 1 week 46 min ago </div> <div> Rising: December 24, 2021 </div> </div>
+<div> <div><a>Rising</a></div> </div>
+<div> 17 hours 35 min ago </div>
+<div> 18 hours 34 min ago </div>
+<div> 18 hours 48 min ago </div>
+<div> <div> <div><a>Rising</a></div> </div> <div> 6 days 57 min ago </div> <div> Rising: December 25, 2021 </div> </div>
+<div> <div> <div><a>Rising</a></div> </div> <div> 1 week 57 min ago </div> <div> Rising: December 24, 2021 </div> </div>
+<div> 1 week 15 hours ago </div>
+<div> Researcher explains why those without college degrees are seeing decline in close friendships </div>
+<div> <div><p>Daniel Cox, the director of the Survey Center on American Life, explained that Americans without college degrees were reporting fewer close friendships due to a “decline in civic and social infrastructure.”</p></div> </div>
+<div> <h1>Democrats face painful reality as priorities stumble</h1> <div> By Jordain Carney - 12/17/21 06:00 AM EST </div> </div>
+<p>The setbacks fueled angst within the caucus and are poised to send Democrats back home to voters — and into the 2022 midterm elections, where Republicans are feeling increasingly bullish — with key pieces of their legislative agenda incomplete. </p>
+<p>“Yes, I am frustrated,” she said. “I’m afraid we won’t retain the majority if we don’t pass voter protection legislation, which our constituents also expect us to do.” </p>
+<p>“Unless and until we change the rules of the Senate and get serious about legislating on the behalf of the American people, we’re going to continue this frustration,” he said. </p>
+<p>Democrats won back control of the Senate for the first time in six years in January, but it's a narrow 50-50 majority that relies on Vice President Harris to break a tie.</p>
+<p>Durbin, asked about potential backlash from voters, argued that the current rules of the Senate undermine the Democratic majority. </p>
+<p>“I’m trusting that responsible members of the press will remind them that a 50-50 Senate is not a Democratic majority. And frankly in a 51-49 or anything short of 60 is not a Democratic majority,” Durbin said. </p>
+<p>The setbacks for Biden and Senate Democrats are coming from two fronts. </p>
+<p>“We have 50 votes for elections. We have 50 senators to move Build Back Better. We have an agreement with Republicans on all nominations,” Cardin said, describing what he was hoping to hear. “I’d also like to see Santa Claus this year.”</p>
+<p>But the negotiations hit a significant stumbling block, sparking frustration within the caucus. </p>
+<p>Because Republicans have blocked several voting rights and election bills this year, Democrats acknowledge that they will need to change the 60-vote legislative filibuster in order to get something done. </p>
+<p>Democrats are facing pressure within their own caucus to move voting rights legislation, including taking up that fight before turning to Biden’s spending bill. </p>
+<p>Hirono questioned, “If we don’t, Democrats don’t stand up to this attack on our democracy, then what are we doing here?” </p>
+<p>Manchin has been engaged in talks with both Republicans and Democrats but hasn’t committed to changes. He’s also been a longtime opponent of using the “nuclear option,” another hurdle for Democrats if they are going to convince him to go it alone.</p>
+<p>But Sinema, in a statement from her spokesman, signaled that she’s still largely in the same place: Supportive of the 60-vote legislative filibuster and wary of the carveout idea that is under discussion as a potential rules change option. </p>
+<p>Democratic negotiators haven’t landed on a formal proposal but say a number of options are under consideration, including a carveout, reverting to a talking filibuster or switching the cloture requirement from 60 “yes” votes to 41 “no” votes. </p>
+<p>“It’s a new element,” said Sen. Jon Tester (D-Mont.), asked about Sinema’s position. “It complicates it.” </p>
+<div>A must-read political newsletter that breaks news and catches you up on what is happening.</div>
+<div><ul> <li> Delivered to your inbox midday</li> </ul></div>
+<div> <div> <div>The Hill's Morning Report Tipsheet</div> <div>Most Popular - Easy to read, daily digest of the news from The Hill and around the world</div> </div> </div>
+<div> <div> <div>12:30 Report</div> <div>The Hill's must read political newsletter that breaks news and catches you up on what happened in the morning and what to look for after lunch</div> </div> </div>
+<div> <div> <div>Breaking News</div> <div>Get breaking news as it happens</div> </div> </div>
+<div> <div> <label>Defense </label> </div> <div> <label>Campaign </label> </div> <div> <label>Technology </label> </div> </div>
+<div> <div> <label>Finance Economy </label> </div> <div> <label>Agency Insider </label> </div> </div>
+<div> <div> <label>Healthcare </label> </div> <div> <label>Cybersecurity </label> </div> </div>
+<div> <h1>Fauci on Fox's Jesse Watters: He 'should be fired on the spot'</h1> <div> By Dominick Mastrangelo - 12/21/21 10:00 AM EST </div> </div>
+<p>Watters told the activists to "be respectful" and identify themselves before ambushing Fauci but also urged them to record the confrontation and send it to Fox News and other leading players in the conservative media ecosystem. </p>
+<p>"Get us that! That's what we want," he said. "That changes the whole conversation of the country." </p>
+<p>Watters's comments, which were captured on video, were widely panned on social media by critics who saw them as a potential incitement of violence. </p>
+<p>Fauci, while appearing on CNN's "New Day" on Tuesday morning, called the host's comments "horrible." </p>
+<p>In a statement on Tuesday, Fox News said Watters' words had been "twisted completely out of context" by his critics. </p>
+<p>“Based on watching the full clip and reading the entire transcript, it’s more than clear that Jesse Watters was using a metaphor for asking hard-hitting questions to Dr. Fauci about gain-of-function research," the network said.</p>
+<p>Fauci has emerged as a lighting rod for criticism among conservatives since the beginning of the pandemic, some of whom who have questioned his credibility and accused him of partisan slant toward Democrats. </p>
+<div> <h1>Democrats set to play hardball with Manchin</h1> <div> By Alexander Bolton - 12/21/21 06:00 AM EST </div> </div>
+<p>Democratic aides say that Manchin can expect more tough treatment from Schumer and other Democratic lawmakers who are now under new pressure from the party’s base for failing to deliver on the “big, bold” agenda they promised earlier this year.</p>
+<p>“He has had absolutely no pressure,” said one Democratic aide, citing Manchin’s friendly meetings with the at the White House and at Biden’s home in Delaware this fall that failed to produce results.</p>
+<p>“Biden’s got to grab him by the lapels and say, ‘Listen, this ends now,’ ” the aide added, warning there’s little prospect of passing another piece of major legislation before the 2022 midterms if Build Back Better fails to pass.</p>
+<p>But now Biden, Schumer and other Democrats risk looking ineffective after Manchin flatly spurned their many entreaties with his bluntly stated opposition to Build Back Better on Fox News.</p>
+<p>“He’s going to blow up the president’s agenda so I think you have to play hardball but there are different ways to play hardball,” said Steve Jarding, a Democratic strategist who formerly advised the Democratic Senatorial Campaign Committee.</p>
+<p>“He’s making them looking ineffective,” he added.</p>
+<p>A day later, the White House was taking a much softer approach, with Psaki emphasizing Biden’s desire to work with Manchin at the daily briefing.</p>
+<p>Biden met with Manchin at the White House in late September and late October as well as at the president’s home in Wilmington, Del., but without any major results to show for those meetings.</p>
+<p>The White House said that Manchin signed off on a $1.75 trillion framework at the meeting in Delaware, which Schumer also attended, but Manchin this week disputed he had agreed to anything.</p>
+<p>In a “Dear Colleague” letter circulated Monday, Schumer took at not-so-subtle jab at Manchin.</p>
+<p>“We are going to vote on a revised version of the House-passed Build Back Better Act – and we will keep voting on it until we get something done,” Schumer wrote.</p>
+<p>The aide said Schumer knows many progressives in his party are angry over the failure to deliver Manchin’s vote and doesn’t leave a potential challenger any openings ahead of his reelection campaign in New York next year.</p>
+<p>“It’s performative,” said the aide. “It’s hard not to view this through the lens of his coming primary.”</p>
+<p>Ocasio-Cortez on Monday said Manchin committed “an egregious breach of the trust of the president” and said “it’s an outcome that we had warned about well over a month ago.”</p>
+<p>“And it’s really about time that we take the kid gloves off,” she added.</p>
+<p>Senate progressives have also vented their frustration since Manchin told Fox host Bret Baier that he is a “no” on Build Back Better.</p>
+<p>He reposted an interview he did with CNN’s “State of the Union” in which he called out Manchin for failing to meet his constituents needs.</p>
+<p>“Mr. Manchin says he’s representing the people of West Virginia,” Sanders said. “I told Manchin, by the way, I’ll pay for the damn poll in West Virginia on those issues. See how the people of West Virginia feel.”</p>
+<div>A must-read political newsletter that breaks news and catches you up on what is happening.</div>
+<div><ul> <li> Delivered to your inbox midday</li> </ul></div>

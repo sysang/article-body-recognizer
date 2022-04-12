@@ -1,0 +1,500 @@
+<p>Mr Setiyawan and other experts interviewed by CNA noted that there has been a spate of cyberattacks on government agencies and corporations recently. </p>
+<p>When asked about the root causes, they said that complacency, low digital literacy and lack of human capacity may be among the major factors involved.</p>
+<p>Stringent measures must be taken immediately to prevent further cases, they also said.</p>
+<p>SPATE OF ATTACKS ON GOVERNMENT AGENCIES, CORPORATIONS</p>
+<p>Apart from the BNPB incident last week, the public was also concerned when it was reported that the personal data of thousands of police officers were allegedly stolen by a hacker last month.</p>
+<p>A now-suspended Twitter account, claiming to be run by a hacker believed to be from Brazil, announced that data on 28,000 officers was stolen.</p>
+<p>When asked by CNA, national police spokesman Inspector General Dedi Prasetyo said that the case is currently being handled by its cybercrime unit. </p>
+<p>In late October, BSSN’s website was also hacked, said Mr Setiyawan.</p>
+<p>“It was one of our subdomains and we immediately evaluated it. Yes, in several parts we were careless. We should have really taken care of everything.”</p>
+<p>He added: “This had a tremendous effect on BSSN not in terms of data leakage and physical loss but in terms of reputation.”</p>
+<p>No data was taken as the subdomain did not contain anything important, Mr Setiyawan said. However, the hacker defaced the appearance of the website. </p>
+<p>It appeared that the hacker was based in Brazil who wanted to retaliate against Indonesian hackers who previously launched similar attacks, according to the spokesman.</p>
+<p>Meanwhile, data of about 1.3 million people in a health ministry’s COVID-19 app was leaked in August. </p>
+<p>The month before, data of thousands of customers of insurance provider BRI Life was leaked and sold online, said the company. </p>
+<p>The biggest data breach this year reportedly took place when information on 279 million people was stolen from the social health security administration (BPJS) in May.</p>
+<p>COMPLACENCY, LACK OF PUBLIC EDUCATION AMONG ROOT CAUSES</p>
+<p>What are the root causes?</p>
+<p>Cyberattacks in Indonesia will continue to persist because people underestimate them and do not understand their characteristics, said Mr Ardi Sutedja, head and founder of Indonesia Cyber Security Forum (ICSF).</p>
+<p>“The various technologies that we use today are not the work of Indonesians. We are all only users of technology. </p>
+<p>“Today's technology changes in seconds so we don't have the luxury of time to learn all the technology and its risks,” he said. As a solution, he suggested more human capacity building as well as better digital literacy education. </p>
+<p>Mr Pratama Persadha, chairman of cyber security NGO Communication and Information System Security Research Center (CISSReC) concurred. </p>
+<p>There is also the risk of personal data being leaked via electronic platform services.</p>
+<p>“That’s why we need better regulations so those who are responsible for our data leaks can be punished,” he said. </p>
+<p>He also said that many organisations have increased their reliance on cloud-hosted third-party providers for their primary business tasks. This has put more pressure on the third parties to ensure availability and security. </p>
+<p>Mr Lim urged companies to “invest in training and awareness among internal staff, keep them updated on latest happenings and phishing methods that attackers use to prevent any successful intrusion”.</p>
+<p>“PEOPLE MUST ALWAYS BE ALERT”: CYBER AGENCY</p>
+<p>Mr Setiyawan of the BSSN admits that the cybersecurity situation in Indonesia is a vulnerable one, since more people are getting online especially amid the pandemic. </p>
+<p>He stated that educating everyone on cybersecurity, including the top leaders in government organisations as well as the private sector, remains key as these are the decision makers who decide on budget, organisational structure and policies.</p>
+<p>In 2016, Indonesia was ranked 70th out of more than 150 countries in a Global Cybersecurity Index published by UN specialised agency International Telecommunication Union.</p>
+<p>Since then, Indonesia’s ranking has been improving, the spokesman pointed out. Last year, it was ranked 24th. </p>
+<p>He said the agency has been actively providing training to various institutions, but acknowledged that more needs to be done.</p>
+<p>BSSN has been tasked to develop 121 computer security incident response teams (CSRIT) by 2024. These teams will work with the government, digital economy sector and information infrastructure sector. </p>
+<p>He added that there are regulations available to punish institutions responsible for data leaks or hacking, but the problem lies in the implementation. </p>
+<p>“For example, BPJS, the information and communication ministry and BSSN are now being sued in court for the leaked data of BPJS users,” he said.</p>
+<p>The harshest sanction can be suspension of service. But in many instances, that would be quite impossible since it would affect a lot of users, said Mr Setiyawan.</p>
+<p>“When we talk about national cases, there are principles or risks which we have to bear in mind. For example, BPJS is being used by people to access healthcare every day. </p>
+<p>“If we suspend it for a week, a lot of people won’t be able to be hospitalised, they won’t be able to get surgery, they won’t be able to get medicines.” </p>
+<p>But in the end, Mr Setiyawan, who is also BSSN’s head of research and development centre, said that it all comes down to the people.</p>
+<p>“People must always be alert, think rationally when online and giving out their data, have good literacy, understand technology and be aware of their digital traces.”</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Asia </a> </p> <h5> ‘I thought about quitting school’: Pandemic takes a toll on Indonesia undergraduates as depression cases rise </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> Asia </a> </p> <h1> ‘I thought about quitting school’: Pandemic takes a toll on Indonesia undergraduates as depression cases rise </h1> </div> </section> </div> </div>
+<div> <div> <a> Nivell Rayda </a> </div> </div>
+<p>BANDUNG, Indonesia: Suryo (not his real name) used to believe that he was a bright student. </p>
+<p>He was the first in his family to go to college and the first in his village to get accepted to a top university in the outskirts of Jakarta, 350km away from his home in Central Java.</p>
+<p>But that notion immediately changed when he set foot at his university where he had to compete with top students, Mathematical Olympiad champions and award winners from all over Indonesia. </p>
+<p>“Suddenly, I was a mediocre student,” Suryo told CNA.</p>
+<p>The burden of coming from a poor family added more pressure. “My parents told me I have to graduate fast. I have to have good grades so I can get a good job and help my brother and sister,” he said.</p>
+<p>Then the COVID-19 pandemic happened just as he was entering his second semester, which made things worse.</p>
+<p>All in-person classes were suspended. Fearing a nationwide lockdown, his family requested him to go back to his village.</p>
+<p>But the village had bad Internet reception while his poor family barely had enough money to buy him a secondhand laptop which he needed to conduct remote learning. </p>
+<p>“I never owned a laptop before. I don’t really know how to use them. You can say I was technologically challenged,” he said.</p>
+<p>Afraid of disappointing his parents, who had high hopes for their first son, he kept the problem to himself. </p>
+<p>“I thought about quitting school. I even contemplated quitting life altogether,” he said.</p>
+<p>“I couldn’t see a bridge without thinking of jumping from it. I couldn’t see a river without thinking of drowning myself.”</p>
+<p>A study initiated by mental health advocacy group Ruang Empati, which was released in October, showed that 59 per cent of the 3,901 university students in Indonesia surveyed displayed signs of clinical depression. </p>
+<p>It is a significant rise from the early days of the pandemic. A 2020 study by Ruang Empati showed the figure was 47 per cent.</p>
+<p>In a previous survey in 2016 by a team of psychiatrists in Bandung, 30 per cent of the 400 scholarship recipients in the capital of West Java exhibited signs of depression of varying degrees.</p>
+<p>According to this year’s survey by Ruang Empati, 13 per cent of the respondents said they have contemplated suicide. Three per cent of those surveyed said that they have attempted to end their lives.</p>
+<p>“Multiply that with the number of students in Indonesia,” psychiatrist Teddy Hidayat, the founder of Ruang Empati, told CNA. Government statistics stated that there are 8.3 million university students across the country. </p>
+<p>“The magnitude and urgency of the problem has become so big it deserves a lot of attention,” he said, highlighting that news of suicide among university students has become “more and more common” since the pandemic began. </p>
+<p>In October, a student in Palembang, South Sumatra, leapt to her death from the third storey of a shopping mall. Three weeks later, a student in Yogyakarta was found dead in her dormitory after ingesting rat poison. </p>
+<p>A month before, a student in Makassar, South Sulawesi, hung herself at her home while her parents were away. Also in September, a student in Malang, East Java, tried to jump off a bridge before she was saved by a passing police officer.</p>
+<h2>PANDEMIC AND ISOLATION </h2>
+<p>The pandemic has caused many people to feel a prolonged sense of anxiety, which when left untreated can lead to frustration and depression, Hidayat explained. </p>
+<p>The declining economy which cost the jobs of thousands of workers has also added to the feeling of helplessness and hopelessness.</p>
+<p>And then there were activity and social restrictions which the psychiatrist said made people feel isolated, with little means to vent their frustrations and anxieties through leisurely activities or interactions with others.</p>
+<p>Elvine Gunawan, a psychiatrist who has been treating university students with mental health problems, said that although the pandemic has affected everyone, university students seem to be more at risk.</p>
+<p>Nizam, the Education Ministry’s director general for higher learning, admitted that university students have been feeling depressed during the pandemic.</p>
+<p>“Schools and campuses are not only a place to study but also a place to socialise and interact. These two cannot be replaced through online learning,” the director general, who like many Indonesians goes with one name, told CNA.</p>
+<p>“The pandemic has dragged on beyond what anybody has anticipated. This prolonged condition would of course lead to boredom and anxiety and if not managed well can lead to stress and depression.”</p>
+<p>The biggest problem, however, was isolation.</p>
+<p>He added that peer counsellors like himself have also been struggling to reach out to those who needed help due to lack of face-to-face interaction. It was difficult to detect students who may need counselling when they were studying remotely. </p>
+<p>Another peer counsellor, Maya (not her real name) said being unable to help fellow students in need also took its toll on her own mental health. </p>
+<p>Maya, who was once diagnosed with several mental disorders and survived multiple suicide attempts before becoming a counsellor, began to relapse.</p>
+<p>“(The psychiatrist) told me that I need to set emotional boundaries. I was told that my job (as a counsellor) is to listen to their problems, interact with them and make suggestions. But their problems are their problems, not mine.”</p>
+<p>Gunawan, the psychiatrist, said many students have been unable to seek the help they need because the social stigma against people with mental health problems is still strong in Indonesia.</p>
+<p>“The students themselves are more aware (of mental health issues) and they are willing to speak up and seek help. But they are at an age where they still need their parents’ consent for a medical treatment,” she said. </p>
+<p>Arlisa Wulandari, a lecturer from Ahmad Yani University’s medicine faculty in Bandung, agreed that some parents are reluctant to give medical consent for mental health treatment. </p>
+<p>Gunawan said by the time some parents let their children seek professional help, it was too late.</p>
+<p>Gunawan said universities should do more to detect signs of depression among their students and prevent their illness from worsening. </p>
+<p>Nizam, the Education Ministry’s director general, said universities are required to set up their own counseling services for these purposes.</p>
+<p>“In general, our universities have counseling services, be they in the form of a dedicated unit or facility or counsellor lecturer,” he said.</p>
+<p>But Ruang Empati founder Hidayat said there have been no uniform standards for these counseling services, most of which operate without the presence of a trained, on-campus psychiatrist or psychologist. </p>
+<p>Hidayat said the universities with on campus psychiatrists and trained student volunteers are the exception, not the norm.</p>
+<p>“At most universities, it is the students who initiate their own counseling services or support groups. Ruang Empati has been providing training for these volunteers,” he said.</p>
+<p>To help students mitigate the mental health problems they experienced, Ruang Empati has been providing online consultation services since the pandemic began, employing more than a dozen volunteers to act as counsellors.</p>
+<p>The group also provided art classes for students to release some of the stress and express themselves.</p>
+<p>“The goal is not to produce good works of art. But to make them feel better than the way they feel before.”</p>
+<h2>“LIFE IS BETTER FOR ME NOW” </h2>
+<p>According to the Education Ministry, deteriorating mental health among students was the main reason for reopening universities in October and introducing hybrid learning with a mix of online and in-person classes.</p>
+<p>The ministry has also enacted a regulation to eradicate sexual violence, bullying and intolerance, which Nizam said would eradicate some of the root causes of depression among students.</p>
+<p>The government, he said, was also developing the so-called “Academic Health System” by making campuses more health conscious and environmentally friendly.</p>
+<p>“We are pushing for a healthier, safer and more comfortable academic environment. If this is achieved, we will see healthier and happier students and academics,” he said.</p>
+<p>Suryo said he is happy that his university has reopened. </p>
+<p>He decided to return to Jakarta in September 2020, thinking that it would be better for his studies. For the past one year, he has been renting a room near his university so he can take advantage of the campus’s free Wi-Fi. </p>
+<p>“The campus was quiet. It was like a ghost town. But there have been a number of students who decided to come back to Jakarta because they too were having problems with Internet connection back home,” he said.</p>
+<p>“We don’t go to the same faculty. We are from different provinces. But we became close friends because of our shared problems: Learning remotely from our respective villages.</p>
+<p>“Life is better for me now. It is a far cry from a year ago,” he said, adding that he eventually got his grades up and retained his scholarship. </p>
+<p>“With my campus reopening, I think things will only get better for me mentally and emotionally.”</p>
+<p>Samaritans of Singapore Hotline: 1800 221 4444</p>
+<p>Institute of Mental Health’s Helpline: 6389 2222</p>
+<p>Singapore Association for Mental Health Helpline: 1800 283 7019</p>
+<p>You can also find a list of international helplines <a>here</a>. If someone you know is at immediate risk, call 24-hour emergency medical services.</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <h1> Entertainment </h1> </div>
+<div> <span>Showing <b>15</b> of <b>6104</b></span> Sort Filter </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> Celebrity weddings, scandals, Squid Game: Top entertainment stories of 2021 </a> </h6> <div> 26/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> Spider-Man: No Way Home becomes first pandemic-era movie to smash US$1 billion globally </a> </h6> <div> 26/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> He-Man and Teenage Mutant Ninja Turtles artist and toy designer Terrell Mark Taylor dies at 80 </a> </h6> <div> 26/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> Two more members of K-pop group BTS test positive for COVID-19 </a> </h6> <div> 25/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Living </a> </p> <h6> <a> #TikTokMadeMeBuyIt: Why TikTok is becoming a hot place to sell all sorts of products </a> </h6> <div> 25/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h6> <a> From Bling Empire to Squid Game, 7 hit TV series that stole the show in 2021 </a> </h6> <div> 25/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> Behind-the-scenes: Singapore’s retro gachapon machines | CNA Lifestyle </a> </h6> <div> 25/12/2021 6 mins </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> Toys story: Who's keeping the retro gachapon machines in Singapore alive? </a> </h6> <div> 24/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> K-pop star Suga tests positive for COVID-19 after BTS return from US </a> </h6> <div> 24/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> Prince Harry and Meghan share first picture of baby daughter in holiday card </a> </h6> <div> 24/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> 'Are you a beggar?' The lives of Singapore’s young buskers | CNA Lifestyle </a> </h6> <div> 24/12/2021 5 mins </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> Chris Martin says Coldplay will stop making music as a band in 2025 </a> </h6> <div> 24/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> Thank you notes, flowers, smiles: What drives Singapore's young buskers to play their hearts out </a> </h6> <div> 23/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> CNA Lifestyle </a> </p> <h6> <a> Woman accuses Sex And The City actor Chris Noth of groping </a> </h6> <div> 23/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h6> <a> Writer Joan Didion, chronicler of contemporary American society, dies at 87 </a> </h6> <div> 23/12/2021 </div> </div> </div> </div> </div>
+<div> <div> <p> <a> Singapore </a> </p> <h5> 248 new COVID-19 cases reported in Singapore; 98 new Omicron infections confirmed </h5> </div> </div>
+<div> <div> <section> <div> <p> <a> Singapore </a> </p> <h1> 248 new COVID-19 cases reported in Singapore; 98 new Omicron infections confirmed </h1> </div> </section> </div> </div>
+<p>SINGAPORE: Singapore reported 248 new COVID-19 cases as of noon on Saturday (Dec 25), of which 66 were imported.</p>
+<p>There was also one fatality, taking the country's death toll from coronavirus complications to 821, according to the latest infection statistics on the <a>Ministry of Health's (MOH) website</a>.</p>
+<p>Saturday's case count was down from the 265 infections reported on Friday.</p>
+<p>Among the new cases reported on Saturday, 182 were locally transmitted, comprising 177 in the community and five in migrant workers' dormitories.</p>
+<p>Separately, MOH's website also showed that 98 new Omicron variant infections were confirmed on Saturday, comprising 73 imported cases and 25 local cases.</p>
+<p>The daily new COVID-19 cases and new confirmed Omicron cases are presented as two separate sets of data on MOH's website.</p>
+<p>The weekly infection growth rate on Saturday was 0.56, up from Friday's 0.52. This refers to the ratio of community cases for the past week over the week before.</p>
+<p>The growth rate has remained below 1 since Nov 13. A figure below 1 means that the number of new weekly COVID-19 cases is falling.</p>
+<p>As of Saturday, Singapore has recorded 277,555 COVID-19 cases since the start of the pandemic.</p>
+<h2>HOSPITALISATIONS AND VACCINATIONS</h2>
+<p>The intensive care unit (ICU) utilisation rate was 49.6 per cent, down from the 51.7 per cent reported on Friday. </p>
+<p>There were 392 patients in hospital, with 49 requiring oxygen supplementation.</p>
+<p>In the ICU, six patients required close monitoring while 19 patients were critically ill.</p>
+<p>As of Friday, 96 per cent of Singapore's eligible population - those aged 12 and above - have completed their full vaccination regimen under the national vaccination programme.</p>
+<p>About 36 per cent of the total population have received their vaccine booster shots.</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Singapore </a> </p> <h5> 40% of Primary 4 to 6 students have registered for COVID-19 vaccination: Chan Chun Sing </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> Singapore </a> </p> <h1> 40% of Primary 4 to 6 students have registered for COVID-19 vaccination: Chan Chun Sing </h1> </div> </section> </div> </div>
+<div> <div> <a> Grace Yeoh </a> </div> </div>
+<p>SINGAPORE: The COVID-19 vaccination registration rate for Primary 4 to 6 students has crossed 40 per cent, said Education Minister Chan Chun Sing on Sunday (Dec 26). </p>
+<p>Mr Chan was speaking at Senja-Cashew Community Club one day before paediatric vaccination centres are set to progressively open islandwide.</p>
+<p>Senja-Cashew Community Club is one of seven paediatric vaccination centres that will open on Monday. Seven others will start operations on Jan 3 next year. </p>
+<p>Mr Chan encouraged parents to register their children for weekday slots, saying that medical leave will be provided for such students.</p>
+<p>Mr Chan added that COVID-19 vaccination registration for Primary 1 to Primary 3 students in Ministry of Education (MOE) schools and madrasahs will begin on Jan 5 next year, with parents set to receive an SMS invite.</p>
+<p>Registration for all other children in the same age band will open on Jan 6.</p>
+<p>"Many parents are thinking of the new school schedule, which is why we're doing it on Jan 5. When the children return to school ... they will be able to know the new school schedule," he said. </p>
+<h2>CARTOON SCRUBS, STICKERS</h2>
+<p>Every child must be accompanied by a parent, who will have to queue with them.</p>
+<p>Nurses who administer the paediatric shots will wear scrubs with cartoon characters, and are trained to work with children. Those on paediatric duty do not cross over to vaccination stations for the general public.</p>
+<p>From the queue to the vaccination station and observation area, children will also be greeted by child-friendly cartoons, stickers and standees, said Dr Lin. </p>
+<p>"We have stickers and stencils to create a more vibrant and kiddie environment so that they can have lesser anxiety," added Dr Lin. </p>
+<div> <div> <p> <a> Singapore </a> </p> <h5> IN FOCUS: Qualified, willing but still looking for work - why some mature PMEs struggle to find jobs despite retraining, government support </h5> </div> </div>
+<h1> IN FOCUS: Qualified, willing but still looking for work - why some mature PMEs struggle to find jobs despite retraining, government support </h1>
+<div> <p>Is there ageism in the workplace and hiring process? PME jobseekers tell CNA about the stumbling blocks they meet when they look for work at age 40 and above.</p> </div>
+<div> <div> <a> Chew Hui Min </a> </div> </div>
+<p>SINGAPORE: A former managing director, Siva has been looking for a job for seven years ever since he was retrenched at age 52.</p>
+<p>The Singaporean mechanical engineer was one of the applicants who turned up at a job fair at Kampung Admiralty on Oct 26 to try his luck.</p>
+<p>He has more than 30 years of experience in oil field drilling equipment manufacturing and seven years ago, his salary as a managing director was about S$10,000. But he was let go in 2014 after oil prices collapsed, he said.</p>
+<p>Siva, who did not wish to share his full name, has attended courses in project management and information technology but when he applied for IT jobs, he was told that he did not have the relevant experience.</p>
+<p>“Wherever I go interview, they say: ‘You are highly qualified.’ And maybe they will ask one question: ‘What is your age?’” he said.</p>
+<p>“Today also the same question: ‘What is your age?’ Then I say I'm 59 (and) maybe my interview will last for less than two minutes.” </p>
+<p>His eyes reddened as he recounted how he struggled to find work. When asked if he had considered becoming a private-hire driver, he asked: “Where can I go to apply for that?”</p>
+<h2>CHALLENGES MATURE PMES FACE </h2>
+<p>It can be a challenge to find a full-time job when one is made redundant at middle-age, interviewees told CNA.</p>
+<p>The report added that many experienced PMEs become self-employed consultants or trainers, or accepted significant pay cuts to stay employed.</p>
+<p>These PMEs also face heavier financial obligations with elderly parents and school-going children to support, on top of mortgages, loans and other bills, including healthcare costs.</p>
+<p>They are therefore in a “particularly precarious” situation when retrenched, it said.</p>
+<h2>NO JOBS DESPITE RETRAINING</h2>
+<p>While the Government has many retraining programmes, some mature PMEs said that they were unable to find work even though they were willing to retrain or had attended courses to gain new skills.</p>
+<p>Mr Helmy Osman, 50, left the corporate world to set up an events company in 2019. Then COVID-19 hit, and he had to start looking for a new job as business dried up.</p>
+<p>He got a contract position as a customer service adviser in October, but the pay is less than a quarter of what he used to get as a senior executive or running his own business.</p>
+<p>And this came only after more than a year of searching for employment and sending out more than 50 applications.</p>
+<p>Due to his age, he felt that interviewers were not convinced that he was digitally savvy, even when he said he had a Tik Tok account and had gone for courses to brush up his digital skills.</p>
+<p>Mr Osman did a five-month digital marketing course and also took a data analytics course for about half a year. He also has a Workforce Skills Qualifications diploma in digital, retail and e-commerce.</p>
+<p>He said that when he applied for a more junior executive position in a new industry, he was told he was overqualified, but when he goes for managerial roles, he was told he didn’t have the relevant experience.</p>
+<p>“I'm embracing what the Government wants - to take up all my courses, which I did. But I don't have someone who wants to give me the opportunity,” he said.</p>
+<p>Responding to CNA queries, a TAFEP spokesperson advised employees and jobseekers who have encountered workplace discrimination to contact TAFEP for assistance. </p>
+<p>The spokesperson added that TAFEP has stepped up employer engagement and education efforts to ensure employers understand their obligations and to help them build age-friendly workplaces.</p>
+<p>Three other interviewees between 47 and 60 related how they tried to switch to other industries, even at entry levels, but found it difficult and impractical.</p>
+<p>The pressure of living costs and familial responsibilities as well as worries about the adequacy of retirement funds were added stressors, leading them to either rejoin their former industry or strike out on their own.</p>
+<p>Mr Julian Ang, 47, returned to Singapore from Canada about a year ago. He was working in aircraft maintenance but lost his job when airline traffic plummeted due to the pandemic.</p>
+<p>With the airline industry in the doldrums, the degree holder, who also has an Aircraft Maintenance Engineers Technology diploma from Canada which is not recognised here, decided to try other areas of work.</p>
+<p>He told CNA that he was keen to get on the Career Conversion Programme (CCP) but was rejected when he applied for the Singapore Institute of Technology’s (SIT) Physiotherapy programme under the CCP.</p>
+<p>He then appealed through his Member of Parliament but the appeal failed.</p>
+<p>The rejection letter, seen by CNA, states that competition for the programme was stiff and that Mr Ang should “seek relevant full-time work experience of one to two years in the related healthcare sector”, before applying again.</p>
+<p>CNA understands that for certain courses under the CCP, particularly in healthcare, applicants with some work experience stand a higher chance of getting onto the course - after which they can get CCP grants to pursue their studies. </p>
+<p>But given that the CCP is for people who want to switch to a new sector, Mr Ang felt disappointed. </p>
+<p>He added he was willing to be retrained and bonded to a healthcare institution even at his age, but his experience “doesn’t match” what the Government programmes seem to promise, which made his job search all the more frustrating.</p>
+<p>“It's very difficult because people either think you're too old, you cost too much; or if you try to look for something a lot ‘lower’, people think: ‘Is there something wrong with you?’” he said.</p>
+<p>In the meantime, he is freelancing as a personal trainer, and wants to take a step back from active jobseeking.</p>
+<h2>HELP IS AVAILABLE: WSG</h2>
+<p>Many mature PMEs, like Mr Siva, are already being helped by Workforce Singapore (WSG) and NTUC’s Employment and Employability Institute, e2i.</p>
+<p>WSG, which reviewed the help Mr Siva has received and shared it with CNA with his permission, said that he approached the agency for employment assistance four times - in April 2015, March 2016 and then twice this year. </p>
+<p>In 2015, an e2i career coach worked with Mr Siva then to enhance his job search skills, in areas such as reviewing and improving his resume, and referring him to a career workshop. </p>
+<p>When he approached WSG again in 2016, he received personalised career coaching for about a year with job referrals to companies in sectors related to Mr Siva’s interest and experience in Engineering/QA-related jobs, said WSG. </p>
+<p>“Mr Siva also shared at the time that he had expected remuneration on par with his last drawn salary. Mr Siva then requested WSG to cease employment assistance in 2017,” said a WSG spokesperson.</p>
+<p>This year, Mr Siva went back to e2i and WSG asking for career assistance. WSG said that he had been doing freelance work in QA-related roles in the intervening period, but was now looking for a full-time role again.</p>
+<p>Since then, an e2i coach has been working with Mr Siva to enhance his job search skills. </p>
+<p>The agency added that job-matching efforts by e2i and WSG intensified last year, with 34,000 jobseekers receiving customised career coaching. This was a 15 per cent increase over 2019. Of the 34,000, about two-thirds were PMETs.</p>
+<p>On average, about six in 10 jobseekers who received customised career coaching found jobs within six months, while others required more time, said WSG.</p>
+<h2>“CAN YOU JUGGLE BOTH WORK AND YOUR KIDS?”</h2>
+<p>Ms Jayasree Balakrishnan Pillai is one jobseeker who eventually found a job despite initial challenges.</p>
+<p>The 40-year-old took a two-year break to care for her three young children from 2018 to 2020 and started looking for a job again in June last year.</p>
+<p>She recounted that when she did land an interview, she was asked “personal” questions about her family commitments and some expected her to take a pay cut after her two-year hiatus.</p>
+<p>“Me being out of workforce for a number of years came across as a big disadvantage to employers,” she said.</p>
+<p>“Whenever I go for an interview ... one of the first questions they asked me were … can you juggle both work and your kids? Why are you now intending to come back?”</p>
+<p>After consulting a WSG career coach, Ms Jayasree tweaked her resume so that it was more “discoverable” by AI, which many companies now use to weed out job applicants. Interview offers picked up after that, she told CNA. </p>
+<p>She is now an accountant with Viki Rakuten and was given an increment from her last job.</p>
+<p>Ms Jayasree said that she felt at first that her years of experience were being dismissed by employers, who may have discriminated against her due to her age “compounded” by the fact that she is a mother.</p>
+<p>“There's a need to educate them … I feel that employers need to be open to people from any kind of walks of life. Why should our knowledge be discounted just because I was away from work for two years?”</p>
+<h2>TACKLING AGE DISCRIMINATION</h2>
+<p>So what can companies do? Ms Linda Teo, country manager of ManpowerGroup said that on a company-level, changing mindsets towards hiring of mature employees needs to start from the top. </p>
+<p>“Employers need to emphasise this as they reiterate their stance on fair hiring to their hiring managers,” she said.</p>
+<p>“With global talent shortage levels at a record high, it is not sustainable to practice age discrimination in hiring in the long run,” she said. </p>
+<p>Mr Neil Jones, regional managing director of APAC at recruitment firm AMS, said that there may be more “subconscious bias” when workers in certain sectors are above the age of 50. </p>
+<p>“Attitudes may also be influenced by industry norms, with the new crop of up-and-coming digital companies targeting the younger, more digitally-savvy demographic versus traditional bricks-and-mortar companies in mature industries.”</p>
+<h2>CAREER COACH: WE CAN GIVE ADVICE, BE “LISTENING EAR”</h2>
+<p>Ultimately, the search for a new job may depend on embracing all the opportunities and support which are available.</p>
+<p>Mr Jason Low, principal career coach (lead) at WSG, said that mature workers are an asset to a company given their wealth of experience, knowledge and transferable skills that they can bring to each role. </p>
+<p>“It is never too late to learn something new. Embrace new learning methods and never be shy in learning from the people around you (even if they are many years younger),” he said in an email reply to CNA. </p>
+<p>“While doing so, you may gain a new perspective about things. Keep an open mind about learning to maintain a growth mindset.” </p>
+<p>He asked these job seekers to “review” their assumptions about age as a barrier to landing a job and focus on what they can do to change how others perceive them. </p>
+<p>The coach, who has consulted with more than 1,600 clients in the last 10 years, said that the journey is different for each individual, but they should persevere and keep an open mind.</p>
+<p>“It is not an easy process, especially during a time like this. It can be frustrating and emotionally draining. There are times when one may become distressed when their job search takes longer than expected. </p>
+<p>“Beyond just coaching, career coaches are trained to provide a listening ear, and to be a sounding board, a cheerleader and a pacer,” said Mr Low.</p>
+<p>“While waiting for the right opportunity to come by, individuals need to be patient and work on developing themselves so that they will be ready when the time comes.”</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Singapore </a> </p> <h5> IN FOCUS: Amid a rapidly ageing population, what are the missing pieces in Singapore’s residential eldercare puzzle? </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<h1> IN FOCUS: Amid a rapidly ageing population, what are the missing pieces in Singapore’s residential eldercare puzzle? </h1>
+<p>Staying at home or going to a nursing home have long been the only choices available for seniors in need of care. But what about those who fall in between? From group homes to retirement communities, CNA explores what other options exist. </p>
+<div> <div> <a> Cheryl Lin </a> </div> </div>
+<p>SINGAPORE: After falling from a ladder years ago, Ms Hock York Soeak suffered from a head fracture that would eventually leave the right side of her body paralysed.</p>
+<p>Requiring long-term care and therapy, she has spent the past 15 years in a single-storey bungalow in Bukit Timah – not her own, but a nursing home she shares with a handful of seniors.</p>
+<p>“We eat together … play together … we’ve known each other for a long time,” said Ms Hock, 76, of the tight-knit community at Soo’s Nursing Home, which has stood on Sixth Avenue for 30 years.</p>
+<p>But she bit back tears as she prepared to speak to CNA on Nov 8.</p>
+<p>She was to leave the home for good that afternoon, as Soo’s is in the process of closing. Its lease expires at the end of the year, following multiple extensions over the decades from owners of the plot.</p>
+<p>Such homes converted from small buildings were among the earliest types of eldercare residences in Singapore, before large purpose-built institutions became the norm, said Mr Andrew Soo, the home’s second-generation manager.</p>
+<p>In fact, only five nursing homes still have temporary permission to operate from plots zoned for residential use. Regulations and costs have made it hard to find a similar set-up to lease, said Mr Soo.</p>
+<p>These small homes are an eldercare option that is falling out of the mainstream, as Singapore continues to rejig the puzzle pieces of its care ecosystem while a silver tsunami looms.</p>
+<h2>WHAT ARE THE OPTIONS FOR SINGAPORE’S GREYING POPULATION?</h2>
+<p>Currently, 17.6 per cent of the population here are aged 65 and above. By 2030, it will spike to about 25 per cent with more than 900,000 senior citizens, many of whom will require some form of care.</p>
+<p>Already, there are almost 70,000 seniors who are unable to perform or who have difficulty performing one basic activity, such as self-care, according to census data from 2020.</p>
+<p>Singapore’s eldercare ecosystem has changed over the decades to gear up for this, with a network of care institutions in the community, higher nursing home standards and more capacity with purpose-built homes.</p>
+<p>At the same time, many seniors have <a>expressed the desire to “age in place”</a> and live out their lives in the comfort of their own homes.</p>
+<p>With this, residential eldercare options have come into the spotlight – where and how can seniors live long-term as they age?</p>
+<p>A diversity of options is critical because seniors are a heterogeneous group, with different needs and life trajectories, said Dr Mary Ann Tsao, chairwoman of the Tsao Foundation, a non-profit promoting active ageing.</p>
+<p>Yet, there is presently not enough variety, she said.</p>
+<p>There are “many, many options” overseas, but she noted: “(In Singapore) nursing now is like 'Get some services at home - or (go to a) nursing home'. There’s not a lot in between.” </p>
+<p>Dr Belinda Wee, who runs a nursing home and several small assisted living facilities, said that today's seniors have much better levels of health, owing to improved healthcare, education and generally higher levels of prosperity.</p>
+<a>Assisted Living Facilities Association (ALFA)</a>, a non-profit promoting the care model.
+<p>To provide dignity and autonomy to seniors who need some care, but are too well to be in institutionalised settings, assisted living accommodation is the “missing piece” in the eldercare jigsaw, said Dr Wee.</p>
+<h2>ASSISTED LIVING MODELS</h2>
+<p>In the private sector, there are only a handful of assisted living facilities, three of which were co-founded by Dr Wee.</p>
+<p>Drawing from this model, the Health Ministry (MOH), the National Development Ministry (MND) and the Housing Board (HDB) rolled out their first assisted living option this year, known as <a>community care apartments</a>.</p>
+<p>HDB’s approach requires residents to subscribe to a basic service package, which includes access to 24-hour emergency monitoring and basic health checks, among other things.</p>
+<p>The appetite for such an option is evident – there were more than four applicants vying for each of the 169 units available.</p>
+<p>“These seniors should be the sort that already need help with instrumental activities of daily living (IADLs) … So I feel that minimally, the IADL help should be provided.”</p>
+<h2>COMBINING SPACES WITH SERVICES</h2>
+<p>The key is integrating physical spaces with services, said Dr Tsao. “Most people live in HDB flats, and that service can come to the home or (seniors) can come to a centre, but it's not integrated where they live.”</p>
+<p>It is why she pitched another idea in the same vein as assisted living: <a>A “green house” model</a>, which has been adopted in countries such as the United States and Australia.</p>
+<p>“It becomes a spectrum. You don't leave the community,” explained Dr Tsao.</p>
+<p>Under the Action Plan for Successful Ageing in 2015, HDB and MOH said it would be doing this in new areas, such as Tampines North, by co-locating nursing homes and senior activity centres with HDB flats.</p>
+<p>Another model that's been adopted in countries such as France is intergenerational housing, noted Kavitha Hariharan, director at Marsh McLennan Advantage, which focuses on societal ageing. </p>
+<p>Under this model, young people rent flats from seniors at below-market rates, and in return, are expected to maintain friendships or be a watchful presence, for instance.</p>
+<p>Providing social connections would help combat afflictions such as loneliness – which is “terribly damaging” particularly for seniors, said Ms Hariharan.</p>
+<p>Experts commended the efforts to develop new approaches to eldercare housing, but expressed concerns that they might not come to fruition quickly enough to support Singapore's rapidly ageing population.</p>
+<p>For instance, there are 169 community care apartments which will be ready in 2024.</p>
+<p>A <a>second ‘vertical kampung’ is being developed at Yew Tee</a>, which features senior housing and healthcare and services in the same compound, following the success of Kampung Admiralty. This will have 68 units, to be ready in 2027.</p>
+<p>Singapore's first health district is also being developed at Queenstown, <a>with senior-friendly designs and programmes</a> to encourage “purposeful longevity”, but this is a long-term development.</p>
+<p>Dr Kelvin Tan, who teaches gerontology at the Singapore University of Social Sciences (SUSS), pointed out that developments which adopt a new approach will take not just years to be completed, but also take time to be trialled.</p>
+<p>This urgency is another reason authorities can be more “aggressive” and “a bit more bold” in experimenting with residential eldercare pilots, said Dr Tsao.</p>
+<h2>IT’S A QUESTION OF COST</h2>
+<p>But rolling out new accommodation options is complex.</p>
+<p>One big question is how much these alternative eldercare developments could cost, especially if they require more land – a scarce resource in Singapore.</p>
+<p>Dr Tsao said: “The private sector can afford that kind of thing. Maybe buy a private condominium, develop it in such a way that it's with services integrated. But 85 per cent of people will not be able to afford that."</p>
+<p>As such, weaving eldercare into existing public housing should be a priority, she said.</p>
+<p>Retrofitting buildings in estates that already have more seniors could be a start, she said, adding that one storey in a block could be carved out for green house homes, while also tapping on existing community services.</p>
+<p>While she hasn’t nailed down exact cost calculations, including for staffing, she said: “I would still think it’s cheaper. Building an extra floor in an HDB is cheaper than getting a piece of land and putting a building on it.”</p>
+<p>As for Dr Wee’s model of assisted living, current residents pay at least S$5,000 a month, depending on the room type and location of the facility.</p>
+<p>Out of this, about S$1,800 to S$2,000 is for the care alone without accommodation costs. These sums might be prohibitive for some, she acknowledged.</p>
+<p>She added that costs are also understandably a concern for the Government, who will have to cater for the masses – but with economies of scale, costs could likely be brought down.</p>
+<p>“From ALFA’s perspective, I think it's more important to be talking about the quality and the type of services to roll out,” she added.</p>
+<h2>IMPROVING NURSING HOMES</h2>
+<p>Improving the residential eldercare landscape also means not just thinking about new approaches, but also about how to improve existing ones.</p>
+<p>This is particularly so for nursing homes, which have long suffered from stigma, even though they are critical in the care spectrum, said NUS CARE’s Assoc Prof Fung.</p>
+<p>MOH has worked to improve nursing home designs over the years. “The newer nursing homes … there isn’t a harsh boundary fence, so as to invite the community to pass through … Engagement with the community is a very important aspect.”</p>
+<p>Nursing homes have also been making efforts to move towards person-centric care, which is tailored for each individual’s needs, allowing them to maintain their sense of self, said Assoc Prof Fung.</p>
+<p>Studies have also been done on improving quality of life through design, including a recently-concluded one led by NUS CARE’s team.</p>
+<p>Proposals include lower-density wards, giving individuals more control over their immediate environment, flexible spaces and even shifting from terms such as “wards” to “bedroom” to remove stigma.</p>
+<p>“Age-friendly environments are also about the software - how do we bring the community to buy in, take ownership of some of this caring of seniors? … We want to move towards encouraging participation.”</p>
+<h2>MANPOWER A BIG CHALLENGE IN IMPROVING RESIDENTIAL CARE</h2>
+<p>In giving seniors more options for their golden years, there are challenges to be resolved, many of which are manpower-related.</p>
+<p>For starters, Singapore must continually identify what skills and investments its workforce needs at “every part of the continuum” as the sector evolves, said Oliver Wyman’s Ms Hariharan.</p>
+<p>“Things like salaries are probably going to have to be re-looked at again. Achieving the right balance between local recruitment workers that we hire from overseas – that's going to be a challenge for Singapore as well as other countries.”</p>
+<p>Making sure the career is seen as more attractive and developing opportunities so that the sector can retain talent is another hurdle, she said.</p>
+<a>make sacrifices to prioritise the safety of the residents</a>.”
+<p>“It's always been a difficult job, both in terms of the physical demands of the profession as well as the emotional requirements… And we kind of take it for granted that they will cope with all of this stress.”</p>
+<p>They should thus be provided the right support and resources to help them manage this, she said.</p>
+<p>To ease manpower challenges, the authorities can look to automation or technology – such as using robots for cleaning or meal dispensing, or even exoskeletons to protect workers as they carry residents, said Ms Hariharan.</p>
+<h2>DISCARDING AGEIST MINDSETS</h2>
+<p>Just as important is the need to do away with ageist mindsets.</p>
+<p>Getting people’s acceptance will be the biggest barrier to implementing more residential eldercare options across the island, said Dr Tsao.</p>
+<p>She said Singapore has come a long way in this regard. While elderly people were once seen as burdens, there has been a concerted push to see “longevity as an opportunity”.</p>
+<p>But negative attitudes persist, as evidenced by the discontentment of some residents around the construction of nursing homes in their neighbourhoods.</p>
+<p>This “not in my backyard”, or NIMBY, syndrome must be rooted out, especially as Singapore hurtles toward an inevitable future of an aged population, said experts.</p>
+<p>Dr Tsao added: “As the population gets older and more and more people have their parents older, hopefully they'll change their mind … You can’t banish all these older people to these camps in the middle of nowhere because ‘I don't like it’, right?”</p>
+<p>The lack of licensing for private eldercare models will also have to be addressed. Currently, private sector assisted living facilities are not regulated.</p>
+<p>These developments blur the line between residential and healthcare facilities, so it is challenging to navigate what rules on issues such as land use, manpower and fire safety apply, said Dr Wee.</p>
+<h2>"NO ONE SIZE FITS ALL"</h2>
+<p>Overall, experts are confident in the collective action authorities are taking to improve the spectrum of residential eldercare options.</p>
+<p>A refreshed Action plan for Successful Ageing will also be launched next year, looking at how to empower seniors to continue contributing. </p>
+<p>SUSS’ Dr Tan added: “Given that we only have so many resources, especially in Singapore, (such as) manpower, we definitely need older people to be an active part of society.”</p>
+<p>Dr Tsao added that authorities are willing to invest in support for productive ageing, while HDB is “more open to retooling the built environment” for seniors.</p>
+<p>“So I think the overall mindset is right. Some will be faster, some a little slower in achieving it, but at least they’re all open to thinking about it that way. … 30 years ago, or even 20 years ago, it wasn’t like that.”</p>
+<p>On residential care options, Assoc Prof Fung added that the pilots are a good start, adding that he hopes more will emerge.</p>
+<p>“Certainly, the testing of various models is necessary, because no one size fits all,” he said.</p>
+<p>“My sense is that all different models will find their niche because there will be different people with different needs.”</p>
+<p>This also means that the disappearing “pioneer” models of eldercare in bungalows, such as Soo’s Nursing Home, still have value, he said.</p>
+<p>“There’s a place for that kind of setting, that sort of environment, that sort of care … I think we need to support that kind of effort concurrently while we are building more modern, more contemporary, high-density kinds of facilities.</p>
+<p>"That would be my approach, that we should support different types of communities.”</p>
+<p>After bidding an emotional goodbye to her long-time home and small network of housemates-turned-friends, residents like Ms Hock likely would agree with that perspective.</p>
+<p>Editor's note: This story has been updated to reflect the latest available data on the proportion of citizens aged 65 years over in 2021. A statistic about the proportion of Singapore citizens who will be 55 and above by 2030 has been corrected.</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Singapore </a> </p> <h5> IN FOCUS: Will changing what we eat help save the planet? </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<h1> IN FOCUS: Will changing what we eat help save the planet? </h1>
+<div> <p>With the spotlight being shone on how food production and consumption can have a detrimental impact on the environment, CNA looks at how what we eat - or don't eat - can make a difference. </p> </div>
+<div> <div> <a> Jalelah Abu Baker </a> </div> </div>
+<p>SINGAPORE: Since getting married and moving into her new home with her husband, Ms Noor Hanisah Noordin has been making efforts to reduce how much meat she eats.</p>
+<p>She is in charge of the cooking and prepares vegetarian meals most days of the week. This is a departure from when she lived with her family when almost every meal would have some meat.</p>
+<p>The reason for this change is not due to changing taste preferences or a desire for a healthier diet.</p>
+<p>It’s because of environmental concerns.</p>
+<p>“It’s important to me to treat our environment in the best way. This is especially so because of the climate crisis that indicates we have been harming it massively,” said the 28-year-old who is part of the Singapore Youth for Climate Action.</p>
+<p>While much of the attention about the environmental damage being done to the planet has focused on areas such as the use of fossil fuels and plastics, food production and consumption is an issue that is increasingly in the spotlight.</p>
+<p>Of all the staples on many people’s dinner table, experts say that red meat is the worst culprit causing environmental harm.</p>
+<p>Ms Hanisah’s journey to eating less meat started when she browsed a book at a prata stall in Jalan Kayu, which highlighted how food production and consumption has a major impact on the environment.</p>
+<p>“It made a lot of sense because food is such a big part of your life,” she said.</p>
+<h2>THE RELATIONSHIP BETWEEN FOOD AND THE ENVIRONMENT</h2>
+<p>Greenhouse gas emissions from food production make up more than a third of the global total, studies have shown.</p>
+<p>“The food we eat therefore is closely related to the environment,” he said. </p>
+<p>But not all food production has the same impact.</p>
+<p>Associate Professor L. Roman Carrasco, assistant head of the Department Biological Sciences, at National University of Singapore (NUS) said that when it comes to environmental harm, “the worst by far are beef and lamb”. </p>
+<p>“Their contributions to climate change and biodiversity loss are staggering. More than half of the emissions from food come from animal products and, among all of them, half of the emissions are just from beef and lamb,” he said.</p>
+<p>While livestock farming has the worst carbon footprint, sugarcane and coffee are among the most harmful crops on the environment because their production can involve destroying biodiversity and causing soil erosion, Prof Chen said.</p>
+<p>“Other surprises include … rice paddy fields which emit more greenhouse gases than other cereals, as well as soybean farming,” he said. </p>
+<h2>THE SINGAPORE PERSPECTIVE </h2>
+<p>The situation for Singapore is somewhat different because the country is so reliant on food imports, which means that the environmental cost of bringing supplies in to the country has a comparatively greater impact.</p>
+<p>The study, published in 2019, was commissioned to provide insights into the situation here as many existing studies are centred on the United States or Europe and do not consider the environmental effects of importing food.</p>
+<p>It found that in the context of Singapore, which imports more than 90 per cent of its food, transportation plays an important role in contributing to greenhouse gas emissions compared with many other countries where food can be produced locally. </p>
+<p>The level of consumption also made a difference. In this context, pork has a bigger impact than beef.</p>
+<p>Pork accounts for the most greenhouse gas emissions per annum per capita despite the fact that greenhouse gas emissions from one kilogram of pork is half that of one kilogram of beef, the study found.</p>
+<p>"This is because per capita consumption of pork is much greater than that of beef," the study said.</p>
+<p>According to the study, the annual greenhouse gas emissions per capita basis, with carbon dioxide equivalent as a unit of measurement for chicken is 121kg and 97kg for fish - both higher than that for beef, which stood at 69kg. </p>
+<p>Beef has the highest greenhouse gas emissions on a per kg basis, but has relatively low greenhouse gas emissions on a per capita basis due to low consumption, the study found.</p>
+<p>On a per capita basis, pork came out tops, at 266kg, while leafy vegetables like spinach, lettuce and Chinese cabbage ranked the lowest, at 6kg.</p>
+<p>In order to reduce the environmental impact of key staples, their country of origin and proximity to Singapore becomes a factor, along with how they are transported.</p>
+<p>"Hence, sourcing chilled food items from neighbouring countries or producing locally can serve to meaningfully reduce the environmental footprint as this means avoiding the need to import food through air transport," the study said.</p>
+<p>The study also said that at the time, 29 per cent of the average Singaporean’s diet consists of meats, eggs and seafood. The study noted that meat products such as pork have significantly higher greenhouse gas than fruits and vegetables. </p>
+<p>This means that there are other options to reduce the environmental impact of food production and consumption.</p>
+<h2>HOW MUCH CHANGING FOOD HABITS CAN HELP </h2>
+<p>Such studies come against a backdrop of growing public awareness globally of how food production is tied to environmental damage and discussion about how individuals can make a difference. </p>
+<p>Ms Hanisah has reduced the amount of seafood and chicken that she eats.</p>
+<p>“When it comes to seafood, you're not sure if they're beings over-fished, if they're being farmed. I don't want to be overtaking from the environment and not giving back,” she said.</p>
+<p>“I think also because that all (seafood and chicken) add up carbon footprint-wise. Definitely, the resources you need to produce that is more than vegetables,” she said.</p>
+<p>Changing food consumptionhabits would help the environment “tremendously”, Assoc Prof Carrasco said.</p>
+<p>“For instance, if we were all vegan, food production emissions would drop by 70 per cent,” he said. </p>
+<p>“Promoting sustainable livestock farming, which involves sustainable feeds, higher production yield, and better manure utilisation, is a critical step forward,” he said.</p>
+<p>Alternative food sources may become increasingly important, considering the impact of climate change on traditional farming, he added.</p>
+<h2>WHAT SOME RESTAURANTS ARE DOING</h2>
+<p>The price will remain the same, said the chain’s regional business development manager Jason Tan. Stuff’d started offering Impossible beef on its menu in 2019, but price was a concern to some customers, Mr Tan said.</p>
+<p>“Conventional beef was still the more affordable option when viewed alongside Impossible beef, creating a psychological price barrier for some who want to eat more sustainably,” he said. </p>
+<p>Mr Tan added that the firm saw a rising consumption trend for plant-based diets and healthy food in Singapore, especially among the younger generation.</p>
+<p>“We hope that this three-month collaboration campaign with Impossible Foods drives further awareness and acceptance of plant-based protein and encourages and convinces a wider audience to play their part in eating more sustainably,” Mr Tan said.</p>
+<p>At another restaurant, Open Farm Community, many products are grown by the restaurant itself, or sourced locally, said its head chef Olvier Truesdale-Jutras.</p>
+<p>If products are sourced overseas, the team looks out for ethical environmental practices, he said. </p>
+<p>“Anything we can grow ourselves cuts out the whole chain of middlemen, packaging, shipping, and so on. Sourcing locally drops the emissions massively and supports the local financial ecosystem,” he said.</p>
+<p>If it's protein, the restaurant ensures that it is carbon-neutral from the source, Mr Truesdale-Jutras said. </p>
+<p>“We work with three Australian farms committed to their own carbon neutrality for our non-vegetable options, and support local fish and chicken farmers as much as possible,” he said.</p>
+<p>Carbon-neutral means that any carbon dioxide released into the atmosphere from a company’s activities is balanced by an equivalent amount being removed.</p>
+<p>While most food and beverage operations keep food in excess to cater to the unpredictable demand for dishes from customers, his restaurant does not do this, he said.</p>
+<p>“We would rather change the dish if we run out and use up something else from our own farm or garden than over order and sit on expensive and environmentally irresponsible amounts of product”, he said.</p>
+<p>Open Farm Community also minimises waste by using “absolutely everything” and composting the rest, Mr Truesdale-Jutras said.</p>
+<p>“We spend a fair amount of time and creative effort ensuring we avoid extraneous food waste. Things that usually get binned get re-purposed into tasty edibles or infusions,” he said. HOW CAN PEOPLE MAKE A CHANGE?</p>
+<p>People can help save the environment by taking other steps, experts said. </p>
+<p>Similarly, Prof Chen said the one of the easiest changes people can introduce to their eating habits is to reduce food waste.</p>
+<p>“Getting more Singaporeans involved in the community-scale urban farming also helps raising awareness of preciousness of foods and thus naturally inculcate responsible consumption behaviour,” he said. </p>
+<p>Assoc Prof Carrasco referred to reducing food waste as the “lowest hanging fruit” for people to make an impact.</p>
+<p>“We need not be so drastic to have an impact. The best changes are those that do not represent a major effort and can be sustained over time,” he said.</p>
+<p>Getting the portions right and managing the fridge well, not only would save people money, but could cut global carbon emissions by 8 per cent, he added.</p>
+<p>“We can have a profound impact with a few decisions that need not be drastic (reducing food waste and eating less beef and lamb). The good news is that those decisions align our health, our pockets and the planet’s health. Everybody wins, “he said. </p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Singapore </a> </p> <h5> IN FOCUS: The inside story of how ISD crippled a terrorist network targeting Singapore after 9/11 </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<h1> IN FOCUS: The inside story of how ISD crippled a terrorist network targeting Singapore after 9/11 </h1>
+<div> <p>Twenty years ago, the Internal Security Department uncovered a plot to launch terror attacks against Singapore. CNA looks back at how it raced against time to thwart what would have brought devastating consequences for the country.</p> </div>
+<div> <div> <a> Aqil Haziq Mahmud </a> </div> </div>
+<p>SINGAPORE: As the World Trade Center towers in New York came crashing down on Sep 11, 2001, officers of Singapore’s Internal Security Department (ISD) watched in horror.</p>
+<p>Al-Qaeda and its leader Osama Bin Laden had claimed responsibility for the terrorist attack, and security agencies around the world scrambled to make sense of the implications for their countries.</p>
+<p>In 2001, Rajah headed a team of operations officers that dismantled the Jemaah Islamiyah (JI) terrorist network in Singapore after uncovering multiple plots against targets here.</p>
+<p>The scale, audacity and intricacy of these plots – using explosives to attack US military personnel, bases and foreign embassies in Singapore – shocked ISD officers at the time.</p>
+<p>Twenty years on, these well-developed plots remain Singapore’s closest shave with transnational Islamist terrorism to date, ISD said in a news release on Saturday (Dec 4).</p>
+<p>“Had the group succeeded in their plans, there would have been catastrophic consequences, both in terms of physical loss of lives and damage to Singapore’s communal harmony and social fabric,” ISD said.</p>
+<p>It was during one of these community engagements, days after the 9/11 attack, that the department was tipped off.</p>
+<p>This set the wheels in motion for an operation, between December 2001 and August 2002, that would lead to 56 people being detained under the Internal Security Act.</p>
+<p>“That set some alarm bells ringing in us, especially against the backdrop of 9/11. So, we were very concerned,” Rajah said.</p>
+<p>ISD officers started to watch Aslam and his associates very closely.</p>
+<p>The friend had also converted US dollars into local currency, later discovered to be payment for the reconnaissance of the US and Israeli embassies and other locations in Singapore as part of plans for an imminent attack.</p>
+<p>“(This was) information that we put together and we were in the process of working out, mapping out the network of Aslam and associates, and how we want to execute our operation,” Rajah said.</p>
+<h2> Plots to attack Singapore </h2>
+<p>ISD’s investigation into the JI members revealed that their earliest plans to attack targets in Singapore date back to the mid-1990s, long before the events of 9/11. Preparations for these attacks, often against US targets, intensified after 9/11.</p>
+<p>These are some of the more well-developed plots:</p>
+<li>One JI member took over 50 photographs of Paya Lebar Airbase where he worked as a technician with Singapore Technology Aerospace Systems. These photographs were meant to support Jl’s plan for a potential terrorist attack against US aircraft.</li>
+<p>Some of these plots are listed below:</p>
+<li>JI was also exploring the idea of sabotaging the MRT system, including its operations control centre, and Jurong Island.</li>
+<p>Former JI member Jameel* joined the group in 1989 before he was trained in Afghanistan and tasked to plan sabotage operations against US interests in Singapore.</p>
+<p>The former JI members CNA interviewed for this story have been rehabilitated and released from detention.</p>
+<p>JI had also planned to impair Singapore’s military capabilities by targeting the Ministry of Defence (MINDEF) headquarters in Bukit Gombak, ISD said. So, Jameel was asked to conduct reconnaissance of Gombak camp.</p>
+<p>That year, the cell surveyed the perimeter and exits of the camp, and even entered the compound on several occasions under the guise of courier services, ISD said.</p>
+<p>“As a leader of the cell, I sent one of my men to become a dispatch rider where he went into MINDEF to deliver parcels or packages,” Jameel, now in his late 50s and working as a cleaner, told CNA.</p>
+<p>“In the mail room, he surveyed what was in the mail room, then he came out and looked around the MINDEF compound.”</p>
+<p>One of the cell members also worked at a company that distributed a defence magazine whose subscribers included officers who worked at Gombak. “So we got to know some names, and we gave these to our seniors,” Jameel said.</p>
+<p>Then on Dec 3, the media published a report that Aslam had been arrested by the Northern Alliance in Afghanistan.</p>
+<p>The story, which was likely to attract further media attention, forced ISD’s hand. The department decided to bring forward its operation against Aslam's associates before they went underground or left the country to escape arrest.</p>
+<p>On Dec 8, the operation began. ISD senior research officer Wei Ling* remembers vividly how that day, a Saturday, started.</p>
+<p>“When my research team, colleagues and I went into the office that day, we thought that it was pretty much going to be an open-and-shut kind of operation that would be wrapped up by that weekend, or just a few days after that,” she told CNA.</p>
+<p>“But by nightfall on Saturday, we realised that we were so far wrong, and that we had actually stumbled on something big. Specifically, we had to somehow race against the clock to stop terrorist attacks from happening on Singapore’s soil.”</p>
+<p>The next day, ISD officers arrested six of Aslam’s associates and seized items of interest from their homes.</p>
+<h2>PEELING BACK THE LAYERS</h2>
+<p>Back at the office, the pressure was mounting. </p>
+<p>Research officers like Wei Ling worked 12-hour shifts, each handling two or three suspects that had been brought in. These officers worked directly with their operations counterparts, who were assigned the same suspects to focus on.</p>
+<p>Wei Ling, now in her 40s, said it was tough work in the beginning because the JI suspects were not talking: “They were clamming up, which basically meant that we do not know what to look out for,” she said.</p>
+<p>“So, it really felt like we were trying to put together a 10,000-piece jigsaw puzzle but the problem is that we did not know how it was supposed to look like in the end.”</p>
+<p>The plan was for ISD’s operations officers to try breaking down the suspects, Wei Ling said, while research officers combed through the copious amounts of evidence that had been seized.</p>
+<p>These included things like photo albums, religious books, name cards and even scraps of paper stuck between the pages of books.</p>
+<p>The discoveries got more sinister.</p>
+<p>“They did have a very perverse sense of humour, the JI members,” Wei Ling said.</p>
+<p>“So, it was all this day-in day-out trial and error, and through some real finds as well, that we slowly managed to piece together this local and regional threat that is JI.”</p>
+<p>When another colleague inserted a seized diskette into her computer, she found bomb making instructions. Wei Ling recalled her colleague shaking and her heart racing.</p>
+<p>“At that point in time, it really drove home to her and to us that there were indeed Singaporeans who were intent on harming Singapore,” Wei Ling said.</p>
+<p>“It’s just the thought of your own countrymen, you know. People who you might have taken the MRT with, people who you might have met on the streets, normal people.</p>
+<p>“But yet, they have such cynical thoughts. It’s just mind bending. At that point, we got ourselves together very quickly because there was absolutely no time to waste and we got down to doing what was needed.”</p>
+<p>Between Dec 15 and Dec 23, ISD officers made further arrests.</p>
+<p>One of those picked up in this first wave of arrests was Adam*, who joined JI in 1991 and held several positions within the group, such as treasurer, secretary and trainer.</p>
+<p>Adam was also personally involved in the reconnaissance of Yishun MRT station to target US personnel who were commuting to their base at Sembawang wharf. The plan was to place a bomb near where they waited for a shuttle bus to the base.</p>
+<p>One night, Adam was at home when a group of ISD officers came knocking. He knew that his time was up.</p>
+<p>“I told them to wait outside, because I wanted to perform my prayers with my family,” Adam, now in his early 60s and working as a technician, told CNA. “They were courteous enough to wait for me to finish my prayers, and then they took me away.”</p>
+<p>Rajah acknowledged the “immense pressure” on ISD to execute its operational plans swiftly, considering the credible information that Singapore was an actual target for the terrorists.</p>
+<p>At the height of this operation, dozens of teams of investigators, researchers, engineers and field officers worked round the clock for more than 600 hours, ISD said, generating over 65,000 operational leads.</p>
+<p>“The officers worked 24/7, various departments of various sections of the department came together, we were really stretched in terms of manpower and resources,” Rajah said. </p>
+<p>“But all the officers persevered. It is the commitment of the officers and their firm belief to make sure nothing happens to this country.”</p>
+<p>Despite the progress that had been made, there was still a long road ahead. </p>
+<p>Surveillance and search teams conducted discreet checks for months at many locations to determine if the explosives sought by JI operatives could have been smuggled into Singapore and stashed away.</p>
+<p>ISD forensic officers worked tirelessly to process the staggering amount of evidence seized, while operations officers conducted almost daily interviews with the JI members and their associates.</p>
+<p>On Dec 28, Rajah and his team made a startling discovery from interviews with two detainees recently brought in: JI planned to retaliate against the Dec 9 arrests by hijacking and crashing a plane into Changi Airport.</p>
+<p>“When the first wave of arrests was made, the remnant JI members met secretly and then proceeded to one of the JI members’ houses to regroup and discuss the strategy,” Rajah said, adding that they were in a mood of “anger and panic”.</p>
+<p>One of those who received these instructions was Jameel. He was arrested when trying to go through the Woodlands checkpoint.</p>
+<p>But another former JI member, Johan*, had more luck.</p>
+<p>Johan held several prominent positions in the group, including being a member of its consultative council. He had also travelled to Malaysia and the Philippines to learn bomb making and weapons handling skills.</p>
+<p>On the first day of Hari Raya Puasa in December 2001, Johan visited his parents. The next day, he fled Singapore via the land checkpoint without telling his family.</p>
+<p>The members decided to split up, and Johan and Mas Selamat travelled on to Kelantan in northern Malaysia, where they met in a hotel and hatched the plan to hijack and crash a plane.</p>
+<p>“Personally, I was surprised also because I never expected such a thing,” Johan, now in his early 60s and working in sales, told CNA. “Basically we had that idea, but not specifically (targeting) Changi Airport at that very moment.”</p>
+<p>Johan and the others crossed the border into Thailand and eventually reached Bangkok, where they bought business class tickets on a flight from Bangkok to Singapore. This meant that the plan was close to fruition, ISD said.</p>
+<p>“We decided to buy a business class ticket, on the pretext that it would be closer to the cockpit for us to have the access to gain entry to the cockpit and of course the pilot himself,” Johan said.</p>
+<p>“We were told by Mas Selamat that the security level was low for this flight, and there weren’t any air marshals on the flight.”</p>
+<p>Investigations revealed that Mas Selamat had planned to crash the plane into the Changi Airport control tower, and Rajah called this a “hot issue during an intensive investigation”.</p>
+<p>“They trained, they kept themselves isolated, they trained physically, they did simulation training in terms of how to hijack the plane and enter the cockpit,” Rajah said.</p>
+<p>“They also watched videos in terms of how hijacks are done, and they were mentally prepared to execute the plan.”</p>
+<p>Mas Selamat soon came across a report in a Thailand newspaper mentioning his name as a fugitive.</p>
+<p>“It was quite a shock to all five of us. We were taken aback due to that article,” Johan said. “Mas Selamat decided that we hold back the plan but not abandon it.”</p>
+<p>Rajah said this averted the potential devastation that could have taken place. “It could have been disastrous to Singapore if it actually happened,” he stressed.</p>
+<p>The hijacking plot is one example of how JI members overseas remained a threat to Singapore, ISD senior operations officer Faisal* told CNA.</p>
+<p>“They have this operational knowledge of the place. So, if they are overseas, they can continue to plan attacks, they can join the regional JI counterparts to plan attacks on Singapore,” said Faisal, now in his early 60s.</p>
+<p>Furthermore, these fugitives might regroup and develop a second generation of JI overseas, he explained.</p>
+<p>“It is very important that we must bring them back in order for us to neutralise the threat,” he added.</p>
+<p>To achieve this, ISD shared information they got from interviews and surveillance of JI members as well as their associates and family members with regional law enforcement partners.</p>
+<p>Johan said the plan to attack Changi Airport was eventually abandoned. The group split up again, and he fled to central Java in Indonesia. Johan was arrested in Jakarta and finally deported to Singapore.</p>
+<p>ISD also took the approach of engaging JI members’ families to convince their loved ones to return to Singapore where they would be treated fairly, Faisal said.</p>
+<p>“There are a few of them who fled from Singapore without their family. So of course, they will miss the family and sometimes they do contact the family and all that,” Faisal said.</p>
+<p>At least four JI fugitives who fled to Malaysia later returned to Singapore after speaking to their family and local contacts. One was told off by his family members for being “foolish” and languishing as a fugitive in Malaysia, ISD said.</p>
+<p>Another method was setting the fugitive up to meet an associate overseas, through an ISD source acting as a middleman.</p>
+<p>“When the fugitive decided to meet at a certain hotel, we give this information to our foreign partner,” Faisal added. “So, the foreign partner waited for him at the hotel. He came, he was arrested, then after that returned to Singapore.”</p>
+<p>ISD’s investigations eventually led to the arrests of another 21 people in August 2002.</p>
+<p>In September 2002, 17 JI members and one member of the Moro Islamic Liberation Front, which has conducted attacks in the Philippines, were detained. The remaining three people were released on ROs.</p>
+<p>Of the 17 JI detainees, at least eight had conducted reconnaissance and surveillance of strategic targets in Singapore, including water pipelines and Changi Airport.</p>
+<p>The ISD operation was not conducted without risk.</p>
+<p>Investigations revealed that at least one local JI member had considered kidnapping ISD officers to demand the release of those who were in detention, ISD said.</p>

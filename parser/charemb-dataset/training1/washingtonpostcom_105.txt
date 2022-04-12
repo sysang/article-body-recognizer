@@ -1,0 +1,500 @@
+<div><div>Sandra Bruce</div><div>June 11, 2021</div><div>Appointment announced</div></div>
+<div><div><h3>U.S. Agency for International Development</h3><div>15 positions</div></div></div>
+<div><div>Administrator</div><div>Confirmed</div></div>
+<div><div>Samantha Power</div><div>April 15, 2021</div><div>Reported out favorably</div></div>
+<div><div>Samantha Power</div><div>Feb. 4, 2021</div><div>Referred to Foreign Relations committee</div></div>
+<div><div>Samantha Power</div><div>Jan. 13, 2021</div><div>Appointment announced</div></div>
+<div><div>Deputy administrator for policy and programming</div><div>Confirmed</div></div>
+<div><div>Isobel Coleman</div><div>Nov. 3, 2021</div><div>Confirmed</div></div>
+<div><div>Isobel Coleman</div><div>Aug. 4, 2021</div><div>Reported out favorably</div></div>
+<div><div>Isobel Coleman</div><div>June 15, 2021</div><div>Referred to Foreign Relations committee</div></div>
+<div><div>Isobel Coleman</div><div>June 3, 2021</div><div>Appointment announced</div></div>
+<div><div>Deputy administrator for management and resources</div><div>Confirmed</div></div>
+<div><div>Paloma Adams-Allen</div><div>Oct. 5, 2021</div><div>Confirmed</div></div>
+<div><div>Paloma Adams-Allen</div><div>Aug. 4, 2021</div><div>Reported out favorably</div></div>
+<div><div>Paloma Adams-Allen</div><div>June 15, 2021</div><div>Referred to Foreign Relations committee</div></div>
+<div><div>Paloma Adams-Allen</div><div>June 3, 2021</div><div>Appointment announced</div></div>
+<div><div>Monde Muyangwa</div><div>Jan. 4</div><div>Referred to Foreign Relations committee</div></div>
+<div><div>Monde Muyangwa</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Monde Muyangwa</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Monde Muyangwa</div><div>Nov. 4, 2021</div><div>Referred to Foreign Relations committee</div></div>
+<div><div>Monde Muyangwa</div><div>Oct. 29, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant administrator for Asia</div><div>No nominee</div></div>
+<div><div>No nominee</div></div>
+<div><div>Amy Searight</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Amy Searight</div><div>Aug. 2, 2021</div><div>Referred to Foreign Relations committee</div></div>
+<div><div>Amy Searight</div><div>July 29, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant administrator for Latin America and the Caribbean</div><div>Confirmed</div></div>
+<div><div>Marcela Escobari</div><div>Aug. 4, 2021</div><div>Reported out favorably</div></div>
+<div><div>Marcela Escobari</div><div>April 22, 2021</div><div>Referred to Foreign Relations committee</div></div>
+<div><div>Marcela Escobari</div><div>April 12, 2021</div><div>Appointment announced</div></div>
+<div><div>Tamara Cofman Wittes</div><div>Jan. 4</div><div>Referred to Foreign Relations committee</div></div>
+<div><div>Tamara Cofman Wittes</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Tamara Cofman Wittes</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Tamara Cofman Wittes</div><div>July 22, 2021</div><div>Referred to Foreign Relations committee</div></div>
+<div><div>Tamara Cofman Wittes</div><div>July 19, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant administrator for global health</div><div>Confirmed</div></div>
+<div><div>Atul Gawande</div><div>Nov. 3, 2021</div><div>Reported out favorably</div></div>
+<div><div>Atul Gawande</div><div>July 15, 2021</div><div>Referred to Foreign Relations committee</div></div>
+<div><div>Atul Gawande</div><div>July 13, 2021</div><div>Appointment announced</div></div>
+<div><div><div><div>Jodi Herman</div><div>Dec. 2, 2021</div><div>Placed on Senate Executive Calendar in the Privileged Nomination section</div></div><div><div>Jodi Herman</div><div>Nov. 17, 2021</div><div>Appointment announced</div></div></div></div>
+<div><div>Nicole Angarella</div><div>Aug. 10, 2021</div><div>Referred to Foreign Relations committee</div></div>
+<div><div>Nicole Angarella</div><div>July 29, 2021</div><div>Appointment announced</div></div>
+<div><div>Nicole Angarella</div><div>Awaiting referral to Homeland Security and Governmental Affairs committee</div></div>
+<div><div><h3>Department of Labor</h3><div>15 positions</div></div></div>
+<div><div>Secretary</div><div>Confirmed</div></div>
+<div><div>Marty Walsh</div><div>Feb. 11, 2021</div><div>Reported out favorably</div></div>
+<div><div>Marty Walsh</div><div>Jan. 20, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Marty Walsh</div><div>Jan. 7, 2021</div><div>Appointment announced</div></div>
+<div><div>Deputy secretary</div><div>Confirmed</div></div>
+<div><div>Julie Su</div><div>April 21, 2021</div><div>Reported out favorably</div></div>
+<div><div>Julie Su</div><div>Feb. 13, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Julie Su</div><div>Feb. 10, 2021</div><div>Appointment announced</div></div>
+<div><div>Solicitor</div><div>Confirmed</div></div>
+<div><div>Seema Nanda</div><div>May 12, 2021</div><div>Reported out favorably</div></div>
+<div><div>Seema Nanda</div><div>April 12, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Seema Nanda</div><div>March 26, 2021</div><div>Appointment announced</div></div>
+<div><div>Elizabeth Watson</div><div>Jan. 4</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Elizabeth Watson</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Elizabeth Watson</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Elizabeth Watson</div><div>Sept. 28, 2021</div><div>Committee requested information was received (Health, Education, Labor, and Pensions)</div></div>
+<div><div>Elizabeth Watson</div><div>April 28, 2021</div><div>Placed on Senate Executive Calendar in the Privileged Nomination section</div></div>
+<div><div>Elizabeth Watson</div><div>April 28, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Elizabeth Watson</div><div>April 27, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant secretary for disability employment policy</div><div>Confirmed</div></div>
+<div><div>Taryn Williams</div><div>June 16, 2021</div><div>Reported out favorably</div></div>
+<div><div>Taryn Williams</div><div>April 22, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Taryn Williams</div><div>April 16, 2021</div><div>Appointment announced</div></div>
+<div><div>Lisa Gomez</div><div>Jan. 4</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Lisa Gomez</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Lisa Gomez</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Lisa Gomez</div><div>Dec. 2, 2021</div><div>Reported out favorably</div></div>
+<div><div>Lisa Gomez</div><div>July 28, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Lisa Gomez</div><div>July 27, 2021</div><div>Appointment announced</div></div>
+<div><div>Jose Javier Rodriguez</div><div>Jan. 4</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Jose Javier Rodriguez</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Jose Javier Rodriguez</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Jose Javier Rodriguez</div><div>Oct. 7, 2021</div><div>Hearing held</div></div>
+<div><div>Jose Javier Rodriguez</div><div>July 13, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Jose Javier Rodriguez</div><div>July 2, 2021</div><div>Appointment announced</div></div>
+<div><div><div>Christopher J. Williamson</div><div>Dec. 6, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div><div><div>Christopher J. Williamson</div><div>Nov. 12, 2021</div><div>Appointment announced</div></div></div>
+<div><div>Assistant secretary for occupational safety and health</div><div>Confirmed</div></div>
+<div><div>Doug Parker</div><div>June 16, 2021</div><div>Reported out favorably</div></div>
+<div><div>Doug Parker</div><div>April 12, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Doug Parker</div><div>April 9, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant secretary for policy</div><div>Confirmed</div></div>
+<div><div>Rajesh Nayak</div><div>Nov. 3, 2021</div><div>Confirmed</div></div>
+<div><div>Rajesh Nayak</div><div>June 16, 2021</div><div>Reported out favorably</div></div>
+<div><div>Rajesh Nayak</div><div>April 27, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Rajesh Nayak</div><div>April 23, 2021</div><div>Appointment announced</div></div>
+<div><div>James Rodriguez</div><div>Dec. 2, 2021</div><div>Reported out favorably (Health, Education, Labor, and Pensions)</div></div>
+<div><div>James Rodriguez</div><div>Oct. 20, 2021</div><div>Reported out favorably (Veterans' Affairs)</div></div>
+<div><div>James Rodriguez</div><div>July 27, 2021</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>James Rodriguez</div><div>July 20, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>James Rodriguez</div><div>July 16, 2021</div><div>Appointment announced</div></div>
+<div><div>David Weil</div><div>Jan. 4</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>David Weil</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>David Weil</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>David Weil</div><div>July 15, 2021</div><div>Hearing held</div></div>
+<div><div>David Weil</div><div>June 8, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>David Weil</div><div>June 3, 2021</div><div>Appointment announced</div></div>
+<div><div>William Beach</div><div>Feb. 27, 2019</div><div>Reported out favorably</div></div>
+<div><div>William Beach</div><div>Jan. 16, 2019</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>William Beach</div><div>Jan. 16, 2019</div><div>Appointment announced</div></div>
+<div><div>Inspector general</div><div>Confirmed</div></div>
+<div><div>Larry Turner</div><div>Dec. 2, 2021</div><div>Confirmed</div></div>
+<div><div>Larry Turner</div><div>Oct. 26, 2021</div><div>Referred to Homeland Security and Governmental Affairs committee</div></div>
+<div><div>Larry Turner</div><div>Oct. 26, 2021</div><div>Reported out favorably (Health, Education, Labor, and Pensions)</div></div>
+<div><div>Larry Turner</div><div>June 8, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Larry Turner</div><div>May 28, 2021</div><div>Appointment announced</div></div>
+<div><div><h3>Department of Agriculture</h3><div>15 positions</div></div></div>
+<div><div>Secretary</div><div>Confirmed</div></div>
+<div><div>Tom Vilsack</div><div>Feb. 2, 2021</div><div>Reported out favorably</div></div>
+<div><div>Tom Vilsack</div><div>Jan. 20, 2021</div><div>Referred to Agriculture, Nutrition, and Forestry committee</div></div>
+<div><div>Tom Vilsack</div><div>Dec. 8, 2020</div><div>Appointment announced</div></div>
+<div><div>Deputy secretary</div><div>Confirmed</div></div>
+<div><div>Jewel H. Bronaugh</div><div>May 10, 2021</div><div>Reported out favorably</div></div>
+<div><div>Jewel H. Bronaugh</div><div>Feb. 22, 2021</div><div>Referred to Agriculture, Nutrition, and Forestry committee</div></div>
+<div><div>Jewel H. Bronaugh</div><div>Jan. 18, 2021</div><div>Appointment announced</div></div>
+<div><div>General counsel</div><div>Confirmed</div></div>
+<div><div>Janie Simms Hipp</div><div>June 10, 2021</div><div>Reported out favorably</div></div>
+<div><div>Janie Simms Hipp</div><div>March 16, 2021</div><div>Referred to Agriculture, Nutrition, and Forestry committee</div></div>
+<div><div>Janie Simms Hipp</div><div>March 15, 2021</div><div>Appointment announced</div></div>
+<div><div>Undersecretary for farm production and conservation</div><div>Confirmed</div></div>
+<div><div>Robert Bonnie</div><div>Aug. 10, 2021</div><div>Reported out favorably</div></div>
+<div><div>Robert Bonnie</div><div>April 27, 2021</div><div>Referred to Agriculture, Nutrition, and Forestry committee</div></div>
+<div><div>Robert Bonnie</div><div>April 16, 2021</div><div>Appointment announced</div></div>
+<div><div><div><div>Jose Emilio Esteban</div><div>Nov. 15, 2021</div><div>Referred to Agriculture, Nutrition, and Forestry committee</div></div><div><div>Jose Emilio Esteban</div><div>Nov. 12, 2021</div><div>Appointment announced</div></div></div></div>
+<div><div>Undersecretary for marketing and regulatory programs</div><div>Confirmed</div></div>
+<div><div>Jennifer Moffitt</div><div>July 26, 2021</div><div>Reported out favorably</div></div>
+<div><div>Jennifer Moffitt</div><div>April 28, 2021</div><div>Referred to Agriculture, Nutrition, and Forestry committee</div></div>
+<div><div>Jennifer Moffitt</div><div>April 27, 2021</div><div>Appointment announced</div></div>
+<div><div>Homer Wilkes</div><div>Sept. 23, 2021</div><div>Reported out favorably</div></div>
+<div><div>Homer Wilkes</div><div>June 24, 2021</div><div>Referred to Agriculture, Nutrition, and Forestry committee</div></div>
+<div><div>Homer Wilkes</div><div>June 23, 2021</div><div>Appointment announced</div></div>
+<div><div>Undersecretary for rural development</div><div>Confirmed</div></div>
+<div><div>Xochitl Torres Small</div><div>Oct. 7, 2021</div><div>Confirmed</div></div>
+<div><div>Xochitl Torres Small</div><div>Aug. 10, 2021</div><div>Reported out favorably</div></div>
+<div><div>Xochitl Torres Small</div><div>June 24, 2021</div><div>Referred to Agriculture, Nutrition, and Forestry committee</div></div>
+<div><div>Xochitl Torres Small</div><div>June 18, 2021</div><div>Appointment announced</div></div>
+<div><div>Chavonda Jacobs-Young</div><div>Nov. 17, 2021</div><div>Hearing held</div></div>
+<div><div>Chavonda Jacobs-Young</div><div>Aug. 4, 2021</div><div>Referred to Agriculture, Nutrition, and Forestry committee</div></div>
+<div><div>Chavonda Jacobs-Young</div><div>July 28, 2021</div><div>Appointment announced</div></div>
+<div><div>Margo Schlanger</div><div>Nov. 17, 2021</div><div>Hearing held</div></div>
+<div><div>Margo Schlanger</div><div>Sept. 20, 2021</div><div>Referred to Agriculture, Nutrition, and Forestry committee</div></div>
+<div><div>Margo Schlanger</div><div>Sept. 16, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant secretary for congressional relations</div><div>Confirmed</div></div>
+<div><div>Adrienne Wojciechowski</div><div>Nov. 3, 2021</div><div>Confirmed</div></div>
+<div><div>Adrienne Wojciechowski</div><div>July 28, 2021</div><div>Placed on Senate Executive Calendar in the Privileged Nomination section</div></div>
+<div><div>Adrienne Wojciechowski</div><div>July 27, 2021</div><div>Appointment announced</div></div>
+<div><div>Inspector general</div><div>Holdover</div></div>
+<div><div>Phyllis K. Fong</div><div>July 19, 2002</div><div>Discharged (Homeland Security and Governmental Affairs)</div></div>
+<div><div>Phyllis K. Fong</div><div>June 28, 2002</div><div>Referred to Homeland Security and Governmental Affairs committee</div></div>
+<div><div>Phyllis K. Fong</div><div>June 28, 2002</div><div>Discharged (Agriculture, Nutrition, and Forestry)</div></div>
+<div><div>Phyllis K. Fong</div><div>March 14, 2002</div><div>Referred to Agriculture, Nutrition, and Forestry committee</div></div>
+<div><div>Phyllis K. Fong</div><div>March 14, 2002</div><div>Appointment announced</div></div>
+<div><div><h3>Environmental Protection Agency</h3><div>13 positions</div></div></div>
+<div><div>Administrator</div><div>Confirmed</div></div>
+<div><div>Michael S. Regan</div><div>Feb. 9, 2021</div><div>Reported out favorably</div></div>
+<div><div>Michael S. Regan</div><div>Jan. 20, 2021</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Michael S. Regan</div><div>Dec. 17, 2020</div><div>Appointment announced</div></div>
+<div><div>Deputy administrator</div><div>Confirmed</div></div>
+<div><div>Janet McCabe</div><div>March 24, 2021</div><div>Reported out favorably</div></div>
+<div><div>Janet McCabe</div><div>Jan. 20, 2021</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Janet McCabe</div><div>Jan. 15, 2021</div><div>Appointment announced</div></div>
+<div><div>General counsel</div><div>Confirmed</div></div>
+<div><div>Jeffrey Prieto</div><div>Nov. 3, 2021</div><div>Confirmed</div></div>
+<div><div>Jeffrey Prieto</div><div>Sept. 22, 2021</div><div>Reported out favorably</div></div>
+<div><div>Jeffrey Prieto</div><div>April 29, 2021</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Jeffrey Prieto</div><div>April 28, 2021</div><div>Appointment announced</div></div>
+<div><div>Chief financial officer</div><div>Confirmed</div></div>
+<div><div>Faisal Amin</div><div>May 10, 2021</div><div>Committee requested information was received (Environment and Public Works)</div></div>
+<div><div>Faisal Amin</div><div>April 19, 2021</div><div>Placed on Senate Executive Calendar in the Privileged Nomination section</div></div>
+<div><div>Faisal Amin</div><div>April 19, 2021</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Faisal Amin</div><div>April 14, 2021</div><div>Appointment announced</div></div>
+<div><div>Amanda Howe</div><div>Dec. 1, 2021</div><div>Reported out favorably</div></div>
+<div><div>Amanda Howe</div><div>June 15, 2021</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Amanda Howe</div><div>June 9, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant administrator for chemical safety and pollution prevention</div><div>Confirmed</div></div>
+<div><div>Michal Freedhoff</div><div>May 26, 2021</div><div>Reported out favorably</div></div>
+<div><div>Michal Freedhoff</div><div>April 22, 2021</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Michal Freedhoff</div><div>April 14, 2021</div><div>Appointment announced</div></div>
+<div><div>David Uhlmann</div><div>Jan. 4</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>David Uhlmann</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>David Uhlmann</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>David Uhlmann</div><div>Dec. 1, 2021</div><div>Reported out favorably</div></div>
+<div><div>David Uhlmann</div><div>June 23, 2021</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>David Uhlmann</div><div>June 22, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant administrator for international and tribal affairs</div><div>Confirmed</div></div>
+<div><div>Jane Nishida</div><div>July 14, 2021</div><div>Reported out favorably</div></div>
+<div><div>Jane Nishida</div><div>April 29, 2021</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Jane Nishida</div><div>April 28, 2021</div><div>Appointment announced</div></div>
+<div><div>Henry Christopher Frey</div><div>Jan. 4</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Henry Christopher Frey</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Henry Christopher Frey</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Henry Christopher Frey</div><div>Dec. 1, 2021</div><div>Reported out favorably</div></div>
+<div><div>Henry Christopher Frey</div><div>Oct. 4, 2021</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Henry Christopher Frey</div><div>Sept. 22, 2021</div><div>Appointment announced</div></div>
+<div><div>Carlton Waterhouse</div><div>Jan. 4</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Carlton Waterhouse</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Carlton Waterhouse</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Carlton Waterhouse</div><div>Sept. 15, 2021</div><div>Hearing held</div></div>
+<div><div>Carlton Waterhouse</div><div>June 22, 2021</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Carlton Waterhouse</div><div>June 11, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant administrator for water</div><div>Confirmed</div></div>
+<div><div>Radhika Fox</div><div>May 26, 2021</div><div>Reported out favorably</div></div>
+<div><div>Radhika Fox</div><div>April 27, 2021</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Radhika Fox</div><div>April 14, 2021</div><div>Appointment announced</div></div>
+<div><div>Inspector general</div><div>Holdover</div></div>
+<div><div>Sean O'Donnell</div><div>Dec. 10, 2019</div><div>Discharged (Homeland Security and Governmental Affairs)</div></div>
+<div><div>Sean O'Donnell</div><div>Nov. 20, 2019</div><div>Referred to Homeland Security and Governmental Affairs committee</div></div>
+<div><div>Sean O'Donnell</div><div>Nov. 20, 2019</div><div>Reported out favorably (Environment and Public Works)</div></div>
+<div><div>Sean O'Donnell</div><div>Oct. 15, 2019</div><div>Referred to Environment and Public Works committee</div></div>
+<div><div>Sean O'Donnell</div><div>Oct. 15, 2019</div><div>Appointment announced</div></div>
+<div><div><h3>Department of Housing and Urban Development</h3><div>13 positions</div></div></div>
+<div><div>Secretary</div><div>Confirmed</div></div>
+<div><div>Marcia L. Fudge</div><div>Feb. 4, 2021</div><div>Reported out favorably</div></div>
+<div><div>Marcia L. Fudge</div><div>Jan. 20, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Marcia L. Fudge</div><div>Dec. 8, 2020</div><div>Appointment announced</div></div>
+<div><div>Deputy secretary</div><div>Confirmed</div></div>
+<div><div>Adrianne Todman</div><div>May 19, 2021</div><div>Reported out favorably</div></div>
+<div><div>Adrianne Todman</div><div>March 25, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Adrianne Todman</div><div>March 25, 2021</div><div>Appointment announced</div></div>
+<div><div>General counsel</div><div>Confirmed</div></div>
+<div><div>Damon Smith</div><div>Aug. 3, 2021</div><div>Reported out favorably</div></div>
+<div><div>Damon Smith</div><div>June 17, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Damon Smith</div><div>June 9, 2021</div><div>Appointment announced</div></div>
+<div><div>Elizabeth de León Bhargava</div><div>Jan. 4</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Elizabeth de León Bhargava</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Elizabeth de León Bhargava</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Elizabeth de León Bhargava</div><div>Dec. 2, 2021</div><div>Reported out favorably</div></div>
+<div><div>Elizabeth de León Bhargava</div><div>Oct. 7, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Elizabeth de León Bhargava</div><div>Oct. 6, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant secretary for community planning and development</div><div>No nominee</div></div>
+<div><div>No nominee</div></div>
+<div><div>Mark Colón</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Mark Colón</div><div>Oct. 7, 2021</div><div>Hearing held</div></div>
+<div><div>Mark Colón</div><div>April 28, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Mark Colón</div><div>April 27, 2021</div><div>Appointment announced</div></div>
+<div><div>Dave Uejio</div><div>Jan. 4</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Dave Uejio</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Dave Uejio</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Dave Uejio</div><div>Aug. 5, 2021</div><div>Hearing held</div></div>
+<div><div>Dave Uejio</div><div>June 24, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Dave Uejio</div><div>June 24, 2021</div><div>Appointment announced</div></div>
+<div><div>Julia Gordon</div><div>Jan. 4</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Julia Gordon</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Julia Gordon</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Julia Gordon</div><div>Aug. 5, 2021</div><div>Hearing held</div></div>
+<div><div>Julia Gordon</div><div>July 13, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Julia Gordon</div><div>June 24, 2021</div><div>Appointment announced</div></div>
+<div><div>Solomon Greene</div><div>Jan. 4</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Solomon Greene</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Solomon Greene</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Solomon Greene</div><div>Aug. 5, 2021</div><div>Hearing held</div></div>
+<div><div>Solomon Greene</div><div>April 27, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Solomon Greene</div><div>April 23, 2021</div><div>Appointment announced</div></div>
+<div><div>James Arthur Jemison II</div><div>Jan. 4</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>James Arthur Jemison II</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>James Arthur Jemison II</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>James Arthur Jemison II</div><div>Oct. 7, 2021</div><div>Hearing held</div></div>
+<div><div>James Arthur Jemison II</div><div>Sept. 20, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>James Arthur Jemison II</div><div>Sept. 13, 2021</div><div>Appointment announced</div></div>
+<div><div>President, Government National Mortgage Association</div><div>Confirmed</div></div>
+<div><div>Alanna McCargo</div><div>Dec. 2, 2021</div><div>Reported out favorably</div></div>
+<div><div>Alanna McCargo</div><div>Sept. 20, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Alanna McCargo</div><div>Sept. 13, 2021</div><div>Appointment announced</div></div>
+<div><div>Inspector general</div><div>Holdover</div></div>
+<div><div>Rae Oliver</div><div>Jan. 2, 2019</div><div>Confirmed</div></div>
+<div><div>Rae Oliver</div><div>Sept. 12, 2018</div><div>Discharged (Homeland Security and Governmental Affairs)</div></div>
+<div><div>Rae Oliver</div><div>Aug. 23, 2018</div><div>Referred to Homeland Security and Governmental Affairs committee</div></div>
+<div><div>Rae Oliver</div><div>Aug. 23, 2018</div><div>Reported out favorably (Banking, Housing, and Urban Affairs)</div></div>
+<div><div>Rae Oliver</div><div>June 25, 2018</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Rae Oliver</div><div>June 22, 2018</div><div>Appointment announced</div></div>
+<div><div><h3>Department of Veterans Affairs</h3><div>13 positions</div></div></div>
+<div><div>Secretary</div><div>Confirmed</div></div>
+<div><div>Denis McDonough</div><div>Feb. 8, 2021</div><div>Confirmed</div></div>
+<div><div>Denis McDonough</div><div>Feb. 2, 2021</div><div>Reported out favorably</div></div>
+<div><div>Denis McDonough</div><div>Jan. 20, 2021</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>Denis McDonough</div><div>Dec. 10, 2020</div><div>Appointment announced</div></div>
+<div><div>Deputy secretary</div><div>Confirmed</div></div>
+<div><div>Donald Remy</div><div>May 26, 2021</div><div>Reported out favorably</div></div>
+<div><div>Donald Remy</div><div>April 27, 2021</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>Donald Remy</div><div>April 23, 2021</div><div>Appointment announced</div></div>
+<div><div>General counsel</div><div>Confirmed</div></div>
+<div><div>Richard Sauber</div><div>April 22, 2021</div><div>Reported out favorably</div></div>
+<div><div>Richard Sauber</div><div>Feb. 22, 2021</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>Richard Sauber</div><div>Feb. 19, 2021</div><div>Appointment announced</div></div>
+<div><div>Chief financial officer</div><div>Holdover</div></div>
+<div><div>Jon J. Rychalski</div><div>Dec. 11, 2017</div><div>Committee requested information was received (Veterans' Affairs)</div></div>
+<div><div>Jon J. Rychalski</div><div>Oct. 16, 2017</div><div>Placed on Senate Executive Calendar in the Privileged Nomination section</div></div>
+<div><div>Jon J. Rychalski</div><div>Oct. 16, 2017</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>Jon J. Rychalski</div><div>Oct. 13, 2017</div><div>Appointment announced</div></div>
+<div><div>Undersecretary for memorial affairs</div><div>Confirmed</div></div>
+<div><div>Matt Quinn</div><div>May 26, 2021</div><div>Reported out favorably</div></div>
+<div><div>Matt Quinn</div><div>April 19, 2021</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>Matt Quinn</div><div>April 9, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant secretary for congressional and legislative affairs</div><div>Confirmed</div></div>
+<div><div>Patricia Ross</div><div>May 26, 2021</div><div>Reported out favorably (Veterans' Affairs)</div></div>
+<div><div>Patricia Ross</div><div>April 29, 2021</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>Patricia Ross</div><div>April 19, 2021</div><div>Placed on Senate Executive Calendar in the Privileged Nomination section</div></div>
+<div><div>Patricia Ross</div><div>April 7, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant secretary for information and technology</div><div>Confirmed</div></div>
+<div><div>Kurt DelBene</div><div>Dec. 15, 2021</div><div>Reported out favorably</div></div>
+<div><div>Kurt DelBene</div><div>Nov. 19, 2021</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>Kurt DelBene</div><div>Nov. 3, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant secretary for enterprise integration</div><div>Confirmed</div></div>
+<div><div>Guy Kiyokawa</div><div>Oct. 20, 2021</div><div>Reported out favorably</div></div>
+<div><div>Guy Kiyokawa</div><div>June 23, 2021</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>Guy Kiyokawa</div><div>June 9, 2021</div><div>Appointment announced</div></div>
+<div><div>Assistant secretary for the Office of Accountability and Whistleblower Protection</div><div>Confirmed</div></div>
+<div><div>Maryanne Donaghy</div><div>May 26, 2021</div><div>Reported out favorably</div></div>
+<div><div>Maryanne Donaghy</div><div>April 19, 2021</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>Maryanne Donaghy</div><div>March 26, 2021</div><div>Appointment announced</div></div>
+<div><div>Cheryl L. Mason</div><div>Nov. 8, 2017</div><div>Confirmed</div></div>
+<div><div>Cheryl L. Mason</div><div>Oct. 25, 2017</div><div>Reported out favorably</div></div>
+<div><div>Cheryl L. Mason</div><div>Sept. 5, 2017</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>Cheryl L. Mason</div><div>Sept. 2, 2017</div><div>Appointment announced</div></div>
+<div><div>Inspector general</div><div>Holdover</div></div>
+<div><div>Michael Joseph Missal</div><div>Jan. 20, 2016</div><div>Reported out favorably (Homeland Security and Governmental Affairs)</div></div>
+<div><div>Michael Joseph Missal</div><div>Jan. 12, 2016</div><div>Referred to Homeland Security and Governmental Affairs committee</div></div>
+<div><div>Michael Joseph Missal</div><div>Jan. 12, 2016</div><div>Reported out favorably (Veterans' Affairs)</div></div>
+<div><div>Michael Joseph Missal</div><div>Oct. 5, 2015</div><div>Referred to Veterans' Affairs committee</div></div>
+<div><div>Michael Joseph Missal</div><div>Oct. 5, 2015</div><div>Appointment announced</div></div>
+<div><div><h3>Federal Reserve System</h3><div>7 positions</div></div></div>
+<div><div>Jerome H. Powell</div><div>Jan. 4</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Jerome H. Powell</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Jerome H. Powell</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Jerome H. Powell</div><div>Dec. 2, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Jerome H. Powell</div><div>Nov. 22, 2021</div><div>Appointment announced</div></div>
+<div><div>Jerome H. Powell</div><div>Jan. 17, 2018</div><div>Reported out favorably</div></div>
+<div><div>Jerome H. Powell</div><div>Jan. 8, 2018</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Jerome H. Powell</div><div>Jan. 8, 2018</div><div>Appointment announced</div></div>
+<div><div>Lael Brainard</div><div>Jan. 4</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Lael Brainard</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Lael Brainard</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Lael Brainard</div><div>Dec. 13, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Lael Brainard</div><div>Nov. 22, 2021</div><div>Appointment announced</div></div>
+<div><div>Richard Clarida</div><div>June 12, 2018</div><div>Reported out favorably</div></div>
+<div><div>Richard Clarida</div><div>April 24, 2018</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Richard Clarida</div><div>April 16, 2018</div><div>Appointment announced</div></div>
+<div><div>Michelle Bowman</div><div>June 12, 2018</div><div>Reported out favorably</div></div>
+<div><div>Michelle Bowman</div><div>April 24, 2018</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Michelle Bowman</div><div>April 16, 2018</div><div>Appointment announced</div></div>
+<div><div>Lael Brainard</div><div>April 29, 2014</div><div>Reported out favorably</div></div>
+<div><div>Lael Brainard</div><div>Jan. 13, 2014</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Lael Brainard</div><div>Jan. 13, 2014</div><div>Appointment announced</div></div>
+<div><div>Christopher Waller</div><div>Dec. 7, 2020</div><div>Confirmed</div></div>
+<div><div>Christopher Waller</div><div>July 21, 2020</div><div>Reported out favorably</div></div>
+<div><div>Christopher Waller</div><div>Jan. 28, 2020</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Christopher Waller</div><div>Jan. 16, 2020</div><div>Appointment announced</div></div>
+<div><div>Randal Quarles</div><div>Jan. 17, 2018</div><div>Reported out favorably</div></div>
+<div><div>Randal Quarles</div><div>Jan. 8, 2018</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Randal Quarles</div><div>Jan. 8, 2018</div><div>Appointment announced</div></div>
+<div><div><h3>Export-Import Bank</h3><div>6 positions</div></div></div>
+<div><div>Reta Jo Lewis</div><div>Jan. 4</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Reta Jo Lewis</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Reta Jo Lewis</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Reta Jo Lewis</div><div>Nov. 3, 2021</div><div>Reported out favorably</div></div>
+<div><div>Reta Jo Lewis</div><div>Sept. 20, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Reta Jo Lewis</div><div>Sept. 13, 2021</div><div>Appointment announced</div></div>
+<div><div>Judith Delzoppo Pryor</div><div>Jan. 4</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Judith Delzoppo Pryor</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Judith Delzoppo Pryor</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Judith Delzoppo Pryor</div><div>Nov. 3, 2021</div><div>Reported out favorably</div></div>
+<div><div>Judith Delzoppo Pryor</div><div>July 26, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Judith Delzoppo Pryor</div><div>July 19, 2021</div><div>Appointment announced</div></div>
+<div><div>Spencer Bachus III</div><div>May 8, 2019</div><div>Confirmed</div></div>
+<div><div>Spencer Bachus III</div><div>Feb. 26, 2019</div><div>Reported out favorably</div></div>
+<div><div>Spencer Bachus III</div><div>Jan. 16, 2019</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Spencer Bachus III</div><div>Jan. 16, 2019</div><div>Appointment announced</div></div>
+<div><div>Owen Herrnstadt</div><div>Jan. 4</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Owen Herrnstadt</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Owen Herrnstadt</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Owen Herrnstadt</div><div>Nov. 3, 2021</div><div>Reported out favorably</div></div>
+<div><div>Owen Herrnstadt</div><div>Aug. 10, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Owen Herrnstadt</div><div>Aug. 6, 2021</div><div>Appointment announced</div></div>
+<div><div>Judith Delzoppo Pryor</div><div>May 8, 2019</div><div>Confirmed</div></div>
+<div><div>Judith Delzoppo Pryor</div><div>Feb. 26, 2019</div><div>Reported out favorably</div></div>
+<div><div>Judith Delzoppo Pryor</div><div>Jan. 16, 2019</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Judith Delzoppo Pryor</div><div>Jan. 16, 2019</div><div>Appointment announced</div></div>
+<div><div>Parisa Salehi</div><div>Dec. 7, 2021</div><div>Hearing held (Banking, Housing, and Urban Affairs)</div></div>
+<div><div>Parisa Salehi</div><div>Oct. 19, 2021</div><div>Referred to Banking, Housing, and Urban Affairs committee</div></div>
+<div><div>Parisa Salehi</div><div>Oct. 6, 2021</div><div>Appointment announced</div></div>
+<div><div>Parisa Salehi</div><div>Awaiting referral to Homeland Security and Governmental Affairs committee</div></div>
+<div><div><h3>Federal Communications Commission</h3><div>6 positions</div></div></div>
+<div><div>Brendan Carr</div><div>Aug. 3, 2017</div><div>Confirmed</div></div>
+<div><div>Brendan Carr</div><div>Aug. 2, 2017</div><div>Reported out favorably</div></div>
+<div><div>Brendan Carr</div><div>June 29, 2017</div><div>Referred to Commerce, Science, and Transportation committee</div></div>
+<div><div>Brendan Carr</div><div>June 29, 2017</div><div>Appointment announced</div></div>
+<div><div>Geoffrey Adam Starks</div><div>Jan. 2, 2019</div><div>Confirmed</div></div>
+<div><div>Geoffrey Adam Starks</div><div>June 27, 2018</div><div>Reported out favorably</div></div>
+<div><div>Geoffrey Adam Starks</div><div>June 4, 2018</div><div>Referred to Commerce, Science, and Transportation committee</div></div>
+<div><div>Geoffrey Adam Starks</div><div>June 4, 2018</div><div>Appointment announced</div></div>
+<div><div>Nathan A. Simington</div><div>Dec. 8, 2020</div><div>Confirmed</div></div>
+<div><div>Nathan A. Simington</div><div>Nov. 10, 2020</div><div>Reported out favorably</div></div>
+<div><div>Nathan A. Simington</div><div>Sept. 16, 2020</div><div>Referred to Commerce, Science, and Transportation committee</div></div>
+<div><div>Nathan A. Simington</div><div>Sept. 16, 2020</div><div>Appointment announced</div></div>
+<div><div>Jessica Rosenworcel</div><div>Dec. 7, 2021</div><div>Confirmed</div></div>
+<div><div>Jessica Rosenworcel</div><div>Dec. 1, 2021</div><div>Reported out favorably</div></div>
+<div><div>Jessica Rosenworcel</div><div>Oct. 28, 2021</div><div>Referred to Commerce, Science, and Transportation committee</div></div>
+<div><div>Jessica Rosenworcel</div><div>Oct. 26, 2021</div><div>Appointment announced</div></div>
+<div><div>Jessica Rosenworcel</div><div>Aug. 3, 2017</div><div>Confirmed</div></div>
+<div><div>Jessica Rosenworcel</div><div>Aug. 2, 2017</div><div>Reported out favorably</div></div>
+<div><div>Jessica Rosenworcel</div><div>June 15, 2017</div><div>Referred to Commerce, Science, and Transportation committee</div></div>
+<div><div>Jessica Rosenworcel</div><div>June 13, 2017</div><div>Appointment announced</div></div>
+<div><div>Member</div><div>No nominee</div></div>
+<div><div>No nominee</div></div>
+<div><div>Gigi Sohn</div><div>Jan. 4</div><div>Referred to Commerce, Science, and Transportation committee</div></div>
+<div><div>Gigi Sohn</div><div>Jan. 4</div><div>Appointment announced</div></div>
+<div><div>Gigi Sohn</div><div>Jan. 3</div><div>Returned to president</div></div>
+<div><div>Gigi Sohn</div><div>Dec. 1, 2021</div><div>Hearing held</div></div>
+<div><div>Gigi Sohn</div><div>Oct. 28, 2021</div><div>Referred to Commerce, Science, and Transportation committee</div></div>
+<div><div>Gigi Sohn</div><div>Oct. 26, 2021</div><div>Appointment announced</div></div>
+<div><div><h3>Office of the Director of National Intelligence</h3><div>6 positions</div></div></div>
+<div><div>Director</div><div>Confirmed</div></div>
+<div><div>Avril Haines</div><div>Jan. 19, 2021</div><div>Referred to Select Committee on Intelligence</div></div>
+<div><div>Avril Haines</div><div>Nov. 23, 2020</div><div>Appointment announced</div></div>
+<div><div>Principal deputy director</div><div>Confirmed</div></div>
+<div><div>Stacey Dixon</div><div>Aug. 3, 2021</div><div>Confirmed</div></div>
+<div><div>Stacey Dixon</div><div>July 28, 2021</div><div>Reported out favorably</div></div>
+<div><div>Stacey Dixon</div><div>April 27, 2021</div><div>Referred to Select Committee on Intelligence</div></div>
+<div><div>Stacey Dixon</div><div>April 21, 2021</div><div>Appointment announced</div></div>
+<div><div>General counsel</div><div>Confirmed</div></div>
+<div><div>Christopher Fonzone</div><div>May 26, 2021</div><div>Reported out favorably</div></div>
+<div><div>Christopher Fonzone</div><div>March 16, 2021</div><div>Referred to Select Committee on Intelligence</div></div>
+<div><div>Christopher Fonzone</div><div>March 15, 2021</div><div>Appointment announced</div></div>
+<div><div>Director of the National Counterterrorism Center</div><div>Confirmed</div></div>
+<div><div>Christy Abizaid</div><div>June 22, 2021</div><div>Reported out favorably</div></div>
+<div><div>Christy Abizaid</div><div>April 15, 2021</div><div>Referred to Select Committee on Intelligence</div></div>
+<div><div>Christy Abizaid</div><div>April 12, 2021</div><div>Appointment announced</div></div>
+<div><div>Inspector general of the intelligence community</div><div>Confirmed</div></div>
+<div><div>Thomas A. Monheim</div><div>Sept. 20, 2021</div><div>Discharged (Homeland Security and Governmental Affairs)</div></div>
+<div><div>Thomas A. Monheim</div><div>July 28, 2021</div><div>Referred to Homeland Security and Governmental Affairs committee</div></div>
+<div><div>Thomas A. Monheim</div><div>July 28, 2021</div><div>Reported out favorably (Select Committee on Intelligence)</div></div>
+<div><div>Thomas A. Monheim</div><div>May 10, 2021</div><div>Referred to Select Committee on Intelligence</div></div>
+<div><div>Thomas A. Monheim</div><div>April 27, 2021</div><div>Appointment announced</div></div>
+<div><div><h3>National Labor Relations Board</h3><div>6 positions</div></div></div>
+<div><div>Jennifer Abruzzo</div><div>Feb. 22, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Jennifer Abruzzo</div><div>Feb. 17, 2021</div><div>Appointment announced</div></div>
+<div><div>Peter B. Robb</div><div>Nov. 8, 2017</div><div>Confirmed</div></div>
+<div><div>Peter B. Robb</div><div>Oct. 18, 2017</div><div>Reported out favorably</div></div>
+<div><div>Peter B. Robb</div><div>Sept. 25, 2017</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Peter B. Robb</div><div>Sept. 15, 2017</div><div>Appointment announced</div></div>
+<div><div>Marvin Kaplan</div><div>June 3, 2020</div><div>Reported out favorably</div></div>
+<div><div>Marvin Kaplan</div><div>March 16, 2020</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Marvin Kaplan</div><div>March 2, 2020</div><div>Appointment announced</div></div>
+<div><div>David Prouty</div><div>July 21, 2021</div><div>Reported out favorably</div></div>
+<div><div>David Prouty</div><div>June 23, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>David Prouty</div><div>June 22, 2021</div><div>Appointment announced</div></div>
+<div><div>William J. Emanuel</div><div>July 19, 2017</div><div>Reported out favorably</div></div>
+<div><div>William J. Emanuel</div><div>June 29, 2017</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>William J. Emanuel</div><div>June 27, 2017</div><div>Appointment announced</div></div>
+<div><div>Gwynne A. Wilcox</div><div>July 21, 2021</div><div>Reported out favorably</div></div>
+<div><div>Gwynne A. Wilcox</div><div>May 27, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Gwynne A. Wilcox</div><div>May 27, 2021</div><div>Appointment announced</div></div>
+<div><div>Lauren McGarity McFerran</div><div>June 3, 2020</div><div>Reported out favorably</div></div>
+<div><div>Lauren McGarity McFerran</div><div>March 16, 2020</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Lauren McGarity McFerran</div><div>March 2, 2020</div><div>Appointment announced</div></div>
+<div><div>John F. Ring</div><div>March 14, 2018</div><div>Reported out favorably</div></div>
+<div><div>John F. Ring</div><div>Jan. 18, 2018</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>John F. Ring</div><div>Jan. 12, 2018</div><div>Appointment announced</div></div>
+<div><div><h3>Equal Employment Opportunity Commission</h3><div>6 positions</div></div></div>
+<div><div>General counsel</div><div>No nominee</div></div>
+<div><div>No nominee</div></div>
+<div><div>Sharon Fast Gustafson</div><div>March 5, 2021</div><div>Fired</div></div>
+<div><div>Sharon Fast Gustafson</div><div>Aug. 1, 2019</div><div>Confirmed</div></div>
+<div><div>Sharon Fast Gustafson</div><div>July 30, 2019</div><div>Reported out favorably</div></div>
+<div><div>Sharon Fast Gustafson</div><div>Jan. 16, 2019</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Sharon Fast Gustafson</div><div>Jan. 16, 2019</div><div>Appointment announced</div></div>
+<div><div>Janet Dhillon</div><div>May 8, 2019</div><div>Confirmed</div></div>
+<div><div>Janet Dhillon</div><div>Feb. 27, 2019</div><div>Reported out favorably</div></div>
+<div><div>Janet Dhillon</div><div>Jan. 16, 2019</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Janet Dhillon</div><div>Jan. 16, 2019</div><div>Appointment announced</div></div>
+<div><div>Jocelyn Samuels</div><div>May 12, 2021</div><div>Reported out favorably</div></div>
+<div><div>Jocelyn Samuels</div><div>April 12, 2021</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Jocelyn Samuels</div><div>March 26, 2021</div><div>Appointment announced</div></div>
+<div><div>Jocelyn Samuels</div><div>June 3, 2020</div><div>Reported out favorably</div></div>
+<div><div>Jocelyn Samuels</div><div>March 16, 2020</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Jocelyn Samuels</div><div>March 2, 2020</div><div>Appointment announced</div></div>
+<div><div>Charlotte A. Burrows</div><div>Aug. 1, 2019</div><div>Confirmed</div></div>
+<div><div>Charlotte A. Burrows</div><div>July 30, 2019</div><div>Reported out favorably</div></div>
+<div><div>Charlotte A. Burrows</div><div>July 17, 2019</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Charlotte A. Burrows</div><div>July 3, 2019</div><div>Appointment announced</div></div>
+<div><div>Keith E. Sonderling</div><div>June 3, 2020</div><div>Reported out favorably</div></div>
+<div><div>Keith E. Sonderling</div><div>March 16, 2020</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Keith E. Sonderling</div><div>March 16, 2020</div><div>Appointment announced</div></div>
+<div><div>Andrea R. Lucas</div><div>June 3, 2020</div><div>Reported out favorably</div></div>
+<div><div>Andrea R. Lucas</div><div>March 16, 2020</div><div>Referred to Health, Education, Labor, and Pensions committee</div></div>
+<div><div>Andrea R. Lucas</div><div>March 2, 2020</div><div>Appointment announced</div></div>
+<div><div><h3>Federal Election Commission</h3><div>6 positions</div></div></div>
+<div><div>James E. Trainor III</div><div>May 7, 2020</div><div>Reported out favorably</div></div>
+<div><div>James E. Trainor III</div><div>Feb. 27, 2020</div><div>Referred to Rules and Administration committee</div></div>
+<div><div>James E. Trainor III</div><div>Feb. 27, 2020</div><div>Appointment announced</div></div>
+<div><div>Allen Dickerson</div><div>Dec. 9, 2020</div><div>Confirmed</div></div>
+<div><div>Allen Dickerson</div><div>Dec. 7, 2020</div><div>Reported out favorably</div></div>
+<div><div>Allen Dickerson</div><div>Sept. 16, 2020</div><div>Referred to Rules and Administration committee</div></div>
+<div><div>Allen Dickerson</div><div>June 26, 2020</div><div>Appointment announced</div></div>
+<div><div>Shana M. Broussard</div><div>Dec. 9, 2020</div><div>Confirmed</div></div>
+<div><div>Shana M. Broussard</div><div>Dec. 3, 2020</div><div>Reported out favorably</div></div>
+<div><div>Shana M. Broussard</div><div>Oct. 30, 2020</div><div>Referred to Rules and Administration committee</div></div>

@@ -1,0 +1,500 @@
+<div> <p>Scientists are scrambling to conduct experiments and study real-world data about the transmissibility and potential to escape vaccines, but that's going to take time, says a researcher.</p> </div>
+<div> <div> <a> Adam Taylor </a> </div> </div>
+<p>GOLD COAST, Australia: Researchers around the world are trying to work out whether existing COVID-19 vaccines protect us from the latest variant, Omicron.</p>
+<p>The worst-case scenario is the virus has mutated so much in the crucial parts of its genome that it can escape COVID-19 vaccines designed to protect us from earlier versions of the virus – with devastating consequences globally.</p>
+<p>But it’s too soon to panic. And vaccines may end up protecting us against Omicron after all, as they have done with earlier variants.</p>
+<p>The World Health Organization (WHO) says it will take us another two to four weeks to figure out what’s going on. Here’s what scientists around the world are racing to find out.</p>
+<p>The reason Omicron has caused global alarm is due to the number of new mutations throughout the genome of SARS-CoV-2, the virus that causes COVID-19.</p>
+<p>This data, coupled with real world data on the rapid rise in Omicron cases in South Africa, prompted the WHO to designate Omicron a “variant of concern” on Nov 26. Omicron has now been detected in several other countries around the world.</p>
+<h2>UNDERSTANDING WHAT OMICRON’S NEW MUTATIONS DO</h2>
+<p>We’ve already seen some Omicron mutations in other variants.</p>
+<p>Individually, some of these mutations have been associated with resistance to neutralising antibodies. In other words, these mutations help the virus evade recognition by an immune system primed with a COVID-19 vaccine.</p>
+<p>Some of these individual mutations have also been linked with increased transmissibility of the virus from one person to another.</p>
+<p>Investigating the way these multiple mutations interact with one another, rather than individually, will be key to understanding how Omicron behaves compared with other variants.</p>
+<p>Looking at these interactions will tell us more about Omicron’s ability to infect cells, cause disease and escape vaccines. And experiments are under way to investigate these mutations and their impacts.</p>
+<h2>BUT WHY WILL IT TAKE WEEKS TO GET ANSWERS?</h2>
+<p>Here’s what researchers around the world are working on and why we won’t have answers for a few weeks.</p>
+<p>This process also relies on access to the right types of cells to grow the virus in and needs to be done in laboratories that offer a high level of biosafety, to contain the virus. Not all researchers have access to these facilities.</p>
+<p>Researchers can also use genetic tools to produce the virus in the laboratory, requiring only the genome sequence of SARS-CoV-2 to begin production. This removes the reliance on patient samples.</p>
+<p>All these options take time to set up, optimise and be used in the types of studies outlined below.</p>
+<p>Initial studies will look at how Omicron’s mutations impact the fitness of the variant – its transmissibility and ability to evade vaccine-induced immunity.</p>
+<p>Studies are also likely to investigate the effect of vaccine booster regimes and earlier infection on how well antibodies neutralise Omicron.</p>
+<h2>VACCINE PROTECTION IS NOT ALL OR NOTHING</h2>
+<p>So what can we expect? Until we get the results of these experiments, it’s difficult to say for certain.</p>
+<p>Vaccine protection is not all or nothing. We are unlikely to get a perfect neutralising antibody response against Omicron, or no response, rather something in between.</p>
+<p>Continued monitoring of real-world data will also be essential to determine how Omicron impacts the broader pandemic.</p>
+<p>Whether Omicron is able to spread from seeding events around the world or compete with Delta are questions to be answered in the coming weeks.</p>
+<p>Whether infection with Omicron causes less or more serious disease also remains unclear. Monitoring hospitalisation rates will be key.</p>
+<h2>DON’T FORGET WE’RE STILL DEALING WITH DELTA</h2>
+<p>Currently fewer than 200 genetic sequences of Omicron have been compiled compared with more than 2.8 million Delta sequences. Delta remains the most dominant variant. So we should continue to use vaccines and therapies we know work against Delta.</p>
+<p>It’s also essential we continue with public health measures, such as wearing masks and social distancing, alongside continued vaccination, to combat the spread of SARS-CoV-2 and the emergence of further variants.</p>
+<p>Adam Taylor is Early Career Research Leader at the Menzies Health Institute Queensland, Griffith University. This commentary first appeared on The Conversation.</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> Commentary </a> </p> <h5> Commentary: A year of COVID-19 vaccines - how the UK pinned hopes on jabs and why some are under threat </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<h1> Commentary: A year of COVID-19 vaccines - how the UK pinned hopes on jabs and why some are under threat </h1>
+<div> <p>Like most countries, the UK chose the strategy of depending on vaccines to achieve herd immunity to overcome the pandemic. However, Omicron is putting the whole doctrine at risk, says a British public health researcher.</p> </div>
+<div> <div> <a> Andrew Lee </a> </div> </div>
+<p>SHEFFIELD, England: A year ago, Margaret Keenan made history. On Dec 8, 2020, she became the first person in the world to receive the Pfizer/BioNTech vaccine outside of a clinical trial.</p>
+<p>Ninety-year-old Keenan described it as the “best early birthday present”. It was a moment of shining hope in what had been a dark year of deaths, lockdowns and disrupted lives.</p>
+<p>Before the vaccines, death rates from COVID-19 were very high, especially in older adults, with rates between 5 per cent and 15 per cent in people over the age of 75 years.</p>
+<p>Other than pursuing a zero-COVID-19 elimination strategy – an exceedingly difficult task in a globalised world with such an infectious virus – the only other option was to control and delay the spread of the coronavirus until vaccines arrived.</p>
+<p>There was no guarantee in the early days of the pandemic that an effective vaccine could be developed in time to make a difference. However, we have seen not just one but several vaccines developed.</p>
+<p>Better yet, most of these vaccines are highly effective at protecting against severe disease and death from COVID-19.</p>
+<p>The UK was among the first countries in the world to start vaccinating its population, and a herculean effort was mounted to immunise the elderly and vulnerable adults, as well as healthcare workers.</p>
+<p>From a standing start, the NHS rapidly ramped up vaccine deployment, aided to a large extent by the efforts of thousands of GPs, community health professionals and volunteers.</p>
+<p>In the early months, the UK out-vaccinated most of the rest of the world. The pace of the rollout was phenomenal.</p>
+<p>The highest number of new vaccinations reported in one day in the UK was 844,285 (Mar 20 2021) - the equivalent of vaccinating the entire population of Liverpool.</p>
+<p>However, rates of immunisation have slowed, and other nations, such as Spain, Japan and Canada, have overtaken the UK.</p>
+<p>One year on, though, it is still an amazing achievement. Almost 90 per cent of people aged 12 and over in the UK has had at least one dose.</p>
+<p>In the first 10 months of the vaccination programme, it is estimated the UK immunisation programme saved 127,500 lives and averted more than 24 million infections.</p>
+<p>But the journey has not been smooth.</p>
+<p>Not long after the first jab was administered at University Hospital in Coventry, controversies and issues began to emerge. One of the earliest was concerns about the vaccine dosing interval.</p>
+<p>The interval between the first and second dose of the Pfizer vaccine was meant to be three to four weeks.</p>
+<p>The decision created a furore as it went against the vaccine manufacturers’ advised schedules.</p>
+<p>There were concerns that vulnerable people who had only received a single dose would be less protected and that immune protection would not last as long.</p>
+<p>Fortunately, it was the right call and those fears have not transpired. Indeed, studies suggest the longer interval improved the vaccines’ effectiveness.</p>
+<p>There were also safety concerns about the vaccine, and two examples stand out.</p>
+<p>First, in Feb 2021, it emerged that there was the risk of a rare blood-clotting disorder called cerebral venous sinus thrombosis (CVST) following vaccination with the Oxford/AstraZeneca vaccine.</p>
+<p>This led to many countries restricting the use of the vaccine to older adults where the risk was lower. In the UK, people under the age of 30 were offered an alternative to the AstraZeneca vaccine.</p>
+<p>CVST, however, remains a rare event. Despite 25 million first doses of the vaccine being administered, to date, only 154 cases have been reported to the UK’s Medicines and Healthcare Regulatory Authority.</p>
+<p>Second, there were concerns about the elevated risk of myocarditis (inflammation and damage to the heart muscle) particularly in males aged 12 to 29 following the Pfizer and Moderna vaccines.</p>
+<p>However, the actual risk of myocarditis was again very small and the benefits of vaccination far outweighed the risk.</p>
+<p>What’s more, the risk of myocarditis was much greater with COVID infection (220 per million) than from vaccination.</p>
+<p>In the US where the vaccine is more extensively used in younger adults, the incidence of myocarditis after vaccination was reported to be four per million doses.</p>
+<p>Some have argued that caution is needed because, in the long run, the loss of public trust in national vaccination programmes could take a long time to regain.</p>
+<p>However, the caution of rolling out vaccination to school-aged children meant an opportunity was missed to immunise children over the summer.</p>
+<p>Belatedly, the UK’s chief medical officers advised the government to vaccinate children aged 12-15 years in September.</p>
+<p>This meant most children were susceptible to infection at the start of the school year. For many, the vaccines would come too late.</p>
+<p>In the absence of adequate mitigation measures, such as more mask-wearing, isolation of contacts and better ventilation in schools, infections spread rapidly in schools in England over the next few months.</p>
+<p>By mid-November, rates of infection were highest in young children and secondary school children.</p>
+<p>Vaccination uptake rates in the under 18s still lag behind the adult population quite considerably, with less than half of 12- to 15-year-olds having received their first dose so far.</p>
+<p>Despite the enthusiastic roll out of vaccines by the NHS in early 2021, disparities in the coverage and uptake of vaccines emerged.</p>
+<p>This particularly affected minority ethnic groups, people living in deprived areas and those with severe mental illness or learning disabilities.</p>
+<p>Issues with the accessibility and acceptability of vaccines for these groups are possible explanations.</p>
+<p>In the pursuit of achieving high population vaccine coverage, this may come at the cost of bypassing underserved groups and risks further entrenching health inequalities.</p>
+<p>Vaccine hesitancy is also more likely in these groups. There are several reasons for vaccine hesitancy, including vaccine safety concerns and misperceptions about the risk of getting COVID-19 and of becoming seriously ill.</p>
+<p>To this end, the NHS, local authorities and community-based organisations have made considerable effort to contact and promote vaccine uptake in many of these groups where uptake is low. But it remains a persistent issue.</p>
+<p>Social media, as well as some mainstream media, have also had a negative influence on vaccine uptake through misinformation, disinformation or the spread of conspiracy theories.</p>
+<p>At the extreme end, an anti-vaccination movement has emerged, some with links to anti-lockdown and COVID-19-denialists views.</p>
+<p>Some of their activities have become increasingly aggressive, including targeting schools, children, parents and health professionals.</p>
+<p>Separately, to protect vulnerable patients and care home residents, the UK government has made it mandatory for health and social care workers to be vaccinated in England.</p>
+<p>This has been a controversial decision, not least from an ethical and civil liberties perspective.</p>
+<p>Apart from concerns about the loss of personal choice in the matter, there are also concerns that such an approach may backfire, undermining trust in the establishment, potentially increasing marginalisation and vaccine scepticism.</p>
+<p>A person’s vaccination status has not just been used as a requirement for certain occupations, it has also been used as a qualifier for international travel and entry to sporting events, music festivals and theatres.</p>
+<p>The so-called vaccine passport is not a new idea, having parallels with the International Certificate of Vaccination or Prophylaxis, created by the World Health Organization for diseases such as cholera, yellow fever, plague and typhoid.</p>
+<p>Vaccine passports have enabled many of these events to take place and have made international tourism possible once again.</p>
+<p>While many countries have taken up the idea of vaccine passports, there is no universal vaccine passport accepted by all of them, and debates continue as to which vaccines qualify and the number of jabs needed.</p>
+<p>There have also been questions about whether they actually work, fears about the loss of privacy and concerns that they discriminate against those who can’t or won’t be vaccinated.</p>
+<p>In particular, low- and middle-income countries are disadvantaged as they have lower vaccine coverage.</p>
+<h2>GLOBAL VACCINE INEQUALITY</h2>
+<p>Indeed, the global disparities in access to vaccines is stark. Over 54 per cent of the world’s population has been vaccinated, but only 6 per cent of the population in poor countries.</p>
+<p>Achieving high levels of vaccine coverage in rich countries would allow a degree of normality to return to them – but it would be a fragile normality.</p>
+<p>While infections spread uncontrolled elsewhere in the world, there is a possibility that new variants of the virus will emerge, some of which might carry genetic mutations that allow it to evade vaccine immunity.</p>
+<p>These variants could easily be imported back into rich countries. This risk appears to be materialising in the form of the latest variant of concern, omicron, that emerged in late November.</p>
+<p>Initially reported in southern Africa, it has now been detected in many countries around the world.</p>
+<p>If the aim is to achieve more enduring security, infections have to be tackled elsewhere, and this requires fairer distribution of vaccines.</p>
+<p>This echoes UN secretary-general Antonio Guterres’ message back in May 2020 that, “None of us is safe until we all are.”</p>
+<p>The other worrying trend that has emerged since Keenan had that first COVID-19 jab back in December 2020, is waning vaccine protection, especially in older adults.</p>
+<p>Thankfully, vaccine protection against severe disease and death appears to remain high. That said, a small drop in vaccine protection could still lead to many infected people ending up in hospitals.</p>
+<p>This led to the UK government recommending booster doses of the vaccine in September, initially for the elderly and the clinically vulnerable. Boosters will top up protection and help to prevent infections, especially for the most vulnerable.</p>
+<p>Going into winter, there is the added threat of other seasonal infections. Many of these infectious diseases had initially been kept at bay by COVID-19 measures.</p>
+<p>But with the relaxation of these measures since the summer and more population mixing, this enables the spread of these diseases as well as COVID-19.</p>
+<p>This will place considerable pressure on overstretched health services dealing with a backlog of health activity due to COVID-19 as well as continued high levels of COVID-19 infections.</p>
+<p>Maximising vaccine protection against COVID-19 to reduce the effect on health services is therefore vital. However, it will be difficult for the NHS to mount a similar immunisation programme to the one we witnessed in early 2021.</p>
+<h2>OMICRON - A WORRYING DEVELOPMENT</h2>
+<p>Just as the world should have been getting ready to celebrate the first anniversary of the COVID-19 vaccine rollouts, omicron came along to spoil the party.</p>
+<p>The recent emergence of this latest variant of concern is worrying.</p>
+<p>It has many mutations that make it potentially more infectious and able to evade immunity from vaccines and previous infection – indeed, reinfection rates appear to be three times that of the delta variant.</p>
+<p>It is spreading rapidly in South Africa and beyond, including in vaccinated people.</p>
+<p>This new threat prompted the UK government to extend booster jabs to all adults. Whether the boosters will provide enough protection against the new variant is not certain.</p>
+<p>To date, the government has relied on vaccine protection as the “wall of defence” against COVID-19.</p>
+<p>Against Omicron, the current vaccines might not be enough, and further public health measures could be needed to buy time until newer vaccines can be developed.</p>
+<p>Vaccines offer the best protection, but as good as they are, no vaccine gives total protection. Looking to the future, the threat of new variants of the virus emerging has not gone away.</p>
+<p>Like the seasonal flu vaccines, regular COVID-19 vaccines may be needed, and the vaccines themselves may have to be adapted to protect against the latest variant.</p>
+<p>Don’t be surprised if annual COVID-19 vaccinations, particularly for the elderly and vulnerable, become a regular feature.</p>
+<p>But, before we get too downhearted, let’s pause for a moment to celebrate this past year of COVID-19 vaccines – 8.24 billion doses administered globally – and the countless lives they have saved.</p>
+<p>Andrew Lee is a Reader in Global Public Health at the University of Sheffield. This commentary first appeared on The Conversation.</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> World </a> </p> <h5> US to lift COVID-19 travel curbs on eight African countries: White House </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> World </a> </p> <h1> US to lift COVID-19 travel curbs on eight African countries: White House </h1> </div> </section> </div> </div>
+<p>The Biden administration will lift travel restrictions on eight southern African countries <a>imposed last month</a> over concerns about the fast-spreading COVID-19 Omicron variant, the White House said on Friday (Dec 24).</p>
+<p>The United States on Nov 29 barred nearly all non-US citizens who had recently been in South Africa, Botswana, Zimbabwe, Namibia, Lesotho, Eswatini, Mozambique and Malawi in an "abundance of caution" over the variant detected in South Africa.</p>
+<p>White House spokesman Kevin Munoz tweeted that Biden "will lift the temporary travel restrictions on Southern Africa countries" effective Dec 31.</p>
+<p>He said the decision was recommended by the Centers for Disease Control and Prevention (CDC).</p>
+<p>"The restrictions gave us time to understand Omicron and we know our existing vaccines work against Omicron, (especially) boosted," Munoz tweeted.</p>
+<p>"This travel pause has served its purpose. It bought time to understand the science, it gave time to analyse the variant," the official, who did not want to be identified because the decision has not yet been made public, told Reuters.</p>
+<p>"This was not meant to keep Omicron out. We knew we couldn't do that. The point was to reduce the number of cases coming in - in those early days and weeks."</p>
+<p>The restrictions have not prevented flights or Americans from returning from southern Africa.</p>
+<p>The official emphasiaed the restrictions were meant to be temporary and lifting them after about a month "sends a pretty clear signal that there's not going to be a significant penalty" for coming forward to disclose new variant information.</p>
+<p>The United States had only lifted travel restrictions on South Africa on Nov 8 put in place since late January to address COVID-19 concerns.</p>
+<p>In the wake of Omicron, the United States tightened testing rules for international travellers and extended a requirement to wear masks on airplanes and at airports through Mar 18.</p>
+<p>On Dec 6, CDC toughened testing rules for international air travellers arriving in the United States, requiring them to obtain a negative COVID-19 test within one day of travel.</p>
+<p>Under prior rules, vaccinated international air travellers could present a negative test result obtained within three days of their day of departure.</p>
+<p>The CDC last month ordered airlines to disclose passenger names and other information about those who have recently been in the eight southern African countries.</p>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Celebrity weddings, scandals, Squid Game: Top entertainment stories of 2021 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> From Bling Empire to Squid Game, 7 hit TV series that stole the show in 2021 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> He-Man and Teenage Mutant Ninja Turtles artist and toy designer Terrell Mark Taylor dies at 80 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> Love at first pretzel: The women behind Auntie Anne’s family-run outlets in Singapore </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> This young mum taught herself to sew and started a sustainable kids clothing shop </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> How I survive Christmas stress every year: A working mum’s hopeful game plan </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> Is gluten-free bread really healthier than regular bread? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> Greying, thinning hair woes: Do special shampoos, supplements and hair serums work? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> ‘Worry burnout’ is real – here's how to spot the signs and combat it </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> How an Arnold Schwarzenegger YouTube video inspired Singapore’s newest watch microbrand </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> This home in Thailand brought a multigenerational family closer together during lockdowns </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Thank you notes, flowers, smiles: What drives Singapore's young buskers to play their hearts out </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Obsessions </a> </p> <h5> <a> Celebrating the season? Make an entrance with bold statement jewellery </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> The hottest Asian celebrity fashion icons of 2021: Jung Ho-yeon, Blackpink, Xiao Zhan, BTS </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> Meet the Singapore chef who wants you to feel at home in his restaurants </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Dining </a> </p> <h5> <a> 4 fancy Christmas dishes you can make at home to impress your guests </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> How the son of a caterer became one of Singapore's most celebrated culinary talents | CNA Luxury </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> What’s new in Johor? Where to sip, sup and sleep in style on your VTL trip </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> SkyHelix, Vespa road trip, DJ classes: Last-minute fun things to do in Singapore before 2021 ends </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> 7 places for a more relaxing South Korean holiday: Forest yoga, nature retreats, scenic hikes </a> </h5> </div> </div> </div> </div>
+<div> <div> <p> <a> CNA Lifestyle </a> </p> <h5> Ladies: Here’s how to style yourself to look instantly slimmer – weight loss, optional </h5> </div> </div>
+<h1> Ladies: Here’s how to style yourself to look instantly slimmer – weight loss, optional </h1>
+<div> <p>You certainly don’t need to be stick-thin to look sharp, stylish and well put together. All you have to do is follow these rules.</p> </div>
+<div> <div> <a> Tan Wei Lin </a> </div> </div>
+<p>Hands up, if you’ve been there – the quest to shed weight to fit better in clothes. We are all for exercise and a healthy diet, but at the same time, a girl’s gotta learn to embrace her curves.</p>
+<p>The most savvy dressers aren’t those who are the most "fashionable"; they are the ones who know what to wear to not only look like a million bucks, but also look taller and a few pounds lighter.</p>
+<p>You certainly don’t need to be stick-thin to look sharp, stylish and well put together. All you have to do is follow these rules.</p>
+<p>We are so fixated on putting together an outfit, we sometimes neglect what goes underneath it. Never underestimate the power of shapewear – the right kind can help you look slimmer in every outfit.</p>
+<p>The key is to find shapewear that holds in everything – be it your bust, waist, butt or thighs – perfectly. Beware of going too tight as that will only make you look pudgy by creating VPLs and unsightly bulges.</p>
+<p>For the sleekest fit, buy shapewear in a size larger (or two, if the fabric feels exceptionally tight) than your usual undergarment size.</p>
+<p>WEAR BLACK IN THE RIGHT SPOTS</p>
+<p>There’s a reason why black is universally loved – it instantly hides (almost) all of our figure imperfections. But while we understand the desire to get one LBD after another, there’s no fun in a wardrobe that consists of just one colour.</p>
+<p>Jewellery, belts and bags are not just the finishing touches to your outfit, they can also make you look thinner, if you know how to use them to enhance the proportions of your body.</p>
+<p>Any other clothing or accessory that helps visually elongate your proportions will naturally have a slimming effect. Pointed heels, for one, are always a good bet as well as leg-lengthening ankle-cut pants.</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> World </a> </p> <h5> Scrapped flights, resurgent COVID-19 deliver Christmas gut punch </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> World </a> </p> <h1> Scrapped flights, resurgent COVID-19 deliver Christmas gut punch </h1> </div> </section> </div> </div>
+<p>NEW YORK: Holiday travel headaches and safety worries swelled Sunday (Dec 26) with thousands of flights cancelled, events scrapped and new Omicron cases soaring, as people wrap up Christmas celebrations bruised by a resurgent COVID-19 pandemic.</p>
+<p>Some 8,300 flights have been grounded and tens of thousands more delayed from Friday through Sunday - one of the busiest travel periods of the year - with multiple airlines acknowledging that Omicron spikes have prompted staffing shortages.</p>
+<p>Effects have rippled worldwide and the hurt was expected to bleed into the work week, with more than 1,100 flights already facing cancellations Monday and almost 300 more on Tuesday, according to flight tracker FlightAware.</p>
+<p>In China's Xi'an city, 13 million residents were confined to their homes Sunday amid tightened restrictions, as the country recorded its biggest COVID-19 infection numbers in 21 months.</p>
+<p>Governments worldwide are also scrambling to boost testing and vaccinations.</p>
+<p>In the United States, top pandemic advisor Anthony Fauci warned of a COVID-19 "testing problem" and vowed to make more tests available next month, as the virus overwhelms the nation.</p>
+<p>"There are still some issues now of people having trouble getting tested," Fauci told ABC News on Sunday.</p>
+<p>"But we're addressing the testing problem," he added, saying it should be corrected "very soon".</p>
+<p>Still, cases have soared. New York's health department said COVID-19 pediatric hospitalisations have risen four-fold over the past two weeks as Omicron took hold.</p>
+<p>In Florida, health officials said new COVID-19 cases spiked to 125,201 for the week ending Dec 23, four times its previous week's total.</p>
+<p>The Washington Post reported that several ships including the Carnival Freedom - whose parent company confirmed to AFP Sunday that a "small number" of passengers tested positive onboard - were denied port in the Caribbean.</p>
+<p>Brenda Hammer, who was set to board the Odyssey of the Seas, a Royal Caribbean cruise ship, told AFP on Sunday: "I'm a little nervous about it. I wasn't sure I still wanted to come."</p>
+<p>Earlier this week, 55 people on the ship tested positive for COVID-19, which spread among passengers and crew members despite 95 per cent of people on board being vaccinated, the company said.</p>
+<p>However, air travel remained the major global headache.</p>
+<p>Aircrew and ground staff have fallen sick or gone into quarantine after exposure to COVID-19, multiple airlines said.</p>
+<p>Lufthansa, Delta, United Airlines, British Airways, Alaska Airlines and several others have been forced to cancel flights.</p>
+<p>JetBlue said it entered the holiday season with "the highest staffing levels we've had since the pandemic began".</p>
+<p>But "despite our best efforts, we've had to cancel a number of flights, and additional flight cancellations and other delays remain a possibility as we see more Omicron community spread", the airline said in a statement.</p>
+<p>Chinese carriers, notably China Eastern and Air China, scrubbed several thousand flights over the long weekend, including many going in and out of Xi'an Xianyang International airport, according to tracker data.</p>
+<p>Flightaware.com reports nearly 2,900 flights were cancelled worldwide on Saturday, and 3,100 and counting on Sunday, with more than 1,300 of those taking off or landing at US airports. More than 14,000 Sunday flights have been delayed.</p>
+<p>The cancellations added to the frustration for many people eager to reunite with their families over the holidays after last year's Christmas was severely curtailed.</p>
+<p>The American Automobile Association estimated more than 109 million Americans would travel by plane, train or automobile between Dec 23 and Jan 2, a 34 per cent increase over the last year.</p>
+<p>But most of those plans were made before the detection of Omicron, which has become the dominant strain in the United States, overwhelming hospitals and healthcare workers.</p>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Celebrity weddings, scandals, Squid Game: Top entertainment stories of 2021 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> From Bling Empire to Squid Game, 7 hit TV series that stole the show in 2021 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> He-Man and Teenage Mutant Ninja Turtles artist and toy designer Terrell Mark Taylor dies at 80 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> Love at first pretzel: The women behind Auntie Anne’s family-run outlets in Singapore </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> This young mum taught herself to sew and started a sustainable kids clothing shop </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> How I survive Christmas stress every year: A working mum’s hopeful game plan </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> Is gluten-free bread really healthier than regular bread? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> Greying, thinning hair woes: Do special shampoos, supplements and hair serums work? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> ‘Worry burnout’ is real – here's how to spot the signs and combat it </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> How an Arnold Schwarzenegger YouTube video inspired Singapore’s newest watch microbrand </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> This home in Thailand brought a multigenerational family closer together during lockdowns </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Thank you notes, flowers, smiles: What drives Singapore's young buskers to play their hearts out </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Obsessions </a> </p> <h5> <a> Celebrating the season? Make an entrance with bold statement jewellery </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> The hottest Asian celebrity fashion icons of 2021: Jung Ho-yeon, Blackpink, Xiao Zhan, BTS </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> Meet the Singapore chef who wants you to feel at home in his restaurants </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Dining </a> </p> <h5> <a> 4 fancy Christmas dishes you can make at home to impress your guests </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> How the son of a caterer became one of Singapore's most celebrated culinary talents | CNA Luxury </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> What’s new in Johor? Where to sip, sup and sleep in style on your VTL trip </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> SkyHelix, Vespa road trip, DJ classes: Last-minute fun things to do in Singapore before 2021 ends </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> 7 places for a more relaxing South Korean holiday: Forest yoga, nature retreats, scenic hikes </a> </h5> </div> </div> </div> </div>
+<div> <div> <p> <a> Style Beauty </a> </p> <h5> How to dress to flatter your body when you’re not stick thin </h5> </div> </div>
+<section> <div> <p> Style Beauty </p> <h1> How to dress to flatter your body when you’re not stick thin </h1> <div> <p>Embrace your shapeliness and boost your body confidence by learning to work with your curvaceous figure.</p> </div> </div> </section>
+<div> <div> <a> Tan Wei Lin </a> </div> </div>
+<h3><a>READ: Fashion how-to: Styling hacks that Kim Kardashian keeps under her corset</a></h3>
+<p>PICK CLOTHES WITH STRUCTURE</p>
+<p>It makes sense, naturally, for you to avoid fabrics that cling to the skin, because they can be potentially unflattering – sometimes even on those who are slim.</p>
+<p>DON’T GO TOO TIGHT OR TOO LOOSE</p>
+<h3><a>READ: Is that bikini unflattering? How to choose the right swimwear for your body type</a></h3>
+<p>OPT FOR DESIGN ELEMENTS THAT FLATTER</p>
+<p>Look out for T-shirts and tops that fit well around the shoulders and chest but don’t hug the belly, as well as bottoms in cuts and fabrics that don’t cling to your hips and thighs and create unflattering creases around the crotch.</p>
+<p>PICK HEELS AND ACCESSORIES THAT ARE RIGHT FOR YOUR SIZE</p>
+<p>Every woman can benefit from the instantly height-boosting effects of a pair of heels, although curvy ladies will need to avoid certain types of high-heeled footwear, such as stilettos.</p>
+<p>Kitten heels – because of how petite they look – are similarly not ideal for balancing out your body proportions. For the best results, go for a medium-thick tapered heel, stacked heel or an elegant wedge.</p>
+<p>The same rule of proportions should also be applied to your jewellery and bags – here’s where you can afford to dial up the drama, in terms of size and design, if you have been keeping it away from your clothes.</p>
+<h3><a>READ: Tie-dye is back and Crazy Rich Asians’ Constance Lau shows us how to work it</a></h3>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> <a>Send us a news tip</a> </li> </ul> </li>
+<div> <div> <p> <a> World </a> </p> <h5> Australia records first Omicron COVID-19 death, authorities stick to reopening plan </h5> </div> </div>
+<li> <a> CNA Eyewitness</a> <ul> <li> Send us a news tip </li> </ul> </li>
+<div> <div> <section> <div> <p> <a> World </a> </p> <h1> Australia records first Omicron COVID-19 death, authorities stick to reopening plan </h1> </div> </section> </div> </div>
+<p>The death, a man in his 80s with underlying health conditions, marked a grim milestone for the country which has had to pause some parts of a staged reopening after nearly two years of stop-start lockdowns, due to the fresh outbreak.</p>
+<p>The authorities gave no additional details about the Omicron death, except to say that the man caught the virus at an aged care facility and died in a Sydney hospital.</p>
+<p>"This was the first known death in New South Wales (state) linked to the Omicron variant of concern," said New South Wales Health epidemiologist Christine Selvey in a video released by the government.</p>
+<p>The man was among six COVID-19 deaths reported in Australia the previous day, all in the most populous states of New South Wales and Victoria, which are home to more than half the country's 25 million population.</p>
+<p>New South Wales, Victoria and Queensland states reported a combined 9,107 new cases on Monday, putting the country on track for another peak in new infections. The five other states and territories were yet to report daily case numbers.</p>
+<p>"Although we are seeing increased case numbers ... we are not seeing the impacts on our hospital system," said Annastacia Palaszczuk, premier of Queensland.</p>
+<p>Queensland reported 784 new cases with four people in hospital.</p>
+<p>"We need to make sure that we're protecting (Queenslanders)," she said.</p>
+<p>Australian authorities have so far resisted a return to lockdown in the face of surging case numbers but have reinstated some restrictions.</p>
+<p>On Monday, New South Wales again made it compulsory to check into public venues with QR codes, while many states have brought back mandatory mask-wearing in indoor public places.</p>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Celebrity weddings, scandals, Squid Game: Top entertainment stories of 2021 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> From Bling Empire to Squid Game, 7 hit TV series that stole the show in 2021 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> He-Man and Teenage Mutant Ninja Turtles artist and toy designer Terrell Mark Taylor dies at 80 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> Love at first pretzel: The women behind Auntie Anne’s family-run outlets in Singapore </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> This young mum taught herself to sew and started a sustainable kids clothing shop </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> How I survive Christmas stress every year: A working mum’s hopeful game plan </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> Is gluten-free bread really healthier than regular bread? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> Greying, thinning hair woes: Do special shampoos, supplements and hair serums work? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> ‘Worry burnout’ is real – here's how to spot the signs and combat it </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> How an Arnold Schwarzenegger YouTube video inspired Singapore’s newest watch microbrand </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> This home in Thailand brought a multigenerational family closer together during lockdowns </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Thank you notes, flowers, smiles: What drives Singapore's young buskers to play their hearts out </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Obsessions </a> </p> <h5> <a> Celebrating the season? Make an entrance with bold statement jewellery </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> The hottest Asian celebrity fashion icons of 2021: Jung Ho-yeon, Blackpink, Xiao Zhan, BTS </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> Meet the Singapore chef who wants you to feel at home in his restaurants </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Dining </a> </p> <h5> <a> 4 fancy Christmas dishes you can make at home to impress your guests </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> How the son of a caterer became one of Singapore's most celebrated culinary talents | CNA Luxury </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> What’s new in Johor? Where to sip, sup and sleep in style on your VTL trip </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> SkyHelix, Vespa road trip, DJ classes: Last-minute fun things to do in Singapore before 2021 ends </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> 7 places for a more relaxing South Korean holiday: Forest yoga, nature retreats, scenic hikes </a> </h5> </div> </div> </div> </div>
+<div> <div> <p> <a> CNA Lifestyle </a> </p> <h5> Looking pudgy? You could be wearing the wrong tank top for your body type </h5> </div> </div>
+<div> <p> CNA Lifestyle </p> <h1> Looking pudgy? You could be wearing the wrong tank top for your body type </h1> <div> <p>Take your fashion cues from stylish celebrities Sammi Cheng, Jeanette Aw, Blackpink’s Jennie and Lisa.</p> </div> </div>
+<div> <div> <a> Serene Seow </a> </div> </div>
+<p>Anyone can wear a tank top but not everyone will look good in it. So how do you ace this <a>wardrobe basic</a>? </p>
+<p>It all comes down to how it <a>fits</a> – and by that we don’t just mean S, M, L sizing but wearing what’s the most appropriate for your unique body shape.</p>
+<p>Don’t worry about armpit fat, back bulge or a food baby cramping your style – there will definitely be a tank top that’s right for you. Scroll down to find that <a>perfect match</a>.</p>
+<p>For the non-pint-size cohort, know that the heft of the shoulder pads takes attention away from bulk elsewhere on the figure.</p>
+<p>Necklines matter when it comes to standing out in a basic Betty tank top. For the well-endowed, a dip in the neckline draws attention to the, ahem, assets. </p>
+<p>The rest of us can take our cue from the queen of Cantopop Sammi Cheng, who turned tricks on a plain tank top with funky add-ons such as this asymmetrical bikini. </p>
+<p>You could also use the tank as a slip under tops or dresses that show too much skin.</p>
+<h3><a>READ: Time to replace your skinny jeans and jeggings – here are the latest denim trends</a></h3>
+<p>Here’s a tank top with a twist. The toga is best worn by curvy types who like to tease the imagination. </p>
+<p>Besides flaunting your figure, you’ll also want to show off that sexy collar bone. Pull hair back into a high ponytail or toss those flowing tresses to the back ala Blackpink’s Jennie lest it obscures the view. </p>
+<p>The late Godfrey Gao’s squeeze Bella Su shows us how a racerback tank should be worn – tight. An athletic body – toned arms and washboard abs – is a non-negotiable pre-requisite. </p>
+<p>But if clocking time at the gym is just not possible, then throw on a jacket, preferably denim or leather to keep up the casual cool vibes, to cover up the flab. </p>
+<h3><a>READ: Ladies, here’s where to shop for plus-size clothes that suit Asian bodies</a></h3>
+<p>Finally, a tank for all sizes. This men-inspired tank is best worn slightly loose for an androgynous spin. Tip: An oversized top gives the illusion of a slimmer you. That’s why we loving wearing the boyfriend’s shirt, right? </p>
+<p>Pair the oversized tank with a pair of tights or straight cut slacks as shown by Taiwanese singer Rainie Yang for an au courant Sporty Spice getup.</p>
+<h3><a>READ: How to dress to flatter your body when you’re not stick thin</a></h3>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> From Bling Empire to Squid Game, 7 hit TV series that stole the show in 2021 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> He-Man and Teenage Mutant Ninja Turtles artist and toy designer Terrell Mark Taylor dies at 80 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Two more members of K-pop group BTS test positive for COVID-19 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> Love at first pretzel: The women behind Auntie Anne’s family-run outlets in Singapore </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> This young mum taught herself to sew and started a sustainable kids clothing shop </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> How I survive Christmas stress every year: A working mum’s hopeful game plan </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> Is gluten-free bread really healthier than regular bread? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> Greying, thinning hair woes: Do special shampoos, supplements and hair serums work? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> ‘Worry burnout’ is real – here's how to spot the signs and combat it </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> How an Arnold Schwarzenegger YouTube video inspired Singapore’s newest watch microbrand </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> This home in Thailand brought a multigenerational family closer together during lockdowns </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Thank you notes, flowers, smiles: What drives Singapore's young buskers to play their hearts out </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Obsessions </a> </p> <h5> <a> Celebrating the season? Make an entrance with bold statement jewellery </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> The hottest Asian celebrity fashion icons of 2021: Jung Ho-yeon, Blackpink, Xiao Zhan, BTS </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> Meet the Singapore chef who wants you to feel at home in his restaurants </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Dining </a> </p> <h5> <a> 4 fancy Christmas dishes you can make at home to impress your guests </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> How the son of a caterer became one of Singapore's most celebrated culinary talents | CNA Luxury </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> What’s new in Johor? Where to sip, sup and sleep in style on your VTL trip </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> SkyHelix, Vespa road trip, DJ classes: Last-minute fun things to do in Singapore before 2021 ends </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> 7 places for a more relaxing South Korean holiday: Forest yoga, nature retreats, scenic hikes </a> </h5> </div> </div> </div> </div>
+<div> <div> <p> <a> CNA Lifestyle </a> </p> <h5> Ladies, here’s where to shop for plus-size clothes that suit Asian bodies </h5> </div> </div>
+<h1> Ladies, here’s where to shop for plus-size clothes that suit Asian bodies </h1>
+<div> <p>With dedicated boutiques and fashion brands offering bigger sizes, plus-size women now have more choice. Here’s a list of places to shop and tips to get clothes that fit perfectly.</p> </div>
+<div> <div> <a> Lorraine Robert </a> </div> </div>
+<p>Finding <a>flattering clothes that fit comfortably</a> used to be unnecessarily difficult for women who weren’t sizes 0-12, but not anymore.</p>
+<a>embracing fuller body shapes</a>. In fashion, this also means sizes
+<a>bigger than XL</a> are now more available for women, and they’re no longer frumpy nor ill-fitting.
+<h3><a>READ: Not just masks: Essential items you'll need in your bag during the new normal</a></h3>
+<p>Being a petite plus-size – or what she calls “inbetweenie” – who struggled to find well-fitting clothes led to Hung starting her boutique.</p>
+<p>“I couldn’t fit into anything in the usual shops, but plus-size clothes from overseas brands made me look like I was swimming in them,” she said.</p>
+<blockquote> <p>For most US brands, the sizes that are considered Asian plus-size are not really plus-size so it’s relative.</p> </blockquote>
+<p>Similarly, the founders of another homegrown plus-size boutique Be You Co, Phyllis Tan and Jasmine Neo – all self-described “curvy girls” – started their label when they found it challenging to find affordable, flattering and well-made womenswear.</p>
+<h3><a>READ: Wasted money on clothes that don't fit once you're home? Here's why that happens</a></h3>
+<p>“In Singapore, most female clothing stores usually only cater up to XL, or UK 10 to 12. We’ve seen a rise in regular stores trying to be inclusive, and bringing in XXL or UK 14 clothes," said Tan. </p>
+<p>"However, most of these clothes are not very true to size and usually only fit regular sized ladies with a slightly bigger built. So despite being more inclusive, there is still a gap or demand for larger sizes."</p>
+<blockquote> <p>Dedicated boutiques have helped to reinforce the need for acceptance of fuller figures.</p> </blockquote>
+<p>So, embrace your curves and find your perfect fit with this list of fashion options that runs from homegrown plus-size boutiques to international fashion labels that cater to full figures. </p>
+<p>Expect styles that range from bodycon dresses, swing skirts and styles in bright colours and bold prints at this homegrown label. Sizes UK 14 to 28 are available.</p>
+<h3><a>READ: Slouchy pants, fluid blouses and A-line skirts: Meet your new tailored essentials</a></h3>
+<p>Known for its everyday basics, high-tech garments and creative collaborations, the Japanese retailer has introduced sizes for the fuller figure (up to 3XL), available exclusively online.</p>
+<p>Mango’s plus-size collection offers versatile and modern pieces for young women. There are wrap dresses, flowy tops and even playful jumpsuits, with sizes from European 42 to 54 (UK 14 to 44). </p>
+<p>From sportswear and swimwear to party dresses, the brand has something for every occasion, even wedding dresses. Sizes go up to UK 30. </p>
+<p>The Swedish fast-fashion retailer has thought of it all, from casual denim to office attire, basics and sleepwear, the line offers chic choices at affordable prices. Sizing goes from L to 4XL.</p>
+<p>A staple among women and men for classics and intimates, the UK retailer also offers their “Curve” fit for fuller body shapes. Sizes go up to UK 32 for certain styles.</p>
+<h3><a>READ: How to choose the right shapewear for a slimmer look (or to hide that muffin top)</a></h3>
+<p>4 SHOPPING TIPS FOR THE LADIES</p>
+<p>To dress in plus-size perfection, here are some things to look out for when shopping for clothes.</p>
+<p>Check the material of the outfit and the overall workmanship. “The fabric should have a nice weight to it and should drape well,” Hung advised.</p>
+<p>MAKE SURE IT’S ACTUALLY WEARABLE</p>
+<h3><a>READ: The denim guide: How to find the perfect pair of plus-size jeans</a></h3>
+<p>CHOOSE SOMETHING COMFORTABLE </p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Celebrity weddings, scandals, Squid Game: Top entertainment stories of 2021 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> From Bling Empire to Squid Game, 7 hit TV series that stole the show in 2021 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> He-Man and Teenage Mutant Ninja Turtles artist and toy designer Terrell Mark Taylor dies at 80 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> Love at first pretzel: The women behind Auntie Anne’s family-run outlets in Singapore </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> This young mum taught herself to sew and started a sustainable kids clothing shop </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> How I survive Christmas stress every year: A working mum’s hopeful game plan </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> Is gluten-free bread really healthier than regular bread? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> Greying, thinning hair woes: Do special shampoos, supplements and hair serums work? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> ‘Worry burnout’ is real – here's how to spot the signs and combat it </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> How an Arnold Schwarzenegger YouTube video inspired Singapore’s newest watch microbrand </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> This home in Thailand brought a multigenerational family closer together during lockdowns </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Thank you notes, flowers, smiles: What drives Singapore's young buskers to play their hearts out </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Obsessions </a> </p> <h5> <a> Celebrating the season? Make an entrance with bold statement jewellery </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> The hottest Asian celebrity fashion icons of 2021: Jung Ho-yeon, Blackpink, Xiao Zhan, BTS </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> Meet the Singapore chef who wants you to feel at home in his restaurants </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Dining </a> </p> <h5> <a> 4 fancy Christmas dishes you can make at home to impress your guests </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> How the son of a caterer became one of Singapore's most celebrated culinary talents | CNA Luxury </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> What’s new in Johor? Where to sip, sup and sleep in style on your VTL trip </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> SkyHelix, Vespa road trip, DJ classes: Last-minute fun things to do in Singapore before 2021 ends </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> 7 places for a more relaxing South Korean holiday: Forest yoga, nature retreats, scenic hikes </a> </h5> </div> </div> </div> </div>
+<div> <div> <p> <a> Style Beauty </a> </p> <h5> Plus-size fashion for ladies: Style tips for a flattering figure at year-end parties </h5> </div> </div>
+<h1> Plus-size fashion for ladies: Style tips for a flattering figure at year-end parties </h1>
+<div> <p>On the hunt for a dress for those year-end get-togethers? We’ve got some tips to make the most out of your curvy body shape.</p> </div>
+<div> <div> <a> Tan Wei Lin </a> </div> </div>
+<p>Even though the odds are unevenly stacked against the well-endowed at the onset, it isn't impossible to sift out a figure-flattering look or two – if you know <a>what to look out for</a> and, even more important, <a>what to stay away from</a>.</p>
+<p>Here are some pointers that will help you nail down that confidence-boosting festive ensemble this year.</p>
+<h3><a>READ: Treat yourself: Best under S$500 designer bags to invest in this festive season</a></h3>
+<h3><a>READ: Ladies, here’s where to shop for plus-size clothes that suit Asian bodies</a></h3>
+<p>THE RIGHT CUT FOR YOUR SHAPE</p>
+<p>You might have learnt by now that certain dress and skirt cuts tend to suit certain people better. For example, fit-and-flare dresses and skirts with a subtle A-line style will suit most plus-sized women. </p>
+<h3><a>READ: Ladies: Here’s how to style yourself to look instantly slimmer – weight loss, optional</a></h3>
+<p>Want to wear a print? Make sure that your item of clothing isn’t too tight-fitting, because this will cause the print to appear warped and emphasise the curvaceous parts of your body. </p>
+<h3><a>READ: How to choose the right shapewear for a slimmer look (or to hide that muffin top)</a></h3>
+<p>USE COLOURS STRATEGICALLY</p>
+<p>If you are pear-shaped, pair light-coloured tops with dark-coloured bottoms; and if you have a larger bust as compared to your hips, do the reverse. </p>
+<p>If you’re relatively straight from top to bottom or have an hourglass figure, a monochromatic outfit can have a slimming effect on your frame – and it doesn’t necessarily have to be in black. Plum and maroon are alluring alternatives.</p>
+<h3><a>READ: How to dress to flatter your body when you’re not stick thin</a></h3>
+<h3><a>READ: Looking pudgy? You could be wearing the wrong tank top for your body type</a></h3>
+<p>OVERSIZED ISN’T ALWAYS BETTER</p>
+<p>Blousy tops and kaftan-like dresses may seem like comfy, forgiving outfits that will hide the immediate effects of a very filling festive meal, but they can add heft to curvy figures, particularly if you are on the busty end.</p>
+<p>A belt can come in very handy if you’re having difficulty finding something that fits you perfectly. You can significantly change how an outfit looks on your body simply by cinching it in at the waist.</p>
+<h3><a>READ: The denim guide: Score the perfect pair of jeans to slim down thunder thighs</a></h3>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Celebrity weddings, scandals, Squid Game: Top entertainment stories of 2021 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> From Bling Empire to Squid Game, 7 hit TV series that stole the show in 2021 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> He-Man and Teenage Mutant Ninja Turtles artist and toy designer Terrell Mark Taylor dies at 80 </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> Love at first pretzel: The women behind Auntie Anne’s family-run outlets in Singapore </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> This young mum taught herself to sew and started a sustainable kids clothing shop </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Women </a> </p> <h5> <a> How I survive Christmas stress every year: A working mum’s hopeful game plan </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> Is gluten-free bread really healthier than regular bread? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> Greying, thinning hair woes: Do special shampoos, supplements and hair serums work? </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Wellness </a> </p> <h5> <a> ‘Worry burnout’ is real – here's how to spot the signs and combat it </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> How an Arnold Schwarzenegger YouTube video inspired Singapore’s newest watch microbrand </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> This home in Thailand brought a multigenerational family closer together during lockdowns </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Entertainment </a> </p> <h5> <a> Thank you notes, flowers, smiles: What drives Singapore's young buskers to play their hearts out </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Obsessions </a> </p> <h5> <a> Celebrating the season? Make an entrance with bold statement jewellery </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h5> <a> The hottest Asian celebrity fashion icons of 2021: Jung Ho-yeon, Blackpink, Xiao Zhan, BTS </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> Meet the Singapore chef who wants you to feel at home in his restaurants </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Dining </a> </p> <h5> <a> 4 fancy Christmas dishes you can make at home to impress your guests </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Remarkable Living </a> </p> <h5> <a> How the son of a caterer became one of Singapore's most celebrated culinary talents | CNA Luxury </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Experiences </a> </p> <h5> <a> What’s new in Johor? Where to sip, sup and sleep in style on your VTL trip </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> SkyHelix, Vespa road trip, DJ classes: Last-minute fun things to do in Singapore before 2021 ends </a> </h5> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h5> <a> 7 places for a more relaxing South Korean holiday: Forest yoga, nature retreats, scenic hikes </a> </h5> </div> </div> </div> </div>
+<div> <span>Showing <b>15</b> of <b>76</b></span> Sort Filter </div>
+<div> <div> <div> <div> <p> Style Beauty </p> <h6> <a> Where to buy plus-size lingerie: 8 of the best brands to embrace those curves </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> Essential skincare tips in your 40s: Dealing with sagging skin, dark spots and more </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> Pink is the new black: 8 affordable sports watches in the hottest colours </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> Wrinkles and dull skin? Here's how to care for ageing skin in your 30s </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> 5 best strapless bras for different bust sizes that won't slip or pinch </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Travel </a> </p> <h6> <a> 48 hours in Hong Kong: Actress-host Grace Chan’s insider tips on what to see and do </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> This Singapore lingerie maker designs stylish bras for breast cancer survivors </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> Model sisters Aimee and Hannah Cheng-Bradshaw on the hard truths about modelling </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> Like daughter, like mother: Chantalle Ng and Lin Mei Jiao’s beauty secrets revealed </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> Skincare in your 20s: Everything you need to know from basic cleansing to age-proofing </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> Style tips for men: How to make sure your pair of jeans fits just right </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> Ever wondered just how dirty your old bath sponge and facial brush are? </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> Sensitive skin or eczema: How can you tell and what can you do about it? </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> The Singaporean mum who started a skincare brand that’s safe for babies </a> </h6> </div> </div> </div> </div>
+<div> <div> <div> <div> <p> <a> Style Beauty </a> </p> <h6> <a> Made just for you: Where to get customised fashion and beauty items in Singapore </a> </h6> </div> </div> </div> </div>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<div> <div> <div> <a> Hamburger Menu Close </a> </div> </div> </div>
+<div> <div> <p> Living </p> <h5> The woman building a retail community around sustainable fashion and beauty brands </h5> </div> </div>
+<h1> The woman building a retail community around sustainable fashion and beauty brands </h1>
+<div> <div> <a> Aun Koh </a> </div> </div>
+<p>With the rise in conscious consumerism, and Christmas just around the corner, I thought it was a perfect time to check in with Susannah.</p>
+<p>WHAT FIRST BROUGHT YOU TO SINGAPORE?</p>
+<p>WHEN DID YOU START REALLY GETTING SERIOUS ABOUT SUSTAINABILITY?</p>
+<p>WHAT WAS THE CATALYST FOR STARTING ZERRIN?</p>
+<p>HOW LONG DID IT TAKE TO GO FROM IDEA TO ACTUALLY LAUNCHING THE BUSINESS?</p>
+<div> <section> <blockquote> I wanted to help streamline the process for an everyday citizen like me to find stylish, quality sustainable brands. </blockquote> </section> </div>
+<p>HOW DIFFICULT IS IT TO SOURCE BRANDS THAT YOU CAN TRULY SAY ARE SUSTAINABLE?</p>
+<div> <div> <div><p>WHEN SOMEONE SAYS A BRAND IS CONSCIOUS OR SUSTAINABLE, DOES THAT ALSO MEAN IT’S CRUELTY-FREE/VEGAN/PLANT-BASED AS WELL?</p></div> </div> </div>
+<div> <section> <blockquote> You can have vegan beauty products that aren’t cruelty-free. </blockquote> </section> </div>
+<p>I UNDERSTAND THERE IS A LOT OF GREENWASHING IN THE FASHION INDUSTRY TOO.</p>
+<div> <section> <blockquote> What cancel culture has also done is completely eliminate empathy and the capacity everyone has for change from the conversation. That’s wrong. </blockquote> </section> </div>
+<p>WHAT ARE YOUR THOUGHTS ON THRIFTING VERSUS SELLING NEW PRODUCTS?</p>
+<div> <section> <blockquote> You can’t flog a poor quality product, no matter how sustainable it is. </blockquote> </section> </div>
+<div> <div> <div><p>HOW DID YOU LAUNCH ZERRIN? </p></div> </div> </div>
+<p>WHAT HAS BEEN THE BIGGEST CHALLENGE FOR YOU AND THE BUSINESS?</p>
+<p>AS THE FOUNDER, WHAT PART OF THE BUSINESS DO YOU FOCUS ON THE MOST?</p>
+<p>Oh, it’s everything at the moment. As I’ve hired on the retail side this year, I’m able to spend more time looking at partnerships and content and our agency clients. </p>
+<p>HOW BIG IS THE BUSINESS TODAY? DO YOU HAVE A BIG TEAM?</p>
+<p>We’re a team of two plus one intern. So, we’re small but mighty!</p>
+<p>WHAT DO YOU WISH YOU KNEW BACK IN 2017/2018 THAT YOU KNOW NOW?</p>
+<p>HOW MUCH OF THE BUSINESS IS FROM THE STUDIO ARM VS THE RETAIL SIDE?</p>
+<p>HOW CAN CONSCIOUS BRANDS BETTER MARKET THEMSELVES? WHAT MISTAKES DO YOU FREQUENTLY SEE?</p>
+<p>Brands should look more at how effectively they’re sharing their product and its key USPs and how they’re balancing that messaging with the sustainability and social impact side of what they do. </p>
+<p>My observation is that most designers aren’t marketers; they’re creatives at heart that want to focus on the making rather than the marketing strategy, content roll out and community building.</p>
+<p>DO YOU HAVE ANY PERSONAL FAVOURITE BRANDS OR PRODUCTS ON THE PLATFORM?</p>
+<p>Haha. I don’t do personal favourites, but I’m proud of labels and founders who really get it together and are constantly looking to improve. </p>
+<p>HOW HAS THE PANDEMIC BEEN FOR YOU GUYS?</p>
+<p>DO YOU SEE ZERRIN AS A COMMUNITY OR AS A RETAILER?</p>
+<p>ANY SPECIFIC PLANS FOR 2022 YOU WOULD LIKE TO SHARE?</p>
+<div> <p>Upgraded but still having issues? <a>Contact us</a></p> </div>
+<div> <div> <div> <a> Hamburger Menu Close </a> </div> </div> </div>
+<div> <div> <p> Women </p> <h5> Christmas gift shopping? 6 women-owned indie businesses worth supporting in COVID-19 times </h5> </div> </div>
+<div> <p> Women </p> <h1> Christmas gift shopping? 6 women-owned indie businesses worth supporting in COVID-19 times </h1> <div> <p>Order anything from diamond jewellery to a jar of chilli from these businesses via WhatsApp. </p> </div> </div>
+<div> <div> <a> Hidayah Salamat </a> </div> </div>
+<a>The Bag Creature</a>, a retailer in Joo Chiat that stocks bags for "adventurous souls", by independent labels. It's also the exclusive distributor for brands like Chrome Industries and Topo Designs.
+<p>Jewellery includes rings, earrings and necklaces ranging from an 18k rose gold diamond-studded pendant in the shape of a dove for S$580 to a double-strand necklace costing nearly S$30,000. <a>Alternatively, order here.</a></p>
+<a>Every Knitted Thing</a> sells adorable accessories such as coasters that look like oranges and fried eggs, and pizza-shaped purses.
+<div> <div> <div><p>If you like granola, check out <a>Nommish</a>, hawking five flavours including tropical coconut, matcha berry and speculoos in two sizes starting at S$9 per pack. <a>Order here.</a> </p> <p>SWEET SURPRISES</p></div> </div> </div>
+<a>Sweet Surprises</a>, founded by sisters Ifra Hassan and Thara Hassan, put together these crazy-looking themed boxes chock full of chocolates and sweets – just look at their
+<a>pink ombre box of chocolate-coated strawberries</a>.
+<p>They also make "smash boxes", with cakes you can smash with a mallet to reveal a bunch of loose candies and chocolates or even a little surprise gift of your own choosing. <a>Order here.</a></p>
+<div> <div> <p> Women </p> <h5> This 28-year-old ditched a six-figure salary and started a sex toy company </h5> </div> </div>
+<h1> This 28-year-old ditched a six-figure salary and started a sex toy company </h1>
+<div> <p>The co-founder of Singapore brand Good Vibes says she hasn’t drawn a salary in more than a year, but she’s happy. She credits it to taking risks, serendipity and being comfortable in her own skin.</p> </div>
+<p>At just 26 years old, Meryl Lim had a cushy job at one of the largest FB companies in the world. She drew a six-figure salary, held a small stake in the firm and was living in a luxury condo in District 9. </p>
+<p>Lim’s career at Kraft Heinz was what you might describe as a dream. She had been a fresh graduate when she joined the firm and the opportunities were plenty, enabling her to rise through the ranks quickly. </p>
+<p>She became head of revenue management in less than five years, and was given the chance to form and shape the growth of her own team, mentoring those who were just starting out and grooming them for promotions. </p>
+<p>She was happy. But she gave it all up.</p>
+<p>Today, Lim runs Good Vibes, a sex toy company she started in the heat of the pandemic. She hasn’t drawn a salary in more than a year.</p>
+<p>You’re probably asking why. The answer is not what you’d expect. </p>
+<p>“Everybody was looking at me as if thinking, ‘You gave up a S$200,000 salary a year with equity – are you an idiot?’” Lim told me during our Zoom interview from her new – less flashy – apartment in Katong. </p>
+<p>“I was like, yeah, but I enjoy what I’m doing. I think it’s okay. Money is not everything. And I’ve never really had much self-doubt or fear – I’m very comfortable with who I am. I think that’s one of my strengths,” she said.</p>
+<p>Hearing her story, I realised that almost every big decision she has made has had to do with serendipity. That and the natural ease with which she takes risks without overthinking them. </p>
+<p>For example, Lim was president of the prestigious Investment Interactive Club at the Nanyang Technological University (NTU) when she was a student there. </p>
+<p>She had no interest in working in a bank – she was simply curious about investing. When a friend wanted to check out the club and asked her along, she agreed. </p>
+<p>“I got involved in one event and then another event, and when the time came to think about running the club, I just went for it. </p>
+<p>“That’s my attitude in life. Just give it a try. No one really wanted to try because it was quite scary – you had to give speeches and get people to vote for you, like a proper presidential election,” she told me. </p>
+<p>The experience came with “great learning”, said Lim, adding that she was constantly drawn out of her comfort zone as the job required her to talk to human resources execs from renowned companies such as Barclays and Unilever. </p>
+<div> <section> <blockquote> It was very okay for me to admit that I didn’t know and wanted to learn. </blockquote> </section> </div>
+<p>The club was also predominantly made up of men, which “pushed me a lot”, said Lim. </p>
+<p>“I had that struggle early on, but honestly, after a while, I was just like ‘screw it’. It was very okay for me to admit that I didn’t know and wanted to learn. I did have my doubts, but they weren’t eating me up.”</p>
+<p>She eventually went with Kraft Heinz after seeing that its senior management were in their 30s, suggesting that she too could be “super hardworking and ambitious, and climb really high and achieve so many things at a young age”. </p>
+<p>Never mind that the job the company offered her was a “pure finance” role, not something she really wanted to do. </p>
+<p>“Business budget planning – you can’t get more finance than that. But I took a leap of faith because I really liked the CFO and the president of the region. I cancelled my graduation trip and signed on.”</p>
+<p>Lim rose quickly, eventually being appointed to hire for and lead her own team. This was where she was happiest.</p>
+<p>In 2020, amid a restructuring of the company, Lim found herself no longer able to imagine a future there. </p>
+<p>It wasn’t sudden – she had had “a lot of time to think” during a brief work stint in Australia.</p>
+<p>The company sent her to London to consider taking up a role there but when she couldn’t find anything that was a good fit, she decided to resign, thinking she would use the downtime to travel the world. </p>
+<p>Around March last year, over drinks with a few male friends, Lim asked for suggestions for the name of her new Instagram page, intending to use it to record her travels. One friend suggested Good Vibes Only.</p>
+<p>“Why can’t we buy sex toys in Singapore? Why isn’t there a clean shopping environment for that here?”</p>
+<div> <section> <blockquote> Why can’t we buy sex toys in Singapore? Why isn’t there a clean shopping environment for that here? </blockquote> </section> </div>
+<p>It was meant to be a side hustle at first but amid several lockdowns, the business grew and became “very promising”, especially after the brand started getting press coverage. </p>
+<p>However, she struggled to get her co-founders, who all had full-time jobs, to commit. Eventually they stepped down.</p>
+<p>ON BEING THE FACE FOR SEX TOYS</p>
+<p>It’s almost unheard of these days to have a business and not have a person front it. Naturally, Lim struggled with this idea. </p>

@@ -1,0 +1,17 @@
+{
+  "stop_words" : [
+    "a", "about", "above", "after", "again", "against", "all","also", "am", "an", "and", "any", "are", "aren't", "are’t", "as",
+    "at", "be", "because", "been", "before", "being", "below", "between", "both", "but", "by","can", "can't", "can’t", "cannot",
+    "could", "couldn't", "could’t", "did", "didn't", "didn’t", "do", "does", "doesn't", "doesn’t", "doing", "don't", "don’t", "down", "during", "each",
+    "few", "for", "from", "further", "had", "hadn't", "hadn’t", "has", "hasn't", "hasn’t", "have", "haven't", "haven’t", "having", "he", "he'd", "he’d",
+    "he'll", "he’ll", "he's", "he’s", "her", "here", "here's", "here’s", "hers", "herself", "him", "himself", "his", "how", "how's", "how’s", "i", "i'd", "i’d",
+    "i'll", "i’ll", "i'm", "i’m", "i've", "i’ve", "if", "in", "into", "is", "isn't", "isn’t", "it", "it'll", "it’ll", "it's", "it’s", "its", "itself", "let's", "let’s", "me", "more",
+    "most", "mustn't", "mustn’t", "my", "myself", "no", "nor", "not", "of", "off", "on", "once", "only", "or", "other", "ought",
+    "our", "ours", "ourselves", "out", "over", "own", "same", "shan't", "shan’t", "she", "she'd", "she’d", "she'll", "she’ll", "she's", "she’s", "should",
+    "shouldn't", "shouldn’t", "so", "some", "such", "than", "that", "that's", "that’s", "the", "their", "theirs", "them", "themselves",
+    "then", "there", "there's", "there’s", "these", "they", "they'd", "they’d", "they'll", "they’ll", "they're", "they’re", "they've", "they’ve", "this", "those", "through",
+    "to", "too", "under", "until", "up", "us", "very", "was", "wasn't", "wasn’t", "we", "we'd", "we’d", "we'll", "we’ll", "we're", "we’re", "we've", "we’ve", "were", "weren't", "weren’t",
+    "what", "what's", "what’s", "when", "when's","when’s", "where", "where's", "where’s", "which", "while", "who", "who's", "who’s", "whom", "why", "why's", "why’s",
+    "will", "with", "won't", "won’t", "would", "wouldn't", "wouldn’t", "you", "you'd", "you’d", "you'll", "you’ll", "you're", "you’re", "you've", "you’ve", "your", "yours", "yourself", "yourselves"
+  ]
+}

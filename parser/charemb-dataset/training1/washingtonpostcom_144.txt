@@ -1,0 +1,500 @@
+<div>rep. Antonio Delgado NY</div>
+<div>rep. Mark DeSaulnier CA</div>
+<div>rep. Theodore E. Deutch FL</div>
+<div>rep. Debbie Dingell MI</div>
+<div>rep. Lloyd Doggett TX</div>
+<div>rep. Veronica Escobar TX</div>
+<div>rep. Anna G. Eshoo CA</div>
+<div>rep. Adriano Espaillat NY</div>
+<div>rep. Lizzie Fletcher TX</div>
+<div>rep. Marcia L. Fudge OH</div>
+<div>rep. Ruben Gallego AZ</div>
+<div>rep. John Garamendi CA</div>
+<div>rep. Jesús "Chuy" Garcia IL</div>
+<div>rep. Sylvia Garcia TX</div>
+<div>rep. Vicente Gonzalez TX</div>
+<div>rep. Josh Gottheimer NJ</div>
+<div>rep. Raúl M. Grijalva AZ</div>
+<div>rep. Debra Haaland NM</div>
+<div>rep. Brian Higgins NY</div>
+<div>rep. Steven Horsford NV</div>
+<div>rep. Chrissy Houlahan PA</div>
+<div>rep. Steny H. Hoyer MD</div>
+<div>rep. Jared Huffman CA</div>
+<div>rep. Sheila Jackson Lee TX</div>
+<div>rep. Pramila Jayapal WA</div>
+<div>rep. Hakeem Jeffries NY</div>
+<div>rep. Eddie Bernice Johnson TX</div>
+<div>rep. Mondaire Jones NY</div>
+<div>rep. William R. Keating MA</div>
+<div>rep. Robin L. Kelly IL</div>
+<div>rep. Daniel Kildee MI</div>
+<div>rep. Ann Kirkpatrick AZ</div>
+<div>rep. Raja Krishnamoorthi IL</div>
+<div>rep. John B. Larson CT</div>
+<div>rep. Brenda Lawrence MI</div>
+<div>rep. Teresa Leger Fernandez NM</div>
+<div>rep. Alan Lowenthal CA</div>
+<div>rep. Stephen F. Lynch MA</div>
+<div>rep. Tom Malinowski NJ</div>
+<div>rep. Carolyn B. Maloney NY</div>
+<div>rep. Kathy Manning NC</div>
+<div>rep. Betty McCollum MN</div>
+<div>rep. A. Donald McEachin VA</div>
+<div>rep. Jerry McNerney CA</div>
+<div>rep. Gregory W. Meeks NY</div>
+<div>rep. Joseph Morelle NY</div>
+<div>rep. Stephanie Murphy FL</div>
+<div>rep. Jerrold Nadler NY</div>
+<div>rep. Grace F. Napolitano CA</div>
+<div>rep. Richard E. Neal MA</div>
+<div>rep. Donald W. Norcross NJ</div>
+<div>rep. Tom O'Halleran AZ</div>
+<div>rep. Alexandria Ocasio-Cortez NY</div>
+<div>rep. Frank Pallone Jr. NJ</div>
+<div>rep. Jimmy Panetta CA</div>
+<div>rep. Bill Pascrell Jr. NJ</div>
+<div>rep. Donald Payne Jr. NJ</div>
+<div>rep. Ed Perlmutter CO</div>
+<div>rep. Dean Phillips MN</div>
+<div>rep. Chellie Pingree ME</div>
+<div>rep. Ayanna Pressley MA</div>
+<div>rep. David E. Price NC</div>
+<div>rep. Jamie B. Raskin MD</div>
+<div>rep. Kathleen Rice NY</div>
+<div>rep. Cedric L. Richmond LA</div>
+<div>rep. Lucille Roybal-Allard CA</div>
+<div>rep. C.A. Dutch Ruppersberger MD</div>
+<div>rep. Bobby L. Rush IL</div>
+<div>rep. Linda T. Sánchez CA</div>
+<div>rep. John Sarbanes MD</div>
+<div>rep. Mary Gay Scanlon PA</div>
+<div>rep. Jan Schakowsky IL</div>
+<div>rep. Adam B. Schiff CA</div>
+<div>rep. Bradley Schneider IL</div>
+<div>rep. Kurt Schrader OR</div>
+<div>rep. Robert C. “Bobby” Scott VA</div>
+<div>rep. Terri A. Sewell AL</div>
+<div>rep. Mikie Sherrill NJ</div>
+<div>rep. Elissa Slotkin MI</div>
+<div>rep. Abigail Spanberger VA</div>
+<div>rep. Jackie Speier CA</div>
+<div>rep. Haley Stevens MI</div>
+<div>rep. Marilyn Strickland WA</div>
+<div>rep. Thomas Suozzi NY</div>
+<div>rep. Eric Swalwell CA</div>
+<div>rep. Mike Thompson CA</div>
+<div>rep. Bennie Thompson MS</div>
+<div>rep. Norma J. Torres CA</div>
+<div>rep. Ritchie Torres NY</div>
+<div>rep. Lauren Underwood IL</div>
+<div>rep. Nydia M. Velázquez NY</div>
+<div>rep. Debbie Wasserman Schultz FL</div>
+<div>rep. Maxine Waters CA</div>
+<div>rep. Bonnie Watson Coleman NJ</div>
+<div>rep. Jennifer Wexton VA</div>
+<div>rep. Nikema Williams GA</div>
+<div>rep. Frederica S. Wilson FL</div>
+<div>rep. Gus M. Bilirakis FL</div>
+<div>rep. Michelle Steel CA</div>
+<div><div>rep. Alcee L. Hastings FL</div><div>rep. Rashida Tlaib MI</div></div>
+<div><div><h3>Supported objection 147</h3></div></div>
+<div><div><h3>Opposed 377</h3></div></div>
+<div><div><h3>Did not vote 8</h3></div></div>
+<div>Scroll to see a full list of names</div>
+<div><h3>Supported objection 147</h3></div>
+<div><p>These lawmakers supported at least one objection to counting Biden’s electoral votes.</p></div>
+<div>sen. Rick Scott FL<div><p>Scott, who previously said he planned to object to the counting of some electoral votes, objected to the Pennsylvannia count, but not Arizona. </p></div></div>
+<div>rep. Robert B. Aderholt AL</div>
+<div>rep. Jodey Arrington TX</div>
+<div>rep. Stephanie Bice OK</div>
+<div>rep. Lauren Boebert CO</div>
+<div>rep. Michael C. Burgess TX</div>
+<div>rep. Earl L. "Buddy" Carter GA</div>
+<div>rep. Madison Cawthorn NC</div>
+<div>rep. Steve Chabot OH<div><p>Chabot objected to the Pennsylvania count, but not Arizona. </p></div></div>
+<div>rep. Michael Cloud TX</div>
+<div>rep. Eric A. "Rick" Crawford AR</div>
+<div>rep. Warren Davidson OH</div>
+<div>rep. Scott DesJarlais TN</div>
+<div>rep. Mario Diaz-Balart FL</div>
+<div>rep. Byron Donalds FL</div>
+<div>rep. Michelle Fischbach MN</div>
+<div>rep. Scott Fitzgerald WI</div>
+<div>rep. Charles J. "Chuck" Fleischmann TN</div>
+<div>rep. Scott Franklin FL</div>
+<div>rep. Carlos Gimenez FL</div>
+<div>rep. Louie Gohmert TX</div>
+<div>rep. Paul A. Gosar AZ</div>
+<div>rep. Garret Graves LA<div><p>Graves objected to the Pennsylvania count, but not Arizona. </p></div></div>
+<div>rep. Marjorie Taylor Greene GA</div>
+<div>rep. H. Morgan Griffith VA</div>
+<div>rep. Michael Guest MS</div>
+<div>rep. Diana Harshbarger TN</div>
+<div>rep. Vicky Hartzler MO</div>
+<div>rep. Yvette Herrell NM</div>
+<div>rep. Richard Hudson NC</div>
+<div>rep. Ronny Jackson TX</div>
+<div>rep. David Kustoff TN<div><p>Kustoff objected to the Pennsylvania count, but not Arizona. </p></div></div>
+<div>rep. Jake LaTurner KS</div>
+<div>rep. Barry Loudermilk GA</div>
+<div>rep. Frank D. Lucas OK</div>
+<div>rep. Blaine Luetkemeyer MO</div>
+<div>rep. Nicole Malliotakis NY</div>
+<div>rep. Kevin McCarthy CA</div>
+<div>rep. Alex Mooney WV<div><p>Mooney objected to the Pennsylvania count, but not Arizona. </p></div></div>
+<div>rep. Markwayne Mullin OK</div>
+<div>rep. Jay Obernolte CA</div>
+<div>rep. Steven M. Palazzo MS</div>
+<div>rep. Greg Pence IN<div><p>Pence objected to the Pennsylvania count, but not Arizona. </p></div></div>
+<div>rep. August Pfluger TX</div>
+<div>rep. Guy Reschenthaler PA</div>
+<div>rep. Mike D. Rogers AL</div>
+<div>rep. Harold Rogers KY</div>
+<div>rep. Matt Rosendale MT</div>
+<div>rep. John Rutherford FL</div>
+<div>rep. Steve Scalise LA</div>
+<div>rep. David Schweikert AZ<div><p>Schweikert objected to the Pennsylvania count, but not Arizona. </p></div></div>
+<div>rep. Pete Sessions TX</div>
+<div>rep. Jason T. Smith MO</div>
+<div>rep. William Timmons SC</div>
+<div>rep. Jeff Van Drew NJ</div>
+<div>rep. Beth Van Duyne TX<div><p>Van Duyne objected to the Pennsylvania count, but not Arizona. </p></div></div>
+<div>rep. Jackie Walorski IN</div>
+<div>rep. Daniel Webster FL</div>
+<div>rep. Roger Williams TX</div>
+<div><p>These lawmakers did not support any objections.</p></div>
+<p>In a letter to senators, Lee wrote, "with respect to presidential elections, there is no authority for Congress to make value judgments in the abstract regarding any state’s election laws or the manner in which they have been implemented." </p>
+<div>sen. James E. Risch ID</div>
+<div><p>Shelby said he would oppose the effort to question the tally. "At the end of the day, it's time to move on. We need the electoral college to do its work," he said. "It's an integral part of our constitution." </p></div>
+<div>sen. Thom Tillis NC<div><p>“The Framers of our Constitution made it clear that the power to certify elections is reserved to the states, not Congress," Tillis said in a Jan. 6 statement. </p></div></div>
+<div>sen. Roger Wicker MS<div><p>Wicker said he would vote to certify the results Wednesday: "I think the overwhelming weight of the evidence is that Joe Biden defeated my candidate, Donald Trump, and I have to live with it." </p></div></div>
+<div>sen. Todd C. Young IN<div><p>"I think it’s a hijack effort,” Young told protesters outside the Capitol, saying he would not join Sen. Ted Cruz in objecting. “I took an oath under God.” </p></div></div>
+<div>rep. Kelly Armstrong ND</div>
+<div>rep. Garland "Andy" Barr KY</div>
+<div>rep. Vern Buchanan FL</div>
+<div>rep. Larry Bucshon IN</div>
+<div>rep. Randy Feenstra IA</div>
+<div>rep. Drew Ferguson GA</div>
+<div>rep. Brian Fitzpatrick PA</div>
+<div>rep. Jeff Fortenberry NE</div>
+<div>rep. Mike Gallagher WI</div>
+<div>rep. Andrew Garbarino NY</div>
+<div>rep. Tony Gonzales TX</div>
+<div>rep. Anthony Gonzalez OH</div>
+<div>rep. Glenn Grothman WI</div>
+<div>rep. Brett Guthrie KY</div>
+<div>rep. Jaime Herrera Beutler WA</div>
+<div>rep. Ashley Hinson IA</div>
+<div>rep. Trey Hollingsworth IN</div>
+<div>rep. Bill Huizenga MI</div>
+<div>rep. Dusty Johnson SD</div>
+<div>rep. Adam Kinzinger IL</div>
+<div>rep. Robert E. Latta OH</div>
+<div>rep. Thomas Massie KY</div>
+<div>rep. Michael McCaul TX</div>
+<div>rep. Tom McClintock CA</div>
+<div>rep. Patrick T. McHenry NC</div>
+<div>rep. David B. McKinley WV</div>
+<div>rep. Mariannette Miller-Meeks IA</div>
+<div>rep. John Moolenaar MI</div>
+<div>rep. Christopher H. Smith NJ</div>
+<div>rep. Victoria Spartz IN</div>
+<div>rep. Steve Stivers OH</div>
+<div>rep. Michael R. Turner OH</div>
+<div>rep. Brad Wenstrup OH</div>
+<div>rep. Bruce Westerman AR</div>
+<div><div>sen. Angus King ME</div><div>sen. Bernie Sanders VT</div></div>
+<div>sen. Tammy Baldwin WI</div>
+<div>sen. Michael F. Bennet CO</div>
+<div>sen. Richard Blumenthal CT</div>
+<div>sen. Sherrod Brown OH</div>
+<div>sen. Maria Cantwell WA</div>
+<div>sen. Benjamin L. Cardin MD</div>
+<div>sen. Thomas R. Carper DE</div>
+<div>sen. Robert P. Casey Jr. PA</div>
+<div>sen. Christopher A. Coons DE</div>
+<div>sen. Catherine Cortez Masto NV</div>
+<div>sen. Tammy Duckworth IL</div>
+<div>sen. Richard J. Durbin IL</div>
+<div>sen. Dianne Feinstein CA</div>
+<div>sen. Kirsten Gillibrand NY</div>
+<div>sen. Kamala D. Harris CA</div>
+<div>sen. Margaret Wood Hassan NH</div>
+<div>sen. Martin Heinrich NM</div>
+<div>sen. John Hickenlooper CO</div>
+<div>sen. Amy Klobuchar MN</div>
+<div>sen. Patrick J. Leahy VT</div>
+<div>sen. Ben Ray Luján NM</div>
+<div>sen. Joe Manchin III WV</div>
+<div>sen. Edward J. Markey MA</div>
+<div>sen. Robert Menendez NJ</div>
+<div>sen. Charles E. Schumer NY</div>
+<div>sen. Jeanne Shaheen NH</div>
+<div>sen. Kyrsten Sinema AZ</div>
+<div>sen. Debbie Stabenow MI</div>
+<div>sen. Chris Van Hollen MD</div>
+<div>sen. Mark R. Warner VA</div>
+<div>sen. Elizabeth Warren MA</div>
+<div>sen. Sheldon Whitehouse RI</div>
+<div>rep. Jake Auchincloss MA</div>
+<div>rep. Nanette Barragán CA</div>
+<div>rep. Sanford D. Bishop Jr. GA</div>
+<div>rep. Earl Blumenauer OR</div>
+<div>rep. Lisa Blunt Rochester DE</div>
+<div>rep. Suzanne Bonamici OR</div>
+<div>rep. Carolyn Bourdeaux GA</div>
+<div>rep. Jamaal Bowman NY</div>
+<div>rep. Brendan Boyle PA</div>
+<div>rep. Anthony G. Brown MD</div>
+<div>rep. Julia Brownley CA</div>
+<div>rep. G.K. Butterfield NC</div>
+<div>rep. Salud Carbajal CA</div>
+<div>rep. Tony Cárdenas CA</div>
+<div>rep. André Carson IN</div>
+<div>rep. Matthew Cartwright PA</div>
+<div>rep. Joaquin Castro TX</div>
+<div>rep. David N. Cicilline RI</div>
+<div>rep. Katherine M. Clark MA</div>
+<div>rep. Yvette D. Clarke NY</div>
+<div>rep. Emanuel Cleaver II MO</div>
+<div>rep. James E. Clyburn SC</div>
+<div>rep. Gerald E. Connolly VA</div>
+<div>rep. J. Luis Correa CA</div>
+<div>rep. Charlie Crist FL</div>
+<div>rep. Henry Cuellar TX</div>
+<div>rep. Sharice Davids KS</div>
+<div>rep. Susan A. Davis CA</div>
+<div>rep. Danny K. Davis IL</div>
+<div>rep. Madeleine Dean PA</div>
+<div>rep. Peter A. DeFazio OR</div>
+<div>rep. Diana DeGette CO</div>
+<div>rep. Rosa L. DeLauro CT</div>
+<div>rep. Suzan DelBene WA</div>
+<div>rep. Antonio Delgado NY</div>
+<div>rep. Mark DeSaulnier CA</div>
+<div>rep. Theodore E. Deutch FL</div>
+<div>rep. Debbie Dingell MI</div>
+<div>rep. Lloyd Doggett TX</div>
+<div>rep. Veronica Escobar TX</div>
+<div>rep. Anna G. Eshoo CA</div>
+<div>rep. Adriano Espaillat NY</div>
+<div>rep. Lizzie Fletcher TX</div>
+<div>rep. Marcia L. Fudge OH</div>
+<div>rep. Ruben Gallego AZ</div>
+<div>rep. John Garamendi CA</div>
+<div>rep. Jesús "Chuy" Garcia IL</div>
+<div>rep. Sylvia Garcia TX</div>
+<div>rep. Vicente Gonzalez TX</div>
+<div>rep. Josh Gottheimer NJ</div>
+<div>rep. Raúl M. Grijalva AZ</div>
+<div>rep. Debra Haaland NM</div>
+<div>rep. Brian Higgins NY</div>
+<div>rep. Steven Horsford NV</div>
+<div>rep. Chrissy Houlahan PA</div>
+<div>rep. Steny H. Hoyer MD</div>
+<div>rep. Jared Huffman CA</div>
+<div>rep. Sheila Jackson Lee TX</div>
+<div>rep. Pramila Jayapal WA</div>
+<div>rep. Hakeem Jeffries NY</div>
+<div>rep. Eddie Bernice Johnson TX</div>
+<div>rep. Mondaire Jones NY</div>
+<div>rep. William R. Keating MA</div>
+<div>rep. Robin L. Kelly IL</div>
+<div>rep. Daniel Kildee MI</div>
+<div>rep. Ann Kirkpatrick AZ</div>
+<div>rep. Raja Krishnamoorthi IL</div>
+<div>rep. John B. Larson CT</div>
+<div>rep. Brenda Lawrence MI</div>
+<div>rep. Teresa Leger Fernandez NM</div>
+<div>rep. Alan Lowenthal CA</div>
+<div>rep. Stephen F. Lynch MA</div>
+<div>rep. Tom Malinowski NJ</div>
+<div>rep. Carolyn B. Maloney NY</div>
+<div>rep. Kathy Manning NC</div>
+<div>rep. Betty McCollum MN</div>
+<div>rep. A. Donald McEachin VA</div>
+<div>rep. Jerry McNerney CA</div>
+<div>rep. Gregory W. Meeks NY</div>
+<div>rep. Joseph Morelle NY</div>
+<div>rep. Stephanie Murphy FL</div>
+<div>rep. Jerrold Nadler NY</div>
+<div>rep. Grace F. Napolitano CA</div>
+<div>rep. Richard E. Neal MA</div>
+<div>rep. Donald W. Norcross NJ</div>
+<div>rep. Tom O'Halleran AZ</div>
+<div>rep. Alexandria Ocasio-Cortez NY</div>
+<div>rep. Frank Pallone Jr. NJ</div>
+<div>rep. Jimmy Panetta CA</div>
+<div>rep. Bill Pascrell Jr. NJ</div>
+<div>rep. Donald Payne Jr. NJ</div>
+<div>rep. Ed Perlmutter CO</div>
+<div>rep. Dean Phillips MN</div>
+<div>rep. Chellie Pingree ME</div>
+<div>rep. Ayanna Pressley MA</div>
+<div>rep. David E. Price NC</div>
+<div>rep. Jamie B. Raskin MD</div>
+<div>rep. Kathleen Rice NY</div>
+<div>rep. Cedric L. Richmond LA</div>
+<div>rep. Lucille Roybal-Allard CA</div>
+<div>rep. C.A. Dutch Ruppersberger MD</div>
+<div>rep. Bobby L. Rush IL</div>
+<div>rep. Linda T. Sánchez CA</div>
+<div>rep. John Sarbanes MD</div>
+<div>rep. Mary Gay Scanlon PA</div>
+<div>rep. Jan Schakowsky IL</div>
+<div>rep. Adam B. Schiff CA</div>
+<div>rep. Bradley Schneider IL</div>
+<div>rep. Kurt Schrader OR</div>
+<div>rep. Robert C. “Bobby” Scott VA</div>
+<div>rep. Terri A. Sewell AL</div>
+<div>rep. Mikie Sherrill NJ</div>
+<div>rep. Elissa Slotkin MI</div>
+<div>rep. Abigail Spanberger VA</div>
+<div>rep. Jackie Speier CA</div>
+<div>rep. Haley Stevens MI</div>
+<div>rep. Marilyn Strickland WA</div>
+<div>rep. Thomas Suozzi NY</div>
+<div>rep. Eric Swalwell CA</div>
+<div>rep. Mike Thompson CA</div>
+<div>rep. Bennie Thompson MS</div>
+<div>rep. Norma J. Torres CA</div>
+<div>rep. Ritchie Torres NY</div>
+<div>rep. Lauren Underwood IL</div>
+<div>rep. Nydia M. Velázquez NY</div>
+<div>rep. Debbie Wasserman Schultz FL</div>
+<div>rep. Maxine Waters CA</div>
+<div>rep. Bonnie Watson Coleman NJ</div>
+<div>rep. Jennifer Wexton VA</div>
+<div>rep. Nikema Williams GA</div>
+<div>rep. Frederica S. Wilson FL</div>
+<div><h3>Did not vote 8</h3></div>
+<div><p>These lawmakers did not vote on any objections.</p></div>
+<div>rep. Gus M. Bilirakis FL</div>
+<div>rep. Michelle Steel CA</div>
+<div><div>rep. Alcee L. Hastings FL</div><div>rep. Rashida Tlaib MI</div></div>
+<p>See something we missed? Let us know.</p>
+<p><i>Chiqui Esteban and Mike DeBonis contributed to this report.</i></p>
+<p><i>Correction: An earlier version of this article incorrectly stated that Rep. Troy Balderson (R-Ohio) and Rep. David Joyce (R-Ohio) had intended to support objections to electoral vote counts. They did not.</i></p>
+<div><div><div><div>John MuyskensFollow</div><span>John Muyskens is a graphics editor at the Washington Post specializing in data reporting.</span></div></div></div>
+<div> <div> <div> <ul> <li> Accessibility for screenreader </li> </ul> </div> </div> </div>
+<div> <div> <div> <p>Visual Forensics</p> <h1>41 minutes of fear: A video timeline from inside the Capitol siege</h1> </div> </div> </div>
+<div> <div> By Dalton Bennett, Emma Brown, Atthar Mirza, Sarah Cahlan, Joyce Sohyun Lee, Meg Kelly, Elyse Samuels, Jon Swaine </div> <div>January 16, 2021</div> </div>
+<p>At 2:12 p.m. on Jan. 6, supporters of President Trump began climbing through a window they had smashed on the northwest side of the U.S. Capitol. “Go! Go! Go!” someone shouted as the rioters, some in military gear, streamed in.</p>
+<p>Officials in the House and Senate secured the doors of their respective chambers, but lawmakers were soon forced to retreat to undisclosed locations. Five people died, including a Capitol police officer. In all, more than 50 officers were injured.</p>
+<div> <p>2:12 p.m.</p> <p>A man seen earlier with the Proud Boys</p> <p>breaks a window. Rioters enter the Capitol </p> <p>floor below where the Senate is in session.</p> </div>
+<div> <p>2:13 p.m.</p> <p>Vice President Pence is escorted off the</p> <p>Senate floor.Sen. Charles E. Grassley</p> <p>begins presiding, but almost</p> <p>immediately calls a recess.</p> </div>
+<div> <p>National Mall</p> <p>(West)</p> </div>
+<div> <p>First St. NE</p> <p>(East)</p> </div>
+<div> <p>2:13 p.m.</p> <p>Vice President Pence is</p> <p>escorted off the Senate floor.</p> <p>Sen. Charles E. Grassley</p> <p>begins presiding, but almost</p> <p>immediately calls</p> <p>a recess.</p> </div>
+<div> <p>2:12 p.m.</p> <p>A man seen earlier with </p> <p>the Proud Boys breaks </p> <p>a window. Rioters enter</p> <p>the Capitol a floor below</p> <p>where the Senate</p> <p> is in session.</p> </div>
+<div> <p>First</p> <p>St. NE</p> <p>(East)</p> </div>
+<div> <p>2:13 p.m.</p> <p>Vice President Pence is</p> <p>escorted off the </p> <p>Senate floor. Sen. Charles</p> <p>E. Grassley begins</p> <p>presiding, but almost</p> <p>immediately calls</p> <p>a recess.</p> </div>
+<div> <p>National Mal</p> <p>(West)</p> </div>
+<div> <p>2:13 p.m.</p> <p>Vice President Pence is</p> <p>escorted off the Senate floor.</p> <p>Sen. Charles E. Grassley begins</p> <p>presiding, but almost</p> <p>immediately calls a recess.</p> </div>
+<div> <p>2:13 p.m.</p> <p>Vice President Pence is escorted</p> <p>off the Senate floor. Sen. Charles</p> <p>E. Grassley begins presiding, but</p> <p>almost immediately calls a recess.</p> </div>
+<div> <p>GROUND FLOOR</p> </div>
+<div> <p>The mob chases Capitol Police officer Eugene Goodman to a staircase leading to the second floor.</p> </div>
+<div> <p>Rioters</p> <p>breach</p> <p>the building </p> </div>
+<div> <p>SECOND FLOOR</p> </div>
+<div> <p>Goodman leads rioters away from nearby doors to the Senate chamber.</p> </div>
+<div> <p>SENATE</p> <p>CHAMBER</p> </div>
+<div> <p>Rioters</p> <p>breach</p> <p>the building</p> </div>
+<p> <i>[Election results under attack: Here are the facts]</i> </p>
+<p>“Break it down! Break it down!” rioters chanted, as lawmakers filed out.</p>
+<p>Two minutes after the last of the lawmakers had left the corridor, Trump supporter Ashli Babbitt was shot dead by a Capitol Police officer as she began to climb through a broken section of the door.</p>
+<div> <p>SECOND</p> <p>FLOOR</p> </div>
+<div> <p>2:42 p.m.</p> <p>As lawmakers are being evacuated</p> <p>from the House Chamber using the</p> <p>Speaker’s lobby, rioters breach</p> <p>the lobby threshold.</p> </div>
+<div> <p>2:44 p.m.</p> <p>Ashli Babbitt tries to</p> <p>get into the lobby </p> <p>through a broken</p> <p>window and is shot</p> <p>by an officer. She died</p> <p>later that afternoon.</p> </div>
+<div> <p>SPEAKER’S</p> <p>LOBBY</p> </div>
+<div> <p>HOUSE</p> <p>CHAMBER</p> </div>
+<div> <p>2:44 p.m.</p> <p>Ashli Babbitt tries to</p> <p>get into the lobby </p> <p>through a broken</p> <p>window and is shot</p> <p>by an officer. She</p> <p>died later that</p> <p>afternoon.</p> </div>
+<div> <p>STATUARY</p> <p>HALL</p> </div>
+<div> <p>2:42 p.m.</p> <p>As lawmakers are being evacuated</p> <p>from the House Chamber using the</p> <p>Speaker’s lobby, rioters breach the</p> <p>lobby threshold.</p> </div>
+<p> <i>[<a>‘Trump said to do so’: Accounts of rioters who say the president spurred them to rush the Capitol could be pivotal testimony</a>]</i> </p>
+<p>In the gallery overlooking the chamber, some lawmakers had yet to be evacuated when Babbitt was shot. “I heard the gunshot, a lot of screaming,” recalled Rep. Robin Kelly (D-Ill.), who was in the gallery.</p>
+<p>By 2:53 p.m., 41 minutes after rioters entered the building through the smashed window, the last member of the last large group of House members to leave had been evacuated and was headed for a secure location.</p>
+<p><a><i>Watch the video</i></a></p>
+<p><i>Graphics by Aaron Steckelberg, Sarah Hashemi, Osman Malik, Brian Monroe, William Neff, Lauren Tierney and Laris Karklis. Photo research by Nick Kirkpatrick.</i></p>
+<p><i>Additional reporting was contributed by Aaron C. Davis, Mike DeBonis, Karoun Demirjian, Paul Kane, Seung Min Kim and Bill O’Leary.</i></p>
+<div>Keep supporting great journalism by turning off your ad blocker. Or purchase a subscription for unlimited access to real news you can count on.</div>
+<h1>‘No pictures, no pictures’: The enduring images from Jan. 6</h1>
+<h2>Photographers documented the events as a pro-Trump mob stormed through the hallowed halls of Congress on Jan. 6, but some of the most powerful images were almost never made</h2>
+<div><div><div><div><div><span><div><span><div><div>By Washington Post Staff</div></div></span></div></span></div></div></div><div>Jan. 4, 2022</div></div></div>
+<p>While the Jan. 6 attack on the Capitol was raging, it was photographs from the ground that made clear that a protest had turned into an insurrection.</p>
+<p>Rioters violently confronting police on the steps of the building. People entering the Capitol through broken windows or broken-down doors. The traitorous Confederate flag being carried through the halls of Congress.</p>
+<p>These images — quickly transmitted on screens across the world — have come to define that day.</p>
+<div><h3>Paul</h3><h3>Kane</h3></div>
+<p>A year later, they reflect on the most memorable moments they witnessed. Images we can share with the world.</p>
+<div><h3>Matt</h3><h3>McClain</h3></div>
+<div><h3>Astrid</h3><h3>Riecken</h3></div>
+<div><h3>Amanda</h3><h3>Andrade</h3><h3>-Rhoades</h3></div>
+<div><h3>Michael S.</h3><h3>Williamson</h3></div>
+<div><h3>Michael</h3><h3>Robinson</h3><h3>Chavez</h3></div>
+<div><h3>Bonnie Jo</h3><h3>Mount</h3></div>
+<div><h3>Bill</h3><h3>O’Leary</h3></div>
+<div><h3>Amanda</h3><h3>Voisard</h3></div>
+<div><h3>Ricky</h3><h3>Carioti</h3></div>
+<div><h3>Evelyn</h3><h3>Hockstein</h3></div>
+<div><h3>Jabin</h3><h3>Botsford</h3></div>
+<div><h3>Katherine</h3><h3>Frey</h3></div>
+<div><h3>Oliver</h3><h3>Contreras</h3></div>
+<div><h3>Melina</h3><h3>Mara</h3></div>
+<p><i>These accounts have been edited for clarity and concision.</i></p>
+<p>Photo editing by <a>Natalia Jiménez-Stuard</a> and Thomas Simonetti. Story editing by <a>Dave Clarke</a>. Copy editing by Jennifer Morehead. Design and development by <a>Frank Hulley-Jones</a>. Design editing by <a>Madison Walls</a>.</p>
+<div><div><a>The attack:</a></div><div>BEFORE</div><div>During</div><div>After</div></div>
+<div>Back to top of chapter</div>
+<div><div>60 minutes to go</div></div>
+<div><div>The Capitol is breached</div></div>
+<div><div>30 minutes in</div></div>
+<div><div>45 minutes in</div></div>
+<div><div>60 minutes in</div></div>
+<div><div>The second hour</div></div>
+<div><div>The final hours</div></div>
+<div><div><div><a>Before</a></div><div><a>During</a></div><div><a>After</a></div></div><div>Before</div><div>During</div><div>After</div></div>
+<div><div>The Attack</div></div>
+<h2>The Jan. 6 siege of the U.S. Capitol was neither a spontaneous act nor an isolated event.</h2>
+<p>The consequences of that day are still coming into focus, but what is already clear is that the insurrection was not a spontaneous act nor an isolated event. It was a battle in a broader war over the truth and over the future of American democracy.</p>
+<b> </b>more restrictive voting laws and
+<div>Chapters in this series</div>
+<a><div><div><div><div>BEFORE</div><div>Red Flags</div><div>Law enforcement agencies fail to heed mounting warnings before Jan. 6 as Trump propels his supporters to Washington, many with the intent to commit violent acts.</div></div></div></div></a>
+<a><div><div><div><div>DURING</div><div>Bloodshed</div><div>For 187 harrowing minutes, the president watches his supporters attack the Capitol — and resists pleas to stop them.</div></div></div></div></a>
+<a><div><div><div><div>AFTER</div><div>Contagion</div><div>Menacing threats and disinformation spread across the country in the wake of the Capitol siege, shaking the underpinnings of American democracy.</div></div></div></div></a>
+<h2>Key findings of The Post’s Jan. 6 investigation</h2>
+<h6><b>Law enforcement officials did not respond with urgency to a cascade of warnings about violence on Jan. 6</b></h6>
+<li>Alerts were raised by local officials, FBI informants, social media companies, former national security officials, researchers, lawmakers and tipsters.</li>
+<li>One of the biggest efforts to come out of Sept. 11, 2001 — a national network of multi-agency intelligence centers — spotted a flood of Jan. 6 warnings, but federal agencies did not show much interest in its information.</li>
+<li>The FBI limited its own understanding of how extremists were mobilizing when it switched over its social media monitoring service on the last weekend of 2020.</li>
+<h6><b>Pentagon leaders had acute fears about widespread violence, and some feared Trump could misuse the National Guard to remain in power</b></h6>
+<li>Army Secretary Ryan McCarthy was left rattled by Trump’s firing of senior Pentagon officials just after the election and sought to put guardrails on deployment of the National Guard.</li>
+<h6><b>The Capitol Police was disorganized and unprepared</b></h6>
+<li>The U.S. Capitol Police had been tracking threatening social media posts for weeks but was hampered by poor communication and planning.</li>
+<h6><b>Trump’s election lies radicalized his supporters in real time</b></h6>
+<h6><b>Escalating danger signs were in full view hours before the Capitol attack but did not trigger a stepped-up security response</b></h6>
+<li>Hundreds of Trump supporters clashed with police at the Washington Monument and the Lincoln Memorial on the morning of Jan. 6, some with shields and gas masks, presaging the violence to come.</li>
+<li>D.C. homeland security employees spotted piles of backpacks left by rallygoers outside the area where the president would speak — a phenomenon the agency had warned a week earlier could be a sign of concealed weapons.</li>
+<h6><b>Trump had direct warnings of the risks but stood by for 187 minutes before telling his supporters to go home</b></h6>
+<b> </b>House Minority Leader Kevin McCarthy, other Republican lawmakers and numerous White House advisers to urge the mob to disperse, a delay that contributed to harrowing acts of violence.
+<h6><b>His allies pressured Pence to reject the election results even after the Capitol siege</b></h6>
+<li>John C. Eastman, an attorney advising Trump, emailed Pence’s lawyer as a shaken Congress was reconvening to argue that the vice president should still reject electors from Arizona and other states.</li>
+<li>Earlier in the day, while the vice president, his family and aides were hiding from the rioters, Eastman emailed Pence’s lawyer to blame the violence on Pence’s refusal to block certification of Biden’s victory.</li>
+<h6><b>The FBI was forced to improvise a plan to help take back control of the Capitol</b></h6>
+<li>After the breach,<b> </b>the bureau deployed three tactical teams that were positioned nearby, but they were small, specialized teams and did not bring overwhelming manpower.</li>
+<li>As the riot escalated, acting attorney general Jeffrey Rosen scrambled to keep up with the deluge of calls from senior government officials and desperate lawmakers.</li>
+<h6><b>Republican efforts to undermine the 2020 election restarted immediately after the Capitol attack</b></h6>
+<b> </b>setting in motion a chaotic process that further sowed doubt in the results and a wave of similar partisan investigations in other states.
+<h6><b>False election claims by Trump that spurred the Capitol attack have become a driving force in the Republican Party</b></h6>
+<li>They include 10 candidates running for secretary of state, a position with sway over elections in many states.</li>
+<h6><b>Trump’s attacks have led to escalating threats of violence</b></h6>
+<li>Election officials in at least 17 states have collectively received hundreds of threats to their personal safety or their lives since Jan. 6, with a concentration in the six states where Trump has focused his attacks on the election results.</li>
+<li>Ominous emails and calls have spiked immediately after the former president and his allies raised new claims.</li>
+<h6><b>First responders are struggling with deep trauma</b></h6>
+<ul><li>Those who tried to protect the Capitol are contending with serious physical injuries, nightmares and intense anxiety. “Normal is gone,” said one Capitol Police commander.</li></ul>
+<h6><a><i>Read Washington Post Executive Editor Sally Buzbee’s letter about this project. </i></a></h6>
+<h6><a><i>Read former president Donald Trump’s response to the findings of The Post investigation.</i></a></h6>
+<h6><a><i>Here are some unanswered questions about the Jan. 6 attack</i></a><i>.</i></h6>
+<h6><a><i>Desperate, angry, destructive: How Americans morphed into a mob</i></a></h6>
+<div><div><div><b>A president’s provocation</b></div><div>President Donald Trump plots to subvert democracy and then stands aside as his supporters rampage the Capitol.</div></div></div>
+<div><div><div><b>A vice president’s test</b></div><div>Vice President Mike Pence breaks with Trump after weeks of pressure to overturn the results, and then becomes a target on Jan. 6 and in the months that follow.</div></div></div>
+<div><div><div><b>A</b> <b>rioter’s</b> <b>reckoning</b></div><div>Paul Hodgkins, the first person to be sentenced for a felony for his role in the siege, wrestles with his actions.</div></div></div>
+<div><div><b>A</b> <b>first responder’s trauma</b></div><div>After racing to help contain the violence, Capitol Police Capt. Carneysha Mendoza contends with chemical burns, nightmares and a sense that her world will never be the same.</div></div>

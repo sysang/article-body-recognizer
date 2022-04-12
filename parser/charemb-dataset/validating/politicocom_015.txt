@@ -1,0 +1,500 @@
+<a>breaks them down for Pros this morning</a>:
+<p><b>— No way: </b>GOP lawmakers are more likely to propose revoking Section 230 entirely — an idea championed by former President Donald Trump, but one that will largely remain little more than political grandstanding as Democrats remain in control.</p>
+<b>— Long shot: </b>One strategy that has worked in the past is crafting legislation that creates exceptions to Section 230. Tech policy watchers think
+<a>Yvette Clarke</a> (D-N.Y.), could become law. That bill would hold platforms liable for civil rights violations in targeted advertising.
+<b>— Feeling deja vu: </b>The Texas state legislature approved a measure late last week aimed at curbing perceived anti-conservative discrimination. (A similar law in Florida was
+<a>temporarily blocked by a federal judge</a> citing concerns over potential First Amendment violations; that ruling is under appeal.)
+<b>John Branscome,</b> a longtime expert on telecommunications policy, is leaving his post as a majority staff director for the Senate Commerce Committee, the panel told MT. He has been a
+<a>past contender</a> for a Democratic commissioner role on the FCC. …
+<b>Dominic Cussatt </b>is now the CIO and head of technology innovation for the Bureau of Intelligence and Research at the State Department. He was previously acting CIO at the Department of Veterans Affairs. …
+<b>Jessica Cole </b>is now interim CEO of U.S. Digital Response, and
+<b>Tina Walha </b>will join as director of public digital. Founding CEO
+<b>Raylene Yung </b>will join the Biden administration, working on tech modernization at the General Services Administration.
+<b>Matt Gerst </b>is now VP for legal and policy affairs and associate general counsel at the Internet Association. He previously was VP of regulatory affairs at CTIA. …
+<b>Troy Clair</b> is now director of public engagement at Instacart. He previously was head of strategic public policy partnerships and senior policy manager at Amazon, and is a Hill alum. …
+<b>Grace Diana</b> is now a senior manager of federal government relations at Samsung. She most recently was executive director of the National Science and Technology Council and is a Biden and Trump White House alum.
+<b>Meghan Pearce </b>has been promoted to federal policy manager at TechNet. …
+<b>Mina Hsiang </b>is now the administrator of the United States Digital Service, becoming the first woman and first Asian American to lead the agency. …
+<a>has been promoted</a> to CVP at Microsoft. She is the chief scientist for the company's experiences and devices division.
+<a>has been promoted</a> to VP of transformation, deputy general counsel and VP of strategic affairs at Granite Telecommunications. … Accounting Seed announced three new hires: former Salesforce director of technical consulting
+<b>Ryan Sieve</b> as CTO; former AOL analyst
+<b>Brian Wai</b> as VP of finance and accounting; and former Oracle manager
+<b>Barry Thompson</b> as partner relationship manager.
+<b>Josh Divine </b>is now chief counsel to Sen.
+<a>Josh Hawley</a> (R-Mo.). He most recently was a law clerk to Justice Clarence Thomas.
+<p><b>Something for everyone: </b>“The Strange Tale of the Freedom Phone, a Smartphone for Conservatives.” <a>More from NYT</a>. </p>
+<p><b>Stepping in: </b>“Google locks Afghan government accounts as Taliban seek emails,” <a>via Reuters</a>.</p>
+<p><b>ICYMI: </b>There’s a new Democratic majority at the National Labor Relations Board. That could mean a dramatic shift in power from employers to workers, <a>POLITICO’s Eleanor Mueller reports</a>. </p>
+<p><b>Pretty please: </b>A Texas city hopes to entice Samsung into building a $17 billion chip plant there with large property tax breaks, <a>Reuters reports</a>. </p>
+<b>ICYMI: </b>Apple announced Friday it would pause its rollout of new child safety features amid scrutiny from privacy advocates,
+<a>John reported for Pros</a>. The Electronic Frontier Foundation said the company
+<a>should drop the planned features altogether</a>.
+<p><b>SEE YOU TOMORROW! </b></p>
+<div> <header> <div> <h1>Technology</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <h3> <a>Big Tech’s Next Monopoly Game: Building the Car of the Future</a></h3> <p>From self-driving technology to entertainment and search, Google, Apple and Amazon are trying to gain exclusive access to your vehicle.</p> </header> </div>
+<div> <header> <div> <h1>Veterans Affairs</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Illnesses</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Data</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Department Of Veterans Affairs</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Chuck Grassley</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Centers For Disease Control</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <p> <a>Health Care</a></p> </header> <h2>VA stats show devastating Covid toll at vets’ nursing homes</h2> <p>The full impact of the coronavirus at some VA-financed, state-operated homes had been hidden for months.</p> </div>
+<p> In this April 28, 2020, file photo, flags and wreaths honor veterans on the grounds of the Soldiers' Home in Holyoke, Mass., where a number of people died due to Covid-19. | Rodrique Ngowi, File/AP Photo</p>
+<div> <div> <p> By JOANNE KENEN, DARIUS TAHIR and ALLAN JAMES VESTAL</p> <p><time>11/19/2021 04:45 PM EST</time></p> </div> </div>
+<b> </b>finally began making public how many U.S. veterans got sick and died of the virus in special nursing homes meant to ease their final days.
+<p>But even that partial toll is notably higher than the 1,394 resident deaths and 40 staff deaths POLITICO had been able to tally based on the more limited figures available last summer.</p>
+<p>For months, the VA has insisted it had no legal obligation to give a home-by-home breakdown on death and infection — although nothing had stopped the agency from doing so voluntarily, as some states have done. It changed that policy on Thursday.</p>
+<p>Citing pressure from Congress, the VA said on its website that state homes will have to report “COVID-19 related information” to both the VA and the CDC, and the veterans agency will in turn start making it publicly available week by week.</p>
+<p>“VA is now providing a downloadable spreadsheet with reports for individual SHs,” the agency said in its statement. “VA is also displaying a graph showing trends for cases and deaths among residents and staff.”</p>
+<p>Data from some of those homes was still missing from the spreadsheet on the VA website as of Friday, but the VA said it was working on verifying state data and plugging gaps.</p>
+<p>Under pressure, the VA changed its mind. The data appeared on the VA website Thursday. It also includes data on vaccination rates in state veterans homes.</p>
+<p>Thus, when Covid-19 first struck in early 2020, some homes in states with vigilant oversight, such as California, did reasonably well. Many other homes had devastating outbreaks.</p>
+<p>Following POLITICO’s report over the summer, Sen. Chuck Grassley (R-Iowa) on Aug. 30 <a>demanded that the Department of Veterans Affairs</a> address questions about the quality of care, infection control and oversight.</p>
+<b> </b>Linda Schwartz, a former state and federal VA official, tried to write a report with the Vietnam Veterans of America on the performance of states homes during the pandemic last year.
+<p>“We thought this was going to be an easy thing to do, but it wasn't,” she said. “VA has a wake-up call. They were thinking everything’s hunky-dory out there — and it’s not.”</p>
+<p><i>Joanne Kenen is the Commonwealth Fund Journalist in Residence at the Johns Hopkins School of Public Health.</i></p>
+<div> <header> <div> <h1>Health Care</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<article> <div> <header> <h3> <a>JJ's booster shown effective against Covid hospitalization</a></h3> <p>The results mark the first evidence of the effectiveness of such a vaccine boost while Omicron is circulating.</p> </header> </div> </article>
+<div> <header> <div> <h1>Apartheid</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Desmond Tutu</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Nelson Mandela</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Nobel Prize</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>South Africa</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Africa</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<section> <div> <header> <p> <a>Obituaries</a></p> </header> <h2>South Africa’s last apartheid president F. W. de Klerk dies</h2> <p>De Klerk died after a battle against cancer at his home in the Fresnaye area of Cape Town.</p> </div> </section>
+<p> It was de Klerk who in a speech to South Africa’s parliament on Feb. 2, 1990, announced that Mandela would be released from prison after 27 years. | Sasa Kralj/AP Photo</p>
+<div> <div> <p> By ASSOCIATED PRESS</p> <p><time>11/11/2021 07:02 AM EST</time></p> </div> </div>
+<p>JOHANNESBURG — F.W. de Klerk, who shared the Nobel Peace Prize with Nelson Mandela and as South Africa’s last apartheid president oversaw the end of the country’s white minority rule, has died at the age of 85.</p>
+<p>De Klerk died after a battle against cancer at his home in the Fresnaye area of Cape Town, a spokesperson for the F.W. de Klerk Foundation confirmed on Thursday. </p>
+<p>Amid gasps, several members of parliament members left the chamber as he spoke.</p>
+<p>Nine days later, Mandela walked free.</p>
+<p>Four years after that, Mandela was elected the country’s first Black president as Black South Africans voted for the first time.</p>
+<p>By then, de Klerk and Mandela had been awarded the Nobel Peace Prize in 1993 for their often-tense cooperation in moving South Africa away from institutionalized racism and toward democracy.</p>
+<p>“There is an element of uncertainty, obviously, with regard to everything which lies in the future,” de Klerk calmly told reporters on Feb. 10, 1990, after announcing that Mandela would be released the following day.</p>
+<p>“Sometimes, Mr. de Klerk does not get the credit that he deserves,” Nobel laureate and former archbishop Desmond Tutu told David Frost in an interview in 2012. </p>
+<p>De Klerk late in life would acknowledge that “separate but equal failed.”</p>
+<section> <div> <div> <div> <a>Continue to article content</a> </div> </div> </div> </section>
+<div> <div> <header> <h1> Mandela, anti-apartheid crusader, dies at 95 </h1> </header> </div> </div>
+<p>Nelson Mandela, South Africa’s first black president and anti-apartheid politician, died Thursday. He was 95. </p>
+<p> Mandela, who was seen as an international symbol for reconciliation and peacemaking, had been in poor health in recent years and was repeatedly hospitalized for a variety of ailments. </p>
+<a>public appearances</a> was at the World Cup men’s soccer final in Johannesburg in 2010.
+<p> ( <a>VIDEO: Nelson Mandela, a look back</a>) </p>
+<a>Nobel Peace Prize</a> in 1993 “for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa.”
+<p> ( <a>PHOTOS: Nelson Mandela’s life and career</a>) </p>
+<p> When Obama won the presidency in 2008, Mandela wrote to offer his congratulations, saying Obama’s “victory has demonstrated that no person anywhere in the world should not dare to dream of wanting to change the world for a better place.” </p>
+<p> ( <a>TIMELINE: A look at major events in Nelson Mandela’s life</a>) </p>
+<p> When Obama won the Nobel Peace Prize in 2009, he compared his accomplishments to a range of previous winners, including Mandela, and said that, by comparison, “my accomplishments are slight.” </p>
+<p> ( <a>Also on POLITICO: Nelson Mandela tribute: Al Sharpton speaks on leader’s death</a>) </p>
+<p> “If there is a country that has committed unspeakable atrocities in the world, it is the United States of America,” Mandela <a>said</a> in 2003 of U.S. foreign policy. </p>
+<p> “What I am condemning is that one power, with a president who has no foresight, who cannot think properly, is now wanting to plunge the world into a holocaust,” he said of the country under President George W. Bush’s leadership. </p>
+<p>However, Mandela had a close relationship with President Bill Clinton and was both a personal inspiration and political partner for him. </p>
+<p> “His image is as the world’s saint,” Clinton <a>said</a> of Mandela in an interview with ABC in March. “The truth is, he’s a saintly man, but he’s also a very tough and true politician. And a very, very loyal friend.” </p>
+<p> The trip also gave Mandela a chance to meet some of his kindred spirits in America, those who had battled for civil rights over the preceding decades. In Detroit, for instance, he enthusiastically greeted longtime activist Rosa Parks. </p>
+<p> Protests also became commonplace at the South African embassy in Washington. Parks took part in one such protest, and a number of lawmakers, including Connecticut Sen. Lowell Weicker, were among those arrested there. </p>
+<p> In 2009, the United Nations named July 18, Mandela’s birthday, “Nelson Mandela International Day.” The day honors Mandela’s legacy as well as encourages others to participate in public service. </p>
+<p> Mandela is survived by his wife Graca Machel, three children, Pumla, Zenani and Zindzi, and 17 grandchildren. </p>
+<p> <i>Jennifer Epstein contributed to this report.</i> </p>
+<div> <header> </header> </div>
+<div> <header> <h1> 'Absolutely. In a heartbeat': Cruz on potential 2024 White House bid</h1> </header> </div>
+<article> <header> <h2> <a>Next Video</a></h2> <h3> <a>McConnell hopes that Thune doesn't retire from Senate</a></h3> </header> </article>
+<div> <header> <h1> White House announces student loan payment freeze extension</h1> </header> </div>
+<article> <header> <h2> <a>Next Video</a></h2> <h3> <a>'Absolutely. In a heartbeat': Cruz on potential 2024 White House bid</a></h3> </header> </article>
+<div> <div> <div> <header> <h1> <span>June 2021</span> </h1> <p>Political cartoons from the desk of Matt Wuerker.</p> </header> </div> </div> </div>
+<div> <div> 2021-06-30T11:55-0400 2021-06-30T11:55-0400 </div> </div>
+<div> <div> 2021-06-29T11:33-0400 2021-06-29T11:34-0400 </div> </div>
+<div> <div> 2021-06-22T08:26-0400 2021-06-22T08:26-0400 </div> </div>
+<div> <div> 2021-06-21T01:33-0400 2021-06-21T01:33-0400 </div> </div>
+<div> <div> 2021-06-17T05:26-0400 2021-06-17T05:26-0400 </div> </div>
+<div> <div> 2021-06-15T04:30-0400 2021-06-15T04:30-0400 </div> </div>
+<div> <div> 2021-06-14T04:42-0400 2021-06-14T04:43-0400 </div> </div>
+<div> <div> 2021-06-08T05:42-0400 2021-06-08T05:42-0400 </div> </div>
+<div> <div> 2021-06-07T01:57-0400 2021-06-07T01:57-0400 </div> </div>
+<div> <div> 2021-06-02T05:24-0400 <span>2021-06-02T05:24-0400</span> </div> </div>
+<div> <div> <div> <header> <h1> <span>July 2021</span> </h1> <p>Political cartoons from the desk of Matt Wuerker. </p> </header> </div> </div> </div>
+<div> <div> 2021-07-30T11:01-0400 2021-07-30T11:01-0400 </div> </div>
+<div> <div> 2021-07-27T04:09-0400 2021-07-27T04:09-0400 </div> </div>
+<div> <div> 2021-07-09T04:17-0400 2021-07-09T04:17-0400 </div> </div>
+<div> <div> 2021-07-08T12:58-0400 2021-07-08T12:58-0400 </div> </div>
+<div> <div> 2021-07-06T12:24-0400 <span>2021-07-06T12:24-0400</span> </div> </div>
+<div> <div> <div> <header> <h1> <span>August 2021</span> </h1> <p>Political cartoons from the desk of Matt Wuerker. </p> </header> </div> </div> </div>
+<div> <div> 2021-08-31T12:49-0400 2021-08-31T12:49-0400 </div> </div>
+<div> <div> 2021-08-26T03:55-0400 2021-08-26T03:55-0400 </div> </div>
+<div> <div> 2021-08-23T10:49-0400 2021-08-23T10:49-0400 </div> </div>
+<div> <div> 2021-08-19T11:45-0400 2021-08-19T11:45-0400 </div> </div>
+<div> <div> 2021-08-17T12:42-0400 2021-08-17T12:42-0400 </div> </div>
+<div> <div> 2021-08-13T02:19-0400 2021-08-13T02:19-0400 </div> </div>
+<div> <div> 2021-08-11T04:42-0400 2021-08-11T04:42-0400 </div> </div>
+<div> <div> 2021-08-10T12:01-0400 2021-08-10T12:01-0400 </div> </div>
+<div> <div> 2021-08-04T05:27-0400 2021-08-04T05:27-0400 </div> </div>
+<div> <div> 2021-08-03T05:22-0400 2021-08-03T05:22-0400 </div> </div>
+<div> <div> 2021-08-02T11:02-0400 <span>2021-08-02T11:02-0400</span> </div> </div>
+<div> <div> <div> <header> <h1> <span>September 2021</span> </h1> <p>Political cartoons from the desk of Matt Wuerker. </p> </header> </div> </div> </div>
+<div> <div> 2021-09-30T11:23-0400 2021-09-30T11:23-0400 </div> </div>
+<div> <div> 2021-09-27T03:03-0400 2021-09-27T03:03-0400 </div> </div>
+<div> <div> 2021-09-22T09:01-0400 2021-09-22T09:01-0400 </div> </div>
+<div> <div> 2021-09-20T01:44-0400 2021-09-20T01:44-0400 </div> </div>
+<div> <div> 2021-09-14T10:57-0400 2021-09-14T10:57-0400 </div> </div>
+<div> <div> 2021-09-13T09:56-0400 2021-09-13T09:56-0400 </div> </div>
+<div> <div> 2021-09-10T11:52-0400 2021-09-10T11:52-0400 </div> </div>
+<div> <div> 2021-09-07T11:26-0400 2021-09-07T11:26-0400 </div> </div>
+<div> <div> 2021-09-03T03:36-0400 2021-09-03T03:36-0400 </div> </div>
+<div> <div> 2021-09-15T05:48-0400 <span>2021-09-15T05:48-0400</span> </div> </div>
+<div> <div> <div> <header> <h1> <span>October 2021</span> </h1> <p>Political cartoons from the desk of Matt Wuerker. </p> </header> </div> </div> </div>
+<div> <div> 2021-10-29T09:45-0400 2021-10-29T09:45-0400 </div> </div>
+<div> <div> 2021-10-26T02:42-0400 2021-10-26T02:42-0400 </div> </div>
+<div> <div> 2021-10-22T11:20-0400 2021-10-22T11:20-0400 </div> </div>
+<div> <div> 2021-10-21T12:19-0400 2021-10-21T12:19-0400 </div> </div>
+<div> <div> 2021-10-14T01:51-0400 2021-10-14T01:51-0400 </div> </div>
+<div> <div> 2021-10-13T02:09-0400 2021-10-13T03:37-0400 </div> </div>
+<div> <div> 2021-10-08T01:48-0400 2021-10-08T01:48-0400 </div> </div>
+<div> <div> 2021-10-06T11:31-0400 2021-10-06T11:31-0400 </div> </div>
+<div> <div> 2021-10-01T11:48-0400 <span>2021-10-01T11:48-0400</span> </div> </div>
+<div> <div> <div> <header> <h1> <span>November 2021</span> </h1> <p>Political cartoons from the desk of Matt Wuerker.</p> </header> </div> </div> </div>
+<div> <div> 2021-11-30T05:32-0500 2021-11-30T05:32-0500 </div> </div>
+<div> <div> 2021-11-24T12:22-0500 2021-11-24T12:22-0500 </div> </div>
+<div> <div> 2021-11-23T03:04-0500 2021-11-23T03:04-0500 </div> </div>
+<div> <div> 2021-11-22T04:49-0500 2021-11-22T04:49-0500 </div> </div>
+<div> <div> 2021-11-15T06:21-0500 2021-11-15T06:21-0500 </div> </div>
+<div> <div> 2021-11-10T05:25-0500 2021-11-10T05:25-0500 </div> </div>
+<div> <div> 2021-11-08T12:08-0500 2021-11-08T12:08-0500 </div> </div>
+<div> <div> 2021-11-04T09:27-0400 2021-11-04T09:27-0400 </div> </div>
+<div> <div> 2021-11-02T12:50-0400 2021-11-02T12:50-0400 </div> </div>
+<div> <div> 2021-11-01T06:40-0400 <span>2021-11-01T06:40-0400</span> </div> </div>
+<h1> <span>Best of 2021</span> </h1>
+<div> <div> 2021-12-22T10:54-0500 2021-12-22T10:54-0500 </div> </div>
+<div> <div> 2021-12-22T10:54-0500 <span>2021-12-22T10:54-0500</span> </div> </div>
+<header> <p> <a>legal </a></p> </header>
+<h2>Michael Avenatti convicted of trying to extort Nike</h2>
+<p>A jury deliberated charges of attempted extortion and honest services fraud in what prosecutors say was an attempt by Avenatti to extort up to $25 million from Nike.</p>
+<div> <p> Michael Avenatti. | Craig Ruttle, File/AP Photo </p> <div> <div> <p> By ASSOCIATED PRESS</p> <p><time>02/14/2020 02:30 PM EST</time></p> </div> </div> </div>
+<p>NEW YORK — Michael Avenatti, a lawyer who gained fame by representing a porn star in lawsuits against President Donald Trump, was convicted Friday of trying to extort sportswear giant Nike.</p>
+<p>But a steep fall from power-broker status was swift when Avenatti was arrested as he was about to meet Nike lawyers last March to press his demands for millions of dollars to conduct an internal probe of the Beaverton, Oregon-based shoemaker.</p>
+<p>Avenatti did not testify, but his lawyers said he was following the wishes of Franklin and an entertainment executive who advised him to be aggressive to force Nike to fire corrupt executives and fix its culture.</p>
+<p>Besides the extortion trial, Avenatti also faces an April trial in New York on charges that he defrauded Daniels of book proceeds and a May trial in Los Angeles on charges that he defrauded clients and others of millions of dollars.</p>
+<p>He remains held without bail. Federal prosecutors in Los Angeles succeeded last month in getting him locked up after saying he violated his $300,000 bail by moving money around illegally after his arrest.</p>
+<header> <p> <a>Agriculture </a></p> </header>
+<h2>The latest tug-of-war: Billions in farm subsidies and rural aid</h2>
+<p>The next farm bill may be Democrats’ best chance to scale up funding for agriculture programs that fight climate change. But time isn’t on their side. </p>
+<p> “Our focus has to be on making the funding for climate change solutions user-friendly and agri-friendly,” Rep. Jim Costa, seen here on Jan. 17, 2019 on Capitol Hill, said in an interview. | Andrew Harnik/AP Photo</p>
+<div> <div> <p> By MEREDITH LEE</p> <p><time>12/28/2021 04:30 AM EST</time></p> </div> </div>
+<p>Democrats on the House Agriculture Committee are eager to bolster money for climate and disaster relief in farm bill talks next year after extreme weather devastated farms across large swaths of the country.</p>
+<p>“Our focus has to be on making the funding for climate change solutions user-friendly and agri-friendly,” Rep. Jim Costa (D-Calif.) said in an interview.</p>
+<p>Democrats are aiming to secure support from agricultural groups that could then press Republicans to pay for farmer-friendly climate programs if the GOP takes control before the deadline.</p>
+<p>“I think this will be the first time we see some pretty impactful policies related to climate change,” Rep. <a>Ann Kuster</a> (D-N.H.) said.</p>
+<p>But Republicans have bristled at the Biden administration’s move to have USDA take a big role in fighting climate change, largely through programs that provide direct payments and grants to farmers to voluntarily adopt greener practices.</p>
+<p>“I don't think anyone can determine whether that's appropriate or not without going through a transparent process on the farm bill,” Thompson said.</p>
+<b> </b>Biden to decide whether he would sign or veto the final legislation.
+<p>“I think there's going to be a debate about if there is a way that we can tweak the existing programs so that ad hoc relief is not necessary to quite the same extent,” said Rep. Dusty Johnson (R-S.D.).</p>
+<p>In 2020, only 14 percent of all farms participated in federal crop insurance, according to <a>new data from USDA’s Economic Research Service</a>.</p>
+<p>“We've got to get risk management right,” Bustos said. “That will be critical.”</p>
+<p>Bustos plans to retire in 2023, when Republicans are on track to flip the chamber and take over leading the committee as well as the farm bill talks.</p>
+<p>Lawmakers will also have to decide how much in federal subsidies they provide to farmers and ranchers after 2021 farm incomes jumped significantly, according to a <a>recent USDA forecast</a>.</p>
+<p>Gains in commodity prices have pushed estimated farm incomes to their highest levels in close to a decade. The agency now estimates 2021 net farm incomes will hit $116.8 billion this year, up a stunning 23 percent from 2020.</p>
+<p>That jump, along with a significant decrease in the amount of federal subsidies in 2020, could bolster arguments to pull back farm bill spending.</p>
+<p>Some Republicans, like Sen. Mike Braun of Indiana, are especially interested in cutting back the farm bill as Democrats’ climate and social spending bill hangs in the balance.</p>
+<p>“I think it puts in jeopardy any of the other normal appropriations,” Braun said.</p>
+<p>But despite the significant jump in farm incomes, many lawmakers on the Agriculture committees said they are wary of slashing federal assistance amid the pandemic that has led to major disruptions across the industry.</p>
+<p>“You have to look beyond the ebbs and flows of the very cyclical commodity prices and not get distracted by that,” Sen. Tina Smith (D-Minn.) said.</p>
+<p>Sen. John Boozman (R-Ark.), the ranking member on the Senate Agriculture Committee, said he’s hesitant to pull back on federal subsidies as rising inflation and supply chain bottlenecks continue to strain producers.</p>
+<p>“When you look at the price of fertilizer, when you look at the price of diesel and all these kinds of things, I think we're going to see significant increases next year also,” Boozman said.</p>
+<header> <p> <a>Congress</a></p> </header>
+<h2>Say it ain't Joe: Manchin's not the only big hurdle left for Biden's megabill</h2>
+<p>The Senate parliamentarian, a little-known nonpartisan rules referee, still has the power to ax big portions of the $1.7 trillion social spending plan.</p>
+<p> The parliamentarian’s final rulings will almost certainly change vital provisions in the version of the bill that's likely headed for a doomed Senate vote. | J. Scott Applewhite/AP Photo</p>
+<div> <div> <p> By JENNIFER SCHOLTES and CAITLIN EMMA</p> <p><time>12/24/2021 07:00 AM EST</time></p> </div> </div>
+<p>Democrats are still courting the one person powerful enough to make or break President Joe Biden’s $1.7 trillion social spending bill — and she doesn’t hail from West Virginia.</p>
+<a>are still meeting</a> with the Senate parliamentarian — the rulebook gatekeeper whose opinion, like Manchin's, can single-handedly crush pieces of the majority party’s vision before they ever reach the floor.
+<a>immigration reform plan doesn’t jibe</a> with Senate rules for the special process the majority party is using.
+<p>“It is a very clumsy way to do anything,” Sanders said. “But it's the only tool that we have if we're going to pass something significant when you have an entire Republican Party in opposition.”</p>
+<p>After the most recent immigration ruling, Senate Judiciary Chair<b> </b>Dick Durbin (D-Ill.) said his party is “considering what options remain.”</p>
+<p>"Seems like we have to learn the lesson over and over again — that there are limits in reconciliation, and that it should be the last resort instead of the first resort,” said Sen. Roy Blunt (R-Mo.).</p>
+<p>In November 2017, the parliamentarian sent the GOP scrambling to rewrite their tax bill after <a>tossing a crucial provision</a> designed to win over Republican holdouts and prevent hundreds of billions in deficit spending.</p>
+<p>Sen. John Neely Kennedy (R-La.) said this month that the parliamentarian’s feedback during the GOP's anti-Obamacare push was illuminating for lawmakers in both parties as they tried to gauge the limitations of budget rules.</p>
+<p>“Particularly when we were addressing health care, all of us learned a lot about it,” said Kennedy, a newly elected senator in 2017 when his party began pushing the Obamacare repeal legislation and tax overhaul.</p>
+<p>“It's crazy that we have a system where we have this carve-out for things that relate to the budget,” said Sen. Chris Van Hollen (D-Md.). “And the parliamentarian becomes the judge and jury.”</p>
+<p><i>Burgess Everett, Alice Miranda Ollstein, Michael Stratford and Marianne Levine contributed to this report.</i></p>
+<header> <p> <a>Finance</a></p> </header>
+<h2>Omicron triggers business outcry for Washington lifeline</h2>
+<p>The lobbying push poses a new challenge for the Biden administration and congressional leadership heading into the 2022 midterm elections.</p>
+<p> A sign on the door of a coffee shop in Manhattan asks for proof of vaccination and the wearing of a mask on Dec. 13. | Spencer Platt/Getty Images</p>
+<div> <div> <p> By ZACHARY WARMBRODT</p> <p><time>12/27/2021 04:30 AM EST</time></p> </div> </div>
+<p>The Omicron surge is forcing pandemic-battered businesses to once again scale back and close their doors, energizing a lobbying push for billions of dollars of new aid for struggling employers and their workers.</p>
+<p>“If Congress finds it cannot focus on the Build Back Better Act, that creates an opening for them to look a little more local to their districts,” said Sean Kennedy, the National Restaurant Association's executive vice president for public affairs.</p>
+<a>in a bipartisan letter to Hill leaders</a> on Dec. 17. “Many of these small business owners have taken on extraordinary debt while they wait for much-needed federal assistance. We must help them before it is too late.”
+<p>The Biden administration has yet to join the push as part of its response to Omicron.</p>
+<p>The new push for aid faces several potential political challenges.</p>
+<p>It would likely be aimed at specific industries if it gained traction, unlike the Paycheck Protection Program, which made forgivable loans available to a wide range of sectors.</p>
+<p>The small business lobbying coalition has splintered around the issue, with key groups such as the International Franchise Association instead focusing their efforts on the labor shortage and the vaccine mandate.</p>
+<p>"Everyone's waiting to see what Omicron does or leads to," said Kevin Kuhlman, vice president of federal government relations at the National Federation of Independent Business. "A month from now may look very different."</p>
+<p>"The holiday season is where they are making the revenue that allows them to survive the lean winter months when outdoor dining isn't an option and people are doing less vacation travel," said Kennedy with the restaurant association.</p>
+<p>“Congress kept telling us to wait, but America’s gyms can’t wait anymore,” she said.</p>
+<p>Business groups are eyeing legislation being drafted by Senate Small Business Chair Ben Cardin (D-Md.) and Sen. Roger Wicker (R-Miss.) as the most likely vehicle for further assistance.</p>
+<p>Sources familiar with discussions around the bill said it is likely to include more funds for restaurant grants and targeted aid for other specific industries, including potentially gyms, minor league baseball teams and border businesses.</p>
+<p>Determining which industries are in and out will be a key dynamic determining whether the bill can attract the 60 Senate votes needed to overcome a potential filibuster.</p>
+<p>Polmar, with the Independent Restaurant Coalition, said her group plans to use Congress's holiday break as an opportunity for restaurant owners to make their case to lawmakers while they’re back home in their districts.</p>
+<p>“We’re not going to sit quietly,” she said. “Our grassroots advocacy network is over 100,000-strong. They’re more fired up than ever.”</p>
+<header> <p> <a>Legal </a></p> </header>
+<h2>2 Georgia poll workers sue Giuliani, OAN over election conspiracy theories</h2>
+<p>Ruby Freeman and Shaye Moss, her daughter, worked as poll workers counting ballots at State Farm Arena in Fulton County, Ga., during the November 2020 election.</p>
+<p> Former NYC Mayor Rudy Giuliani speaks during an interview after a news conference in support for the people of Cuba on July 26 at the Versailles Cuban restaurant in the Little Havana neighborhood of Miami. | Wilfredo Lee/AP Photo</p>
+<div> <div> <p> By MAX TANI, JOSH GERSTEIN and ZACH MONTELLARO</p> <p><time>12/23/2021 06:58 PM EST</time></p> </div> </div>
+<p>Trump and his allies, who were desperate to find a way to overturn his loss in Georgia last year, quickly spread a litany of conspiracy theories about a rigged election in the state. </p>
+<a> clip from OAN in early December</a>, where a woman falsely alleged that a poll worker was pulling ballots out of a suitcase to tip the election toward Joe Biden. The
+<a>clip was cut from a state legislative hearing</a>, where a team of attorneys for Trump, led by Giuliani, gave a presentation.
+<p>Georgia election officials quickly sought to knock that conspiracy down. They were not suitcases full of falsified ballots, but ballot containers that were routinely used.</p>
+<a>tweeted at the time</a>. “Shows normal ballot processing.”
+<p>Election officials in the state also went through the <a>longer tape with a local TV station</a> the day after the hearing in an effort to debunk the false claims.</p>
+<a>mentioned Freeman by name</a> in the now-infamous call he had with Georgia Secretary of State Brad Raffensperger in early January, where he tried to
+<a>convince the election official to overturn his loss in the state</a>.
+<a>told the then-president on the call</a>.
+<p>Trump had also mentioned Freeman in a statement in April.</p>
+<a>not return home for months at the recommendation of the FBI</a>.
+<p>Charles Herring did not immediately respond to multiple requests for comment. </p>
+<a>campaign of lies</a>” by continuing to push debunked conspiracy theories about the duo for months.
+<p>OAN has faced a series of legal broadsides over its coverage of the 2020 election.</p>
+<div> <div> <div> <h1><a><b/> <b/> POLITICO Magazine</a></h1> </div>  </div> </div>
+<div> <header> <div> <h1>Stories tagged under "Obituaries"</h1> </div> </header> </div>
+<section> <div> <header> <p> <a>the fifty</a></p> </header> <h2>Republicans eye new front in education wars: Making school board races partisan</h2> <p>“We’re out there trying to elect good conservatives,” says one Florida lawmaker. </p> </div> </section>
+<p> People attend a special Board of Education meeting on mask mandates for students and staff in Kalamazoo County Schools in Schoolcraft, Mich. | Matthew Hatcher/Getty Images</p>
+<div> <div> <p> By ANDREW ATTERBURY and JUAN PEREZ JR.</p> <p><time>12/29/2021 04:30 AM EST</time></p> </div> </div>
+<p>“When you have a leader like DeSantis come out and say that there should be no lockdowns, if you have a Republican elected official, you would think they would probably give him the consideration and probably go along with what he asked.”</p>
+<p>“There’s a major underestimation nationwide, even on the political side, that these parents are really frustrated,” said Bridget Ziegler, a Sarasota County school board member who is also the wife of the Florida GOP vice chair.</p>
+<a>in August</a>. “But such a change would be an uphill battle.”
+<a>Tennessee’s law</a>, signed by Republican Gov. Bill Lee
+<a>in November</a>, allows local political parties to put forward candidates that are openly Republican, Democrat or Independent.
+<a>approved a resolution</a> that said partisan elections could “create division among the board and shift the focus away from the needs of the students.”
+<a>this month announced</a> the party’s plans to boost conservative candidates in nonpartisan school board and municipal elections. The party’s vice-chair described the effort as “one of the most consequential initiatives our party can undertake.”
+<p>Making school board races partisan could make an already heated political landscape even more contentious, said Martin West, a professor of education at the Harvard Graduate School of Education.</p>
+<p>While partisanship could rally the base and drive turn out, it also could ratchet up the polarization that’s already at a fever pitch.</p>
+<p>“I do think party labels would produce more informed voters,” West said. “But, at the same time, it would likely accelerate emerging trend of nationalization of local education politics.”</p>
+<p>West said it doesn’t matter how the 2021 elections are interpreted because leaders in both parties have already accepted the narrative that education was key and are acting upon that.</p>
+<h3>Florida’s education battle</h3>
+<p>State Sen. Annette Taddeo, a Democrat<b> </b>who is running for governor, previously told state senators that she’s worried making school board races partisan could disenfranchise voters.</p>
+<p>“You can bet all day long that you’re going to see more people voting in school board races,” Ziegler said.</p>
+<header> <p> <a>Foreign Policy</a></p> </header>
+<h2>On the Horn of Africa, a tiny 'country' has Congress' ear</h2>
+<p>Somaliland's delegation swept through Washington, promising to support Taiwan and ditch China. All it wants is a little recognition.</p>
+<p> Taiwanese Foreign Minister Joseph Wu (right) and his then-counterpart from Somaliland, Yasin Hagi Mohamoud, shake hands after signing an agreement in Taipei on Feb. 26, 2020. | Taiwan Ministry of Foreign Affairs via AP</p>
+<div> <div> <p> By PHELIM KINE</p> <p><time>12/21/2021 03:07 PM EST</time></p> </div> </div>
+<p>As China floods Africa with billions of dollars in development aid, massive infrastructure investment and even talk of a new military base, a tiny East African “country” is offering the U.S. a deal that it says could counter China’s advance. </p>
+<p>And Congress is listening.</p>
+<p>Somaliland brought solid anti-China credentials to those meetings: it slammed the door on aid and cooperation with Beijing in July 2020 when it inked a <a>diplomatic relations agreement</a> with Taiwan. </p>
+<p>That move infuriated the Chinese government because it marked a rare victory in Taiwan’s battle against Beijing’s diplomatic strangulation of the self-governing island. </p>
+<a>port of Berbera</a>, into which Dubai’s DP World has
+<a>poured $442 million</a> to build a new container cargo facility, would allow for naval power protection in the Middle East and East Africa. That’s a serious enticement given U.S. Africa Command’s
+<a>security concerns</a> about its base in neighboring Djibouti: a Chinese naval installation just a few miles away was stood up in 2017.
+<p>The staffers returned home convinced of Somaliland’s value to the U.S. in countering China’s regional influence, said Piero Tozzi, senior foreign policy adviser for Smith.</p>
+<a>indebtedness of Djibouti</a> and the transfer of control of
+<a>Do not travel</a>” classification for Somalia, which is wracked by
+<a>violence from</a> the al Qaeda-affiliated extremist group al-Shabab. That classification warns of hazards, including “car bombs, suicide bombers, individual attackers, and mortar fire” that are unknown in Somaliland.
+<p>“We are a safe country free of al-Shabab and al Qaeda terrorists,” Kayd said — an <a>opinion echoed</a> by the Lonely Planet travel guide company.</p>
+<h3>China's superpower status in Africa</h3>
+<a>Forum on China-Africa Cooperation</a>. Chinese
+<a>totaled $4.2 billion</a> in 2020 alone. Chinese President Xi Jinping pledged in December 2021 to increase the value of African exports to China
+<a>$300 billion annually</a> within three years
+<b> </b>from a current level of
+<a>Beijing denies</a>. China has also expanded military links in Africa through its
+<a>naval port</a> in Djibouti, a new base planned for
+<a>Equatorial Guinea</a> and through a sharp increase in
+<a>training programs</a> for African military personnel since 2006.
+<a>Cameroon, Ghana and Tanzania</a>, to redouble efforts to seek independence.
+<a>bilateral relations deal</a> that opened the door for Taiwanese investment and assistance and allowed both territories to open representative offices in each other’s capitals. A
+<a>furious Beijing</a>, which claims Taiwan as part of its territory, reportedly sought to
+<a>derail that agreement</a> by offering Somaliland’s government sweeteners, including investment in airport and road projects.
+<p>But Somaliland stood firm with Taiwan and its offer of less <a>capital-intensive investments</a> in “fisheries, agriculture, energy, mining, public health [and] education.”</p>
+<a><u>50 years</u></a> of experience in navigating international relations without a United Nations’ seat and with few — and often unreliable — diplomatic allies.
+<a>boosting bilateral ties</a> and inviting Taiwan representatives to President Joe Biden’s
+<a>wider and deeper relations</a> with other east African nations. Taiwan hopes such ties can provide some relief from Beijing’s efforts to
+<a>diplomatically isolate</a> the self-governing island. Taiwan’s diplomatic allies around the globe have shrunk to just 14 since
+<a>Nicaragua switched ties</a> to China on Dec. 9; its sole other ally on the continent is the
+<a>monarchy of Eswatini</a> in southern Africa, population 1.2 million.
+<p>“It took a while for people to realize the threat that China represents in Africa as we move into the 21st century … the United States is coming to this game late,” Nagy said.</p>
+<div> <section> <div> <header> <p> <a>Foreign Policy</a></p> </header> <h2>New law to combat forced labor in China sparks enforcement debate</h2> <p>Congress “brought down the hammer” with Uyghur Act, U.S. businesses complain.</p> </div> </section> </div>
+<p> Members of the East Turkistan National Awakening Movement protest China's treatment of Uyghurs near the State Department on Wednesday in Washington, D.C. | Alex Brandon/AP Photo</p>
+<div> <div> <p> By PHELIM KINE and GAVIN BADE</p> <p><time>12/23/2021 02:15 PM EST</time></p> </div> </div>
+<a>signed a bill</a> to curb forced labor in China that U.S. business groups and trade experts warn will inflict unnecessary pain on U.S. firms and punish legitimately employed Uyghur Muslims in China’s Xinjiang region.
+<a>forced labor practices</a> in Xinjiang. The U.S. government has concluded that the practices are among abusive state policies targeting Uyghurs that
+<a>Weibo social media account</a> for a recent letter it sent to suppliers instructing them to stop sourcing labor and products from Xinjiang.
+<p>“If all of [U.S.] business withdraws from Xinjiang, Uyghurs that are currently being exploited there are going to be driven into poverty … there's going to be a potential humanitarian crisis,” Richmond said.</p>
+<p>The White House, which applauded the passage of the bill, had signaled Biden’s intention to sign it swiftly.</p>
+<a>Jen Psaki said</a> last week.
+<a>weaken the legislation</a> due to concerns about its impact on their supply chains.
+<p>A Dec. 28 statement on <a>Coca-Cola’s website</a> references those allegations, stating that the company “previously sought to explain to congressional staff the process and due diligence that we exercise over our supply chain.”</p>
+<p>An Apple spokesperson earlier this year sought to <a>rebut those allegations</a> by stating, “We abhor forced labor and support the goals of the Uyghur Forced Labor Prevention Act.” </p>
+<p>Nike has responded by insisting it has “not lobbied against the Uyghur Forced Labor Prevention Act or any other proposed forced labor legislation,” according to <a>an undated statement</a> on its website. </p>
+<p>“If you're a company who is manufacturing in that area, you’re going to need to prove that slaves didn't make it. The presumption is on you,” <a>Rubio said</a> after the bill’s Dec. 16 Senate passage.</p>
+<p>Some business group representatives are bitter that traditional pro-business GOP lawmakers who spearheaded the bill’s passage disregarded industry concerns about its potential collateral damage.</p>
+<a>dismissed it</a> as “political manipulation and economic bullying in the name of ‘human rights.’” China has China has consistently denied reports of genocide in Xinjiang.
+<p>Companies trying to purge their supply chains of forced labor have faced pushback from Chinese suppliers, who fear running afoul of Chinese law that bars its companies from enabling foreign sanction regimes. </p>
+<p>Mojica and other trade lawyers say the law’s compliance requirements will most seriously impact small- and medium-sized U.S. firms that lack in-house expertise to reliably map complex overseas supply chains. </p>
+<a>withhold release order</a> that freezes the shipment — sometimes for a period of months — until the importer provides proof of a forced-labor free supply chain.
+<p>“We have more transparency and visibility into the cargo security world of how to prevent bombs in a box coming over here than we do in the forced labor [prevention] world,” Laney said.</p>
+<a>maximum 180-day process</a> where the U.S. government’s
+<a>Forced Labor Enforcement Task Force</a>, in consultation with the director of National Intelligence and the Department of Commerce, must publish a plan for the law’s enforcement.
+<p>For companies currently befuddled by forced labor requirements, Mojica said the bill could actually make compliance easier. </p>
+<p>Enforcement standards to prevent the importation of products produced with forced labor in Xinjiang could potentially be modeled on existing mechanisms that block counterfeit goods and materials intended for terrorist attacks. </p>
+<p>“We've got to be careful when we sit down with Customs and Border Protection and create these compliance regimes so it doesn't put a lot of these companies out of business,” Laney said.</p>
+<header> <p> <a>Defense</a></p> </header>
+<h2>Russian buildup near Ukraine gains steam, new satellite images show</h2>
+<p>The release of the images came hours after Moscow and Washington traded warnings over what might come next in the tense standoff.</p>
+<p> Several Russian battle groups, including tanks, armored personnel carriers, artillery and a long-range multiple rocket unit is deployed in the Pogonovo Training Area outside of Voronezh, Russia, on Nov. 26. | Satellite image/Maxar Technologies</p>
+<div> <div> <p> By PAUL MCLEARY</p> <p><time>12/23/2021 05:09 PM EST</time></p> </div> </div>
+<p>Russia is stationing more tanks, mobile rocket artillery systems and advanced short-range ballistic missile batteries near the border with Ukraine, according to new satellite images released on Thursday.</p>
+<p>Over 100,000 Russian troops have massed in an arc along Ukraine’s borders, from Crimea in the south to its northeast frontier, complete with enough equipment and logistical backbone to make a quick push into Ukraine if so ordered.</p>
+<p>The remarks were the clearest to date that the Biden administration is considering moving troops and equipment around Europe to defend its easternmost NATO allies.</p>
+<p>During his annual year-end press conference Thursday, Russian President Vladimir Putin continued to build on the rhetoric he and his advisers used earlier in the week in a series of speeches at the Ministry of Defense headquarters.</p>
+<p>“It was the United States that came with its missiles to our home, to the doorstep of our home,” he said on Thursday. “And you demand from me some guarantees. You should give us guarantees. You! And right away, right now.”</p>
+<p>Russia last week sent the U.S. and NATO a framework treaty, demanding the alliance pull back from bases in former satellite countries that are now NATO allies. Brussels and Washington flatly rejected the terms.</p>
+<p>Walking away from Ukraine and shuttering bases in NATO countries close to Russia are proposals “we will never agree to,” the administration official said.</p>
+<p>Putin's comments at his press conference were aimed at a domestic audience, pressing the notion that Russian soil is being occupied by unfriendly Western regimes.</p>
+<p>Lands that were historically Russian were carved out after the Soviet breakup and handed to Ukraine, Putin said, something Moscow could live with as long as Ukraine remained neutral.</p>
+<p>Pentagon spokesperson John Kirby acknowledged this week that a small team of American military officials recently visited Kyiv to assess the country’s air and missile defense needs, as Washington considers another round of military assistance.</p>
+<p>Whatever the U.S. might try to provide in the near-term might be too late if Russia launches an invasion in the next several months, however.</p>
+<div> <header> <div> <h1>Foreign Policy</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<section> <div> <header> <p> <a>2021 Redistricting</a></p> </header> <h2>California’s new congressional map boosts Democrats</h2> <p>The final maps were approved late Monday by the state’s independent redistricting commission. </p> </div> </section>
+<p> Rep. Katie Porter’s district will be a tad friendlier in the 2022 midterms under the new map. | Chris Carlson/AP Photo</p>
+<div> <div> <p> By JEREMY B. WHITE</p> <p><time>12/21/2021 12:15 AM EST</time></p> <p>Updated: <time>12/21/2021 12:28 AM EST</time></p> </div> </div>
+<p>California has a new congressional map, and the lines bolster Democrats' uphill quest to maintain their minuscule House majority.</p>
+<p>Two long-serving House Republicans, Reps. Ken Calvert and Tom McClintock, could see their seats become more challenging, although not necessarily enough to push them into battleground territory.</p>
+<p>“The big challenge for Democrats this cycle was going to be that the loss of a seat was almost assuredly going to come from a Democratic area,” Mitchell said.</p>
+<header> <p> <a>Elections</a></p> </header>
+<h2>Dems face off in Maryland primary — in an ‘incredibly Republican year’</h2>
+<p>Looming over the gubernatorial primary is a political environment likely benefiting Republicans — amplified by the GOP’s victory in neighboring Virginia last month. </p>
+<p> “This is a potentially historic election,” said former Education Secretary John King, who is a Democratic candidate for governor. | Mark Wilson/Getty Images</p>
+<div> <div> <p> By BRAKKTON BOOKER and ZACH MONTELLARO</p> <p><time>12/24/2021 07:00 AM EST</time></p> <p>Updated: <time>12/26/2021 08:34 PM EST</time></p> </div> </div>
+<p>Maryland could be the best opportunity for Democrats to flip a governorship anywhere in the country next year. But first, the party has to navigate a crowded, diverse and potentially expensive primary to find their nominee.</p>
+<p>Five of nine Democrats who have declared as candidate to succeed term-limited GOP Gov. Larry Hogan are people of color, bolstering the state’s chances it could elect its first non-white man as governor.</p>
+<p>“This is a potentially historic election,” former Education Secretary John King said in an interview with POLITICO. “There’s a huge opportunity for great representation and leadership in Maryland and nationally.”</p>
+<p>The demographics of the state are a key factor: Maryland is among the most racially diverse states in the country, and white people make up only roughly 4-in-10 voters in the Democratic primary.</p>
+<p>According to the <a>Census Bureau’s Diversity Index</a> — a formula that measures the probability that two people chosen randomly will be from different ethnic or racial groups — Maryland saw the largest gain of any state in the U.S. since 2010.</p>
+<p>Moore, the only one of the Democratic candidates who lives in Baltimore, thinks the party should lean into the “history-making” nature of its field.</p>
+<p>“It's not lost on me that we've only had two African Americans elected as governor in this country's history,” Moore said.</p>
+<p>Yet recent history has not been kind to Maryland Democratic gubernatorial candidates, either. After Martin O’Malley scored back-to-back terms in 2006 and 2010, Democrats lost subsequent governor elections to Hogan.</p>
+<a>Anthony Brown</a>, who was O’Malley’s lieutenant governor and seen as the favorite to be the state’s first Black governor.
+<p>“In 2014, we were coming off of an eight-year run of almost annual tax increases,” said Brown, who is now a member of Congress and is running for state attorney general in 2022.</p>
+<p>While he feels this was the right approach in the years immediately following the great recession, Brown says a tax weary electorate took a chance on Hogan, who painted himself as a Republican businessman who would roll back taxes.</p>
+<p>“So a personal narrative is going to be important in 2022. But we're also going to have to make sure that we are speaking directly to issues that Marylanders are focused on,” Brown said. “And that means speaking to pocketbook issues.”</p>
+<p>Two Democratic candidates who came up short in previous gubernatorial bids say they’ve also learned from past races.</p>
+<p>“The idea that somebody … that might come out of the Democratic primary that’s never held a political office and then try to take on the Hogan machine in an incredibly Republican year is myopic,” he said.</p>
+<p>Baker, who finished second in the Democratic primary in 2018, is also leaning on his tenure in government as the selling point this cycle. He ticked off three issues around which he’s framing his campaign: health care, crime and education.</p>
+<p>“I tried to run a race where everyone told me — I was in the lead at that time — and everyone said, 'Here's what you do: You play it safe.' And that's a mistake," Baker said.</p>
+<a> declined to back Jealous</a> against Hogan, whom he has praised — and any potential blowback this year.
+<a> a digital ad this month</a> challenging national Republicans’ characterizations that critical race theory is bigoted and racist.
+<p>“Some far-right politicians want to erase my story,” says King says in the ad, who can trace his family lineage back to slavery in Gaithersburg, in now-suburban Montgomery County.</p>
+<p>Perez — the former DNC chair who also served as both the federal and state labor secretary and recently secured the endorsement of House Speaker and Baltimore native <a>Nancy Pelosi</a> — says he plans to lean into unions for support.</p>
+<p>"I'm proud of the support I've had in labor," Perez said, citing the role public- and private-sector unions played in helping New Jersey Gov. Phil Murphy secure a second term last month, even as Democrats lost Virginia.</p>
+<p>The race also includes two other candidates: Nonprofit executive Jon Baron; and Jerome Segal, who unsuccessfully tried to primary Democratic Sen. <a>Ben Cardin</a> in 2018, both of whom are white.</p>
+<p>Maryland’s demographic shifts may be a boon for Democrats heading into 2022. The state saw jumps in its Asian and Hispanic populations, while the white population fell to 47 percent in 2020, down from 55 percent a decade earlier.</p>
+<p>Black residents still make up the largest minority population, but their 29 percent of the state population remained unchanged from the 2010 census.</p>
+<p>For Maryland Republicans seeking to retain the control of the governor’s mansion, the state’s Black population holding steady could be seen as a positive.</p>
+<p>Mileah Kromer, the director of the Sarah T. Hughes Center for Politics at Goucher College which conducts polling in the state, says that Hogan was able to attract about 30 percent of Black voters in 2018.</p>
+<p>But it's not clear his brand of moderate Republicanism is transferable to other candidates.</p>
+<p>“There has not been any evidence of Hogan coattails in the state,” Kromer told . “So that leads to the discussion of whether Hogan is a unique entity and whether that sort of brand can be run on again.”</p>
+<p>Republican Kelly Schulz, the state commerce secretary, could make history of her own by becoming the first woman to serve as Maryland governor.</p>
+<p>“My campaign is the only campaign that is going to continue to move Maryland in the direction that Marylanders are very, very comfortable with right now."</p>
+<div> <header> <div> <h1>Susannah Luthi</h1> </div> <ul> <li> <a>Follow @SusannahLuthi</a> </li> </ul> </header> </div>
+<p>Susannah Luthi covers tech influence on Sacramento’s politics. She previously reported for POLITICO in D.C., where she wrote about health care industry lobbying in Congress as well as health care litigation in federal courts. </p>
+<div> <div> <div> <h1> <a><b/> California </a></h1> </div> </div> </div>
+<section> <div> <div> <div> Continue to article content </div> </div> </div> </section>
+<div> <div> <header> <h1> California education official resigns after working from Texas </h1> </header> </div> </div>
+<p>A second high-ranking California Department of Education official has resigned because she lives out of state.</p>
+<p>Pamela Kadakia served as a CDE equity project manager but resides in Texas, based on public records and her LinkedIn profile.</p>
+<a>POLITICO reported that his appointment may have violated state policy</a> decreeing that state employees must live in California unless their jobs require them to live elsewhere, such as those lobbying the federal government in Washington.
+<p>CDE confirmed Kadakia’s departure in a statement Thursday. “We sought to ensure that all our personnel were in line with the new guidance,” the department said in a statement. “In doing so, we accepted Ms. Kadakia’s resignation.”</p>
+<p>Kadakia’s LinkedIn profile shows she pursued her doctorate in education at Texas AM University from 2019 to 2021. Prior to joining CDE, she taught for more than four years at Richland College in Dallas, Texas.</p>
+<p>Not only are California state employees generally prohibited from living out of state, but they are <a>banned from traveling to Texas</a> and 17 other states deemed to have discriminatory laws.</p>
+<p>Kadakia did not respond to an email request for comment.</p>
+<p>Lee's resignation reverberated around the state amid concerns that his hiring process smacked of favoritism and that his East Coast residency should make him ineligible for the highly paid post.</p>
+<p>Lee was initially hired in 2020 by the California Department of Education's nonprofit affiliate, but moved into a department position this summer with a salary range between $161,400 and $179,832.</p>
+<p>In an 18-page resume, Lee seemingly had no prior experience in California schools or relationships with school districts. </p>
+<div> <div> <div> <h1> <a><b/> New York </a></h1> </div> </div> </div>
+<div> <header> <div> <h1>Marie J. French</h1> <p>Reporter</p> </div> <ul> <li> <a>Follow @m_jfrench</a> </li> </ul> </header> </div>
+<p>A graduate of the Missouri School of Journalism, Marie French has also worked for Bloomberg News and the Orange County Register.</p>
+<div> <div> <header> <h1> Westchester DA won't pursue criminal charges against Cuomo </h1> </header> </div> </div>
+<p>ALBANY, N.Y. — Disgraced former New York Gov. Andrew Cuomo will not face criminal charges for alleged sexual harassment that took place in Westchester County, the local district attorney announced on Tuesday.</p>
+<p>Cuomo resigned in August after the release of a report by state Attorney General Tish James concluding that he had harassed 11 women.</p>
+<section> <div> <header> <p> <a>Legal</a></p> </header> <h2>Trump spokesperson sues Jan. 6 committee over financial records</h2> <p>Taylor Budowich is trying to block disclosure of information from J.P. Morgan Chase Bank.</p> </div> </section>
+<p> The current spokesperson for former President Donald Trump sued the House committee investigating the Jan. 6 Capitol riots. | Brandon Bell/Getty Images</p>
+<div> <div> <p> By DAVID COHEN</p> <p><time>12/24/2021 08:55 PM EST</time></p> <p>Updated: <time>12/24/2021 09:05 PM EST</time></p> </div> </div>
+<p>Taylor Budowich, current spokesperson for former President Donald Trump, on Friday sued the House committee investigating the Jan. 6 Capitol riots, trying to block it from gaining access to his financial records.</p>
+<p>“The Select Committee wrongly seeks to compel Mr. Budowich’s financial institution to provide private banking information to the Select Committee that it lacks the lawful authority to seek and to obtain,” Budowich’s suit argued.</p>
+<p>He filed the lawsuit in the United States District Court for the District of Columbia along with Conservative Strategies, Inc., which is described as “a California for profit corporation.” Budowich is identified in the filing as its “sole owner.”</p>
+<p>The committee, which is chaired by Rep. Bennie Thompson (D-Miss.), is seeking information from Budowich pertaining to the source of the funds for the planning and promotion of the Jan. 6 rally that directly preceded the Capitol rioting.</p>
+<p>At his deposition, Budowich said in the lawsuit, he answered questions on “his involvement in the planning of a peaceful, lawful rally to celebrate President Trump’s accomplishments.“</p>
+<p>Budowich was subpoenaed the same day as two prominent and very vocal Trump allies, Roger Stone and Alex Jones. </p>
+<p>As has become common in these lawsuits, Budowich contended that the committee is illegitimate for a number of reasons.</p>
+<p>“The Select Committee acts absent any valid legislative power and threatens to violate longstanding principles of separation of powers by performing a law enforcement function absent authority to do so,” his suit argued. </p>
+<p>He also contended, as others have, that the committee does not have authority because Pelosi appointed two Republicans to the panel without the agreement of House Minority Leader Kevin McCarthy — the only two Republicans on the panel.</p>
+<p>Budowich delved further into those themes <a>in a statement</a> he issued after his lawsuit was disclosed.</p>
+<p>“Democracy is under attack. However, not by the people who illegally entered the Capitol on January 6th, 2021, but instead by a committee whose members walk freely in its halls every day,” he said.</p>
+<p><i>Kyle Cheney contributed to this report.</i></p>
+<div> <header> <div> <h1>David Scott</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Senate Parliamentarian</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Build Back Better</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>OAN</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Rudy Giuliani</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>The Fifty</h1> <p>In the unfolding pandemic, economic crisis and a national reckoning on race, governors and mayors are making key decisions that are shaping our shared future.</p> </div> </header> </div>
+<div> <header> <div> <h1>Taiwan</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>U.S.-China Relations</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<h3> <a>Trump’s TikTok restrictions ‘likely exceed’ his legal authority, federal judge says</a></h3>
+<p>The legal teams for TikTok and the Trump administration are expected to meet by no later than Wednesday to propose next steps in the case.</p>
+<div> <header> <div> <h1>John Kirby</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<header> <p> <a>coronavirus</a></p> </header>
+<h2>These countries went to U.S. lobbyists to get ahead in Biden’s vax distribution plan</h2>
+<p>Nations are turning to D.C. lobbyists to get the tools they need to fight the pandemic. Global health officials say it’s all that’s wrong with the Covid fight.</p>
+<p> A UNICEF worker checks boxes of the Moderna coronavirus vaccine after their arrival at the airport in Nairobi, Kenya. | Brian Inganga/AP Photo</p>
+<div> <div> <p> By HAILEY FUCHS</p> <p><time>12/10/2021 09:50 AM EST</time></p> </div> </div>
+<p>In other parts of the world, the story looked far different. </p>
+<p>They engaged their D.C. powerbrokers on retainer — Rational 360, a Washington communications firm that included Patrick Dorton, former special assistant to President Bill Clinton, and Joe Lockhart, Clinton’s former press secretary.</p>
+<a>according to data</a> from Johns Hopkins University.
+<a>widely criticized for delays</a> and
+<a>unequal access</a>. The recent emergence of the worrisome Omicron variant of the virus has driven home just how much of
+<a>a risk the low vaccination rates in the developing world</a> present to rich and poor nations alike.
+<a>began even before any were approved for use</a>, and intensified in the early months of 2021, when the shots began rolling out. And even though rich countries
+<a>two weeks later</a>, 2.5 million vaccine doses were on their way.
+<p>The lobbying efforts underscore how some nations refused to believe the administration's pledge — which has been consistently questioned — that the process would be entirely void of politics.</p>
+<p>The lobbyist likened it to jockeying for an invitation to the White House or a State dinner. “You use whatever resources you have,” the individual said.</p>
+<p>A spokesperson for PhRMA declined to comment.</p>
+<p><a>Japan remains</a> among the top 20 countries with the highest vaccination rates.</p>
+<div> <header> <div> <h1>Michelle Steel</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <header> <div> <h1>Black Voters</h1> <p>News, Analysis and Opinion from POLITICO</p> </div> </header> </div>
+<div> <div> <div> <h1> <a><b/> California </a></h1> </div>  </div> </div>
+<section> <div> <div> <div> <a>Continue to article content</a> </div> </div> </div> </section>
+<div> <div> <header> <h1> San Diego student asks SCOTUS to block school vaccine mandate </h1> </header> </div> </div>
+<p>An anonymous San Diego student and her parents are seeking an emergency freeze from the U.S. Supreme Court on San Diego Unified School District’s Covid-19 vaccine mandate, urging the need for a religious exemption.</p>
+<p>“The District has conditioned irreplaceable benefits and privileges on the surrender of First Amendment rights,” the plaintiffs wrote in their Friday petition.</p>
+<a>until officials removed an exemption for pregnancy</a> that they had included in their original plan.
+<p>The reasoning was that the district wasn’t giving fair treatment to all students who don’t wish to get the vaccine, since officials didn’t defer to those with religious objections.</p>
+<p>The district set a Dec. 20 vaccination deadline for students 16 and older who want to continue attending classes in person.</p>
+<p><b>What’s next: </b>However the justices decide to act will have a ripple effect across the country and particularly in California, which is poised to enforce a student vaccine mandate by the next school year.</p>
+<p>Plaintiffs filed their emergency application to Justice Elena Kagan, who handles cases received from the 9th Circuit. Kagan asked for a response from the school district by Thursday. </p>
+<div> <header> <div> <h1>Alexander Nieves</h1> <p>Reporter</p> </div> <ul> <li> <a>Follow @alexdrnieves</a> </li> </ul> </header> </div>
+<div> <h1> <a><b/> New York </a></h1> </div>
+<h2> <b/> Expand/Collapse Navigation </h2>
+<a>POLITICO New York Playbook</a>
+<a>New York New Jersey Energy Pro</a>
+<a>City Council Agenda + Bill Tracker</a>
+<li> <ul> <a>New York State Bill Tracker</a><a>City Council Stated Meeting Tracker</a></ul> </li>
+<div> <header> <div> <h1>New York</h1> </div> </header> </div>
+<div> <article> <div> <header> <h3> <a>JJ's booster shown effective against Covid hospitalization</a></h3> </header> </div> </article> </div>
+<div> <div> <div> <h1> <a><b/> New York </a></h1> </div>  </div> </div>
+<div> <div> <header> <h1> De Blasio vowed to cut traffic fatalities, but 2021 was a deadly year </h1> </header> </div> </div>
+<p>Mayor Bill de Blasio wasted no time in addressing one of his core campaign promises — to bring down the number of vehicular deaths on the city's streets.</p>
+<p>On a January day in Queens not long after he was sworn in, de Blasio stood beside grieving parents who had lost children in auto accidents and pledged to eradicate traffic deaths and serious injuries on city streets by 2024.</p>
+<p>“This loss of life is very personal for me because I can see it through the eyes of my fellow parents and of course every one of us thinks, ‘What if that was my child?’” de Blasio said in 2014.</p>
+<p>That's a significant blow to de Blasio’s promise of leaving office with the city well on its way to achieving his “Vision Zero” goal — reducing traffic deaths to zero — in 2024.</p>
+<a><u>died in vehicle crashes</u></a> last year hit its highest number since 2007.
+<p>“We've seen a horrible impact of this pandemic beyond all the other horrors that we've seen with the loss of life, from the disease. We've seen a loss of life from crashes,” de Blasio said at a July press conference. </p>
+<p>Others say the pandemic is a convenient excuse and that some of the blame must be shared by the mayor. </p>
+<p>Danny Harris, executive director of Transportation Alternatives, said the data speaks to a “tragic story.”</p>
+<p>“Vision Zero was a success. There was focus, it was a priority,” Harris said of the early days of the administration. But, he added, after a while, “[we] watched the erosion." </p>
+<p>De Blasio didn’t immediately stand out as the transportation candidate when he embarked on his first mayoral campaign.</p>
+<a><u>critical of Janette Sadik-Khan</u></a>, Bloomberg’s transportation commissioner who added hundreds of miles of new bike lanes and pedestrian plazas. He
+<a><u>excoriated some of her projects in a 2011 letter</u></a> he wrote as Public Advocate, where he called for an environmental review of future projects.
+<p>But he embraced Vision Zero as he began shaping his campaign as a progressive. It earned him the backing of StreetsPAC, a political action committee seeking to improving street safety.</p>
+<p>Lander and de Blasio both represented Park Slope in Brooklyn, where the movement for safer streets grew under Amy Cohen, a resident whose 13-year-old son was killed by a van that same year.</p>
+<p>“At the time, it felt he was the one most willing to drive a stake in the ground and say, ‘I’m all in on this,’” said Tom Wright, the executive director of the Regional Plan Association. </p>
+<p>De Blasio made early moves to indicate a commitment to street safety. </p>
+<p>“He took meaningful steps in that direction,” Lander said.</p>
+<p>But progress would often be marred by his reticence to embrace bigger transportation initiatives, despite the urging of local officials and advocates.</p>
+<a><u>opening streets to pedestrians wouldn’t work during the pandemic</u></a>, even as Council members and residents pushed for them. He

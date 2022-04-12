@@ -1,0 +1,500 @@
+<li><span><b>Favorite teams. </b>This is a common one, and there are only so many professional sports teams.</span></li>
+<li><span><b>Birthdays. </b>Try a date with no significance, then add some symbols and letters.</span></li>
+<div><div><h3><div>Check if any of your passwords have been exposed</div></h3></div></div>
+<div><div><p>An exposed password may provide the kick in the pants you need to clean up your password act.</p></div></div>
+<div><div><p>Password managers — applications that generate, save and automatically fill in unique, hard-to-guess passwords — can alert you to compromised passwords, too. And speaking of password managers …</p></div></div>
+<div><p>Here’s what to do if you’ve been hacked</p></div>
+<div><div><p>A password manager will solve a bunch of your password security problems in one swoop.</p></div></div>
+<p>As far as setup, you’ve got a choice: Either turn on your favorite album and <a>spend a few hours inputting the passwords</a> to the sites you visit most often, or just start going about your business and auto-save passwords as you use them.</p>
+<div><div><h3><div>If you must store passwords somewhere else, know the risks</div></h3></div></div>
+<div><div><p>Of course, you can keep your passwords safe from canines and other acts of God by storing them somewhere digital. But then you’re opening yourself up to potential cyber theft.</p></div></div>
+<div><div><p>Whatever you choose, know what risks you’re taking, and give a password manager some serious thought.</p></div></div>
+<div><div><h3><div>Set up two-factor authentication</div></h3></div></div>
+<div><div><p>Traditionally, two-factor has involved a text message sent to your phone with a numeric code to input. If you know the code, that means you have your phone, so the app or site can trust that you’re really you.</p></div></div>
+<h3>Help Desk: Making tech work for you</h3>
+<p><a><b>Help Desk</b></a> is a new destination built for readers looking to better understand and take control of the technology used in everyday life. <a><b>Meet the Help Desk team</b></a>.</p>
+<p><b>Go deeper:</b> <a>Tech in Your Life</a> | <a>Tech at Work</a> | <a>Your Data and Privacy</a> | <a>Internet Access</a> | <a>What’s New</a> | <a>Ethical Issues</a></p>
+<a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the
+<b> </b>settings for the most popular (and problematic) services to give you recommendations.
+<p><b>Ask a question: </b><a>Send the Help Desk your personal technology questions</a>.</p>
+<div><div><div>MORE ON DATA AND PRIVACY</div><div><div>HAND CURATED</div></div></div></div>
+<header><div><div><div><div><h4>Help Desk</h4></div><h1>YOUR DATA AND PRIVACY</h1></div></div></div></header>
+<li><div><div><a><h3>The ultimate guide to secure passwords</h3></a><p>How a few changes can solve most of your password security problems.</p>By Tatum HunterDecember 16, 2021</div></div></li>
+<a><h3>How to read and understand Apple’s new iOS App Privacy Report</h3></a>
+<p>Apple’s latest privacy feature in iOS 15.2 adds transparency but little explanation about what you can do about data sharing.</p>By Heather KellyDecember 15, 2021
+<li><div><div><a><h3>Apple iOS privacy settings to change now</h3></a><p>How to make your iPhone and iPad as private as possible.</p>By Heather KellyDecember 14, 2021</div></div></li>
+<a><h3>Your next smartphone might have a camera that’s always watching</h3></a>
+<p>One of the biggest chip makers in the world thinks “always-on” cameras can make our phones more secure. But can they really?</p>By Chris VelazcoDecember 6, 2021
+<div><div><a><h3>Privacy Reset: A guide to the important settings you should change now</h3></a><p>From Facebook to Venmo, staying on top of your privacy starts with these key settings.</p>By Heather Kelly and Geoffrey FowlerDecember 1, 2021</div></div>
+<li><div><div><a><h3>You’re not paranoid to cover your webcam. But the cameras you can’t cover are scarier.</h3></a><p>Plastic sliders won’t solve the privacy problems of the future.</p>By Tatum HunterNovember 30, 2021</div></div></li>
+<a><h3>Android privacy settings to change now</h3></a>
+<p>What makes an Android smartphone or tablet truly yours is the apps you use on it, but it’s common for us to install apps without thinking about what we have access to.</p>By Chris VelazcoNovember 29, 2021
+<li><div><div><a><h3>For some recipe apps, your personal data is gravy</h3></a><p>Like a Thanksgiving turkey, popular recipe apps are stuffed — with creepy tracking technology.</p>By Tatum HunterNovember 23, 2021</div></div></li>
+<div><a><h3>For seniors using tech to age in place, surveillance can be the price of independence</h3></a><p>Smart home technology can help people age in place longer, but the price can be a senior's privacy.</p>By Heather KellyNovember 19, 2021</div>
+<div><a><h3>How to duck spam and data breaches with throwaway numbers, email addresses and credit cards</h3></a><p>Just because marketers ask for your information doesn't mean you have to give it to them.</p>By Tatum HunterNovember 16, 2021</div>
+<li><div><div><a><h3>Ask Help Desk: No, your phone isn’t listening to your conversations. Seriously.</h3></a><p>There's more talk than ever about online privacy, but do normal people need to care?</p>By Tatum HunterNovember 12, 2021</div></div></li>
+<a><h3>Your browser can tell websites how to treat your data. But companies didn’t have to listen — until now</h3></a>
+<p>A special signal called Global Privacy Control is sending mass “do not sell” requests on consumers’ behalf.</p>By Tatum HunterOctober 26, 2021
+<div><div><a><h3>QR codes are a privacy problem — but not for the reasons you’ve heard</h3></a><p>QR codes aren't inherently bad. But know the privacy and security implications before you scan.</p>By Tatum HunterOctober 7, 2021</div></div>
+<div><div>Perspective</div><a><h3>How to block Facebook from snooping on you</h3></a><p>Seven steps you can take to keep Facebook and Instagram from gathering information about what you do outside of their apps</p>By Geoffrey FowlerSeptember 29, 2021</div>
+<a><h3>Companies are hoarding personal data about you. Here’s how to get them to delete it.</h3></a>
+<p>Here's where to find the right forms and email addresses — and why data rights requests under the consumer privacy act are so complicated.</p>By Tatum HunterSeptember 26, 2021
+<a><h3>When you ‘Ask app not to track,’ some iPhone apps keep snooping anyway</h3></a>
+<p>To test Apple’s newest privacy protections, we watched the data flow out of 10 popular apps. Some appeared to be “fingerprinting” phones, a more invasive form of tracking.</p>By Geoffrey Fowler and Tatum HunterSeptember 23, 2021
+<div><div><div>Privacy Reset</div><a><h3>Google privacy settings to change now</h3></a><p>Whether you have a little or a lot of Google in your life, you should stay on top of these account settings.</p>By Heather KellySeptember 23, 2021</div></div>
+<li><div><div><a><h3>Amazon privacy settings to change now</h3></a><p>From shopping to Alexa, Amazon products have a number of privacy defaults you can and probably should change.</p>By Heather KellySeptember 23, 2021</div></div></li>
+<li><div><div><a><h3>Facebook privacy settings to change now</h3></a><p>If you can’t quit Facebook, you can try and reclaim some control by changing these key privacy settings.</p>By Heather KellySeptember 23, 2021</div></div></li>
+<li><div><div><a><h3>Venmo privacy settings to change now</h3></a><p>If you pay for things using Venmo you might be shocked at what information you’re sharing publicly.</p>By Heather Kelly<span>September 23, 2021</span></div></div></li>
+<div><div><a>Tech in Your Life</a></div></div>
+<div><h1>Ask Help Desk: Is my phone haunted?</h1></div>
+<h2>This week, we examine some of readers’ tech anxieties to figure out what deserves immediate attention and what’s out of our control.</h2>
+<div><div><span><div><span><div><div>By Tatum Hunter</div></div></span></div></span></div><div>December 17, 2021 at 8:00 a.m. EST</div></div>
+<div><div><p>Technology solves a lot of problems, but sometimes it introduces just as many. Deciding what’s worth worrying about can feel like a part-time job.</p></div></div>
+<div><div><p>This week, we save you time by diving into some tech anxieties with a few experts and deciding whether it’s time to panic. Here are the CliffsNotes:</p></div></div>
+<div><div>Help Desk: Technology coverage that makes tech work for you</div></div>
+<li>Rogue cellphones that appear to take pictures by themselves (don’t panic)</li>
+<li>The major software vulnerability grabbing headlines (maybe panic a little)</li>
+<li>Data-hungry Secret Santa generator apps (depends how badly you want the presents)</li>
+<div><div><p><b>The security problem lurking in millions of sites and services:</b> <i>Do regular consumers need to be concerned about the Log4j security vulnerability flaw?</i></p></div></div>
+<div><div><p>—JD Johns, Los Angeles</p></div></div>
+<div><div><p>Hi JD,</p></div></div>
+<div><div><p>What does all this mean for you and me?</p></div></div>
+<div><div><p>Even more likely, you won’t notice anything at all, as compromised apps or websites probably won’t show evidence of tampering.</p></div></div>
+<div><p>For now, it’s an unfortunate waiting game. Keep practicing good password hygiene and be cognizant of who<b> </b>you give personal data to. (And maybe think about sending some extra appreciation to any IT people in your life.)</p></div>
+<div><p>The ultimate guide to secure passwords</p></div>
+<b>A 21st-century haunting:</b>
+<i>My smartphone will start taking pix randomly, especially late at night if I pick it up or start moving it in my hand. It will light up on its own while sitting on a surface. The camera will flash several times without me enabling it.</i>
+<div><div><p>—Tricia Young, Arlington, Va.</p></div></div>
+<div><div><p>Hi Tricia,</p></div></div>
+<div><div><p>I’m sorry that your phone is acting scary — it never feels good when technology seems to have a will of its own.</p></div></div>
+<b> </b>On an Android, try Settings –> Accessibility –> Advanced Settings –> Flash Notification.
+<div><div><p>The odds that your device has been hacked are slim. But it wouldn’t be the first time that an individual’s device was <a>compromised by commercial spyware</a> or <a>malicious software from an app</a>.</p></div></div>
+<div><div><p>“There are a lot of sketchy apps out there,” says Fred Mastrippolito, CEO of cybersecurity firm Polito. “And some of them even end up in the App Store.”</p></div></div>
+<div><div><p>If it helps, it’s unlikely that anyone trying to spy on you through your camera would repeatedly set off the flash, Ashkenazi said.</p></div></div>
+<div><p>You’re not paranoid to cover your webcam. But the cameras you can’t cover are scarier.</p></div>
+<div><div><p><b>He sees you when you’re sleeping, he knows when you’re awake:</b> <i>After reading your articles on tracking and privacy, what are your thoughts on Secret Santa Generator apps?</i></p></div></div>
+<div><div><p>—Martha, Chelmsford, Mass.</p></div></div>
+<div><div><p>Hi Martha,</p></div></div>
+<p>For the uninitiated, Secret Santa generator apps match gift recipients with anonymous givers in a holiday present exchange. To use one, you punch in everyone’s name and maybe a few questions like “What’s your favorite candy?”</p>
+<div><div><p>Given <a>widespread tracking</a> by <a>the apps we download</a> onto our phones, the privacy practices of those name-hungry Secret Santa generator apps are worth a second thought.</p></div></div>
+<div><div><p>But are they worth not getting a present?</p></div></div>
+<div><div><p>In scenario two, you abstain from the app and then watch from the sidelines as co-workers and relatives unwrap sandalwood candles and gift cards to Starbucks.</p></div></div>
+<div><div><p>Like <a>recipe apps</a> before them, I wouldn’t be surprised if Secret Santa generator apps do a little data-harvesting on the side. It’s just too tempting! (And common.)</p></div></div>
+<div><p>For some recipe apps, your personal data is gravy</p></div>
+<h3>Help Desk: Making tech work for you</h3>
+<p><a><b>Help Desk</b></a> is a new destination built for readers looking to better understand and take control of the technology used in everyday life. <a><b>Meet the Help Desk team</b></a>.</p>
+<p><b>Go deeper:</b> <a>Tech in Your Life</a> | <a>Tech at Work</a> | <a>Your Data and Privacy</a> | <a>Internet Access</a> | <a>What’s New</a> | <a>Ethical Issues</a></p>
+<a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the
+<b> </b>settings for the most popular (and problematic) services to give you recommendations.
+<p><b>Ask a question: </b><a>Send the Help Desk your personal technology questions</a>.</p>
+<div><div><div>MORE TECH IN YOUR LIFE</div><div><div>HAND CURATED</div></div></div></div>
+<div>Tech<div><a>Help Desk </a></div><div><a>Future of Transportation </a></div><div><a>Innovations </a></div><div><a>Internet Culture </a></div><div><a>Space </a></div><div><a>Tech Policy </a></div><div><a>Video Gaming </a></div></div>
+<h1>The ‘most serious’ security breach ever is unfolding right now. Here’s what you need to know.</h1>
+<h2>Much of the Internet, from Amazon’s cloud to connected TVs, is riddled with the log4j vulnerability, and has been for years</h2>
+<div><div><span><div><span><div>By Tatum Hunter</div> and </span></div><div><span><div>Gerrit De Vynck</div></span></div></span></div><div>December 20, 2021|Updated December 20, 2021 at 5:28 p.m. EST</div></div>
+<div><div><span><div><span><div>By Tatum Hunter</div> and</span></div><div><span><div>Gerrit De Vynck</div></span></div></span></div><div>December 20, 2021|Updated December 20, 2021 at 5:28 p.m. EST</div></div>
+<div><div><p>The descriptions used by security experts to describe the new vulnerability in an extremely common section of code called log4j border on the apocalyptic.</p></div></div>
+<p>“The log4j vulnerability is the most serious vulnerability I have seen in my decades-long career,” Jen Easterly, U.S.<b> </b>Cybersecurity and Infrastructure Security Agency director, said in a<b> </b>Thursday interview<b> </b>on CNBC.</p>
+<div><div><p>So why is this obscure piece of software causing so much panic, and should regular computer users be worried?</p></div></div>
+<div><div><a>What's New</a></div></div>
+<div><h1>The biggest tech trends to watch for in 2022 </h1></div>
+<h2>Electric vehicles, interoperable smart homes and ‘the metaverse’ will all make an appearance at CES — if it doesn’t get canceled first.</h2>
+<div><div><span><div><span><div>By Tatum Hunter</div> and</span></div><div><span><div>Chris Velazco</div></span></div></span></div><div>January 3, 2022|Updated January 4, 2022 at 2:34 p.m. EST</div></div>
+<div><div><p>2022 will be a year of big tech promises. Whether companies can deliver is another question.</p></div></div>
+<a>have pulled out</a>, and show organizers have shortened the event by one day — it now runs Wednesday through Friday.)
+<div><div><a>Help Desk: Technology coverage that makes tech work for you</a></div></div>
+<a>metaverse</a>,” autonomous vehicles and greater repairability will take time to catch up to their hype, and companies must be careful not to overpromise, Milanesi said.
+<a>we don’t trust companies</a> enough to share a whole lot of it, that technology gets stuck in the “my voice assistant still doesn’t understand me” phase.
+<div><div><p>Here’s what we expect — and in some cases, hope — to see in 2022.</p></div></div>
+<div><div><h3><div>A race into the ‘metaverse’</div></h3></div></div>
+<div><p>Facebook parent company Meta may have generated the most buzz with its foray into the metaverse — a theoretical shared space where people can hang out in virtual reality — but the other tech giants won’t be far behind.</p></div>
+<div><p>In 2021, tech talked up ‘the metaverse.’ One problem: It doesn’t exist.</p></div>
+<div><div><h3><div>The smart home will make a lot more sense</div></h3></div></div>
+<a>Matter</a>. The aim: to ensure that the home gadgets you buy in the future all play nice with one another, regardless of who made them or what virtual assistant you want to use when interacting with them.
+<div><div><h3><div>Electric vehicles are inching toward the mainstream</div></h3></div></div>
+<div><div><p>Some 2022 tech trends are all about what’s <i>not</i> new. This year, electric vehicles will transition from cutting edge to standard issue — if you live somewhere with the infrastructure to support EV charging.</p></div></div>
+<div><div><h3><div>Chips will still be hard to come by</div></h3></div></div>
+<div><p>What you need to know about the global chip shortage</p></div>
+<div><div><h3><div>Fixing your tech will start to get easier</div></h3></div></div>
+<div><div><p>Phones, laptops, tablets — we rely on gadgets like these every day, but companies haven’t exactly made them easy to fix when things go wrong. Slowly but surely, it seems that might be starting to change.</p></div></div>
+<a>self-service repair program</a> in early 2022. The (somewhat surprising) move will allow enthusiastic amateurs to access the parts and guides to fix their iPhones and Mac computers.
+<a>hard-to-upgrade Surface laptop</a> — Microsoft announced plans to increase the options consumers have to repair their devices
+<div><p>Study: World’s pile of electronic waste grows ever higher</p></div>
+<div><div><h3><div>More ways to analyze data from your own body</div></h3></div></div>
+<div><div><h3><div>Tech companies want you to trust them more</div></h3></div></div>
+<div><div><p>People now trust companies more than traditional institutions like government and religious organizations, according to Forrester analyst Enza Iannopollo, but companies still tend to overestimate how much customers trust them.</p></div></div>
+<div><div><p>And customers have good reason to be skeptical. In 2021, <a>security breaches</a>, <a>data privacy problems</a> and <a>AI whistleblowers</a> dominated technology news.</p></div></div>
+<a>people who identify bias in AI systems</a> and adopting technologies that partially anonymize personal data, Forrester research predicts.
+<h3>Help Desk: Making tech work for you</h3>
+<p><a><b>Help Desk</b></a> is a new destination built for readers looking to better understand and take control of the technology used in everyday life. <a><b>Meet the Help Desk team</b></a>.</p>
+<p><b>Go deeper:</b> <a>Tech in Your Life</a> | <a>Tech at Work</a> | <a>Your Data and Privacy</a> | <a>Internet Access</a> | <a>What’s New</a> | <a>Ethical Issues</a></p>
+<a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the
+<b> </b>settings for the most popular (and problematic) services to give you recommendations.
+<p><b>Ask a question: </b><a>Send the Help Desk your personal technology questions</a>.</p>
+<div><div><div>MORE ON WHAT'S NEW</div><div><div>HAND CURATED</div></div></div></div>
+<header><div><div><div><div><h4>Help Desk</h4></div><h1>WHAT’S NEW</h1></div></div></div></header>
+<a><h3>The biggest tech trends to watch for in 2022 </h3></a>
+<p>Join us as we break out the crystal balls and suss out what the new year will mean for the tech in your life.</p>By Tatum Hunter and Chris VelazcoJanuary 4, 2022
+<div>What's NewPerspective</div>
+<a><h3>If you need your music everywhere, Apple Music’s ‘voice plan’ isn’t for you</h3></a>
+<p>We put Apple Music's new budget streaming option to a cross-country test, but it actually works best if it doesn't leave home.</p>By Chris VelazcoDecember 29, 2021
+<a><h3>Apple will start selling you the parts you need to fix your iPhone in early 2022</h3></a>
+<p>Apple's Self Service Repair program will also offer support for its Mac computers.</p>By Chris VelazcoNovember 17, 2021
+<a><h3>A new wave of home fitness gear puts cameras front and center</h3></a>
+<p>Peloton and Tempo built their reputations on big, expensive workout gear, but that’s starting to change.</p>By Chris VelazcoNovember 17, 2021
+<a><h3>You, another new search engine, hopes privacy can help it take on Google</h3></a>
+<p>Google dominates the search market, but smaller search engines are focusing on its biggest weak spot to try to lure people away.</p>By Heather KellyNovember 9, 2021
+<li><div><div><div>What's New</div><a><h3>Mark Zuckerberg just laid out his vision for the metaverse. These are the five things you should know.</h3></a>By Chris VelazcoOctober 28, 2021</div></div></li>
+<a><h3>iPhones, Pixels, Flips: What to know about the top smartphones of 2021</h3></a>
+<p>Picking just the right phone for you can be tough. We lived with the Galaxy Z Flip3, the iPhone 13 and 13 Pro, and Google's new Pixels to see what works and what doesn’t.</p>By Chris VelazcoOctober 25, 2021
+<a><h3>Apple is finally fixing the things people hate most about its laptops</h3></a>
+<p>Here's what you missed from today's Apple event, during which Apple walked back some of its customers' least-favorite changes.</p>By Chris Velazco and Tatum HunterOctober 18, 2021
+<a><h3>Windows 11 is available now, but not everyone will have an easy time upgrading</h3></a>
+<p>Microsoft's latest version of Windows is headed for a desktop or laptop near you. Here's what you need to know if you want to upgrade.</p>By Chris VelazcoOctober 5, 2021
+<a><h3>Amazon’s newest products expand its surveillance inside the home</h3></a>
+<p>Amazon launches new hardware including a new robot and a smart thermostat.</p>By Heather Kelly and Chris Velazco and Jay Greene and Tatum HunterSeptember 28, 2021
+<div><div><div>Tech at WorkAnalysis</div><a><h3>Need a new monitor for your computer? You can wear one on your face.</h3></a><p>Some new wearable displays are trying to make your office more portable.</p>By Chris VelazcoSeptember 27, 2021</div></div>
+<a><h3>Facebook glasses: Not overly ‘smart,’ maybe a little shady</h3></a>
+<p>The social media giant's first pair of smart glasses feature a Ray-Ban design, plus cameras and microphones.</p>By Chris VelazcoSeptember 9, 2021
+<a><h3>How iPhone child-safety photo scanning works — and why privacy advocates are worried</h3></a>
+<p>Apple debuted new features to scan photos and messages for explicit images of children. Here's how the features work, and why privacy advocates are concerned.</p>By Tatum Hunter and Reed AlbergottiAugust 19, 2021
+<a><h3>Samsung’s new foldable phones come with a price cut, but they’ll still cost you at least $1,000</h3></a>
+<p>Samsung is trying to jump-start a folding phone craze. Here’s what you need to know.</p>By Chris VelazcoAugust 11, 2021
+<div><div><div>What's NewReview</div><a><h3>The ultrathin new iMac lost a lot more than size</h3></a><p>A half-inch desktop computer shows how Apple’s obsession with thin design can work against us.</p>By Geoffrey FowlerJune 16, 2021</div></div>
+<a><h3>Apple’s got new iPads, rainbow iMacs and lost-item trackers called AirTags. Here’s what’s worth your money.</h3></a>
+<p>Apple's first product launch of 2021 starts at 1 p.m. ET.</p>By Geoffrey Fowler
+<header><div><div><div><div><h4>Technology</h4></div><h1>INNOVATIONS</h1><h2>It's all about what's next</h2></div></div></div></header>
+<a><h3>The battle to prevent another Jan. 6 features a new weapon: The algorithm</h3></a>
+<p>A year after the attack on the Capitol, data science is better than ever at predicting insurrections. But is it good enough?</p>By Steven ZeitchikJanuary 6, 2022
+<a><h3>Maybe 2022 should be the year we turn over decision-making to the AI</h3></a>
+<p>An increasingly popular idea is to outsource choices to algorithms, even New Year's resolutions. It doesn’t sound half bad.</p>By Steven ZeitchikDecember 31, 2021
+<a><h3>On a yacht off St. Barts, the future of covid testing is taking shape</h3></a>
+<p>Amid huge gaps in inventory and quality, several renegade companies are looking for a superior approach to the current tangled system.</p>By Steven ZeitchikDecember 24, 2021
+<a><h3>Is artificial intelligence about to transform the mammogram?</h3></a>
+<p>An MIT researcher has devised a radical technique: an AI that can predict breast cancer. But it’s a long climb from the lab to the real world.</p>By Steven ZeitchikDecember 21, 2021
+<a><h3>Drones could be enlisted to fight tornados and other climate disasters</h3></a>
+<p>There’s a growing push to send unmanned aerial vehicles to help during climate disasters like the Quad-state tornadoes. What exactly can they do?</p>By Steven ZeitchikDecember 17, 2021
+<div><div><a><h3>Soon when you walk down the street, 3-D creatures could try to sell you something</h3></a><p>A new 3-D form of outdoor advertising is slowly taking hold. But experts warn of overload.</p>By Steven ZeitchikDecember 3, 2021</div></div>
+<div><a><h3>We asked a computer program to imitate Gay Talese’s writing. Then we asked Talese what he thought.</h3></a><p>What does one of the most famous journalists of the 20th century think of GPT3?</p>By Steven ZeitchikNovember 26, 2021</div>
+<a><h3>All this money pouring into infrastructure should be a boon for high-speed rail, right? Not so fast.</h3></a>
+<p>The transit innovation’s time may come. It just will be a bumpy road to get there.</p>By Steven ZeitchikNovember 19, 2021
+<a><h3>A Utah company says it revolutionized truth-telling technology. Experts are highly skeptical.</h3></a>
+<p>A Utah company claims it has discovered a way to tell if a person is lying by tracking their eye movements. Many are skeptical.</p>By Steven ZeitchikNovember 15, 2021
+<li><div><div><a><h3>COP26 is bringing many calls for action. Some are already taking action.</h3></a><p>A roundup of some of the innovative ideas that are being suggested to combat climate change.</p>By Steven ZeitchikNovember 6, 2021</div></div></li>
+<a><h3>What will the world look like when you can be whoever you want in the metaverse?</h3></a>
+<p>For all the skepticism Mark Zuckerberg's discussion of the metaverse last week, many Internet visionaries see it as a potential grand result whose benefits and drawbacks should not be ignored.</p>By Steven ZeitchikNovember 5, 2021
+<div><a><h3>Nine years after she died, Whitney Houston is back to entertain you</h3></a><p>The show shatters the norms of techno-illusion: A two-minute deep fake is one thing. The dead dancing for us is another.</p>By Steven ZeitchikOctober 29, 2021</div>
+<a><h3>What is the ‘metaverse’? Facebook says it’s the future of the Internet.</h3></a>
+<p>Microsoft, Facebook and other tech firms increasingly claim to be building a “metaverse” to usher in a new era of interacting online.</p>By Dalvin BrownOctober 28, 2021
+<a><h3>The Alec Baldwin shooting has some people calling for only computer-generated gunshots. It’s not as easy as it sounds.</h3></a>
+<p>Traditional computer-generated images can achieve some but not all of the effect of a traditional firearm.</p>By Steven ZeitchikOctober 27, 2021
+<a><h3>MIT expert on work says any boss who thinks employees will return to offices is dreaming</h3></a>
+<p>The author of a prescient book on the workplace tells The Post: "If companies make employees who can do their jobs at home go into the office it will be harder for them to hire, and other companies will benefit."</p>By Steven ZeitchikOctober 26, 2021
+<a><h3>A few idealistic Canadians are trying to replant the world’s forests with flying machines</h3></a>
+<p>The battle against climate change can be waged with sober policymaking, an engaged citizenry and corporate responsibility. It also, it turns out, can be fought by a few hipster Millennials with flying machines.</p>By Steven ZeitchikOctober 21, 2021
+<li><div><div><a><h3>Would robot umpires have prevented the Wilmer Flores Giants-Dodgers controversy?</h3></a><p>And should we?</p>By Steven ZeitchikOctober 15, 2021</div></div></li>
+<a><h3>Every movie and TV show could soon be dubbed into any language you want</h3></a>
+<p>Choosing languages may soon be as easy as changing the channel. But a lot more could get transformed along the way.</p>By Steven ZeitchikOctober 15, 2021
+<a><h3>Crypto tax: ‘MiamiCoin’ has made the city $7 million so far, a potential game-changer for revenue collection</h3></a>
+<p>MiamiCoin has generated roughly $7 million for the city since its August launch, and Mayor Francis Suarez said cryptocurrency contributions could one day replace city taxes.</p>By Dalvin BrownSeptember 30, 2021
+<a><h3>After IBM failed to sail an autonomous boat across the Atlantic, it’s trying again</h3></a>
+<p>Four centuries after the Mayflower reached America, a robotic Mayflower with no humans onboard struggles to retrace its steps.</p>By Dalvin BrownSeptember 24, 2021
+<div><div><a>Tech in Your Life</a></div></div>
+<div><h1>The weirdest and most interesting tech at CES 2022</h1></div>
+<h2>The consumer electronics trade show salutes 2022 with some of the strangest technologies we’ve seen in a while. Here are the highlights.</h2>
+<div><div><span><div><span><div>By Chris Velazco</div> and</span></div><div><span><div>Tatum Hunter</div></span></div></span></div><div>Today at 9:58 p.m. EST|Updated today at 4:55 p.m. EST</div></div>
+<p>The world’s biggest consumer electronics trade show known as CES feels weird this year, with far fewer attendees gracing the Las Vegas conference halls where consumer tech companies show off their latest and greatest (almost) every January.</p>
+<div><div>Help Desk: Technology coverage that makes tech work for you</div></div>
+<p>As always, some of the industry’s plans are raising eyebrows. People still don’t have legal protections for the personal data they generate in normal old smartphone apps, yet consumer tech is marching forward into virtual reality.</p>
+<div><p>What it’s like at one of the world’s biggest tech trade shows as omicron surges</p></div>
+<div><div><h3><div>Garments made for gaming — and the metaverse</div></h3></div></div>
+<p>The age of the metaverse is nearly upon us, according to some of the biggest names in tech. But what good is palling around with people in a sprawling, interconnected virtual space if you can’t feel the “world” around you?</p>
+<div><div><p>That’s where the smart — and sometimes painful — garments from <a>Owo</a> enter the picture.</p></div></div>
+<div><div><h3><div>At last, augmented reality glasses that don’t look (that) ridiculous</div></h3></div></div>
+<div><p>But what’s a wearable like this actually meant to do? The software on the prototype we saw was far from finished, but it mentioned the ability to control phone calls, view photos and even display text on a virtual teleprompter.</p></div>
+<div><div><h3><div>Spacious space abodes</div></h3></div></div>
+<div><div><p>Some CES presenters are thinking forward to when people live in entirely connected homes. Sierra Space is thinking about when people live in giant inflatable houses on the moon.</p></div></div>
+<div><div><h3><div>A fitness tracker for your cat</div></h3></div></div>
+<div><div><p>“The pet’s place in the family is changing,” says Caudron. “It’s no longer a dog-master relationship. We think of ourselves as parents and our dogs as a member of the family.”</p></div></div>
+<div><div><h3><div>A projector that works in unexpected places</div></h3></div></div>
+<div><p>Even now, in the middle of the strangest CES on record, companies have devoted big chunks of the show floor to showing off their flashiest, best TVs. But for Samsung, one of its biggest new products might actually be one of its smallest.</p></div>
+<div><div><h3><div>A robot that nibbles your fingers and warms your heart</div></h3></div></div>
+<div><div><p>True comfort is priceless, and for some people, that kind of peace only comes when animals or babies cutely gnaw on them. If that’s you, a tiny product from Japan just might be the best impulse buy of your life.</p></div></div>
+<div><div><p>Aoki hopes to usher Amagami Ham Ham through a crowdfunding campaign in a few months, and — assuming that’s successful — he aims to sell the robot in Japan and abroad for the equivalent of about $30.</p></div></div>
+<div><p>The biggest tech trends to watch for in 2022</p></div>
+<div><div><h3><div>A robot that probably upsets you</div></h3></div></div>
+<div><div><p>Humanoid robots are getting more lifelike, but only compared to their predecessors.</p></div></div>
+<div><div><p>Just take the Ameca robot from Engineered Arts, a true-to-scale, metal-and-plastic robot person who blinks, shrugs and grimaces just like you and me — if you and me were stilted human facsimiles.</p></div></div>
+<div><div><h3><div>A foldable screen that doubles as a laptop</div></h3></div></div>
+<h3>Help Desk: Making tech work for you</h3>
+<p><a><b>Help Desk</b></a> is a new destination built for readers looking to better understand and take control of the technology used in everyday life. <a><b>Meet the Help Desk team</b></a>.</p>
+<p><b>Go deeper:</b> <a>Tech in Your Life</a> | <a>Tech at Work</a> | <a>Your Data and Privacy</a> | <a>Internet Access</a> | <a>What’s New</a> | <a>Ethical Issues</a></p>
+<a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the
+<b> </b>settings for the most popular (and problematic) services to give you recommendations.
+<p><b>Ask a question: </b><a>Send the Help Desk your personal technology questions</a>.</p>
+<div><div><div>MORE TECH IN YOUR LIFE</div><div><div>HAND CURATED</div></div></div></div>
+<header><div><div><div><div><h4>Help Desk</h4></div><h1>TECH IN YOUR LIFE</h1></div></div></div></header>
+<div><div><a><h3>The weirdest and most interesting tech at CES 2022</h3></a><p>CES salutes 2022 with some of the strangest technologies we’ve seen in a while. Here are the highlights.</p>By Chris Velazco and Tatum HunterJanuary 6, 2022</div></div>
+<a><h3>What it’s like at one of the world’s biggest tech trade shows as omicron surges </h3></a>
+<p>This year's chaotic CES conference raises valuable questions about the future of giant in-person business events.</p>By Chris VelazcoJanuary 5, 2022
+<a><h3>Some voice mails are unspeakably precious. Here’s how to save them. </h3></a>
+<p>If you’re one of the many people who have treasured voice mails locked away on your phone, please: Take a few moments to save them elsewhere, just in case. Thankfully, most smartphones make the process easy.</p>By Chris VelazcoDecember 27, 2021
+<li><div><div><a><h3>Ask Help Desk: Big phones, big problems</h3></a><p>In our last QA column of the year, we grapple with Google Photo and ponder how to downsize our phones.</p>By Chris VelazcoDecember 24, 2021</div></div></li>
+<li><div><div><a><h3>People really are giving NFTs as gifts. Results may vary.</h3></a><p>This year’s hot, unwrappable holiday gift is complicated, controversial and perfect for some.</p>By Heather KellyDecember 23, 2021</div></div></li>
+<a><h3>Apple’s AirTags can be as creepy as they are helpful. Finding them with some phones is easier than with others.</h3></a>
+<p>Hopefully, no one is using one of Apple's AirTags to track your location. But it’s important to know what to do, just in case.</p>By Chris VelazcoDecember 21, 2021
+<div><div><a><h3>Every tech support task you should do for your family this week</h3></a><p>Everything tech-savvy relatives should do for their more analog family members while visiting over the holidays.</p>By Heather KellyDecember 20, 2021</div></div>
+<div><div><a><h3>Ask Help Desk: Is my phone haunted?</h3></a><p>This week, we examine some of readers’ tech anxieties to figure out what deserves immediate attention and what’s out of our control.</p>By Tatum HunterDecember 17, 2021</div></div>
+<a><h3>Big Tech doesn’t always make it easy to use the apps you want. Here’s how to take back control. </h3></a>
+<p>Not all of the apps your phones and computers want you to use are the ones that make the most sense for your life. Help Desk walks you through how you can change them.</p>By Chris VelazcoDecember 14, 2021
+<li><div><div><a><h3>Recovering locked Facebook accounts is a nightmare. That’s on purpose.</h3></a><p>Account recovery is a pain, but not impossible.</p>By Tatum HunterDecember 14, 2021</div></div></li>
+<div><a><h3>Not all of us can be space billionaires. Here’s how to enjoy the cosmos from your house. </h3></a><p>You don't have to be a billionaire to enjoy space. Here are ways to do so inexpensively.</p>By Tatum HunterDecember 10, 2021</div>
+<a><h3>Planning to gift yourself some gadgets? Consider these sustainable shopping alternatives</h3></a>
+<p>Too much of our tech ultimately winds up in landfills. That's why two start-ups are trying to reshape the way we buy — and live with — our gadgets.</p>By Chris VelazcoDecember 8, 2021
+<a><h3>Instagram is touting safety features for teens. Mental health advocates aren’t buying it. </h3></a>
+<p>The changes come one day before its CEO testifies before Congress about the app’s impact on young people.</p>By Tatum HunterDecember 7, 2021
+<div><a><h3>Ask Help Desk: Stop your Facebook account from getting hacked</h3></a><p>It's easier to prevent hackers from getting your Facebook account than it is to recover it. Start with these easy security steps.</p>By Heather KellyDecember 3, 2021</div>
+<div><a><h3>Twitter has a confusing new policy on what images you can post. Here’s what you need to know. </h3></a><p>People aren't allowed to post photos without consent — except sometimes, they are.</p>By Tatum HunterDecember 1, 2021</div>
+<div><a><h3>Finding reliable masks online can be tricky. Here are tips that can help. </h3></a><p>If you’re planning to do your mask shopping online, here are a few best practices you should keep in mind.</p>By Chris VelazcoNovember 29, 2021</div>
+<a><h3>Your driver’s license could soon live on your phone. Here’s what you should know.</h3></a>
+<p>Carrying your physical license or state ID with you is still a good idea, but soon, you may not have to worry about the consequences of forgetting it at home.</p>By Chris VelazcoNovember 24, 2021
+<a><h3>Tips for holiday shopping online even when there’s a supply chain crisis</h3></a>
+<p>Inflation and supply chain issues mean your best bet is to shop early, shop online and don’t panic this holiday season.</p>By Heather KellyNovember 24, 2021
+<div><div><a><h3>Ask Help Desk: How do I get my stuff back out of the cloud?</h3></a><p>In this week’s edition of Ask Help Desk, we tackle cloud conundrums, emergency-only phones and Windows woes.</p>By Chris VelazcoNovember 19, 2021</div></div>
+<a><h3>Buggy software in off-brand smart home devices is a hacker’s playground</h3></a>
+<p>No one tells us whether the software in connected devices is secure. As more objects come online, that problem will snowball.</p>By Tatum Hunter
+<p>Education: University of Southern California</p>
+<div>Latest from Petula Dvorak</div>
+<ul><li>Local</li><li>Perspective</li></ul>
+<a><h2>If Jan. 6 had been a movie, the cops would’ve been the heroes</h2></a>
+<p>While the nation picks apart the planning and response and the significance of the Jan. 6 insurrection, the officers who managed to protect members of Congress and the vote certification are still suffering mental trauma.</p>
+<ul><li><a>Local</a></li><li>Perspective</li></ul>
+<a><h2>They worried there would never be another snow day</h2></a>
+<p>Kids worried that a year of virtual learning would mean the next time it snowed, there would be no snow day. Turns out most of them worried for nothing.</p>
+<a><h2>We’re living in the new Dark Ages — and it’s time to turn on the light</h2></a>
+<p>From the siege on the Capitol to the way our economy is becoming feudal, America has been living its own Dark Ages and 2022 is the time to turn it around.</p>
+<a><h2>These wise women of suburbia are showing the world how American Christmas should be done</h2></a>
+<p>This couple spent the last four months fleeing the Taliban while expecting their first child. They made it to Maryland, where a group of volunteers is bringing gifts every day, furnishing their new home.</p>
+<a><h2>What will you do differently in lockdown redux?</h2></a>
+<p>Pandemic lockdown got weird and tough for some. If we're going back there, what will we do differently?</p>
+<a><h2>The Brandon Act is coming for toxic leaders in the military</h2></a>
+<p>The Brandon Act was approved by Congress this week and while its main goal is to make it easier for members of the military to get mental health help, the creators are hoping it will also single out toxic leaders.</p>
+<a><h2>He was her eyesight. She was his everything.</h2></a>
+<p>Allen Hirsh helped his blind wife, a federal government lawyer, throughout her life. Now he sees how much she did for him.</p>
+<a><h2>It’s great to have a name for ‘Karen’ behavior. Sorry it’s yours, Karen.</h2></a>
+<p>The Bad Karen meme is good for our society. Let me explain.</p>
+<a><h2>Sports parents are horrible and referees are finally doing something about it — quitting</h2></a>
+<a><h2>How much of a child’s life do the antiabortion protesters really care about?</h2></a>
+<p>What are protesters who say they are "pro-life" in the abortion debate doing to better the lives of children after they are born?</p>
+<div><div><a>Local</a><div><div>Perspective</div><div>Perspective Discussion of news topics with a point of view, including narratives by individuals regarding their own experiences</div></div></div></div>
+<div><h1>If Jan. 6 had been a movie, the cops would’ve been the heroes</h1></div>
+<div><div><span><div><span><div><div>By Petula Dvorak</div></div>Columnist </span></div></span></div><div>Yesterday at 2:21 p.m. EST</div></div>
+<div><div><p>Compared with the destruction of the Capitol by the British in 1814, the 2021 insurrection barely left a scratch.</p></div></div>
+<div><div><p>No member of Congress was harmed. The white dome, the marble halls still stand. And hours after the attack, lawmakers reassembled to certify the election that ushered a new president into the White House.</p></div></div>
+<div><div><p>Jan. 6 was horrible for them. So was Jan. 7 and Jan. 12 and April 17 and Nov. 4 and any other day they couldn’t shake the memories. Many are depressed, anxious, angry and sad. Four took their own lives.</p></div></div>
+<div><div><p>The insurrectionists went in there trying to “ransack the parliamentarian’s office. And they didn’t succeed,” Wexton said.</p></div></div>
+<div><p>The way official D.C. prepared for the Jan. 6 riot is what White privilege looks like</p></div>
+<div><div><p>That victory came at a cost. Capitol Police Capt. Carneysha C. Mendoza, went from having a meal with her 10-year-old that day to walking into a hellscape.</p></div></div>
+<a> congressional testimony </a>later that year. “We could have had 10 times the amount of people working with us and I still believe the battle would have been just as devastating.”
+<div><div><p>When I reached out to her, she said she doesn’t want to relive the day much: “I spend time writing and I spend time lifting weights, both of which are helpful for my mental health.”</p></div></div>
+<div><div><p>Other officers were emotional and raw in their testimonies to lawmakers about the aftermath.</p></div></div>
+<div><div><p>D.C. Officer <a>Bobby Tabron</a> “suffers from insomnia, and when he can sleep, he frequently has nightmares and night terrors in which he is fighting for his life at what seemed like the end of the world.”</p></div></div>
+<div><div><p>Most of the officers who survived had to suit up and head right back out for work the next day. And again. And again.</p></div></div>
+<div><p>As the Capitol riot unfolded, one man felt uniquely betrayed</p></div>
+<a>Kyle DeFreytag</a> — who were all at the Capitol on Jan. 6 — have underscored the despair. That their deaths have yet to be designated as line-of-duty deaths adds to the dismissal of their trauma.
+<a>Blue H.E.L.P.</a>, a police mental health advocacy group. “But when someone breaks their mind? Or injures their mind while in the throes of doing their duty? They say, ‘Nope.’”
+<div><p>The Attack: A Washington Post investigation of the Jan. 6 insurrection</p></div>
+<div><p>Hough’s group works to break the stigma of mental health support. He’s found the best tool for that is peer group counseling, in which officers can relate to one another and know they aren’t alone in their trauma.</p></div>
+<div><div><p>“My generation, we grew up in the age of ‘we don’t talk about that stuff,’” Hough said.</p></div></div>
+<div><div><p>Gainer said it was the “suck it up” culture.</p></div></div>
+<div><div><p>But both believe the coming generation of law enforcement officers will be more open to treating mental health as health.</p></div></div>
+<div><div><p>Anything else is seriously messing with the officers’ minds. And they’ve all had enough of that.</p></div></div>
+<p>Local politics reporter covering Arlington and Alexandria</p>
+<p>Education: Columbia University, BA in urban studies</p>
+<div>Latest from Teo Armus</div>
+<a><h2>Youngkin nominates George ‘Bryan’ Slater as Virginia secretary of labor</h2></a>
+<p>Slater has worked under Republican administrations in both Washington and Richmond, where he is closely tied to former Gov. Jim Gilmore.</p>
+<a><h2>Alexandria is struggling to keep up pay for first responders. They say it’s straining emergency response.</h2></a>
+<p>Alexandria has tried to keep its salaries for firefighters, police officers and sheriff’s deputies at the middle of the pack regionally, but city officials acknowledge that pay is lagging behind.</p>
+<a><h2>Arlington, Amazon commit $310 million in loans to preserve affordable housing complex off Columbia Pike</h2></a>
+<p>Tenants at the Barcroft Apartments had expressed concerns that they could be displaced from their homes in a slice of Northern Virginia where low-rent units are rapidly disappearing.</p>
+<ul><li><a>Local Crime Public Safety</a></li></ul>
+<a><h2>Two Alexandria school resource officers face misconduct investigation</h2></a>
+<p>They have been placed on leave while police look into a “serious complaint,” authorities said.</p>
+<ul><li><a>Virginia Politics</a></li></ul>
+<a><h2>Proposed Virginia redistricting maps leave Spanberger miles away from her congressional seat</h2></a>
+<p>One of Virginia’s two battleground congressional districts would become a safe Democratic seat under a redistricting proposal released Wednesday.</p>
+<a><h2>Charlottesville’s Robert E. Lee statue will be melted down by city’s African American history museum</h2></a>
+<p>The Lee statue in Charlottesville had served as the focal point of the deadly white-supremacist Unite the Right rally in 2017.</p>
+<a><h2>Arlington is reconsidering when to work with ICE. Activists want the county to cut ties entirely.</h2></a>
+<a><h2>Alexandria names new city manager </h2></a>
+<p>Jim Parajon, the deputy city manager in Arlington, Texas, will become the top employee in the Northern Virginia city as it grapples with the challenges of urban growth and development.</p>
+<a><h2>As Alexandria looks to revamp the Torpedo Factory, artists fear they will be kicked out</h2></a>
+<p>The 102-year-old building is home to working studio space for dozens of artists. But the city-owned building is in dire need of repairs, and officials want to fund renovations and bring in more local visitors.</p>
+<a><h2>Stafford County’s local government went from red to purple. Is it the next phase of N.Va.’s ‘blue wave’?</h2></a>
+<p>No one disagrees that Stafford County is changing rapidly, but political observers are split on whether this year’s leftward turn in local elections is a fluke or a hint of more political change to come.</p>
+<header><div/><div><div><a>Virginia Politics</a></div></div><div><h1>Youngkin nominates George ‘Bryan’ Slater as Virginia secretary of labor</h1></div></header>
+<div><div><span><div><span><div><div>By Teo Armus</div></div></span></div></span></div><div>Today at 5:50 p.m. EST</div></div>
+<p>Gov.-elect Glenn Youngkin (R) said on Thursday that he has chosen George “Bryan” Slater, a bureaucrat with years under Republican administrations in both Washington and Richmond, to serve as Virginia’s next secretary of labor.</p>
+<a>created last year</a> — he will be tasked with overseeing a host of workforce development programs as well as the state’s unemployment agency, which had struggled with a
+<a>flood of claims</a> during the coronavirus pandemic. Republicans
+<a>had opposed</a> establishing the position.
+<div><p>Similar legislation is likely to be less well received by Youngkin, who during the campaign <a>expressed support</a> for “right-to-work” laws that prevent workers from being forced to join a union as a condition of employment.</p></div>
+<div><div><p>Slater most recently served under President Donald Trump, first in the U.S. Department of Transportation and then in the Department of Labor. He also has worked in the administrations of George W. Bush and George H.W. Bush.</p></div></div>
+<p>Reporter covering Virginia from the Richmond bureau</p>
+<p>Education: College of William Mary, BA in English</p>
+<div>Latest from Gregory S. Schneider</div>
+<a><h2>Virginia commission urges policy changes to address inequity in the state’s economy, rural life, environment</h2></a>
+<a><h2>Robert E. Lee monument, other Confederate statues could go to Richmond’s Black History Museum under deal</h2></a>
+<a><h2>Confederate pride and the Chamber of Commerce: Richmond’s Lee statue finally gives up its time capsule secrets</h2></a>
+<p>Conservators in Richmond opened another time capsule found under the former Robert E. Lee statue; this one appears to be the official artifact buried in 1887, containing Confederate memorabilia.</p>
+<div><ul><li><a>Virginia Politics</a></li></ul><a><h2>Second time capsule found under Lee monument in Richmond</h2></a><p>Its size and copper construction match historical descriptions, but it might be waterlogged.</p><div>December 27, 2021</div></div>
+<a><h2>Time capsule found under Lee monument found to have books, envelope — but no Lincoln photo</h2></a>
+<p>Even before the top of the box came off, experts had begun to doubt that this was the official time capsule placed beneath the Lee memorial in 1887, three years before the statue was unveiled.</p>
+<a><h2>Youngkin names investment banker as Virginia finance secretary</h2></a>
+<p>Gov.-elect Glenn Youngkin has named former investment banker Stephen Emery Cummings as Virginia finance secretary. The Cabinet official helps the governor assemble the state's budget and works with lawmakers to get it passed.</p>
+<a><h2>Coronavirus cases hit new highs in the D.C. area as residents scramble to find tests</h2></a>
+<a><h2>Youngkin names the head of his nonprofit to serve as Virginia commerce secretary</h2></a>
+<p>Gov.-elect Glenn Youngkin (R) has named Northern Virginia businesswoman Caren Merrick as state commerce secretary. Merrick led the workforce training nonprofit that Youngkin founded in 2020 and has started several companies.</p>
+<a><h2>Gov.-elect Youngkin names school data consultant as Virginia education secretary</h2></a>
+<a><h2>A shortage of workers at Williamsburg’s iconic Cheese Shop has forced the unthinkable: No more sandwiches</h2></a>
+<p>Faced with the worker shortage hitting businesses all over the country this year, the shop has shocked the local community by suspending its sandwich business.</p>
+<header><div/><div><div><a>Local</a></div></div><div><h1>Virginia commission urges policy changes to address inequity in the state’s economy, rural life, environment</h1></div></header>
+<div><div><span><div><span><div><div>By Gregory S. Schneider</div></div></span></div></span></div><div>Today at 6:00 p.m. EST</div></div>
+<p>RICHMOND — A Virginia commission formed to identify root causes of inequality in state law has recommended a number of policy changes aimed at addressing racial disparities in economic opportunity, rural life and environmental conservation.</p>
+<div><p>Virginia looks at scrapping defunct, racist laws still on the books</p></div>
+<div><div><p>The General Assembly acted on many of the recommendations from those earlier reports and cut the offensive and archaic language out of state code.</p></div></div>
+<div><p>Judge strikes down Virginia race requirement for marriage license as unconstitutional</p></div>
+<div><div><p>It found that minorities also face less access to quality education and health care in rural parts of the state and less access to green spaces.</p></div></div>
+<div><div><p>Members of the General Assembly, which will convene Wednesday, might also use the recommendations to propose laws. The House of Delegates will be under Republican control, while the Senate has a Democratic majority.</p></div></div>
+<div><div><p>A spokesman for Youngkin said he had no immediate comment on the report.</p></div></div>
+<p>Reporter covering local politics</p>
+<p>Education: Duke University </p>
+<div><div>Rachel is a metro reporter covering local politics. She has previously contributed to The Raleigh News and Observer, CNN Politics and USA Today. </div></div>
+<div>Latest from Rachel Chason</div>
+<div><div><div><ul><li>Local</li></ul><a><h2>Edward Burroughs III wins special primary election for Prince George’s County Council</h2></a><p>Burroughs, 29, served on the school board for a decade.</p><div>January 6, 2022</div></div></div></div>
+<div><div><div><ul><li><a>Local</a></li></ul><a><h2>Vaccine gap between Black and White Americans narrowed, but it’s back for booster shots</h2></a><div>December 29, 2021</div></div></div></div>
+<div><ul><li><a>Local</a></li></ul><a><h2>Surging cases and hospitalizations are continuing to set grim records in Washington region</h2></a><p>Officials are still struggling to meet the high demand for testing.</p><div>December 28, 2021</div></div>
+<a><h2>Pandemic and weather in West complicate travel again as travelers try to head home after Christmas</h2></a>
+<p>The omicron spike, staff shortages and bad weather led to a new wave of canceled flights and put other plans in jeopardy.</p>
+<div><div><div><ul><li><a>Local</a></li></ul><a><h2>Four people injured in shooting Sunday morning at Frederick County rest stop </h2></a><div>December 26, 2021</div></div></div></div>
+<a><h2>Angela Alsobrooks came into office vowing to depoliticize education. It hasn’t worked. </h2></a>
+<p>Since her campaign, the county executive has called education in Prince George’s her top priority.</p>
+<div><div><div><ul><li><a>Local</a></li></ul><a><h2>Prince George’s government affected by ransomware attack</h2></a><div>December 14, 2021</div></div></div></div>
+<a><h2>They fled hundreds of miles to escape war in Ethiopia. But they fear it wasn’t far enough.</h2></a>
+<p>The abduction of a Nairobi businessman in late November led to escalating concern in the Tigrayan community.</p>
+<div><div><div><ul><li><a>Local</a></li></ul><a><h2>One killed in Chantilly car crash, Fairfax police say </h2></a><p>The passenger was pronounced dead at the hospital.</p><div>December 7, 2021</div></div></div></div>
+<header><div/><div><div><a>Local</a></div></div><div><h1>Edward Burroughs III wins special primary election for Prince George’s County Council</h1></div></header>
+<div><div><span><div><span><div><div>By Rachel Chason</div></div></span></div></span></div><div>Today at 6:18 p.m. EST</div></div>
+<div><div><p>Burroughs, 29, would be one of the youngest council members to serve on the body. He said he decided to run because he wanted to focus not only on education but on issues including housing, the economy and criminal justice.</p></div></div>
+<div><p>Prince George’s County faces new lawsuit involving officer who shot man in handcuffs</p></div>
+<a>slammed by more than 150 residents in public testimony</a>.
+<a>deepened divides</a> between the county’s generally moderate Democratic establishment and more liberal leaders.
+<div><p>Angela Alsobrooks came into office vowing to depoliticize education. It hasn’t worked.</p></div>
+<div><p>Burroughs’s critics have accused him of seeking the media spotlight instead of working through issues with his colleagues. He said he is committed to working with all council members, including those who did not support him.</p></div>
+<a>disputed the findings, </a>which they pointed out contained numerous errors and said were part of a campaign to oust them.
+<div><div><p>Among his top priorities, Burroughs said, will be “working on issues that uplift working people.”</p></div></div>
+<header><div><div>Local Crime Public Safety</div></div><div><h1>New charges in Prince William slayings linked to MS-13</h1></div></header>
+<div><div><span><div><span><div><div>By Rachel Weiner</div></div></span></div></span></div><div>Yesterday at 6:30 p.m. EST</div></div>
+<div><div><p>A dozen people have been indicted in federal court in Alexandria and accused of involvement in a Northern Virginia clique of MS-13 that authorities say was linked to four killings over four months.</p></div></div>
+<div><div><p>MS-13 is an international gang that originated in Los Angeles.</p></div></div>
+<div><div><p>At the time of the arrests, authorities said that three of the four killings were probably random, noting that MS-13 members commit acts of violence to advance in rank within the gang.</p></div></div>
+<p>Metro reporting intern covering crime and courts</p>
+<p>Education: Ohio State University, BA in journalism</p>
+<div><div>Jasmine Hilton is a reporting intern covering crime and courts on the Metro desk. She has previously interned at NBC News Washington and Politico magazine.</div></div>
+<div>Latest from Jasmine Hilton</div>
+<ul><li>Local Crime Public Safety</li></ul>
+<a><h2>Child, woman found fatally shot at home in Prince George’s, juvenile suspect in custody, police say</h2></a>
+<p>A juvenile is in custody in a double fatal shooting that occurred in the 8500 block of Wendy Street in the Clinton, Md. area, Prince George's county police say. A third person was injured in the shooting.</p>
+<ul><li><a>Local Crime Public Safety</a></li></ul>
+<a><h2>The family was opening a restaurant in their hometown. A winter storm brought a fatal crash.</h2></a>
+<p>Shawde Ajee Nayonta Wicks, Natasha Ann Hunter and Gary Eugene Early died in a car crash in Montgomery County Monday evening.</p>
+<div><ul><li><a>Local</a></li></ul><a><h2>Fire and EMS departments grapple with long ambulance waits at hospitals amid latest covid surge</h2></a><p>Departments across the region are facing an influx of challenges.</p><div>December 30, 2021</div></div>
+<div><ul><li><a>Local Crime Public Safety</a></li></ul><a><h2>1 dead, 2 wounded in shooting in Lanham, police say</h2></a><p>The shooting occurred in the 9900 block of Good Luck Road on Monday afternoon, police said.</p><div>December 28, 2021</div></div>
+<div><div><ul><li><a>Local Crime Public Safety</a></li></ul><a><h2>2 juveniles among 4 charged with murder in Oxon Hill, Md., shooting</h2></a><p>Prince George's County police said the motive was a robbery.</p><div>December 25, 2021</div></div></div>
+<a><h2>Two men slain in D.C. area on Christmas Eve</h2></a>
+<p>Both shootings occurred around the time the sun set Friday, within an hour of each other. They appeared to have no connection.</p>
+<a><h2>Maryland man charged after striking, flipping Virginia State Police car and fleeing police, police say</h2></a>
+<p>Virginia State Police said a driver struck and flipped a state trooper's vehicle on I-95 and then continued northbound to I-395, where the driver was stopped and taken into custody by Fairfax County police.</p>
+<div><ul><li><a>Local Crime Public Safety</a></li></ul><a><h2>Man found fatally shot at home in Germantown, police say</h2></a><p>The incident occurred in the 19300 block of Circle Gate Dr. in Germantown, police said.</p><div>December 23, 2021</div></div>
+<a><h2>Burned rubber, doughnuts and smoke. Unruly car meets, street racing disrupt roads and mobilize police.</h2></a>
+<p>Police, neighbors report rise in unruly car meets and street racing during pandemic.</p>
+<a><h2>Police arrest suspect in fatal shooting during flag football game on Capitol Hill</h2></a>
+<p>The shooting came after a game marred by tension and trash-talk, court papers say</p>
+<header><div><div>Local Crime Public Safety</div></div><div><h1>Child, woman found fatally shot at home in Prince George’s, juvenile suspect in custody, police say</h1></div></header>
+<div><div><span><div><span><div><div>By Jasmine Hilton</div></div></span></div></span></div><div>Today at 8:53 p.m. EST</div></div>
+<p>A child and a woman were found fatally shot at a home in the Clinton, Md., area, and a juvenile suspect is in custody in a what police say appeared to be a domestic-related incident Thursday evening, Prince George’s County police said.</p>
+<div><div><p>An man was also shot and suffered non-life-threatening injuries, police said.</p></div></div>
+<div><div><p>Officers responded to a home in the 8500 block of Wendy Street about 5:50 p.m. and found the woman and child dead inside a home, police said.</p></div></div>
+<div><div><p>Their identities have not been released.</p></div></div>
+<div><div><p>Police said investigators are working to determine the circumstances leading up to the shooting.</p></div></div>
+<p>Transportation reporter covering Washington's Metro, buses, Capital Bikeshare and taxis, and the region's road network</p>
+<p>Education: American University, BA and MA in journalism</p>
+<a><h2>Northam’s comments on Virginia’s snow response draw social media backlash</h2></a>
+<p>The typically mild-mannered governor had a testy response in a radio interview, when asked about the state's response to the snowfall that left motorists stranded on I-95 for more than 24 hours.</p>
+<ul><li><a>Transportation</a></li></ul>
+<a><h2>D.C. finds enforcement shortcomings as it grapples with rise in reckless driving</h2></a>
+<p>The city has collected $93 million through a ticket amnesty program that ends this month, but millions of dollars in fines go unpaid.</p>
+<a><h2>After 60 years without major repair, scenic George Washington Parkway is due a $161 million renovation</h2></a>
+<p>The National Park Service has awarded a $161 million contract in a multiyear repair project that promises a brand-new roadway — and nightmarish traffic when construction begins in about a year.</p>
+<a><h2>Virginia explores extending 495 Express Lanes another 11 miles to Wilson Bridge</h2></a>
+<p>The proposed highway widening would complete the final leg of a tolling system on Virginia’s portion of the Capital Beltway.</p>
+<a><h2>10-mile extension of 95 Express Lanes in Virginia unlikely to open next year</h2></a>
+<p>The project is entangled in a contractual dispute over soil conditions that has slowed construction.</p>
+<a><h2>In D.C., residents raise alarms over rise in drivers striking children</h2></a>
+<p>The collisions involving children are part of a deadly rise in crashes on city streets.</p>
+<a><h2>D.C. will add bike lanes, remove reversible travel lanes on busy Connecticut Ave. NW</h2></a>
+<p>D.C. plans a makeover of the busy commuter route to include a northbound and southbound bike lane that will permanently remove reversible rush-hour lanes.</p>
+<div><ul><li><a>Transportation</a></li></ul><a><h2>Amtrak names railroad veteran Stephen Gardner as new CEO</h2></a><p>He will replace William J. Flynn, who has served as Amtrak’s top executive since April 2020.</p><div>December 15, 2021</div></div>
+<a><h2>Amtrak loosens worker vaccine mandate, will allow testing option to avert service cuts</h2></a>
+<p>About 5 percent of the railroad’s workforce was facing termination for not showing proof of vaccination.</p>
+<a><h2>Amtrak to Congress: Service cuts are coming over vaccine rules</h2></a>
+<p>The railroad says 5 percent of its workforce has yet to get vaccinated less than four weeks before a deadline.</p>
+<p>Local reporter covering Virginia politics</p>
+<p>Education: Trinity College, Hartford, Conn., BA in English Literature</p>
+<div>Latest from Laura Vozzella</div>
+<ul><li><a>Virginia Politics</a></li></ul>
+<a><h2>Youngkin nominates Trump EPA chief Andrew Wheeler for secretary of natural resources</h2></a>
+<p>Virginia Gov.-elect Glenn Youngkin nominated Trump EPA chief Andrew Wheeler as secretary of natural resources, drawing immediate pushback from environmentalists and Democrats.</p>
+<a><h2>Virginia Gov.-elect Youngkin names veterans, agriculture secretaries</h2></a>
+<p>Virginia Gov.-elect Glenn Youngkin has named two nominees for top veterans positions: Craig Crenshaw as secretary of veterans and defense affairs and Dan Gade as commissioner of the Department of Veterans Services.</p>
+<a><h2>Youngkin picks Richmond insider Richard Cullen, businessman Jeff Goettman for key Cabinet posts</h2></a>
+<a><h2>New laws in Washington region will bring plastic bag tax, leaf blower ban and ‘Emancipation Highway’</h2></a>
+<p>A host of new laws in the Washington region will take effect Saturday, including a 5-cent surcharge on plastic bags in Northern Virginia, a leaf blower ban in the District and two new council seats in Montgomery County.</p>
+<div><div><div><ul><li><a>Virginia Politics</a></li></ul><a><h2>Spanberger, Griffith plan to run again for their seats under new Virginia congressional map</h2></a><div>December 29, 2021</div></div></div></div>
+<a><h2>Virginia Supreme Court approves redrawn congressional, General Assembly maps</h2></a>
+<p>The approval ended a contentious redistricting process that for the first time gave no say to the state’s elected officials.</p>
+<a><h2>Youngkin names investment banker as Virginia finance secretary</h2></a>
+<p>Gov.-elect Glenn Youngkin has named former investment banker Stephen Emery Cummings as Virginia finance secretary. The Cabinet official helps the governor assemble the state's budget and works with lawmakers to get it passed.</p>
+<a><h2>Virginia Democrats split over last-minute plan to shore up abortion rights</h2></a>
+<p>Virginia Democrats are split over a last-minute plan to shore up abortion rights before Gov.-elect Glenn Youngkin is sworn in and the GOP takes control of the state House of Delegates in January.</p>
+<a><h2>Washington Football Team seeking support for stadium complex in Northern Virginia</h2></a>
+<p>Washington Football Team officials have been meeting with Virginia legislators to seek support for a plan to build a stadium in Northern Virginia, according to five people with knowledge of the effort.</p>
+<header><div/><div><div><a>Virginia Politics</a></div></div><div><h1>Northam’s comments on Virginia’s snow response draw social media backlash</h1></div></header>
+<div><div><span><div><span><div>By Laura Vozzella</div> and</span></div><div><span><div>Luz Lazo</div></span></div></span></div><div>Today at 7:44 p.m. EST</div></div>
+<div><div><p>Adding fuel to the fire: Northam also expressed exasperation with motorists who’d ignored the storm forecast and the state’s pleas to stay off the roads.</p></div></div>
+<div><div><p>“Why don’t you start asking some of these individuals that were out on the highway for hours: … ’Why did you feel it was so important to drive through such a snowstorm?’” he said.</p></div></div>
+<div><div><p>Northam also expressed sympathy for those who had been trapped later in the interview, but WRVA did not include that in the short clip initially posted on its website. It later added a second clip with those remarks.</p></div></div>
+<div><p>After snowstorm, ongoing power outages plague thousands in Virginia: ‘30 degrees in my living room’</p></div>
+<div><div><p>“Goodness gracious, @RalphNortham,” tweeted Garren Shipley, spokesman for incoming state House Speaker C. Todd Gilbert (R-Shenandoah). “This is not a good look.”</p></div></div>
+<div><p>The backlash on social media swirled as the state braced for another winter storm, creating a headache for a governor already juggling the aftermath of the I-95 crisis and a resurgent coronavirus in the final days of his four-year term.</p></div>
+<p>Northam’s remarks on the radio drew attention in part because he rarely shows anger in public. A folksy Eastern Shore native, he typically has the demeanor of a soft-spoken pediatrician, his job before he assumed the Executive Mansion.</p>
+<div><div><p>Even as Northam pushed back against the reporter’s question about “what went wrong,” he soon caught himself, saying, “I hate to vent on you right now.”</p></div></div>
+<div><div><p>In his interview with The Post, Northam said he welcomes a review, including into whether state officials could have shut down the highway sooner or communicated better with motorists.</p></div></div>
+<div><div><p>But Northam weathered the episodes and, with a newly blue General Assembly, wound up delivering a host of long-stalled Democratic priorities.</p></div></div>
+<div><p><span>Several school systems in Virginia to remain closed Thursday</span></p></div>
+<div><p>Valentine said the investigation will be able to determine what was done well and “what we need to do better going forward.” She did not say give a timeline for when the review will be completed and a report readied.</p></div>
+<div><p>As of Thursday, crews still working to clear local streets were shifting to pretreating the interstates and other primary and high-volume roadways ahead of a storm expected to dump three to four inches on the I-95 corridor overnight.</p></div>
+<div><div><p>Even a modest accumulation of snow overnight could lead to treacherous commutes, numerous accidents and delays, unsettling the region already on edge. Monday’s storm dumped about a foot of snow in portions of Virginia.</p></div></div>
+<div><div><p><i>Meagan Flynn contributed to this report.</i></p></div></div>
+<div><div>Capital Weather Gang</div></div>
+<div><h1>How extreme climate conditions fueled unprecedented Colorado fire</h1></div>
+<h2>Record warmth and extreme drought, intensified by climate change, set the stage for the devastating blaze</h2>
+<div><span><div><span><div>By Jason Samenow</div>, </span></div><div><span><div>Jacob Feuerstein</div> and</span></div><div><span><div>Becky Bolinger</div></span></div></span></div>
+<div><span><div><span><div>By Jason Samenow</div>,</span></div><div><span><div>Jacob Feuerstein</div> and</span></div><div><span><div>Becky Bolinger</div></span></div></span></div>
+<div><p>‘Total devastation’ after wildfire charges through Colorado towns</p></div>
+<div><div><p>According to climate scientists, extreme fires tend to be “climate-enabled and weather-driven”; this was a classic case and one that is projected to become more frequent as the planet warms.</p></div></div>
+<div><p>Colorado and Wyoming see record blizzard, historic snowfall in Denver and Cheyenne</p></div>
+<div><div><p>The timing of drought onset was unusual. Rapid increases in drought severity in Colorado typically occur in the spring and summer months. Seeing this deterioration in the fall and winter was much more rare.</p></div></div>
+<div><div><p>The drought level where the fires erupted was “extreme,” the second-highest category.</p></div></div>
+<div><div><p>Unusually warm conditions intensified the drought; they began this summer and continued through this week.</p></div></div>

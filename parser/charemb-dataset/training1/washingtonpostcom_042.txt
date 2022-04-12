@@ -1,0 +1,500 @@
+<div><div><div><div><h2><a>Billy Porter on growing up Black and gay in America</a></h2></div><div>Opinion by <a>Jonathan Capehart</a></div></div></div></div>
+<div><div>George Floyd’s America</div></div>
+<div><div><div><div><h2><a>Injustice in life and oppression in death: How systemic racism shaped George Floyd’s life and hobbled his ambition</a></h2></div><div>By Toluse Olorunnipa and <a>Griff Witte</a></div></div></div></div>
+<div><div><div><div><h2><a>A young man’s path out of Houston’s oldest housing project echoes George Floyd’s journey nearly 30 years ago</a></h2></div><div>By <a>Tracy Jan</a> and <a>Arelis R. Hernández</a></div></div></div></div>
+<div><div><div><div><h2><a>Police were a constant presence in George Floyd’s life, an experience shared by other Black men</a></h2></div><div>By Arelis R. Hernández</div></div></div></div>
+<div><div><div><div><h2><a>For George Floyd and Black men in recovery, ‘everything just piles up’</a></h2></div><div>By <a>Robert Samuels</a></div></div></div></div>
+<div><div><a>Understanding the Issues</a></div></div>
+<div><div><div><div>Perspective</div><div><h2><a>Latinos across the country are embracing their power in a shifting America</a></h2></div><div>By Silvia Foster-Frau and <a>Rachel Hatzipanagos</a></div></div></div></div>
+<div><div><div><div><h2><a>Resources to understand America’s long history of injustice and inequality</a></h2></div><div>By Washington Post Staff</div></div></div></div>
+<div><div><div><div><h2><a>‘History has its eyes on us’: Black History Month 2021</a></h2></div><div>By Washington Post Staff</div></div></div></div>
+<div><div><div><div><h2><a>It is America’s original sin. So why haven’t the nation’s schools done a better job of teaching about slavery?</a></h2></div><div>By Joe Heim</div></div></div></div>
+<div><div><a>The N-word project</a></div></div>
+<div><div><div><div><h2><a>A racial slur entrenched in American vernacular is more prevalent than ever</a></h2></div><div>By Dave Sheinin and <a>Krissah Thompson</a></div></div></div></div>
+<div><div><div><div><h2><a>Pop culture removes a racial slur’s stigma for many young Americans</a></h2></div><div>By Dave Sheinin and Krissah Thompson</div></div></div></div>
+<div><div><div><div><h2><a>A football team illustrates the shift in attitude toward the use of a once-taboo word</a></h2></div><div>By Dave Sheinin and Krissah Thompson</div></div></div></div>
+<div><div>More Coverage</div></div>
+<div><h2><a>Republicans and Democrats have split over whether to support multiethnic democracy, our research shows</a></h2></div>
+<div>Trump activated what we call a 'MAGA faction,' motivated by animus toward marginalized groups.</div>
+<div>By Lilliana Mason, Julie Wronski and John V. Kane</div>
+<div><div><div><div><h2><a>A Black teen died in custody while being restrained facedown. Now the prone position is again under fire.</a></h2></div><div>By Timothy Bella</div></div></div></div>
+<div><div><div><div><h2><a>GOP Rhode Island lawmaker under fire for suggesting she lost a Black friend to critical race theory</a></h2></div><div>By <a>Timothy Bella</a></div></div></div></div>
+<div><div><div><div><h2><a>She was arrested at a bar, then found hanging in a cell. Police haven’t given her family answers.</a></h2></div><div>By Mark Guarino</div></div></div></div>
+<div><div><div><div><a>Opinion</a></div><div><h2><a>A holiday message from Jonathan</a></h2></div></div></div></div>
+<div><div><div><div><a>Analysis</a></div><div><h2><a>Archbishop Tutu’s radical commitment to humanity led him to criticize parties, people and institutions</a></h2></div></div></div></div>
+<div><div><div><div><h2><a>Kimberly Potter found guilty of manslaughter in fatal shooting of Daunte Wright</a></h2></div></div></div></div>
+<div><div><div><div><a>Opinion</a></div><div><h2><a>'Citizen Ashe' traces the life and career of a tennis legend</a></h2></div></div></div></div>
+<div><div><a>Innovations</a></div></div>
+<div><h1>The battle to prevent another Jan. 6 features a new weapon: The algorithm</h1></div>
+<h2>A year after the attack on the Capitol, data scientists say artificial intelligence can help forecast insurrection — with some big concerns</h2>
+<div><div><span><div><span><div><div>By Steven Zeitchik</div></div></span></div></span></div><div>Today at 5:00 a.m. EST</div></div>
+<div><div><p>For many Americans who witnessed the attack on the Capitol last Jan. 6, the idea of mobs of people storming a bedrock of democracy was unthinkable.</p></div></div>
+<div><div><p>For the data scientists who watched it unfold, the reaction was a little different: We’ve been thinking about this for a long time.</p></div></div>
+<b> </b>that predicts the likelihood of coups and electoral violence for dozens of countries each month.
+<div><p>Election misinformation soared to 10,000 posts per day in Facebook groups before Jan. 6</p></div>
+<div><p>Another group, the nonprofit Armed Conflict Location Event Data Project, or ACLED, also monitors and predicts crises around the world, employing a mixed-method approach that relies on both machine-learning and software-equipped humans.</p></div>
+<div><p>Biden White House concludes Jan. 6 preparations hurt by lack of high-level intelligence sharing</p></div>
+<div><div><p>“For the 2024 election God knows we absolutely need to be doing this,” said Sheldon Himelfarb, chief executive of PeaceTech. “You can draw a line between data and violence in elections.”</p></div></div>
+<div><div><p>Many of the models, for instance, find income inequality not to be correlated highly with insurrection; drastic changes in the economy or climate are more predictive.</p></div></div>
+<div><div><p>And paradoxically social-media conflict is an unreliable indicator of real-world unrest. (One theory is that when violence is about to take place, many people are either too busy or too scared to unleash screeds online.)</p></div></div>
+<div><p>Bellish and other skeptics also point to a troubling consequence: Prediction tools could be used to justify crackdowns on peaceful protests, with AI used as a fig leaf. “It’s a real and scary concern,” Powell said.</p></div>
+<div><p>Opinion: Polling on Jan. 6 shows the vast majority of Americans aren’t crazy</p></div>
+<b> </b> He imagines a very slow transition to these models.
+<div><div><p>“I don’t think we’ll have this in wide use by January 6, 2025,” he added. “We should, because the technology is there. But it’s an adoption issue.”</p></div></div>
+<div><p><span>Law enforcement agencies failed to heed mounting warnings about violence on Jan. 6</span></p></div>
+<div><div><p>But the FBI and the Department of Homeland Security — two agencies central to domestic terrorism — have shown fewer signs of adopting these models.</p></div></div>
+<div><div><a>Tech in Your Life</a></div></div>
+<div><h1>The weirdest and most interesting tech at CES 2022</h1></div>
+<h2>The consumer electronics trade show salutes 2022 with some of the strangest technologies we’ve seen in a while. Here are the highlights.</h2>
+<div><div><span><div><span><div>By Chris Velazco</div> and</span></div><div><span><div>Tatum Hunter</div></span></div></span></div><div>Yesterday at 9:58 p.m. EST|Updated yesterday at 4:55 p.m. EST</div></div>
+<p>The world’s biggest consumer electronics trade show known as CES feels weird this year, with far fewer attendees gracing the Las Vegas conference halls where consumer tech companies show off their latest and greatest (almost) every January.</p>
+<div><div>Help Desk: Technology coverage that makes tech work for you</div></div>
+<p>As always, some of the industry’s plans are raising eyebrows. People still don’t have legal protections for the personal data they generate in normal old smartphone apps, yet consumer tech is marching forward into virtual reality.</p>
+<div><p>What it’s like at one of the world’s biggest tech trade shows as omicron surges</p></div>
+<div><div><h3><div>Garments made for gaming — and the metaverse</div></h3></div></div>
+<p>The age of the metaverse is nearly upon us, according to some of the biggest names in tech. But what good is palling around with people in a sprawling, interconnected virtual space if you can’t feel the “world” around you?</p>
+<div><div><p>That’s where the smart — and sometimes painful — garments from <a>Owo</a> enter the picture.</p></div></div>
+<div><div><h3><div>At last, augmented reality glasses that don’t look (that) ridiculous</div></h3></div></div>
+<div><p>But what’s a wearable like this actually meant to do? The software on the prototype we saw was far from finished, but it mentioned the ability to control phone calls, view photos and even display text on a virtual teleprompter.</p></div>
+<div><div><h3><div>Spacious space abodes</div></h3></div></div>
+<div><div><p>Some CES presenters are thinking forward to when people live in entirely connected homes. Sierra Space is thinking about when people live in giant inflatable houses on the moon.</p></div></div>
+<div><div><h3><div>A fitness tracker for your cat</div></h3></div></div>
+<div><div><p>“The pet’s place in the family is changing,” says Caudron. “It’s no longer a dog-master relationship. We think of ourselves as parents and our dogs as a member of the family.”</p></div></div>
+<div><div><h3><div>A projector that works in unexpected places</div></h3></div></div>
+<div><p>Even now, in the middle of the strangest CES on record, companies have devoted big chunks of the show floor to showing off their flashiest, best TVs. But for Samsung, one of its biggest new products might actually be one of its smallest.</p></div>
+<div><div><h3><div>A robot that nibbles your fingers and warms your heart</div></h3></div></div>
+<div><div><p>True comfort is priceless, and for some people, that kind of peace only comes when animals or babies cutely gnaw on them. If that’s you, a tiny product from Japan just might be the best impulse buy of your life.</p></div></div>
+<div><div><p>Aoki hopes to usher Amagami Ham Ham through a crowdfunding campaign in a few months, and — assuming that’s successful — he aims to sell the robot in Japan and abroad for the equivalent of about $30.</p></div></div>
+<div><p>The biggest tech trends to watch for in 2022</p></div>
+<div><div><h3><div>A robot that probably upsets you</div></h3></div></div>
+<div><div><p>Humanoid robots are getting more lifelike, but only compared to their predecessors.</p></div></div>
+<div><div><p>Just take the Ameca robot from Engineered Arts, a true-to-scale, metal-and-plastic robot person who blinks, shrugs and grimaces just like you and me — if you and me were stilted human facsimiles.</p></div></div>
+<div><div><h3><div>A foldable screen that doubles as a laptop</div></h3></div></div>
+<h3>Help Desk: Making tech work for you</h3>
+<p><a><b>Help Desk</b></a> is a new destination built for readers looking to better understand and take control of the technology used in everyday life. <a><b>Meet the Help Desk team</b></a>.</p>
+<p><b>Go deeper:</b> <a>Tech in Your Life</a> | <a>Tech at Work</a> | <a>Your Data and Privacy</a> | <a>Internet Access</a> | <a>What’s New</a> | <a>Ethical Issues</a></p>
+<a><b>A guide to every privacy setting you should change now</b></a>. We have gone through the
+<b> </b>settings for the most popular (and problematic) services to give you recommendations.
+<p><b>Ask a question: </b><a>Send the Help Desk your personal technology questions</a>.</p>
+<div><div><div>MORE TECH IN YOUR LIFE</div><div><div>HAND CURATED</div></div></div></div>
+<div>Future of Transportation</div>
+<div><div><div>Technology</div><a>GM heralded this plant as a model for its electric car future. Then its bat...</a></div></div>
+<div><div><div>Technology</div>Tesla halts use of video games in moving cars amid safety probe</div></div>
+<div><div><div>Technology</div>Federal regulators probing Tesla over drivers’ ability to play video games ...</div></div>
+<div><div><div>Technology</div>Tesla test drivers believe they’re on a mission to make driving safer for e...</div></div>
+<div><div><div>Technology</div><a>Six Tesla workers file additional lawsuits alleging sexual harassment</a></div></div>
+<div><div><div>Technology</div>A Tesla factory worker alleges sexual harassment is rampant in a rare lawsu...</div></div>
+<div><div><span><div><div>Exclusive</div></div></span></div></div>
+<div><h1>Six Tesla workers file additional lawsuits alleging sexual harassment</h1></div>
+<h2>The women brought their suits after Jessica Barraza sued Tesla in November alleging “nightmarish conditions” and “rampant sexual harassment” at its factory.</h2>
+<div><div><span><div><span><div><div>By Faiz Siddiqui</div></div></span></div></span></div><div>December 14, 2021 at 3:07 p.m. EST</div></div>
+<div><div><p>The lawsuits were filed in California Superior Court in Alameda County.</p></div></div>
+<div><p>A Tesla factory worker alleges sexual harassment is rampant. Now other women are stepping forward.</p></div>
+<a>$137 million awarded</a> to former employee Owen Diaz in October after a jury found in favor of the elevator operator’s allegations of racist abuse, discrimination and harassment. Tesla has also been disciplined
+<a>unfair labor practices </a>at the plant — interrogating employees over suspected unionization plans and threatening workers with the loss of stock options, among other labor law breaches, the National Labor Relations Board has said.
+<a>Hotbed of Misinformation</a>.” Following the October jury verdict in the Diaz trial, which alleged racist abuse, Tesla
+<a>took exception to </a>the verdict and said it was working to improve the employee experience.
+<div><p>Tesla tempted drivers with ‘insane’ mode and now is tracking them to judge safety. Experts say it’s ludicrous.</p></div>
+<div><p>Billionaire Elon Musk named Time’s Person of the Year for 2021</p></div>
+<div><div><p>Curran, now 20, quit after about two months.</p></div></div>
+<div><p>Tesla is like an ‘iPhone on wheels.’ And consumers are locked into its ecosystem.</p></div>
+<div><p>Jury orders Tesla to pay more than $130 million in discrimination suit, which alleged racist epithets and hostile work environment</p></div>
+<div><p>“When I started at Tesla, Tesla was going to be my career,” she told The Post. “I wanted to move up in the company — I was proud to work there when I got the job. When I left, I was just devastated.”</p></div>
+<div><p>Tesla gave workers permission to stay home rather than risk getting covid-19. Then it sent termination notices.</p></div>
+<p>When a supervisor told male co-workers Sheppard’s nipples were visible through her shirt, her complaint alleges, “Ms. Sheppard was not sure who to complain to, given that the Supervisors or Leads were often the harassers.”</p>
+<div><div><p>Later on, she said, the same supervisor told her that her contract would not be renewed. She said she often ended up in different parts of the factory to avoid contact with her harasser.</p></div></div>
+<div><div><div>MORE TOP STORIES</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><a>Climate and Environment</a></div></div>
+<div><h1>New Biden rule reducing climate emissions from cars and SUVs reverses major Trump rollback</h1></div>
+<h2>The Environmental Protection Agency regulation finalized Monday marks the president’s single biggest step to fight global warming. But Congress has stymied his most ambitious electric vehicle plans.</h2>
+<div><span><div><span><div>By Dino Grandoni</div>,</span></div><div><span><div>Faiz Siddiqui</div> and </span></div><div><span><div>Anna Phillips</div></span></div></span></div>
+<div><p>The Biden administration finalized a rule Monday to cut climate pollutants from new cars and light trucks, which will keep billions of tons of carbon dioxide from entering the atmosphere and change the kinds of vehicles Americans drive.</p></div>
+<div><div><p>The agency decided to issue tailpipe emissions tighter than those it <a>proposed in August</a> for 2025 and 2026.</p></div></div>
+<div><div><p>Pressed on whether the industry could meet the tighter pollution standards without the climate bill’s passage, he said at a news conference held in the EPA’s courtyard that the new rule is “achievable.”</p></div></div>
+<div><div><p>“Achieving the goals of this final rule will undoubtedly require enactment of supportive governmental policies,” he said in a statement.</p></div></div>
+<a>a companion rule</a> aiming to improve the fuel efficiency of cars built between 2024 and 2026.
+<div><p>Here's what Biden is doing to tackle climate change</p></div>
+<div><div><p>But it doesn’t make up for ground lost under the Trump administration, which eased Obama-era rules that would have achieved nearly the same emission cuts a year earlier.</p></div></div>
+<div><div><p>“This is not commensurate with tackling an existential threat,” he added. “This is commensurate with making the auto companies whine a lot less.”</p></div></div>
+<div><div><p>The transition, though, faces roadblocks.</p></div></div>
+<a>retooled another facility in Michigan to all-electric</a>, where it is building its Hummer EV. GM wants to offer 30 electric vehicle models around the world by 2025.
+<div><div><p>Ray Curry, head of the United Auto Workers, was still optimistic that Congress would approve tax breaks for union-made electric vehicles to soften the blow, despite Manchin’s opposition.</p></div></div>
+<div><div><p>“We still believe those EV tax credits will be available for our union-made products, we really do believe that,” Curry said outside EPA headquarters.</p></div></div>
+<p>Making matters more difficult for regulators is Americans’ growing appetite for gas-guzzling trucks. The EPA under President Barack Obama underestimated the “pretty significant shift from cars to trucks in the market,” Alson said.</p>
+<a>tweeted</a> Sen. Shelley Moore Capito (W.Va.), ranking Republican on the Senate Environment and Public Works Committee.
+<div><p>Countries’ climate pledges built on flawed data, Post investigation finds</p></div>
+<div><div><p>The EPA is already planning to restrict emissions further with a rule for cars of model year 2027 and beyond, a make-or-break moment for the president’s 2030 climate goal.</p></div></div>
+<a>reached an agreement</a> to ramp up their carbon-cutting commitments, phase down fossil fuels and increase aid to poor countries on the front lines of climate change.
+<a><b>Read the full text of the agreement here, with annotations.</b></a>
+<p><b>More reporting from COP26: </b><a>Five big takeaways from COP26</a> | <a>Countries’ climate pledges built on flawed data, Post investigation finds</a> | <a>Nations reach agreement to speed climate action, but world remains off target</a></p>
+<b>More on the causes and effects climate change:</b>
+<a>The undeniable link between weather disasters and climate change </a>
+<b>More on climate change solutions:</b>
+<a>Harnessing the energy of the ocean to power homes, planes and whisky distilleries</a>
+<div><div><div>MORE ON CLIMATE CHANGE</div><div><div>HAND CURATED</div></div></div></div>
+<div>Future of Transportation</div>
+<div><div><div>Technology</div><a>GM heralded this plant as a model for its electric car future. Then its bat...</a></div></div>
+<div><div><div>Technology</div>Tesla halts use of video games in moving cars amid safety probe</div></div>
+<div><div><div>Technology</div>Federal regulators probing Tesla over drivers’ ability to play video games ...</div></div>
+<div><div><div>Technology</div>Tesla test drivers believe they’re on a mission to make driving safer for e...</div></div>
+<div><div><div>Technology</div><a>Six Tesla workers file additional lawsuits alleging sexual harassment</a></div></div>
+<div><div><div>Technology</div>A Tesla factory worker alleges sexual harassment is rampant in a rare lawsu...</div></div>
+<div><div><a>Technology</a></div></div>
+<div><h1>Tesla test drivers believe they’re on a mission to make driving safer for everyone. Skeptics say they’re a safety hazard.</h1></div>
+<h2>Drivers said they are willing to take on the risk even if they have to intervene — believing they are on a world-changing mission</h2>
+<div><div><span><div><span><div>By Reed Albergotti</div> and</span></div><div><span><div>Faiz Siddiqui</div></span></div></span></div><div>December 21, 2021 at 7:00 a.m. EST</div></div>
+<div><div><p>“I felt like I needed better driver assistance or I was going to have a panic attack,” he said.</p></div></div>
+<div><div><p>"It de-stresses me,” he said in an interview. “I observe more. I’m more aware of everything around. I feel safer with it on.”</p></div></div>
+<div><p>Billionaire Elon Musk named Time’s Person of the Year for 2021</p></div>
+<div><p>Tesla‘s approach stands out as radically different. The software — which Musk called part of a “debatable” upgrade in July — has been used to update cars already on the roads and in the hands of drivers.</p></div>
+<b> </b>crashes within a day of learning about the incidents, stoking fears that Tesla’s brazenness will invite tighter regulations, slowing progress across the industry.
+<div><p>Tesla is putting ‘self-driving’ in the hands of drivers amid criticism the tech is not ready</p></div>
+<div><p>Christopher Hart, former chairman of the National Transportation Safety Board and now a safety consultant, said driver-assistance systems like Tesla’s should be tested more thoroughly before they’re released on public roads.</p></div>
+<div><p>Tesla’s recent Full Self-Driving update made cars go haywire. It may be the excuse regulators needed.</p></div>
+<div><p>It’s a big gamble that the technology will improve faster than the associated liability with testing it on the roads, said Andrew Maynard, a professor at Arizona State University who is director of its Risk Innovation Lab.</p></div>
+<div><div><p>The company later issued a recall, and owners — including Smith — said they were dismayed by its actions related to the move.</p></div></div>
+<div><p>Six Tesla workers file additional lawsuits alleging sexual harassment</p></div>
+<div><div><p>Others have soured in the meantime.</p></div></div>
+<div><div><p>Marc Hoag, a self-described Tesla fanboy and a shareholder of its stock, waited for a year and a half to get the software. But once he tried it, he was disappointed.</p></div></div>
+<div><div><p>“It’s still so impossibly bad,” he said.</p></div></div>
+<div><div><p>“It seems to me remarkably, shockingly premature to allow it to be tested on public streets,” he added. “You can’t test it and not be reckless at the same time.”</p></div></div>
+<div><div><p>Many loyal Tesla drivers don’t fault Musk for promising the impossible.</p></div></div>
+<div><p>Tesla tempted drivers with ‘insane’ mode and now is tracking them to judge safety. Experts say it’s ludicrous.</p></div>
+<div><div><p>Though hitting that button is satisfying, it may not help very much, said Mahmood Hikmet, a New Zealand-based self-driving car engineer who works in another part of the industry focused on autonomous shuttles.</p></div></div>
+<p>He and other experts in the field say Tesla can’t use the fire hose of data from its cars all at once. Other companies instruct safety drivers to test specific problem areas at specific times, rather than have them drive around aimlessly.</p>
+<div><p><span>City planners eye self-driving vehicles to correct mistakes of the 20th-century auto</span></p></div>
+<div><p>For Chris, buying a Tesla was a “life changer” because the Autopilot feature allowed him to improve his grueling commute that begins on the dirt road leading out of his rural home in Fenton, Mich., and ends in Ann Arbor.</p></div>
+<div><p>“I’m not going to put anybody in danger. I have to be mindful of the cars around me,” he said. “You’re potentially getting to be part of this future of transport as you are basically training this car.”</p></div>
+<header><div/><div><div><a>Technology</a></div></div><div><h1>Jurors in Elizabeth Holmes trial ask judge whether they can take instructions home as holidays approach </h1></div><h2>The answer? No.</h2></header>
+<div><div><span><div><span><div>By Faiz Siddiqui</div> and</span></div><div><span><div>Rachel Lerman</div></span></div></span></div><div>December 21, 2021 at 6:30 p.m. EST</div></div>
+<div><div><p>SAN JOSE — Jurors deliberating in the Elizabeth Holmes trial sent a note to the court Tuesday asking whether they could take the 39-page jury instructions home to “review them at length.”</p></div></div>
+<div><div><p>The request was swiftly denied by the judge.</p></div></div>
+<div><div><p>“All deliberations must occur in the jury room,” Judge Edward J. Davila said he would write in response to the jurors. “No.”</p></div></div>
+<div><div><p>The jury is scheduled to be off Wednesday and reconvene Thursday.</p></div></div>
+<div><p>Closing arguments in Theranos founder Elizabeth Holmes’s trial are done. Now the jury decides.</p></div>
+<div><div><p>Prosecutors have alleged that Holmes misled investors and patients about how well her company’s technology worked.</p></div></div>
+<div><div><p>The entrepreneur’s trial has lasted more than three months, featuring nearly 30 government witnesses.</p></div></div>
+<div><div><p>Holmes <a>defended herself</a> on the stand for more than seven days during the trial, saying that she acted in good faith and never intentionally misled partners.</p></div></div>
+<div><p>Prosecution, defense deliver closing arguments in Elizabeth Holmes’s blood testing start-up trial</p></div>
+<div><div><p>The judge handed the jurors the case late Friday, and the jury of eight men and four women met Monday and Tuesday to deliberate.</p></div></div>
+<h3>What to know about Theranos and Elizabeth Holmes</h3>
+<p>After a more than three-month proceeding, a federal jury found <b>Theranos founder Elizabeth Holmes</b> <a>guilty on four counts</a> of wire fraud and conspiracy to commit fraud against investors.</p>
+<p>Holmes was accused of <a>misleading investors and patients </a>about the capability of her company’s blood-testing technology.</p>
+<p>She testified that she <a>believed the information she was providing</a> to her prospective business partners.</p>
+<p>For some, the trial was a chance to get the full story of what happened inside the company, and an opportunity for the <a>Silicon Valley ethos</a> to be held in front of a public mirror.</p>
+<p>Fellow Silicon Valley entrepreneurs and backers say Holmes represented only the <a>worst of start-up culture</a>.</p>
+<p><b>Robin Givhan:</b> <a>Elizabeth Holmes used every trope in the book</a></p>
+<div>Future of Transportation</div>
+<div><div><div>Technology</div><a>GM heralded this plant as a model for its electric car future. Then its bat...</a></div></div>
+<div><div><div>Technology</div>Tesla halts use of video games in moving cars amid safety probe</div></div>
+<div><div><div>Technology</div>Federal regulators probing Tesla over drivers’ ability to play video games ...</div></div>
+<div><div><div>Technology</div>Tesla test drivers believe they’re on a mission to make driving safer for e...</div></div>
+<div><div><div>Technology</div><a>Six Tesla workers file additional lawsuits alleging sexual harassment</a></div></div>
+<div><div><div>Technology</div>A Tesla factory worker alleges sexual harassment is rampant in a rare lawsu...</div></div>
+<div><div><a>Technology</a></div></div>
+<div><h1>Federal regulators probing Tesla over drivers’ ability to play video games in moving cars</h1></div>
+<h2>The National Highway Traffic Safety Administration estimated about 580,000 vehicles were affected</h2>
+<div><div><span><div><span><div><div>By Faiz Siddiqui</div></div></span></div></span></div><div>December 22, 2021 at 12:05 p.m. EST</div></div>
+<div><div><p>Auto safety officials are probing Tesla over reports that video games came be activated on the front touch screens while the cars are being driven, according to an investigation summary posted online this week.</p></div></div>
+<div><p>Tesla test drivers believe they’re on a mission to make driving safer for everyone. Skeptics say they’re a safety hazard.</p></div>
+<div><div><p>The office said the issue is present in Tesla Models 3, S, X and Y and that game play has been available to drivers since December 2020. Games range from solitaire to more advanced titles.</p></div></div>
+<div><div><p>“Prior to this time, gameplay was enabled only when the vehicle was in Park,” the report said.</p></div></div>
+<div><div><p>NHTSA’s statements on the video game issue tied back to the concerns about abuse of automated systems.</p></div></div>
+<div><div><p>The New York Times reported on Tesla drivers’ ability to play video games while driving earlier this month. Tesla did not immediately respond to a request for comment.</p></div></div>
+<div><p><span>Tesla Full Self-Driving recall came amid increased regulatory scrutiny</span></p></div>
+<div><div><p>“Our goal is to set the bar for what video games in a car can be; much of this is uncharted territory having never been done before,” the company wrote.</p></div></div>
+<div><h1>Tesla halts use of video games in moving cars amid safety probe</h1></div>
+<h2>The move comes after the National Highway Traffic Safety Administration opened a probe into the ‘Passenger Play’ feature this week.</h2>
+<div><div><span><div><span><div><div>By Faiz Siddiqui</div></div></span></div></span></div><div>December 23, 2021|Updated December 23, 2021 at 5:00 p.m. EST</div></div>
+<div><div><p>SAN FRANCISCO — Tesla will no longer allow drivers and front-seat passengers to play video games while its cars are in motion, the company told federal regulators after a probe was opened this week.</p></div></div>
+<div><p>Federal regulators probing Tesla over drivers’ ability to play video games in moving cars</p></div>
+<div><div><p>“The Vehicle Safety Act prohibits manufacturers from selling vehicles with defects posing unreasonable risks to safety, including technologies that distract drivers from driving safely,” Sanchez said.</p></div></div>
+<div><div><p>She said the evaluation continues while federal regulators gather additional information from Tesla.</p></div></div>
+<div><p><span>Tesla test drivers believe they’re on a mission to make driving safer for everyone. Skeptics say they’re a safety hazard.</span></p></div>
+<div><div><p>A second system, called Full Self-Driving, is a software beta available to limited group of thousands of testers — and is intended to be used on city and residential streets.</p></div></div>
+<div><div><p>Sanchez said this week that NHTSA had opened its 580,000-vehicle probe into in-car gaming because of concerns about driver distraction.</p></div></div>
+<div><h1>GM heralded this plant as a model for its electric car future. Then its batteries started exploding.</h1></div>
+<h2>The company had to recall 141,000 Chevrolet Bolt electric vehicles, a microcosm of the challenge GM faces as it aims to shift its production to all-electric</h2>
+<div><div><span><div><span><div><div>By Faiz Siddiqui</div></div></span></div></span></div><div>December 30, 2021 at 6:00 a.m. EST</div></div>
+<div><div><p>The nine-year GM employee ducked under a car frame on an orange vehicle carrier, swung a mechanical arm out and drove five bolts into a nearly<b> </b>1,000-pound battery pack with roughly the footprint of a bathtub.</p></div></div>
+<div><div><p>But there is no mistaking its significance. “It’s the heart of the car,” McConkey said one day this past summer.</p></div></div>
+<div><div><p>“It’s a terrible thing that has happened,” Tim Grewe, GM’s general director for electrification strategy and cell engineering, said in an interview in September.</p></div></div>
+<div><div><p>Carmakers including Volkswagen, Mercedes-Benz and Ford also have announced plans to go all or mostly electric — chasing ambitions similar to GM’s deadline of 2035.</p></div></div>
+<div><p>Plug-in cars are the future. The grid isn’t ready.</p></div>
+<div><div><p>But first, automakers have to show they can manufacture safe and reliable<b> </b>cars — at scale.</p></div></div>
+<div><div><p>“I don’t want to minimize this point, but it also lets us build confidence that we’re going to be transparent, we’re going to take action,” Grewe said.</p></div></div>
+<div><div><h3><div>Why batteries explode</div></h3></div></div>
+<p>Late last summer, Chevy Bolt owners received a notice from GM: They were not to park their cars within 50 feet of other vehicles. They shouldn’t charge their cars overnight. Fully charged vehicles, GM said, should not be kept in garages.</p>
+<div><p>The recall of the Bolt covered all of the roughly 141,000 units GM had ever built. The company identified the issue as dual defects that led battery materials to make contact with one another and the components to combust spontaneously.</p></div>
+<div><div><p>It’s a danger that comes directly from the core challenge of creating electric-vehicle batteries: the competition to pack more and more energy into them.</p></div></div>
+<div><p>Where electric cars could help save coal</p></div>
+<div><div><p>That has carmakers in a 21st-century space race to pack as much energy density as possible into their battery cells, maximizing range and performance.</p></div></div>
+<div><p>The explosion of an electric car battery can release a massive amount of energy — and the resulting fire can burn for hours, stretching longer and registering hotter than a fire in a car with an internal-combustion engine.</p></div>
+<div><p>“Battery fires can take up to 24 hours to extinguish,” according to an emergency response guide for the Model S on Tesla’s website. “Consider allowing the battery to burn while protecting exposures.”</p></div>
+<div><p>General Motors teams up with LG Chem to jump-start its clean-tech future</p></div>
+<div><div><p>“Both surfaces are electrically conductive,” Sakamoto said. If they touch, “then they short-circuit.”</p></div></div>
+<div><div><p>When that happens, it’s cause for concern but not yet a catastrophe.</p></div></div>
+<div><p>In the densely packed cell, a short circuit leads to the release of heat. A large release of heat from a cell can ignite another, and the combined heat can ignite others in a chain reaction known as “thermal runaway.”</p></div>
+<p>In GM’s case, “cooling pillows” surround the pouch-shaped cells to prevent too much heat from being released between them. But they’re not meant to defend against thermal events so far outside normal operating conditions.</p>
+<div><div><p>“The battery explodes,” Sakamoto said. “The adjacent cells explode, too.”</p></div></div>
+<div><div><p>GM has been hit hardest by fire concerns — but Audi and Hyundai also have recalled EVs over fire risks.</p></div></div>
+<div><div><p>As GM addresses the issues with the Bolt, it has shut down the factory here. And the future of the Bolt, the first realization of GM’s vision for the coming decade, has been thrust into uncertainty.</p></div></div>
+<div><div><h3><div>A fight for raw materials</div></h3></div></div>
+<div><div><p>Before they are able to install the batteries, GM, Tesla and their battery suppliers have to solve another challenging task: obtaining the raw materials to make them.</p></div></div>
+<div><div><p>It’s a problem likely to grow even more difficult in the years to come.</p></div></div>
+<div><div><p>The raw materials used in electric cars are heavily concentrated in only a few regions of the world.</p></div></div>
+<div><div><p>As companies push 2025 and 2030 deadlines to shift much of their production to electric cars, he said, “there’s a very low likelihood the world can supply enough lithium to make that happen.”</p></div></div>
+<div><div><p>GM acknowledges the challenge.</p></div></div>
+<p>“Categorically, you’re making all of this huge investment in the material supply,” Grewe said. “Let’s say we hit 2035: You’ve got to convert all that investment” into usable material for the battery.</p>
+<div><p>Without access to charging stations, Black and Hispanic communities may be left behind in the era of electric vehicles</p></div>
+<div><div><p>The U.S. government says the market for batteries is expected to grow five to 10 times its current size over the next decade. Some estimates say the amount of lithium produced must quadruple by 2030 to meet the demand.</p></div></div>
+<div><div><p>Tesla Chief Financial Officer Zachary Kirkhorn said on the company’s recent earnings call that the appetite for electric vehicles has grown significantly, creating short-term bottlenecks.</p></div></div>
+<div><div><p>“There appears to just be quite a profound awakening of the desirability for electric vehicles,” he said. “And, I mean, to be totally frank, it’s caught us a little bit off guard.”</p></div></div>
+<div><p>Tesla test drivers believe they’re on a mission to make driving safer for everyone. Skeptics say they’re a safety hazard.</p></div>
+<div><div><p>As automakers seek breakthroughs that could power an electric future, lithium-ion might not win out.</p></div></div>
+<div><p>“Two things: It’s the simultaneous improvement in performance and improvement in safety,” Sakamoto said. “If one can make a battery that has those two criteria satisfied, then one can supplant lithium-ion.”</p></div>
+<div><div><h3><div>On the factory floor</div></h3></div></div>
+<b> </b>reopen; GM now says it will be closed through February. The company said it has decommissioned old equipment for internal-combustion engines at the plant, rendering the facility capable of making only electric and autonomous vehicles.
+<div><div><p>The energy of the factory floor this past summer, before the shutdown, suggested a recognition that EVs were coming but an unease about what it might mean for workers.</p></div></div>
+<div><p><span>Ford building massive electric vehicle and battery plants with $11.4 billion investment</span></p></div>
+<div><div><p>Near the battery installation area, Joel Newsom, team leader of a chassis<b> </b>“marriage line,” bonded a Bolt together with four bolts.</p></div></div>
+<div><div><p>In his free time, Newsom likes to race trucks, specifically his Chevrolet Colorado with a “big block,” shorthand for a type of larger-displacement engine. He has few qualms about GM’s strategy.</p></div></div>
+<div><div><p>“GM is preaching the future for us; we can’t always base it on fossil fuels,” he said.</p></div></div>
+<div><div><p>But he’s not so certain he’d partake.</p></div></div>
+<div><div><p>“The traditional labor concern is always fewer jobs: fewer American jobs because a lot of our parts come from many places around the globe,” he added.</p></div></div>
+<div><div><p>At the end of the assembly line last summer, where gasoline-powered cars once roared to life, Kim Fuhr stood with an electric-vehicle charger in hand.</p></div></div>
+<div><div><p>Fuhr doesn’t have to handle gasoline or deal with the exhaust fumes that preceded her work on the Bolt.</p></div></div>
+<div><div><p>“I’m in [a] retirement home now,” joked Fuhr, a nearly 25-year veteran of General Motors.</p></div></div>
+<div><div><a>Technology</a></div></div>
+<div><h1>Theranos founder Elizabeth Holmes found guilty in landmark Silicon Valley fraud case</h1></div>
+<h2>Mixed verdict included jury finding Holmes guilty on 4 of 11 charges in fraud trial</h2>
+<div><span><div><span><div>By Rachel Lerman</div>,</span></div><div><span><div>Nitasha Tiku</div> and </span></div><div><span><div>Faiz Siddiqui</div></span></div></span></div>
+<div><div><p>“She chose fraud over business failure. She chose to be dishonest with investors and with patients,” prosecutor Jeff Schenk said in his closing argument.</p></div></div>
+<p>“The guilty verdicts in this case reflect Ms. Holmes’s culpability in this large-scale investor fraud, and she must now face sentencing for her crimes,” said Stephanie Hinds, U.S. attorney for the Northern District of California.</p>
+<div><div><p>Following the verdict, Holmes walked out of the courtroom holding hands with her mother and partner, and did not respond to questions.</p></div></div>
+<div><p>The Elizabeth Holmes trial is the hottest ticket in Silicon Valley</p></div>
+<div><div><p>The <a>downfall of Theranos</a>, and Holmes with it, captivated people around the country when the company dissolved in 2018 after years of regulatory investigations and media scandals.</p></div></div>
+<div><div><p>The government filed charges against Holmes for allegedly misleading investors and patients about the capability of her company’s blood-testing device. She pleaded not guilty.</p></div></div>
+<div><p>Blood, labs and fraud: Theranos’s Elizabeth Holmes is on trial</p></div>
+<p>One former employee, Erika Cheung, told jurors how she tried to bring concerns with the quality of lab tests to managers at the company, only to feel sidelined. Theranos’s tests weren’t passing quality-control checks, she said.</p>
+<div><div><p>“It was starting to get very uncomfortable and very stressful for me working at the company, and I was attempting to tell as many people as I could,” she said on the stand in September.</p></div></div>
+<div><p>Investors told jurors that they felt misled by Holmes’s representations of the company and said they didn’t know that Theranos was relying on third-party lab machines to run blood tests, rather than its own technology.</p></div>
+<div><div><p>After the prosecution’s parade of insiders and expert witnesses, the defense called just two witnesses before it turned to its best weapon to woo the jury: Holmes herself.</p></div></div>
+<div><div><p>The entrepreneur testified for more than 20 hours over the course of seven days, alternately stony-faced and emotional. She told jurors that she always acted in good faith while leading the company.</p></div></div>
+<div><div><p>“They weren’t interested in today or tomorrow or next month,” she said on the stand. “They were interested in what kind of change we could make.”</p></div></div>
+<div><div><p>As the verdict was read, Holmes sat up straight and gazed in the jury’s direction. She hugged her family and left the courtroom after it was delivered.</p></div></div>
+<div><div><p>She confirmed that Balwani did not force her to say allegedly misleading things to investors. But she said his influence was deeply felt.</p></div></div>
+<div><div><p>“He impacted everything about who I was,” Holmes said. “And I don’t fully understand that.”</p></div></div>
+<div><div><p>Balwani, who faces a separate trial for the same charges in February, has denied the allegations.</p></div></div>
+<div><div><p>In cross-examination, prosecutor Robert Leach pushed Holmes to admit that she was ultimately responsible for the company.</p></div></div>
+<div><div><p>“And you take responsibility for the company, is that your testimony?” he asked.</p></div></div>
+<div><div><p>“I do,” she responded.</p></div></div>
+<div><div><p>Holmes founded Theranos in 2003 as a student at Stanford, growing it afterward to a massive company with hundreds of employees.</p></div></div>
+<p>The Journal investigation in 2015 cited former employees who revealed that Theranos was using its own technology on only a small piece of its total number of tests, instead relying on outside traditional lab machines to test patients’ blood.</p>
+<div><div><p>She left the company in 2018, and Theranos shuttered soon after.</p></div></div>
+<h3>What to know about Theranos and Elizabeth Holmes</h3>
+<p><b>Elizabeth Holmes</b>, the founder of <b>Theranos </b>who rocketed to fame nearly a decade ago, is accused of <a>misleading investors and patients </a>about the capability of her company’s blood-testing technology.</p>
+<p>Holmes is on trial for 11 counts of wire fraud and conspiracy to commit wire fraud. She has <a>pleaded not guilty</a>.</p>
+<p>Her defense lawyers have argued that she <a>acted in good faith while running Theranos</a>.</p>
+<p>On the stand, Holmes revealed a <a>cornerstone of her defense</a>: that her former partner and the company’s president had allegedly abused and controlled her.</p>
+<p>While Theranos might have collapsed, but other <a>blood diagnostic start-ups are still raising cash</a>.</p>
+<div><div><div>MORE TOP STORIES</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><div>Technology</div><a>Slain officer’s sister sues Facebook in ‘boogaloo’ murder, alleging it push...</a></div></div>
+<div><div><div>Arts and Entertainment</div>A viewer told an anchor to ‘keep her Korean to herself.’ Then ‘something am...</div></div>
+<div><div><div>Monkey Cage • Analysis</div>Republicans and Democrats have split over whether to support multiethnic de...</div></div>
+<div><div><div>National</div>A Black teen died in custody while being restrained facedown. Now the prone...</div></div>
+<div><div><div>Politics</div>GOP Rhode Island lawmaker under fire for suggesting she lost a Black friend...</div></div>
+<div><div><a>Technology</a></div></div>
+<div><h1>Slain officer’s sister sues Facebook in ‘boogaloo’ murder, alleging it pushed extremist content</h1></div>
+<h2>Facebook gave rise to the boogaloo community that led the officer’s killer and accomplice to connect, lawsuit alleges</h2>
+<div><div><span><div><span><div><div>By Faiz Siddiqui</div></div></span></div></span></div><div>Yesterday at 9:49 a.m. EST|Updated yesterday at 6:12 p.m. EST</div></div>
+<div><div><p>SAN FRANCISCO — The sister of a slain federal officer is suing Facebook’s parent company Meta, alleging it bears responsibility for her brother’s killing during racial justice protests in 2020.</p></div></div>
+<div><div><p>Facebook facilitated the hateful far-right<b> </b>“boogaloo” movement, leading an adherent to murder officer Dave Patrick Underwood, the lawsuit filed in a California Superior Court late Wednesday alleges.</p></div></div>
+<div><p>An officer was gunned down. The killer was a ‘boogaloo boy’ using nearby peaceful protests as cover, feds say.</p></div>
+<div><div><p>The suit alleges wrongful death and a survival action for the pain and suffering Underwood endured before he died, citing alleged general negligence and negligent design by Facebook.</p></div></div>
+<div><div><p>Facebook pushed back against the allegations on Thursday.</p></div></div>
+<div><div><p>Lawyers for Underwood’s sister say Facebook should not be protected by Section 230.</p></div></div>
+<div><p>Facebook whistleblower Frances Haugen tells lawmakers that meaningful reform is necessary ‘for our common good’</p></div>
+<div><div><p>Rather than simply allow information to be posted on the site, Facebook actively promoted inflammatory content and steered people toward it, the suit alleges.</p></div></div>
+<div><p>Section 230: The little law that defined how the Internet works</p></div>
+<div><div><p>The complaint also alleges that Facebook “helped build” the boogaloo community that ushered in their planning.</p></div></div>
+<div><p>Facebook removes hundreds of boogaloo accounts for ‘promoting violence’ in coordinated takedown</p></div>
+<div><div><p>The group’s emergence led to a wider examination of the effects of social media on the rise of violent movements, with some making comparisons to foreign militant groups such as the Islamic State.</p></div></div>
+<div><div><p>Carrillo is also accused in a separate killing of a sheriff’s deputy in Santa Cruz County. His attorney previously cautioned against a “rush to judgment” in the cases.</p></div></div>
+<div><p><span>As Trump warns of leftist violence, a dangerous threat emerges from the right-wing boogaloo movement</span></p></div>
+<div><div><p><i>Elizabeth Dwoskin contributed to this report.</i></p></div></div>
+<div><div>Business<div><div>Analysis</div><div>Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events</div></div></div></div>
+<div><h1>Can I Be Required to Get a Covid Vaccine?</h1></div>
+<div><div><span><div><span><div><div>By Robert Wilkens-Iafolla and Alan Katz | Bloomberg</div></div> </span></div></span></div><div>Today at 12:49 p.m. EST</div></div>
+<div><div><p>1. What happens to those who violate a mandate? </p></div></div>
+<div><div><p>2. What are the rules that fall short of mandates? </p></div></div>
+<div><div><p>3. Are vaccine requirements something new? </p></div></div>
+<div><div><p>4. What’s the U.S. rule on Covid vaccines?</p></div></div>
+<div><div><p>5. Can U.S. employers require the shots on their own?</p></div></div>
+<div><div><p>6. What objections can U.S. workers raise?</p></div></div>
+<div><div><p>7. Are vaccine mandates effective?</p></div></div>
+<div><div><p>©2022 Bloomberg L.P.</p></div></div>
+<div><div>Energy<div><div>Analysis</div><div>Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events</div></div></div></div>
+<div><h1>Why Kazakhstan Protests Reverberate Beyond the Region</h1></div>
+<div><div><span><div><span><div><div>By Yuliya Fedorinova | Bloomberg</div></div> </span></div></span></div><div>Today at 1:13 p.m. EST</div></div>
+<div><div><p>1. Are the protests just about fuel prices?</p></div></div>
+<div><div><p>2. What’s their aim?</p></div></div>
+<div><div><p>3. What’s the government doing about them?</p></div></div>
+<div><div><p>4. Why is Kazakhstan important?</p></div></div>
+<div><div><p>5. What’s the political significance?</p></div></div>
+<div><div><p>6. How big a threat to Tokayev are the protests?</p></div></div>
+<div><h1>Coronavirus + Flu = ‘Flurona’: Should You Be Worried About It?</h1></div>
+<div><div><span><div><span><div><div>By Tim Loh | Bloomberg</div></div> </span></div></span></div><div>Today at 1:19 p.m. EST</div></div>
+<div><div><p>1. Why is this getting attention now? </p></div></div>
+<div><div><p>2. Should I be worried? </p></div></div>
+<div><div><p>3. What’s the effect of getting two infections at once?</p></div></div>
+<div><div><p>4. Is the flu back in full force?</p></div></div>
+<div><div><p>5. Where is flurona being reported?</p></div></div>
+<div><h1>How Kim Jong Un Keeps Advancing His Nuclear Program</h1></div>
+<div><div><span><div><span><div><div>By Jon Herskovitz | Bloomberg</div></div> </span></div></span></div><div>Today at 7:06 p.m. EST</div></div>
+<div><div><p>1. What is Kim working on?</p></div></div>
+<div><div><p>• It tested hypersonic missiles in September 2021 and again in January 2022, which are designed to deploy a high-speed glide vehicle that can carry a warhead and maneuver past interceptors.</p></div></div>
+<div><div><p>• The country also showed off last year what it said was a new delivery system to fire missiles off a train, making them harder for prying eyes to track.</p></div></div>
+<div><div><p>2. Could Kim really hit the U.S.?</p></div></div>
+<div><div><p>3. How many nuclear devices does North Korea have?</p></div></div>
+<div><div><p>4. Where does Kim’s military get its fissile material?</p></div></div>
+<div><div><p>5. What other surprises might be out there?</p></div></div>
+<div><div><p>6. How can the country afford all this?</p></div></div>
+<div><div><p>7. Wasn’t Trump going to fix this?</p></div></div>
+<div><p>While U.S. President Joe Biden has left the door open for discussions on eliminating North Korea’s nuclear weapons, leader Kim Jong Un has shown no interest in picking up again. </p></div>
+<div> <div> <ul> <li> Jon Herskovitz | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>Coronavirus + Flu = ‘Flurona’: Should You Be Worried About It?</h2>
+<div> <div> <ul> <li> Tim Loh | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div> <div> <ul> <li> Yuliya Fedorinova | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div> <div> <ul> <li> Robert Wilkens-Iafolla and Alan Katz | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div> <div> <ul> <li> Billy House | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>Why Quantitative Tightening Is on the Fed’s Agenda Again</h2>
+<div> <div> <ul> <li> Christopher Anstey | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>How Sudan’s Coup Is Threatening Foreign Aid, Path to Democracy</h2>
+<div> <div> <ul> <li> Mike Cohen | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div> <div> <ul> <li> Sofia Horta e Costa and Richard Frost | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div> <div> <ul> <li> Naomi Kresge and Charlotte Ryan | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>How Populist Rodrigo Duterte Keeps Shaking Up the Philippines</h2>
+<div><p>Since his election in 2016, he has scrambled the country’s international loyalties, shaken up big business and angered women’s groups and the Catholic Church. And that was before the pandemic.</p></div>
+<div> <div> <ul> <li> Andreo Calonzo and Ian Sayson | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div> <div> <ul> <li> Andrew Langley and Tony Halpin | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div> <div> <ul> <li> Tim Loh and John Lauerman | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div> <div> <ul> <li> Katia Dmitrieva and Jana Randow | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div> <div> <ul> <li> Jason Gale and John Lauerman | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>Making Sense of the Different Types of Tests for Covid-19</h2>
+<div> <div> <ul> <li> Tim Loh and Irina Anghel | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div> <div> <ul> <li> Lulu Chen and Jennifer Surane | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>How Libya’s Fragile Unity Is Being Tested by Election</h2>
+<div> <div> <ul> <li> Mirette Magdy | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div> <div> <ul> <li> David Scanlan and Cathy Chan | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>How Defaults in China Are Reshaping Its Credit Market: QuickTake</h2>
+<div> <div> <ul> <li> Bloomberg News | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<li> <div>Analysis</div> <div><a>Can Beijing Tolerate an EV Battery Monopoly?</a></div> </li>
+<li> <div>Analysis</div> <a>Will Investors Go Along With a Weaker ‘Fed Put’?</a> </li>
+<li> <div>Analysis</div> <a>Global Brands in India Have a Mutiny at Hand</a> </li>
+<li> <div>Analysis</div> <a>Djokovic Double-Faulted in His Australian Open Bet</a> </li>
+<div><div>Business<div><div>Analysis</div><div>Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events</div></div></div></div>
+<div><h1>Djokovic Double-Faulted in His Australian Open Bet</h1></div>
+<div><div><span><div><span><div><div>By Tim Culpan and David Fickling | Bloomberg</div></div> </span></div></span></div><div>Today at 8:13 p.m. EST</div></div>
+<div><div><p>The world’s No. 1 men’s tennis player now has the dubious honor of joining actor Johnny Depp in receiving a harsh lesson on Australian quarantine and border policy.</p></div></div>
+<div><div><p>The Djokovic saga further plays into parochialism but also triggers what’s almost a national creed of fairness.</p></div></div>
+<div><div><p>They did it, largely without complaint, because most understand this is what’s needed to keep Australia safe. </p></div></div>
+<div><p>Then came news that a big-name, anti-vax tennis star had received an exemption. (Djokovic has said he’s not opposed to all vaccines, but is against the Covid-19 vaccine and mandates requiring them.) </p></div>
+<div><div><p>More From This Writer and Others at Bloomberg Opinion:</p></div></div>
+<div><div><p>• Survival Tips for Hong Kong’s 21-Day Covid Quarantine: Shuli Ren</p></div></div>
+<div><div><p>• It’s Far Too Early for Covid Vaccine Booster Mandates: Faye Flam</p></div></div>
+<div><div><p>• How Covid Arbitrage Became the Trade of the Year: Tim Culpan</p></div></div>
+<div><div><p>This column does not necessarily reflect the opinion of the editorial board or Bloomberg LP and its owners.</p></div></div>
+<div><div><p>Tim Culpan is a Bloomberg Opinion columnist covering technology. He previously covered technology for Bloomberg News.</p></div></div>
+<div><p>David Fickling is a Bloomberg Opinion columnist covering commodities, as well as industrial and consumer companies. He has been a reporter for Bloomberg News, Dow Jones, the Wall Street Journal, the Financial Times and the Guardian.</p></div>
+<div><div><p>©2022 Bloomberg L.P.</p></div></div>
+<div><div>Energy<div><div>Analysis</div><div>Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events</div></div></div></div>
+<div><h1>Can Beijing Tolerate an EV Battery Monopoly?</h1></div>
+<div><div><span><div><span><div><div>By Anjani Trivedi | Bloomberg</div></div> </span></div></span></div><div>Today at 9:41 p.m. EST</div></div>
+<div><p>The world’s largest electric-vehicle battery maker is getting bigger. Whether it can maintain its global reign will come down to Beijing’s tolerance of a private enterprise’s monopoly in a key industrial sector.</p></div>
+<div><div><p>But getting in the way of CATL at such a crucial point of the global electric car cycle would be foolish, because China would lose out on the one chance it finally has to prove its industrial brawn.</p></div></div>
+<div><div><p>More from other writers at Bloomberg Opinion:</p></div></div>
+<div><div><p>• Ant Is an Example of China’s Rule by Campaign: Angela Zhang</p></div></div>
+<div><div><p>• Jack Ma’s Famous Friends Will Cost Him Billions More: Shuli Ren</p></div></div>
+<div><div><p>• Tencent Is Ready to Back Its Biggest Investment Yet: Tim Culpan</p></div></div>
+<div><div><p>Anjani Trivedi is a Bloomberg Opinion columnist covering industrial companies in Asia. She previously worked for the Wall Street Journal.</p></div></div>
+<div><h1>Global Brands in India Have a Mutiny at Hand</h1></div>
+<div><div><span><div><span><div><div>By Andy Mukherjee | Bloomberg</div></div> </span></div></span></div><div>Today at 9:14 p.m. EST</div></div>
+<div><div><p>It’s a mutiny that the multinationals have invited upon themselves. </p></div></div>
+<div><div><p>Distributors also take the onus of compliance with existing rules and regulations for the brands as they’re the ones dealing directly with the the last-mile outlet, known as “kirana.” </p></div></div>
+<div><div><p>• Can You Trust Your Suppliers After a Lousy 2021?: Anjani Trivedi</p></div></div>
+<div><div><p>• Shopping Is Going to Be A Lot More Painful in 2022: Andrea Felsted</p></div></div>
+<div><div><p>• Shoppers Haven’t Minded Higher Prices. That Might Change Soon: Tara Lachapelle</p></div></div>
+<div><div><p>Andy Mukherjee is a Bloomberg Opinion columnist covering industrial companies and financial services. He previously was a columnist for Reuters Breakingviews. He has also worked for the Straits Times, ET NOW and Bloomberg News.</p></div></div>
+<div><h1>Will Investors Go Along With a Weaker ‘Fed Put’?</h1></div>
+<div><div><span><div><span><div><div>By Mohamed A. El-Erian | Bloomberg</div></div> </span></div></span></div><div>Today at 9:21 p.m. EST</div></div>
+<p>The market-moving aspect came from the higher combined probability of three policy moves in 2022: the end of large-scale asset purchases; a series of interest rate increases; and the possibility that the Fed will start to reduce its balance sheet.</p>
+<div><div><p>What happens next will depend in large part on whether the evolution of inflation and employment validate the now more hawkish expectations.</p></div></div>
+<h2>Will Investors Go Along With a Weaker ‘Fed Put’?</h2>
+<div><p>The direction of markets will depend largely on whether they truly believe the central bank can follow through effectively on withdrawing liquidity.</p></div>
+<div> <div> <ul> <li> Mohamed A. El-Erian | Bloomberg </li> <li>·</li> <li>30 minutes ago</li> <li>·</li> </ul> </div> </div>
+<div><p>The country’s traditional distributors are increasingly cut out of the picture by tech-driven conglomerates.</p></div>
+<div> <div> <ul> <li> Andy Mukherjee | Bloomberg </li> <li>·</li> <li>37 minutes ago</li> <li>·</li> </ul> </div> </div>
+<div><p>China’s giant powerpack manufacturer is entering dangerous territory. It may be the next company to feel the wrath of Xi Jinping’s big tech crackdown.</p></div>
+<div> <div> <ul> <li> Anjani Trivedi | Bloomberg </li> <li>·</li> <li>1 hour ago</li> <li>·</li> </ul> </div> </div>
+<div> <p>business</p> <p>bloomberg-opinion</p> </div>
+<div> <p>You might also like...</p> </div>
+<div><p>The defending champion should’ve known better than to bypass the country’s strict quarantine rules, but he’s not the first to try and fail.</p></div>
+<div> <div> <ul> <li> Tim Culpan and David Fickling | Bloomberg </li> <li>·</li> <li>1 hour ago</li> <li>·</li> </ul> </div> </div>
+<h2>What’s Next for Next Doesn’t Bode Well for the Rest</h2>
+<div><p>The multinational retailer expects to increase prices in 2022 because of tenaciously high shipping costs.</p></div>
+<div> <div> <ul> <li> Andrea Felsted | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>Russia’s Winter Generals Have Yet to Show Up at the Gas War</h2>
+<div><p>Prices remain high but a mild season has so far allowed storage to remain above the levels associated with power blackouts in Europe.</p></div>
+<div> <div> <ul> <li> Javier Blas | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>The ‘Putin Doctrine’ Becomes Clear in Ukraine and Kazakhstan</h2>
+<div><p>The Russian president’s gambles may not pay off, but he has clearly ended the post-Cold War era.</p></div>
+<div> <div> <ul> <li> Hal Brands | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>Why Private Equity Won’t Be the Savior of Fossil Fuels</h2>
+<div><p>It’s already hard to predict the price of commodities, and that’s before you factor in a sector in terminal decline.</p></div>
+<div> <div> <ul> <li> David Fickling | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>The Holmes Verdict Sends a Mixed Message to Investors</h2>
+<div><p>The founder of Theranos seems to have been convicted of fraud only against those who asked few questions. </p></div>
+<div> <div> <ul> <li> Stephen L. Carter | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>Latin America’s New Economic Model May Emerge in Chile</h2>
+<div><p>Once the region’s no-frills, free-market poster child, Chile needs more government spending, not less, to sustain its growth trajectory.</p></div>
+<div> <div> <ul> <li> Shannon O'Neil | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>Biden’s Likely Fed Picks Are Boring in a Good Way</h2>
+<div><p>The latest reported White House choices appear conventional enough to reassure financial markets and liberal enough to keep Democrats happy.</p></div>
+<div> <div> <ul> <li> Jonathan Bernstein | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>Yale and Princeton Take a Stand Against Student Freedom</h2>
+<div><p>The rise of omicron seems to have caused two elite American institutions to lose their moorings. </p></div>
+<div> <div> <ul> <li> Tyler Cowen | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div><p>Returns for the star trader’s firm are likely to be volatile, but that’s the point of the asset class.</p></div>
+<div> <div> <ul> <li> Mark Gilbert | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div><p>Law-and-order conservatives are protesting too much.</p></div>
+<h2>Did Prosecutors Hold Elizabeth Holmes to an Unfair Standard?</h2>
+<div><p>No, and it’s too bad the business world wasn’t as impartial.</p></div>
+<div> <div> <ul> <li> Sarah Green Carmichael | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div><p>A standoff between aerospace regulators and wireless operators over the rollout of the next-generation service has a lot to do with differences in the way the two operate. </p></div>
+<div> <div> <ul> <li> Brooke Sutherland | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<h2>The Jan. 6 Committee Should Finish Its Job — Quickly</h2>
+<div><p>Congressional investigators have made meaningful progress, but they need to pick up the pace.</p></div>
+<div> <div> <ul> <li> The Editors | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div><p>The anniversary of the failed coup attempt should remind the country about its collective and unsettled reckoning with the facts surrounding it.</p></div>
+<div> <div> <ul> <li> Timothy L. O'Brien | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div><p>The U.S. and its allies should woo the next generation of Russians and their post-Soviet neighbors with a vision of cooperation that rectifies the strategic mistakes of the past.</p></div>
+<div> <div> <ul> <li> Leonid Bershidsky | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<div><p>A Nobel Peace Prize should not shield the prime minister from sanctions for war crimes and rights abuses.</p></div>
+<div> <div> <ul> <li> Bobby Ghosh | Bloomberg </li> <li>·</li> </ul> </div> </div>
+<li> <div>Analysis</div> <div><a>How Kim Jong Un Keeps Advancing His Nuclear Program</a></div> </li>
+<li> <div>Analysis</div> <a>Coronavirus + Flu = ‘Flurona’: Should You Be Worried About It?</a> </li>
+<li> <div>Analysis</div> <a>Why Kazakhstan Protests Reverberate Beyond the Region</a> </li>
+<li> <div>Analysis</div> <a>Can I Be Required to Get a Covid Vaccine?</a> </li>
+<div>Up next in Technology</div>
+<div><div><div><div><div>3:51</div></div></div></div><div><div>Weird, wild world of CES 2022</div><div>Just now</div></div></div>
+<div><div><div><div><div>6:21</div></div></div></div><div><div>'I lost my life’: Jamal Khashoggi’s widow shares her story</div><div>2 weeks ago</div></div></div>
+<div><div><div><div><div>1:02</div></div></div></div><div><div>Giant 3D cat animation on Tokyo billboard dazzles passersby</div><div>December 3, 2021</div></div></div>
+<div><div><div><div><div>4:39</div></div></div></div><div><div>What Congress should be asking in tech hearings</div><div>November 29, 2021</div></div></div>
+<div><div><div><div><div>2:03</div></div></div></div><div><div>Twitter CEO Jack Dorsey steps down</div><div>November 29, 2021</div></div></div>
+<h1>Weird, wild world of CES 2022</h1>
+<div>People stayed home but Help Desk reporter Chris Velazco turned out to find the weirdest and most interesting technology of the annual consumer tech show.</div>
+<div>Related<ul><li><a>The weirdest and most interesting tech at CES 2022</a></li></ul></div>
+<div><div>Business<div><div>Perspective</div><div>Perspective Discussion of news topics with a point of view, including narratives by individuals regarding their own experiences</div></div></div></div>
+<div><h1>The craziest, creepiest year in the real and financial worlds in my 50 years of writing about business</h1></div>
+<h2>The economy is going great. Employment is up and so are stocks and housing prices, but political divisiveness is undermining everything.</h2>

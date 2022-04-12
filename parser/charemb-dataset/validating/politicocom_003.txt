@@ -1,0 +1,500 @@
+<a>a senior administration official told reporters</a> last week.
+<a>warned about a critical security flaw</a> in Log4j, an open source framework in Apache servers that’s used to keep track of activity inside an application. While Apache
+<a>released a fix the same day</a>, hackers were already
+<a>scanning the internet for affected systems</a> and built tools to easily exploit them once discovered.
+<b>But the fixes rely on end-users patching their systems on their own</b>, leaving room for the flawed systems to remain vulnerable and for hackers to find opportunities to access a system for weeks to come. Affected technology vendors include
+<a>Apple, Steam, Amazon, Tesla and Microsoft’s Minecraft and LinkedIn</a>. Rob Joyce, the NSA’s director of cybersecurity, also
+<a>said the agency’s open source tool</a> to reverse engineer cyberattacks, called GHIDRA, was affected.
+<p>—<b> Not helping matters</b>: CloudFlare Chief Executive Matthew Prince <a>said Saturday</a> that the earliest evidence his company has found of a Log4J exploit was “at least nine days before” public disclosure. </p>
+<b>Fixes so far</b>: In addition to Apache’s security update, Minecraft
+<a>released an updated version</a> of its affected Java edition. CyberReason released code on GitHub that will
+<a>help any organization</a> patch its systems. The NSA also
+<a>released an update</a> to GHIDRA.
+<b>Open source code’s cyber woes: </b>The latest zero-day vulnerability highlights the scope of open source code in popular technology, and the security hurdles that come with it. Three people
+<a>moderate Apache’s Log4j project on a volunteer basis,</a> meaning they don’t have the same resources major corporations do to scan for flaws and release patches.
+<b>Push for a software bill of materials: </b>CISA Director Jen Easterly said in a statement Saturday that the incident
+<b>GET IN FORMATION </b>— During
+<a>Eric has more for Pros about the meeting. </a>
+<p><b>Daniel Sutherland</b> has left his role as chief counsel at <b>CISA</b>. … <b>Heli Tiirmaa-Klaar</b>, Estonia’s cyber diplomat, is <a>leaving public service</a> to join the<b> Digital Society Institute </b>as its new director.</p>
+<p>From Daniel Miessler, Robinhood’s head of vulnerability management and application security: <a>“This week the internet has learned—once again—that asset management is the center of security. It’s hard to patch what you can’t find.”</a></p>
+<p>— The White House is now <a>requiring the FBI and other agencies to provide details</a> to senior officials about severe cyber incidents within 24 hours. (CNN)</p>
+<p>— An independent report found that the cyberattack on Ireland’s health service earlier this year <a>could have been even worse than it was</a>. (BBC) </p>
+<p>— The United States is working with Australia, Denmark and Norway to <a>establish standards for export controls</a> on surveillance technology. (Nextgov)</p>
+<p>— Telehealth platform Doxy.me says it’s <a>fixing an issue that exposed some patient data</a> to third-party partners. (CyberScoop) </p>
+<p>— The Snatch ransomware has <a>claimed responsibility for a cyberattack against Volvo </a>targeting the automaker’s research and development. (Bleeping Computer)</p>
+<p>— <a>“I Accidentally Hacked a Peruvian Crime Ring”</a> (Wired)</p>
+<div><div> <div> <div> <header> <p> Politico</p> <h2> <a>Weekly Cybersecurity</a></h2> <p>Delivered every Monday by 10 a.m., Weekly Cybersecurity examines the latest news in cybersecurity policy and politics.</p> </header> </div> </div> </div> </div>
+<div> <div> <header> <h1>Washington’s cybersecurity wish list for 2022</h1> </header> </div> </div>
+<p>—<b> Cyber incident reporting legislation and bolstering the cyber workforce</b> top former officials and industry leaders’ wish list in the new year.</p>
+<p>—<span> <b>Biden’s ransomware talks with Russia are in jeopardy</b> </span>as Russian military forces continue massing on the Ukrainian border, cyber diplomacy experts tell MC.</p>
+<b>Security professionals spent the weekend</b>
+<b> More public awareness campaigns: </b>Lisa
+<p><b>UKRAINE’S CYBER SPILLOVER</b> — Ransomware diplomacy between President Joe Biden and Russian President Vladimir Putin doesn’t stand a chance if the conflict on the Ukrainian border continues to escalate, international cyber experts told MC. </p>
+<a>highly-anticipated video call last week</a> about the growing Russian military presence on the Ukrainian border.
+<b>Without Russian cooperation, </b>the Biden administration could become more willing to pursue disruptive cyber operations against Russian cybercriminals themselves, Painter said, similar to the U.S. Cyber Command’s
+<a>recent involvement in disrupting REvil’s online infrastructure</a>.
+<b>Preparing for the worst: </b>The Biden administration has been preparing for weeks for a Russian invasion of Ukraine. The G-7 condemned Russia’s “military build-up and aggressive rhetoric towards Ukraine”
+<a>in a statement</a> Sunday. Secretary of State Antony Blinken also said during an appearance on Meet the Press on Sunday that the U.S. is “continuing to shore up Ukraine’s defenses” and they’re “looking at what NATO can do, if necessary.”
+<a>a senior administration official told reporters</a> last week.
+<a>warned about a critical security flaw</a> in Log4j, an open source framework in Apache servers that’s used to keep track of activity inside an application. While Apache
+<a>released a fix the same day</a>, hackers were already
+<a>scanning the internet for affected systems</a> and built tools to easily exploit them once discovered.
+<b>But the fixes rely on end-users patching their systems on their own</b>, leaving room for the flawed systems to remain vulnerable and for hackers to find opportunities to access a system for weeks to come. Affected technology vendors include
+<a>Apple, Steam, Amazon, Tesla and Microsoft’s Minecraft and LinkedIn</a>. Rob Joyce, the NSA’s director of cybersecurity, also
+<a>said the agency’s open source tool</a> to reverse engineer cyberattacks, called GHIDRA, was affected.
+<p>—<b> Not helping matters</b>: CloudFlare Chief Executive Matthew Prince <a>said Saturday</a> that the earliest evidence his company has found of a Log4J exploit was “at least nine days before” public disclosure. </p>
+<b>Fixes so far</b>: In addition to Apache’s security update, Minecraft
+<a>released an updated version</a> of its affected Java edition. CyberReason released code on GitHub that will
+<a>help any organization</a> patch its systems. The NSA also
+<a>released an update</a> to GHIDRA.
+<b>Open source code’s cyber woes: </b>The latest zero-day vulnerability highlights the scope of open source code in popular technology, and the security hurdles that come with it. Three people
+<a>moderate Apache’s Log4j project on a volunteer basis,</a> meaning they don’t have the same resources major corporations do to scan for flaws and release patches.
+<b>Push for a software bill of materials: </b>CISA Director Jen Easterly said in a statement Saturday that the incident
+<b>GET IN FORMATION </b>— During
+<a>Eric has more for Pros about the meeting. </a>
+<p><b>Daniel Sutherland</b> has left his role as chief counsel at <b>CISA</b>. … <b>Heli Tiirmaa-Klaar</b>, Estonia’s cyber diplomat, is <a>leaving public service</a> to join the<b> Digital Society Institute </b>as its new director.</p>
+<p>From Daniel Miessler, Robinhood’s head of vulnerability management and application security: <a>“This week the internet has learned—once again—that asset management is the center of security. It’s hard to patch what you can’t find.”</a></p>
+<p>— The White House is now <a>requiring the FBI and other agencies to provide details</a> to senior officials about severe cyber incidents within 24 hours. (CNN)</p>
+<p>— An independent report found that the cyberattack on Ireland’s health service earlier this year <a>could have been even worse than it was</a>. (BBC) </p>
+<p>— The United States is working with Australia, Denmark and Norway to <a>establish standards for export controls</a> on surveillance technology. (Nextgov)</p>
+<p>— Telehealth platform Doxy.me says it’s <a>fixing an issue that exposed some patient data</a> to third-party partners. (CyberScoop) </p>
+<p>— The Snatch ransomware has <a>claimed responsibility for a cyberattack against Volvo </a>targeting the automaker’s research and development. (Bleeping Computer)</p>
+<p>— <a>“I Accidentally Hacked a Peruvian Crime Ring”</a> (Wired)</p>
+<div><div> <div> <div> <header> <p> Politico</p> <h2> <a>POLITICO Influence</a></h2> <p>Delivered daily, Influence gives you a comprehensive rundown and analysis of all lobby hires and news on K Street.</p> </header> </div> </div> </div> </div>
+<div> <div> <div> <header> <h1>MomsRising added Murray staffer as paid leave talks ramped up</h1> </header> </div> </div> </div>
+<p><b><i>PROGRAMMING NOTE:</i></b><i> Influence won’t publish from Friday, Dec. 24-Friday, Dec. 31. We’ll be back on our normal schedule on Monday, Jan. 3.</i></p>
+<p><i>With Daniel Lippman </i></p>
+<b>ANOTHER ‘MOM GROUP’ TAPPED LOBBYIST WITH TIES TO HELP CHAIR: </b>As Democratic lawmakers and caregiving advocates worked feverishly to win Sen.
+<b>Joe Manchin</b>’s (D-W.Va.) support for keeping paid family and medical leave in the party’s reconciliation bill, one advocacy group helping spearhead the effort turned to K Street for help, a newly filed lobbying disclosure shows.
+<b>MomsRising </b>enlisted a team of lobbyists from
+<b> The Raben Group</b> that includes a former staffer on the Senate HELP Committee and a one-time aide to its now-chair,
+<b><a>Patty Murray</a> </b>(D-Wash.), to make its case.
+<a>sticking mostly to grassroots advocacy or ad blitzes</a> in courting Manchin, who
+<a>was on the verge of nixing paid leave from the bill</a> before announcing his opposition to the package as a whole last weekend.
+<b> Paid Leave for the United States</b>, or PL+US, registered its first lobbyists this year, hiring a former chief of staff to Rep.
+<b> National Domestic Workers Alliance</b>, reregistered to lobby at the federal level this year for the first time since 2015, and spent a little over $400,000 through the end of September.
+<b>Ferox Strategies</b> has signed five new clients to close out 2021, in addition to registering to lobby for the
+<b> National Retail Federation </b>and five others in October and September. The firm, which added
+<a>one of the few former aides on K Street</a> to now-HHS Secretary
+<b> Xavier Becerra</b> this spring, signed
+<b>Alexion Pharmaceuticals</b>, the rare disease drugmaker that was acquired earlier this year by
+<b>Univision Communications</b> hired the firm to monitor legislative and regulatory issues concerning telecommunications and media ownership, and the firm also signed
+<b>LKQ</b>, an alternative and specialty auto parts provider, sporting goods company
+<b>Equinox International</b> and life sciences company
+<b>Britney Spears</b> winning her independence this year,
+<a>here’s an underrated Christmas bop</a> from the princess of pop to close out 2021. ‘Til next year, keep those lobbying tips coming:
+<a>fueled now by the rapid spread of the Omicron variant</a>,
+<b>Zachary Warmbrodt</b> reports. “The Omicron surge is forcing pandemic-battered businesses to once again scale back and close their doors, energizing a lobbying push for billions of dollars of new aid for struggling employers and their workers.”
+<a>social spending and climate plan</a> is in limbo.”
+<b>International Franchise Association </b>instead focusing their efforts on the labor shortage and the vaccine mandate.”
+<b>INSIDE THE ‘TRAUMATIZING’ CULTURE AT PROGRESSIVE FIRM: Insider</b>’s
+<b>Kayla Epstein </b>has a look at what former staffers for progressive digital firm
+<b>Basecamp Strategy </b>described as
+<a>“systemic exploitation” of young employees</a> at the firm, led by a chief executive some suspect used the firm and the PAC he ran to enrich himself rather than support candidates.
+<b>CALLING OFF THE SEARCH: </b>“
+<b>Kevin Martin</b> to lead its U.S. lobbying team, the company said Wednesday,” according to
+<b>Alexandra Levine</b>. “Martin’s move
+<a>puts another Republican in charge of the sprawling policy operation</a>. (Republican
+<b> Joel Kaplan</b>, at times a lightning rod for Democratic criticism, is the company’s vice president of global public policy.)”
+<b>George W. Bush</b>, had been
+<a>put in charge of the company’s policy work</a> amid internal shuffling in 2018 during the fallout from the Cambridge Analytica data scandal.”
+<a>first reported the news</a> of Martin’s latest appointment, which it said followed an exhaustive search for a Democrat to lead Meta’s lobbying shop during the Biden administration and 117th Congress. Many Democrats have turned down that role,
+<a>according to <b>The Wall Street Journal</b></a>
+<b>Andy Stone</b> said the search had been called off and that Martin would formally fill the role.”
+<b>AT IT AGAIN: </b>The man indicted by the Justice Department last month for allegedly running a pair of scam PACs during the 2016 election “
+<a>continued to run another operation</a> — including promises of a Trump Christmas card for contributions of at least $35 — using a different PAC shortly after his indictment and arrest in November,”
+<b>Campaign to Support the President</b> — to send more than 166,000 robocalls, according to data from an anti-robocall app, to solicit donations just last month.”
+<b>Aaron Foss</b>, the founder of the anti-robocall app
+<b>Nomorobo</b>. The calls, which used spliced-together recordings of Trump's public statements, first started running on November 4 and continued until November 30, running more than 166,000 in total.”
+<b>USA</b>’s executive vice president of government and community affairs and chief diversity officer, will be leaving the company next year. Executive vice president of communications
+<b>Lisa Gonzalez Anselmo </b>will take over the community affairs and chief diversity officer roles, and the company will look to appoint a new head of government affairs.
+<p>—<b> Disney </b><a>has tapped <b>Horacio Gutierrez </b>as general counsel</a>. Gutierrez was most recently <b>Spotify</b>’s chief legal officer and global affairs head.</p>
+<p>Policy Development Group: Aliento</p>
+<div><div> <div> <div> <header> <p> Politico</p> <h2> <a>POLITICO Influence</a></h2> <p>Delivered daily, Influence gives you a comprehensive rundown and analysis of all lobby hires and news on K Street.</p> </header> </div> </div> </div> </div>
+<div> <div> <header> <h1>MomsRising added Murray staffer as paid leave talks ramped up</h1> </header> </div> </div>
+<p><b><i>PROGRAMMING NOTE:</i></b><i> Influence won’t publish from Friday, Dec. 24-Friday, Dec. 31. We’ll be back on our normal schedule on Monday, Jan. 3.</i></p>
+<p><i>With Daniel Lippman </i></p>
+<b>ANOTHER ‘MOM GROUP’ TAPPED LOBBYIST WITH TIES TO HELP CHAIR: </b>As Democratic lawmakers and caregiving advocates worked feverishly to win Sen.
+<b><a>Joe Manchin</a></b>’s (D-W.Va.) support for keeping paid family and medical leave in the party’s reconciliation bill, one advocacy group helping spearhead the effort turned to K Street for help, a newly filed lobbying disclosure shows.
+<b>MomsRising </b>enlisted a team of lobbyists from
+<b> The Raben Group</b> that includes a former staffer on the Senate HELP Committee and a one-time aide to its now-chair,
+<b><a>Patty Murray</a> </b>(D-Wash.), to make its case.
+<a>sticking mostly to grassroots advocacy or ad blitzes</a> in courting Manchin, who
+<a>was on the verge of nixing paid leave from the bill</a> before announcing his opposition to the package as a whole last weekend.
+<b> Paid Leave for the United States</b>, or PL+US, registered its first lobbyists this year, hiring a former chief of staff to Rep.
+<b> National Domestic Workers Alliance</b>, reregistered to lobby at the federal level this year for the first time since 2015, and spent a little over $400,000 through the end of September.
+<b>Ferox Strategies</b> has signed five new clients to close out 2021, in addition to registering to lobby for the
+<b> National Retail Federation </b>and five others in October and September. The firm, which added
+<a>one of the few former aides on K Street</a> to now-HHS Secretary
+<b> Xavier Becerra</b> this spring, signed
+<b>Alexion Pharmaceuticals</b>, the rare disease drugmaker that was acquired earlier this year by
+<b>Univision Communications</b> hired the firm to monitor legislative and regulatory issues concerning telecommunications and media ownership, and the firm also signed
+<b>LKQ</b>, an alternative and specialty auto parts provider, sporting goods company
+<b>Equinox International</b> and life sciences company
+<b>Britney Spears</b> winning her independence this year,
+<a>here’s an underrated Christmas bop</a> from the princess of pop to close out 2021. ‘Til next year, keep those lobbying tips coming:
+<a>fueled now by the rapid spread of the Omicron variant</a>,
+<b>Zachary Warmbrodt</b> reports. “The Omicron surge is forcing pandemic-battered businesses to once again scale back and close their doors, energizing a lobbying push for billions of dollars of new aid for struggling employers and their workers.”
+<a>social spending and climate plan</a> is in limbo.”
+<b>International Franchise Association </b>instead focusing their efforts on the labor shortage and the vaccine mandate.”
+<b>INSIDE THE ‘TRAUMATIZING’ CULTURE AT PROGRESSIVE FIRM: Insider</b>’s
+<b>Kayla Epstein </b>has a look at what former staffers for progressive digital firm
+<b>Basecamp Strategy </b>described as
+<a>“systemic exploitation” of young employees</a> at the firm, led by a chief executive some suspect used the firm and the PAC he ran to enrich himself rather than support candidates.
+<b>CALLING OFF THE SEARCH: </b>“
+<b>Kevin Martin</b> to lead its U.S. lobbying team, the company said Wednesday,” according to
+<b>Alexandra Levine</b>. “Martin’s move
+<a>puts another Republican in charge of the sprawling policy operation</a>. (Republican
+<b> Joel Kaplan</b>, at times a lightning rod for Democratic criticism, is the company’s vice president of global public policy.)”
+<b>George W. Bush</b>, had been
+<a>put in charge of the company’s policy work</a> amid internal shuffling in 2018 during the fallout from the Cambridge Analytica data scandal.”
+<a>first reported the news</a> of Martin’s latest appointment, which it said followed an exhaustive search for a Democrat to lead Meta’s lobbying shop during the Biden administration and 117th Congress. Many Democrats have turned down that role,
+<a>according to <b>The Wall Street Journal</b></a>
+<b>Andy Stone</b> said the search had been called off and that Martin would formally fill the role.”
+<b>AT IT AGAIN: </b>The man indicted by the Justice Department last month for allegedly running a pair of scam PACs during the 2016 election “
+<a>continued to run another operation</a> — including promises of a Trump Christmas card for contributions of at least $35 — using a different PAC shortly after his indictment and arrest in November,”
+<b>Campaign to Support the President</b> — to send more than 166,000 robocalls, according to data from an anti-robocall app, to solicit donations just last month.”
+<b>Aaron Foss</b>, the founder of the anti-robocall app
+<b>Nomorobo</b>. The calls, which used spliced-together recordings of Trump's public statements, first started running on November 4 and continued until November 30, running more than 166,000 in total.”
+<b>USA</b>’s executive vice president of government and community affairs and chief diversity officer, will be leaving the company next year. Executive vice president of communications
+<b>Lisa Gonzalez Anselmo </b>will take over the community affairs and chief diversity officer roles, and the company will look to appoint a new head of government affairs.
+<p>—<b> Disney </b><a>has tapped <b>Horacio Gutierrez </b>as general counsel</a>. Gutierrez was most recently <b>Spotify</b>’s chief legal officer and global affairs head.</p>
+<p>Policy Development Group: Aliento</p>
+<div> <div> <div> <header> <h1>Cuomo, Paladino sing a similar tune on Buffalo </h1> </header> </div> </div> </div>
+<p><b>How much of a shock to New York’s political system</b> was India Walton’s defeat of Buffalo Mayor Byron Brown in Tuesday’s Democratic primary? </p>
+<p><b>Consider that Gov. Andrew Cuomo </b>and his 2010 Republican opponent, Carl Paladino,<b> </b>are offering a very similar theory on the race that dismisses Walton’s appeal to voters.</p>
+<b>“You’re going to have anomalies,” </b>Cuomo
+<a><u>said on Wednesday</u></a>. “I have nothing but good things to say about Mayor Brown, but he decided basically his campaign strategy, as I understand it, was basically to avoid engaging in a campaign. And then you had a very low turnout.”
+<p><b>The often-inflammatory Paladino offered a very similar interpretation</b> in an interview today.</p>
+<p><b>“Only 15 percent of [all registered voters] voted, </b>and the chief reason for that was that everybody just thought that Byron was going to be a shoo-in,” he said. “They’re perfectly happy with Byron Brown, who’s been a good mayor.”</p>
+<b>“Byron will run a write-in campaign highly supported by everybody</b> in the city of Buffalo, and he’ll win and he’ll destroy her. She’s a communist,” said Paladino, who has been
+<a><u>ginning up support for the idea</u></a>. “We’ll have people coming out of the forest to vote to make sure that she doesn’t get elected. There’s no way that woman will be the next mayor of Buffalo.”
+<p><b>Brown might be able to find support in November</b> among his loyalists, the business community, Republicans, and <a><u>the local PBA</u></a>. But it’s increasingly clear he’ll have minimal Democratic establishment backing. </p>
+<b>“Game over. Move on,”</b> state Sen. Sean Ryan
+<a><u>told reporters</u></a> in Western New York today. “Just because you were mayor four times doesn’t mean you get to be mayor a fifth. Stop listening to Carl Paladino. ... You were sleeping and you lost.”
+<b>Programming note: </b>As Boyz II Men so aptly pointed out,
+<a><u>it’s so hard to say goodbye to yesterday</u></a>
+<p><b>Asked when he thinks students will be able to attend school without face masks</b>, de Blasio said he'll follow public health guidance but wouldn’t be surprised if the restriction is lifted before the next school year.</p>
+<a><u>announcement this week</u></a> that federal stimulus funds would be made available to increase policing, and said he hoped the city would crack down on gang and gun violence in particular by adopting a JTTF-like approach.
+<p>“We need to do it with handguns and do it with the violence we're seeing in our inner city," he said. "We have not done that. That has been a real failure, and we've turned our backs on Black and brown people in this city and in this country.”</p>
+<b>Adams said he believes police should be shifting</b> to a “new way of thinking,” singling out the
+<p>“Unquestionably, something is working. … So far, I think it has really led to a very representative outcome, and that’s exciting for the future of the city,” de Blasio said on "The Brian Lehrer Show."</p>
+<p><b>Polls have shown Maya Wiley, who is in second place, having more success with younger voters </b>(and she appears to have gotten the vote of de Blasio’s son, Dante, which Lehrer referenced.) </p>
+<p>“I think there is more of a consensus than sometimes the coverage might show," he added. <b>— Janaki </b></p>
+<a>Trump Organization Could Face Criminal Charges in D.A. Inquiry,</a>” from The New York Times’ William K. Rashbaum, Ben Protess and Jonah E. Bromwich:
+<b>SCHOOL’S OUT FOR SUMMER:</b> De Blasio and schools chancellor Meisha Ross Porter marked the last day of school this afternoon with a friendly game of kickball with students and teachers at P.S./M.S. 34 Franklin D. Roosevelt on the Lower East Side.
+<p>Sporting blue T-shirts with the “Franklin D. Roosevelt” letters in yellow. Porter and de Blasio played with students and teachers, everyone cheering enthusiastically and at times getting jokingly competitive. </p>
+<b>Porter congratulated the students and teachers</b> ahead of the game for completing the school year amid the pandemic. “All of the students, families, teachers, thank you so much for being great partners this year,” she said.
+<p><b>— It’s Summer of Bill,</b> so naturally the outgoing mayor <a><u>supports Booze 2 Go </u></a>for a while longer and told Brian Lehrer it was a mistake for Cuomo to nix it so soon.</p>
+<p><b>— AG James</b> <u><a>filed to dismiss the NRA’s claims </a></u>that her lawsuit against the association is unconstitutional.</p>
+<p><b>— U.S. Rep. John Katko</b> <u><a>wants the CDC to work harder</a></u> to prevent and test for childhood lead exposure. </p>
+<b>— Stay true to the brand you’ve built: </b>“A man snared in a state attorney general's investigation in which nearly 50 people were charged with drug trafficking and weapons offenses
+<a><u>was arrested hours after his arraignment</u></a> for allegedly stealing the purse of an intern with the Albany County district attorney's office.”
+<p><b>— CASTING CALL: </b>Comedian Amy Schumer is <a><u>shooting her Hulu series</u></a> in the Hudson Valley next week.</p>
+<div> <div> <header> <h1>Cuomo, Paladino sing a similar tune on Buffalo </h1> </header> </div> </div>
+<p><b>The <a>often-inflammatory</a> Paladino offered a very similar interpretation</b> in an interview today.</p>
+<div><div> <div> <div> <header> <p> Politico</p> <h2> <a>New York Playbook</a></h2> <p>Erin Durkin and Anna Gronewold's must-read briefing informing the daily conversation among knowledgeable New Yorkers</p> </header> </div> </div> </div> </div>
+<div> <div> <div> <header> <h1>Adams vows to bring back solitary confinement</h1> </header> </div> </div> </div>
+<p><b>Mayor-elect Eric Adams </b>named his new Department of Correction commissioner on Thursday. Then he dropped a bit of a bombshell: He <a><u>plans to bring back</u></a> solitary confinement at Rikers Island on his first day in office. </p>
+<b>Outgoing Mayor Bill de Blasio </b>announced with some fanfare last year, during widespread protests over the killing of George Floyd, that the city
+<a><u>would put an end</u></a> to the practice in its jails. The devil was in the details, and the plan has
+<a><u>drawn its share of criticism</u></a>, but it remained the official policy of New York City to scrap the controversial punishment, also known as punitive segregation. And the de Blasio administration says they’re
+<a><u>on track to do it by Dec. 31</u></a>.
+<b>Perhaps just for a day. </b>“They better enjoy that one-day reprieve,” Adams said after introducing his
+<a><u>new jails boss</u></a>, Louis Molina. “Because Jan. 1, they’re going back into punitive segregation if they commit a violent act. That is unacceptable. You know, I’m not going to allow inmates and officers to be the victims of violent people.”
+<a><u>said Tiffany Cabán</u></a>. (The New Yorker
+<a>spelled out that argument thoroughly in 2009</a>.) The current Council considered, but did not ultimately take up at its last meeting,
+<u>legislation that would force</u>
+<b>IT’S FRIDAY and the last New York Playbook of 2021. </b>Got tips, suggestions or thoughts? Let us know ... By email:
+<p><b>WHERE’S KATHY? </b>In Erie County with no public events scheduled. </p>
+<p><b>WHERE’S BILL? </b>Appearing on WNYC’s Brian Lehrer show.</p>
+<p><b>WHERE’S ERIC?</b> No public events scheduled.</p>
+<a>Adrienne Adams picks up support in Council speaker race</a>, by POLITICO’s Sally Goldenberg and Joe Anuta:
+<a><b>Omicron prompts emergency measures in NYC</b></a>
+<p><b>— The city <a>had shut down</a> </b>20 testing sites ahead of the surge.</p>
+<p><b>— City schools <a>have </a></b><a><u>seen a record number</u></a> of virus cases and classrooms closed due to outbreaks. </p>
+<p><b>— Holiday parties </b><a><u>led to Covid outbreaks</u></a> at both the Staten Island and Manhattan DA’s offices.</p>
+<p><b>— Public Advocate Jumaane Williams</b> announced late Thursday night that he has <a><u>tested positive for Covid-19</u></a>.</p>
+<p><b>— “<a>As Virus Cases Surge,</a></b><a><u> New Yorkers Feel a Familiar Anxiety</u></a>”</p>
+<a>Bill de Blasio Did What New Yorkers Wanted. Yet as the mayor prepares to leave office, he remains stubbornly unpopular</a>,” by New York Magazine’s David Freedlander:
+<a>Does Scott Stringer deserve a second chance?</a>” by Crain’s Brian Pascus:
+<a>Bronx Mother Of Student With Autism Says It’s Time New York City Move Forward With GPS School Bus Tracking</a>,” by CBS New York’s Lisa Rozner:
+<a>Attorney general cites problems with ethics panel's order to Cuomo</a>,” by Times Union’s Brendan J. Lyons:
+<a>As frustration mounts, Hochul urges masks and vaccines, warns of 'rough ride' with Covid</a>,” by Buffalo News’ Tom Precious:
+<p><b>— “<a>New York officials announce Omicron strategies, including at-home tests by mail</a>,” by The New York Times’ Grace Ashford and Sharon Otterman</b></p>
+<a><b>Hochul hints at new policies for admittance to the Capitol</b></a>
+<p><b>— More than</b> <a><u>50 state legislators asked</u></a> that Hochul include the <a>New York Build Public Renewables Act</a> in her agenda for 2022.</p>
+<p><b>— State legislators and immigration advocates</b> want to make the Excluded Workers Fund a <a><u>permanent part of the state budget</u></a>.</p>
+<p><b>— “<a>Advocates Hope Hochul Delivers on Clemency Where Cuomo Failed</a>” </b></p>
+<p><b>— Hochul’s reelection campaign</b> was <u><a>endorsed by four state lawmakers in Manhattan</a></u>.</p>
+<a>Gun makers challenge New York law allowing lawsuits against industry</a>,” by Reuters’ Nate Raymond:
+<b>#UpstateAmerica: </b>Bills fans raised over $20,000 for charity Vision Impairment Advancement “
+<a>to tease 'blind' officials from Buccaneers game</a>." (CBS Sports reports that “most of the donations came via $17 increments to represent the jersey number of
+<a>Bills quarterback <u>Josh Allen</u></a>.)
+<a>DA’s last big decision: Whether to charge Trump</a>,” by The Associated Press’ Michael R. Sisak:
+<a>GOP agrees to pay up to $1.6 million of Trump’s legal bills in N.Y. probes</a>,” by Washington Post’s Josh Dawsey and David A. Fahrenthold:
+<p><b>— Former New York City Deputy Mayor</b> Dan Doctoroff <a><u>will devote himself</u></a> to promoting A.L.S. research after learning he likely has the disease, and is stepping down as CEO of Sidewalk Labs. </p>
+<p><b>— The city <a>will </a></b><a><u>spend $40 million</u></a> to make improvements to Prospect Park’s northeast corner, known as the Vale. </p>
+<p><b>— A third teenager </b><u><a>pleaded guilty in the Morningside Park</a></u> murder of Barnard student Tessa Majors. </p>
+<p><b>— A Long Island </b>pet store <a><u>was sued by the state attorney general</u></a> for allegedly selling numerous sick or injured puppies to unaware consumers.</p>
+<p><b>— Several Capital Region school districts</b> are <a><u>on heightened alert</u></a> after TikTok messages apparently encouraged gun violence today.</p>
+<p><b>— Buffalo Mayor Byron Brown</b> <a><u>said it’s fine with him</u></a> if the new Bills stadium is in Orchard Park.</p>
+<p>— <b>The Office of Cannabis Management</b> announced that more than <a><u>350 municipalities have opted out</u></a> of New York’s recreational marijuana program.</p>
+<p>— <b>TikTokers </b>who attended New York City’s recent SantaCon <a><u>say they’ve since tested positive for Covid-19</u></a>. </p>
+<p>— <b>A new report </b>from state Comptroller Thomas DiNapoli found enrollment in the state’s Medicaid program <a><u>surged during the Covid-19 pandemic</u></a><b>.</b></p>
+<p><b>— Hochul <a>said she’ll</a></b><a><u> make it a priority</u></a> to make voting by mail permanent. </p>
+<p><b>— The attorney general</b> <a><u>is investigating the death</u></a> of a 29-year-old man who was shot by police with a stun gun in Catskill after dousing himself with hand sanitizer during an altercation.</p>
+<b>HAPPY BIRTHDAY: Aryeh Bourkoff</b> ...
+<b>Kelli Arena</b> of the NSA …
+<b>Eli Pariser </b>of New_ Public …
+<b> Noah Rothman</b> of Commentary and MSNBC is 4-0 …
+<b>Elisheva Carlebach Jofen </b>...
+<b> Emily Jane Fox</b> (h/ts Jewish Insider)
+<b>MAKING MOVES — Amy Varghese </b>is joining energyRe as VP for external affairs. She was formerly communications director for city Comptroller Scott Stringer. …
+<b>Kevin McCarthy</b> is now VP for corporate strategy, integration, and growth at HarrisX, a Stagwell Inc. company. He most recently was a principal consultant at Capco.
+<p><b>MEDIAWATCH — Nikita Stewart </b><u><a>will be The New York Times’ new real estate editor</a></u>. She has been an assistant Metro editor and a reporter covering City Hall and social services. </p>
+<a>Worst Landlord’ Watchlist Highlights Manhattan Investment Firm, With NYCHA Dishonorable Mention</a>,” by The City’s Claudia Irizarry Aponte:
+<a>In New Maritime Freight Plan, NYC Hopes To Distribute Packages By Boat Instead Of 18-Wheelers</a>,” by Gothamist’s Sophia Chang:
+<div> <div> <div> <header> <h1>Sweeney frustrated by Callahan but votes to confirm him </h1> </header> </div> </div> </div>
+<p><b>Good Friday morning!</b></p>
+<p><b>After four years in acting status, State Police Superintendent Superintendent Patrick Callahan </b>appears on his way to confirmation. </p>
+<p><b>But the Senate Judiciary Committee's approval</b> of his nomination yesterday came only after Senate President Steve Sweeney, whose house has held it up for so long, took some verbal flesh. </p>
+<p><b>“With all due respect Colonel, I think you’re stonewalling us,”</b> Sweeney said. </p>
+<p><b>Hmmm… A public official refusing to answer valid questions</b> by citing an internal investigation. I think Sweeney just got a hint of what it feels like to be a New Jersey state government reporter. </p>
+<p><b>WHERE’S MURPHY</b>? At the port in Newark at 11 a.m. to “highlight New Jersey's supply chain infrastructure” </p>
+<b>QUOTE OF THE DAY:</b> “I’ve read it … It’s not something that I would foresee.” — Gov. Phil Murphy on whether the state should
+<a><u>follow New York City’s lead</u></a> on allowing non-U.S. citizens, like green card holders and DREAMers, to vote in local elections
+<p><b>PROGRAMMING NOTE — </b>NJ Playbook will take a two-week holiday hiatus beginning Monday. I’ll be back in your inbox on Jan. 3. But I’ll still be reporting. Keep sending tips. </p>
+<b>HAPPY BIRTHDAY —</b> My mother-in-law
+<b>Pat </b>(who will never see this), U.S. Rep.
+<b>Donald Payne Jr</b>., former Menendez aide
+<b>Paul Brubaker</b>, former GOP staffer
+<b>Abraham Lopez</b>, former pensions director
+<b>Fred Beaver</b>, Princeton University’s
+<b>Jacqueline Sikoff </b>and everyone else whose birthday falls in the next two weeks.
+<b><a>See how New Jersey and other states fared here</a>. </b>
+<a>New proof Atlantic City casinos doing well; tax breaks near</a>,” by The AP’s Wayne Parry:
+<a>Murphy pushes nominee on Waterfront Commission as N.J. seeks to kill it</a>,” by NJ Advance Media’s Ted Sherman: “
+<p><b>—“<a>NJ school COVID cases have reached their highest levels since September</a>” </b></p>
+<a>Black police groups will argue before N.J. Supreme Court to grant parole to man convicted of killing trooper</a>,” by NJ Advance Media’s Kevin Shea:
+<a>Republican lawmakers cite UPenn swimmer in latest push for trans-athlete bill</a>,” by The Press of Atlantic City’s Eric Conklin:
+<a>We’re done with dining out in New Jersey</a>,” by Jennifer Moses for The Star-Ledger:
+<b>IN SINGAPORE THEY HAVE GUM CONTROL</b> —
+<a>Senate committee advances one bill in Murphy-backed gun control package, </a>by POLITICO’s Daniel Han
+<b>26 AND 6.6: THE DEVIL’S NUMBER IS STARING YOU IN THE FACE, FOLKS —</b>
+<a>New Jersey added nearly 26K jobs in November; unemployment rate drops to 6.6 percent,</a> by POLITICO’s Katherine Landergan:
+<a>An enticement to recruit young poll workers: College credit,</a> by POLITICO’s Matt Friedman:
+<a>“N.J. schools can cut quarantines to as few as 7 days for students exposed to COVID, new guidelines say,”</a> by NJ Advance Media’s Kelly Heyboer
+<p><b>—“<a>Acting Attorney General announces racial justice efforts, anti-discrimination policy for 720K workers</a>” </b></p>
+<p><b>—Moran: “<a>The automatic tax hike that comes with inflation</a>” </b></p>
+<p><b>—Pizarro: “<a>Who will be the Next Goldman Sachs Guy to Break Sweeney’s and Fulop’s Hearts?</a>” </b></p>
+<p><b>—“<a>Why didn’t the Port Authority hike your tolls this year while N.J. toll roads did?</a>” </b></p>
+<p><b>—“<a>Same-sex marriage codification clears senate committee</a>” </b></p>
+<p><b>—“<a>Wallace adjourns for [Thursday] without sharing maps with both parties</a>” </b></p>
+<p><b>—“<a>Philip Sellinger, Morristown lawyer, sworn in as U.S. Attorney for NJ</a>” </b></p>
+<p><b>PINOS — “<a>National progressive group labels six lawmakers 'progressive in name only' in new report</a>” </b></p>
+<p><b>—“<a>Parties have still not seen each other’s submissions of N.J. congressional map</a>” </b></p>
+<a>Paterson Councilman Alex Mendez seeks pre-trial intervention in election fraud case</a>,” by The Paterson Press’ Joe Malinconico:
+<p><b>—“<a>Luis Velez joins race to take on incumbent Andre Sayegh for Paterson mayor</a>” </b></p>
+<a>Gross school lunch photos went viral. Who in NJ is responsible for serving healthy meals?</a>” by The Paterson Press’ Joe Malinconico:
+<a>Bergen County executive praises how his son's arrest was handled by Florida officer</a>,” by The Record’s Katie Sobko:
+<a>Despite public outcry, Hoboken council narrowly raises local union donation limit to $7,200</a>,” by Hudson County View’s John Heinis:
+<a>Hoboken orders last minute COVID vaccine mandate for SantaCon</a>,” by The Record’s Nicholas Katzban:
+<p><b>—“<a>West New York raises minimum wage for town employees to $15 an hour</a>” </b></p>
+<p><b>—“<a>Jersey City Council votes 8-1 to implement new inclusionary zoning ordinance</a>” </b></p>
+<p><b>—“<a>Ocean County officials: Stop Jan. 1 toll hikes on Garden State Parkway, AC Expressway</a>” </b></p>
+<p><b>—“<a>Former Hackensack employee files lawsuit, alleges sanitation trucks pose danger to public</a>” </b></p>
+<p><b>—“<a>Novartis HQ tower in East Hanover to be demolished; developer will build industrial space</a>” </b></p>
+<p><b>—“<a>Wayne teachers secure raises of up to 3% in new contract with school board</a>” </b></p>
+<p><b>—“<a>Quinn declines Millville commission seat, citing personal reasons</a>” </b></p>
+<p><b>—“<a>Passaic County in talks to reopen COVID vaccine, booster megasite in the area</a>” </b></p>
+<p><b>—“<a>Willingboro officials say their water is safe after a well tainted with ‘forever chemical’ is closed</a>” </b></p>
+<a>Holy Name seeks zoning changes from Teaneck for major expansion of hospital facilities</a>,” by The Record’s Katie Sobko and Lindy Washburn: “
+<a>Bruce Springsteen sells entire music catalog for $500 million</a>,” by The AV Club’s Gabriel Sanchez:
+<div> <div> <header> <h1>Sweeney frustrated by Callahan but votes to confirm him </h1> </header> </div> </div>
+<p><b>Good Friday morning!</b></p>
+<p><b>After four years in acting status, State Police Superintendent Superintendent Patrick Callahan </b>appears on his way to confirmation. </p>
+<p><b>But the Senate Judiciary Committee's approval</b> of his nomination yesterday came only after Senate President Steve Sweeney, whose house has held it up for so long, took some verbal flesh. </p>
+<p><b>“With all due respect Colonel, I think you’re stonewalling us,”</b> Sweeney said. </p>
+<p><b>Hmmm… A public official refusing to answer valid questions</b> by citing an internal investigation. I think Sweeney just got a hint of what it feels like to be a New Jersey state government reporter. </p>
+<p><b>WHERE’S MURPHY</b>? At the port in Newark at 11 a.m. to “highlight New Jersey's supply chain infrastructure” </p>
+<b>QUOTE OF THE DAY:</b> “I’ve read it … It’s not something that I would foresee.” — Gov. Phil Murphy on whether the state should
+<a><u>follow New York City’s lead</u></a> on allowing non-U.S. citizens, like green card holders and DREAMers, to vote in local elections
+<p><b>PROGRAMMING NOTE — </b>NJ Playbook will take a two-week holiday hiatus beginning Monday. I’ll be back in your inbox on Jan. 3. But I’ll still be reporting. Keep sending tips. </p>
+<b>HAPPY BIRTHDAY —</b> My mother-in-law
+<b>Pat </b>(who will never see this), U.S. Rep.
+<b>Donald Payne Jr</b>., former Menendez aide
+<b>Paul Brubaker</b>, former GOP staffer
+<b>Abraham Lopez</b>, former pensions director
+<b>Fred Beaver</b>, Princeton University’s
+<b>Jacqueline Sikoff </b>and everyone else whose birthday falls in the next two weeks.
+<b><a>See how New Jersey and other states fared here</a>. </b>
+<a>New proof Atlantic City casinos doing well; tax breaks near</a>,” by The AP’s Wayne Parry:
+<a>Murphy pushes nominee on Waterfront Commission as N.J. seeks to kill it</a>,” by NJ Advance Media’s Ted Sherman: “
+<p><b>—“<a>NJ school COVID cases have reached their highest levels since September</a>” </b></p>
+<a>Black police groups will argue before N.J. Supreme Court to grant parole to man convicted of killing trooper</a>,” by NJ Advance Media’s Kevin Shea:
+<a>Republican lawmakers cite UPenn swimmer in latest push for trans-athlete bill</a>,” by The Press of Atlantic City’s Eric Conklin:
+<a>We’re done with dining out in New Jersey</a>,” by Jennifer Moses for The Star-Ledger:
+<b>IN SINGAPORE THEY HAVE GUM CONTROL</b> —
+<a>Senate committee advances one bill in Murphy-backed gun control package, </a>by POLITICO’s Daniel Han
+<b>26 AND 6.6: THE DEVIL’S NUMBER IS STARING YOU IN THE FACE, FOLKS —</b>
+<a>New Jersey added nearly 26K jobs in November; unemployment rate drops to 6.6 percent,</a> by POLITICO’s Katherine Landergan:
+<a>An enticement to recruit young poll workers: College credit,</a> by POLITICO’s Matt Friedman:
+<a>“N.J. schools can cut quarantines to as few as 7 days for students exposed to COVID, new guidelines say,”</a> by NJ Advance Media’s Kelly Heyboer
+<p><b>—“<a>Acting Attorney General announces racial justice efforts, anti-discrimination policy for 720K workers</a>” </b></p>
+<p><b>—Moran: “<a>The automatic tax hike that comes with inflation</a>” </b></p>
+<p><b>—Pizarro: “<a>Who will be the Next Goldman Sachs Guy to Break Sweeney’s and Fulop’s Hearts?</a>” </b></p>
+<p><b>—“<a>Why didn’t the Port Authority hike your tolls this year while N.J. toll roads did?</a>” </b></p>
+<p><b>—“<a>Same-sex marriage codification clears senate committee</a>” </b></p>
+<p><b>—“<a>Wallace adjourns for [Thursday] without sharing maps with both parties</a>” </b></p>
+<p><b>—“<a>Philip Sellinger, Morristown lawyer, sworn in as U.S. Attorney for NJ</a>” </b></p>
+<p><b>PINOS — “<a>National progressive group labels six lawmakers 'progressive in name only' in new report</a>” </b></p>
+<p><b>—“<a>Parties have still not seen each other’s submissions of N.J. congressional map</a>” </b></p>
+<a>Paterson Councilman Alex Mendez seeks pre-trial intervention in election fraud case</a>,” by The Paterson Press’ Joe Malinconico:
+<p><b>—“<a>Luis Velez joins race to take on incumbent Andre Sayegh for Paterson mayor</a>” </b></p>
+<a>Gross school lunch photos went viral. Who in NJ is responsible for serving healthy meals?</a>” by The Paterson Press’ Joe Malinconico:
+<a>Bergen County executive praises how his son's arrest was handled by Florida officer</a>,” by The Record’s Katie Sobko:
+<a>Despite public outcry, Hoboken council narrowly raises local union donation limit to $7,200</a>,” by Hudson County View’s John Heinis:
+<a>Hoboken orders last minute COVID vaccine mandate for SantaCon</a>,” by The Record’s Nicholas Katzban:
+<p><b>—“<a>West New York raises minimum wage for town employees to $15 an hour</a>” </b></p>
+<p><b>—“<a>Jersey City Council votes 8-1 to implement new inclusionary zoning ordinance</a>” </b></p>
+<p><b>—“<a>Ocean County officials: Stop Jan. 1 toll hikes on Garden State Parkway, AC Expressway</a>” </b></p>
+<p><b>—“<a>Former Hackensack employee files lawsuit, alleges sanitation trucks pose danger to public</a>” </b></p>
+<p><b>—“<a>Novartis HQ tower in East Hanover to be demolished; developer will build industrial space</a>” </b></p>
+<p><b>—“<a>Wayne teachers secure raises of up to 3% in new contract with school board</a>” </b></p>
+<p><b>—“<a>Quinn declines Millville commission seat, citing personal reasons</a>” </b></p>
+<p><b>—“<a>Passaic County in talks to reopen COVID vaccine, booster megasite in the area</a>” </b></p>
+<p><b>—“<a>Willingboro officials say their water is safe after a well tainted with ‘forever chemical’ is closed</a>” </b></p>
+<a>Holy Name seeks zoning changes from Teaneck for major expansion of hospital facilities</a>,” by The Record’s Katie Sobko and Lindy Washburn: “
+<a>Bruce Springsteen sells entire music catalog for $500 million</a>,” by The AV Club’s Gabriel Sanchez:
+<div> <div> <div> <header> <h1>Healey makes a call</h1> </header> </div> </div> </div>
+<span><b>PROGRAMMING NOTE:</b></span>
+<p><b>SCOOPLET: MONEY TALKS —</b> State Attorney General Maura Healey is planning a call with supporters and donors this morning as they — and we — wait for her to say whether she’s running for governor next year. </p>
+<p><span><b>GOOD FRIDAY MORNING, MASSACHUSETTS.</b></span><b> </b>Governor hopeful Danielle Allen’s climate plan is here, and Playbook has a first look.</p>
+<p><b>TODAY — </b>Former Boston city councilors <b>Tom Keene </b>and <b>Tito Jackson</b> are on WBUR’s “Radio Boston” at 3 p.m. </p>
+<b>THIS WEEKEND — </b>UMass President
+<b>Marty Meehan </b>discusses tuition and fee hikes, race relations on campus and Covid-19 on WBZ’s “Keller @ Large” at 8:30 a.m. Sunday. Rep.
+<b>Richard Neal </b>is this week’s guest on WCVB’s “On the Record” at 11 a.m. Sunday.
+<a>“Massachusetts coronavirus cases surge 5,883, the highest daily count in 11 months,”</a> by Rick Sobey, Boston Herald:
+<a>“New COVID cases reported in 7,223 students, 1,153 staffers at Massachusetts schools as infections increase statewide,”</a> by Melissa Hanson, MassLive:
+<p>– <a><b>“Town-by-town COVID-19 data in Massachusetts,”</b></a> <b>by Ryan Huddle and Peter Bailey-Wells, Boston Globe.</b></p>
+<a>“Hugs, Tears As Gold Star Tree Tradition Resumes,”</a> by Sam Doran, State House News Service (paywall):
+<a>“Report finds Hispanic residents have harder time getting health care,”</a> by Shira Schoenberg, CommonWealth Magazine:
+<a>“A new state commission aims to unite the diverse disability community,”</a> by Meghan Smith, GBH News:
+<a>“A teary Charlie Baker urges action one last time on dangerousness and revenge porn loopholes,”</a> by Nik DeCosta-Klipa, Boston.com:
+<a>“Nearly $160 million later, the state’s COVID-19 contact tracing program is ending,”</a> by Kay Lazar, Boston Globe:
+<a>“Gov. Baker resists imposing Massachusetts indoor mask mandate despite COVID spike, pressure from health professionals,”</a> by Alison Kuznitz, MassLive:
+<a>“Hospital group boss cites ‘terrifying increase’ in hospitalized COVID-19 patients in Mass.,”</a> by Travis Andersen, Boston Globe:
+<a>“Vaccine mandates kick in as hospitals struggle with staffing,”</a> by Shira Schoenberg, CommonWealth Magazine:
+<p><b>– <a>“How Are Free Home COVID Tests Being Distributed? Mass. Cities Are Being Strategic,”</a> by Abbey Niezgoda and Oscar Margain, NBC10 Boston.</b></p>
+<p><b>– <a>“With resurgent COVID, Baystate Health’s Dr. Mark Keroack says region faces crisis, urges state impose mask mandate,”</a> by Jim Kinney, Springfield Republican.</b></p>
+<p>– <a><b>“Amid surge in patients, hospitals treat more people at home,”</b></a> <b>by Priyanka Dayal McCluskey, Boston Globe.</b></p>
+<a>"Boston police bought spy tech with a pot of money hidden from the public,"</a> by Shannon Dooling and Christine Willmsen, WBUR:
+<a>“In less than a year, the number of Boston hospital chiefs on corporate boards is down by half,”</a> by Liz Kowalczyk, Boston Globe:
+<a>“Reaction to Boston’s immediate Mass. and Cass plan is decidedly mixed,”</a> by Danny McDonald, Boston Globe:
+<a>"After years of deliberation, 3 Boston schools will close this summer,"</a> by Max Larkin, WBUR:
+<a>“Idea to convert Charlestown High School called ‘hostile takeover’,”</a> by Marie Szaniszlo, Boston Herald:
+<b>– NEW: </b>With Boston City Councilor
+<b>Lydia Edwards</b> likely headed for the state Senate,
+<b>Sal LaMattina</b>, a former city councilor whose retirement paved the way for Edwards’ election to the District 1 City Council seat in 2017, is
+<a><u>talking to supporters about potentially running</u></a> for his old seat, per Universal Hub. Coletta and LaMattina would join
+<a><u>Tania Del Rio</u></a>, who told the Boston Herald earlier this week she’s seeking the seat.
+<b>– SOMERVILLE DISPATCHES: </b>Somerville Mayor-elect
+<b>Katjana Ballantyne </b>has formed an advisory committee focused on pandemic recovery, climate change and affordable housing.
+<b>Katie Brillantes </b>is leading the 17-member committee, which includes
+<b>Stephenson Aman, Michael Brown, Bonnie Denis, Howard Horton, Maggie Joseph, Tom Lamar, Daniele Lantagne, Paula Magnelli, Tony Pini, Gonzalo Puigbo, Ellin Reiser, Juliette Rooney-Varga, Letissia Scott, Bill Shelton, Larry Yu </b>and
+<a>“Why hasn't Maura Healey announced a run for governor yet? Because she doesn't have to,”</a> by Mike Deehan, GBH News:
+<a>“Auchincloss creates new PAC to support state, local candidates in Mass.,”</a> by Ted Nesi, WPRI:
+<b>– PPAF ENDORSES AUCHINCLOSS: </b>Planned Parenthood Action Fund endorsed Rep.
+<b> Jake Auchincloss </b>for reelection as part of its
+<a>first wave of House incumbent endorsements</a> for 2022. Auchincloss faces two Republican challengers,
+<b>Emily Burns</b> and former rival
+<b> Jesse Mermell</b> is still considering a primary rematch in 2022, per a source familiar with her thinking.
+<a><u>“</u><b>Attleboro mayor heading to DC to discuss run for higher office,”</b></a>
+<p><b>– NOT FEELING '22: Angel Donahue-Rodriguez, </b>the deputy chief of staff at the MBTA, has decided not to run for lieutenant governor "after much thought and consideration, and conversations with my family."</p>
+<a>“T’s largest union signs new contract,”</a> by Bruce Mohl, CommonWealth Magazine:
+<a>“Support for North Adams-to-Boston rail service is clear. But, Rep. Barrett asks: Does the study need to take 18 months?”</a> by Danny Jin, Berkshire Eagle:
+<a>“Legislators push for towns' flexibility to lower speed limits on Massachusetts roads,”</a> by Bob Seay, GBH News:
+<a>“Sen. Elizabeth Warren renews push to fight substance use disorder epidemic ‘head on’ with $125B bill to expand treatment, mental health support across US,”</a> by Benjamin Kail, MassLive:
+<a>“Maine judge deals blow to Mass. climate change plan,”</a> by Bruce Mohl, CommonWealth Magazine:
+<a>"That Job at Harvard? It’s Not Real,"</a> by Jeffrey Gettleman, Kate Conger and Suhasini Raj, New York Times:
+<a>“Biden awards Congressional Gold Medal to Lawrence Marine, 12 other service members killed in evacuation from Afghanistan,”</a> by Meghan Ottolini, Boston Herald:
+<a>"Judge Overturns Purdue Pharma’s Opioid Settlement,"</a> by Jan Hoffman, New York Times:
+<a>"All state troopers given body cameras after overtime scandal,"</a> by the Associated Press:
+<a>“Perry: Hazard pay return 'not falling on the taxpayers – yet',”</a> by Allison Corneau, Eagle-Tribune:
+<p><b>– <a>“TikTok school shooting threats deemed bogus by authorities have school districts, police on high alert across Massachusetts, US,”</a> by Benjamin Kail, MassLive</b>.</p>
+<p><b>– <a>“MIT graduate students seek to form union, ask university for voluntary recognition,”</a> by Julia Carlin, Boston Globe.</b></p>
+<p><b>– <a>“Miss the Boston Phoenix? You can now browse and download its archive for free,”</a> by Morgan Rousseau, Boston.com.</b></p>
+<p><b>HAPPY BIRTHDAY – </b>to<b> Joe Kaplan, Catherine Sanderson </b>and<b> Zachary Gavel.</b></p>
+<p><b>HAPPY BIRTHWEEKEND — </b>to<b> Dion Irish</b> and<b> Emily Williams</b>, who celebrate Saturday; and to Sunday birthday-ers <b>Tahirah Amatul-Wadud </b>and <b>Abby Charpentier.</b></p>
+<b>AND HAPPY EARLY BIRTHDAY — </b>to a lot of Playbookers: state Senate President Emerita
+<b> Harriette Chandler, Maureen McInerney, Megan Johnson, Meaghan Callahan, Kalen O'Hare, Richard Purcell, Jakhari Watson, Judith Souweine, Scott Spencer, Bernie Lynch Jr., Koray Rosati, Joe Beebee, Scott Campanella </b>and
+<b>THE PUSH TO UNIONIZE NEWSROOMS — </b>Host
+<b>Jennifer Smith</b> talks to state Rep.
+<b>Lindsay Sabadosa </b>about the Daily Hampshire Gazette writers' strike, and to WBUR's
+<b>Ally Jarmanning</b> and Boston.com's
+<b>Kevin Slane</b> about the general state of newsroom unions. Smith and host
+<a><u>listen on iTunes</u></a> and
+<div> <div> <header> <h1>Healey makes a call</h1> </header> </div> </div>
+<span><b>PROGRAMMING NOTE:</b></span>
+<p><b>SCOOPLET: MONEY TALKS —</b> State Attorney General Maura Healey is planning a call with supporters and donors this morning as they — and we — wait for her to say whether she’s running for governor next year. </p>
+<p><span><b>GOOD FRIDAY MORNING, MASSACHUSETTS.</b></span><b> </b>Governor hopeful Danielle Allen’s climate plan is here, and Playbook has a first look.</p>
+<p><b>TODAY — </b>Former Boston city councilors <b>Tom Keene </b>and <b>Tito Jackson</b> are on WBUR’s “Radio Boston” at 3 p.m. </p>
+<b>THIS WEEKEND — </b>UMass President
+<b>Marty Meehan </b>discusses tuition and fee hikes, race relations on campus and Covid-19 on WBZ’s “Keller @ Large” at 8:30 a.m. Sunday. Rep.
+<b>Richard Neal </b>is this week’s guest on WCVB’s “On the Record” at 11 a.m. Sunday.
+<a>“Massachusetts coronavirus cases surge 5,883, the highest daily count in 11 months,”</a> by Rick Sobey, Boston Herald:
+<a>“New COVID cases reported in 7,223 students, 1,153 staffers at Massachusetts schools as infections increase statewide,”</a> by Melissa Hanson, MassLive:
+<p>– <a><b>“Town-by-town COVID-19 data in Massachusetts,”</b></a> <b>by Ryan Huddle and Peter Bailey-Wells, Boston Globe.</b></p>
+<a>“Hugs, Tears As Gold Star Tree Tradition Resumes,”</a> by Sam Doran, State House News Service (paywall):
+<a>“Report finds Hispanic residents have harder time getting health care,”</a> by Shira Schoenberg, CommonWealth Magazine:
+<a>“A new state commission aims to unite the diverse disability community,”</a> by Meghan Smith, GBH News:
+<a>“A teary Charlie Baker urges action one last time on dangerousness and revenge porn loopholes,”</a> by Nik DeCosta-Klipa, Boston.com:
+<a>“Nearly $160 million later, the state’s COVID-19 contact tracing program is ending,”</a> by Kay Lazar, Boston Globe:
+<a>“Gov. Baker resists imposing Massachusetts indoor mask mandate despite COVID spike, pressure from health professionals,”</a> by Alison Kuznitz, MassLive:
+<a>“Hospital group boss cites ‘terrifying increase’ in hospitalized COVID-19 patients in Mass.,”</a> by Travis Andersen, Boston Globe:
+<a>“Vaccine mandates kick in as hospitals struggle with staffing,”</a> by Shira Schoenberg, CommonWealth Magazine:
+<p><b>– <a>“How Are Free Home COVID Tests Being Distributed? Mass. Cities Are Being Strategic,”</a> by Abbey Niezgoda and Oscar Margain, NBC10 Boston.</b></p>
+<p><b>– <a>“With resurgent COVID, Baystate Health’s Dr. Mark Keroack says region faces crisis, urges state impose mask mandate,”</a> by Jim Kinney, Springfield Republican.</b></p>
+<p>– <a><b>“Amid surge in patients, hospitals treat more people at home,”</b></a> <b>by Priyanka Dayal McCluskey, Boston Globe.</b></p>
+<a>"Boston police bought spy tech with a pot of money hidden from the public,"</a> by Shannon Dooling and Christine Willmsen, WBUR:
+<a>“In less than a year, the number of Boston hospital chiefs on corporate boards is down by half,”</a> by Liz Kowalczyk, Boston Globe:
+<a>“Reaction to Boston’s immediate Mass. and Cass plan is decidedly mixed,”</a> by Danny McDonald, Boston Globe:
+<a>"After years of deliberation, 3 Boston schools will close this summer,"</a> by Max Larkin, WBUR:
+<a>“Idea to convert Charlestown High School called ‘hostile takeover’,”</a> by Marie Szaniszlo, Boston Herald:
+<b>– NEW: </b>With Boston City Councilor
+<b>Lydia Edwards</b> likely headed for the state Senate,
+<b>Sal LaMattina</b>, a former city councilor whose retirement paved the way for Edwards’ election to the District 1 City Council seat in 2017, is
+<a><u>talking to supporters about potentially running</u></a> for his old seat, per Universal Hub. Coletta and LaMattina would join
+<a><u>Tania Del Rio</u></a>, who told the Boston Herald earlier this week she’s seeking the seat.
+<b>– SOMERVILLE DISPATCHES: </b>Somerville Mayor-elect
+<b>Katjana Ballantyne </b>has formed an advisory committee focused on pandemic recovery, climate change and affordable housing.
+<b>Katie Brillantes </b>is leading the 17-member committee, which includes
+<b>Stephenson Aman, Michael Brown, Bonnie Denis, Howard Horton, Maggie Joseph, Tom Lamar, Daniele Lantagne, Paula Magnelli, Tony Pini, Gonzalo Puigbo, Ellin Reiser, Juliette Rooney-Varga, Letissia Scott, Bill Shelton, Larry Yu </b>and
+<a>“Why hasn't Maura Healey announced a run for governor yet? Because she doesn't have to,”</a> by Mike Deehan, GBH News:
+<a>“Auchincloss creates new PAC to support state, local candidates in Mass.,”</a> by Ted Nesi, WPRI:
+<b>– PPAF ENDORSES AUCHINCLOSS: </b>Planned Parenthood Action Fund endorsed Rep.
+<b> Jake Auchincloss </b>for reelection as part of its
+<a>first wave of House incumbent endorsements</a> for 2022. Auchincloss faces two Republican challengers,
+<b>Emily Burns</b> and former rival
+<b> Jesse Mermell</b> is still considering a primary rematch in 2022, per a source familiar with her thinking.
+<a><u>“</u><b>Attleboro mayor heading to DC to discuss run for higher office,”</b></a>
+<p><b>– NOT FEELING '22: Angel Donahue-Rodriguez, </b>the deputy chief of staff at the MBTA, has decided not to run for lieutenant governor "after much thought and consideration, and conversations with my family."</p>
+<a>“T’s largest union signs new contract,”</a> by Bruce Mohl, CommonWealth Magazine:
+<a>“Support for North Adams-to-Boston rail service is clear. But, Rep. Barrett asks: Does the study need to take 18 months?”</a> by Danny Jin, Berkshire Eagle:
+<a>“Legislators push for towns' flexibility to lower speed limits on Massachusetts roads,”</a> by Bob Seay, GBH News:
+<a>“Sen. Elizabeth Warren renews push to fight substance use disorder epidemic ‘head on’ with $125B bill to expand treatment, mental health support across US,”</a> by Benjamin Kail, MassLive:
+<a>“Maine judge deals blow to Mass. climate change plan,”</a> by Bruce Mohl, CommonWealth Magazine:
+<a>"That Job at Harvard? It’s Not Real,"</a> by Jeffrey Gettleman, Kate Conger and Suhasini Raj, New York Times:
+<a>“Biden awards Congressional Gold Medal to Lawrence Marine, 12 other service members killed in evacuation from Afghanistan,”</a> by Meghan Ottolini, Boston Herald:
+<a>"Judge Overturns Purdue Pharma’s Opioid Settlement,"</a> by Jan Hoffman, New York Times:
+<a>"All state troopers given body cameras after overtime scandal,"</a> by the Associated Press:
+<a>“Perry: Hazard pay return 'not falling on the taxpayers – yet',”</a> by Allison Corneau, Eagle-Tribune:
+<p><b>– <a>“TikTok school shooting threats deemed bogus by authorities have school districts, police on high alert across Massachusetts, US,”</a> by Benjamin Kail, MassLive</b>.</p>
+<p><b>– <a>“MIT graduate students seek to form union, ask university for voluntary recognition,”</a> by Julia Carlin, Boston Globe.</b></p>
+<p><b>– <a>“Miss the Boston Phoenix? You can now browse and download its archive for free,”</a> by Morgan Rousseau, Boston.com.</b></p>
+<p><b>HAPPY BIRTHDAY – </b>to<b> Joe Kaplan, Catherine Sanderson </b>and<b> Zachary Gavel.</b></p>
+<p><b>HAPPY BIRTHWEEKEND — </b>to<b> Dion Irish</b> and<b> Emily Williams</b>, who celebrate Saturday; and to Sunday birthday-ers <b>Tahirah Amatul-Wadud </b>and <b>Abby Charpentier.</b></p>
+<b>AND HAPPY EARLY BIRTHDAY — </b>to a lot of Playbookers: state Senate President Emerita
+<b> Harriette Chandler, Maureen McInerney, Megan Johnson, Meaghan Callahan, Kalen O'Hare, Richard Purcell, Jakhari Watson, Judith Souweine, Scott Spencer, Bernie Lynch Jr., Koray Rosati, Joe Beebee, Scott Campanella </b>and
+<b>THE PUSH TO UNIONIZE NEWSROOMS — </b>Host

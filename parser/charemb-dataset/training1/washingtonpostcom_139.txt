@@ -1,0 +1,500 @@
+<div>Drag to pan around the map. Pinch to zoom. Double-tap to explore county details. Click on a state to explore county details</div>
+<div>Note: Florida, Nebraska and Oklahoma do not report county-level data consistently.</div>
+<p>Testing data is from HHS. Testing data from the past three days is especially subject to upward revision, as reporting may be incomplete.</p>
+<p>All numbers are provisional and may be revised by the jurisdictions.</p>
+<p>Population data represents five-year estimates from the 2019 American Community Survey by the Census Bureau.</p>
+<p> Recent changes on this page</p>
+<p>November 10 Redesigned page and added features.</p>
+<p>March 3 Changed the data source for tests to the Department of Health and Human Services.</p>
+<p>February 23 Changed the data source for hospitalizations to the Department of Health and Human services. See the methodology note for more details.</p>
+<p>February 19 Marked anomalous days on the daily count chart, and reformatted the chart note to better track data anomalies.</p>
+<p>February 12 Updated vaccination charts to reflect reported doses administered per day.</p>
+<p>February 2 For five states with limited state hospitalization reports (WV, NV, ND, MS, and WY), data now comes from the Department of Health and Human Services, instead of state reports.</p>
+<p>January 8, 2021 Added a data table and charts for vaccinations, and changed the vaccination metrics to display the most reliable data available.</p>
+<p>December 23 Added vaccination data to state summaries where available.</p>
+<p>December 15 Removed anomalous data from the rolling averages (such as backlogged cases or deaths reported in bulk on a single day), and other data improvements.</p>
+<p>December 1 Updated the presentation of hospitalization and testing data, and added aggregate U.S. data for those indicators.</p>
+<p>October 30 Added several notes clarifying which days states are expected to report data.</p>
+<p>October 28 Switched to reported case counts from the Kansas Department of Health and Environment which only provides data updates on Mondays, Wednesdays and Fridays. This has also resulted in a one-day spike of reported cases on Oct. 28.</p>
+<p>August 24 Replaced the modeled trend with a more standard 7-day rolling average of new daily cases and deaths.</p>
+<p>August 20 Added a module to show the aggregate statistics in the U.S. and each state/territory over the past week.</p>
+<p>July 29 Added hospitalization data and other page improvements.</p>
+<p>July 2 Replaced the 7-day running average of new cases and deaths with a 14-day modeled trend. Added the week-over-week percentage change to the trends charts, using the modeled trend values. Also added additional columns to the data tables.</p>
+<p>June 23 Added charts showing new daily counts in each state, ordered by the percentage increase in cumulative cases over the last week. Changed the default view of the page to confirmed cases per 100k.</p>
+<p>June 11 Added an option to view change since last week to the map. The default view of the map is now deaths per 100k in the last seven days.</p>
+<p>May 6 Included revised data from New York City probable covid-19 deaths that attributes each death to the day it was first reported instead of on April 14.</p>
+<p>April 24 The data on the page was revised to include Post-reported numbers. Reported data for New York City is now reported separately by county instead of being aggregated into one New York City total.</p>
+<p>April 23 Date when states began reopening added to state charts.</p>
+<p>April 21 Charts showing testing data for all U.S. states and territories were added to the page.</p>
+<p>April 14 New York City adds nearly 3,700 probable covid-19 deaths to its total.</p>
+<p>April 7 <span>Labels showing the date state emergency and stay-at-home orders were declared added to the state charts.</span></p>
+<header><div><div>Business</div></div><div><h1>A record 4.5 million workers quit or changed jobs in November </h1></div><h2>Employees took advantage of better pay and benefits as labor shortages remain a major problem for the U.S. economy</h2></header>
+<div><div><span><div><span><div><div>By Eli Rosenberg</div></div></span></div></span></div><div>January 4, 2022|Updated January 4, 2022 at 5:41 p.m. EST</div></div>
+<p>The labor market’s record churn reached new heights in November, with 4.5 million workers quitting or changing their jobs, the highest number in the survey’s history, according the Labor Department’s monthly report on job openings.</p>
+<div><div><p>Overall, the numbers of people quitting or leaving to start new jobs represents 3 percent of the workforce, the new government data said.</p></div></div>
+<p>The 10.6 million job openings dwarf the numbers of people currently listed as unemployed, at 6.9 million. The sheer size of the imbalance — there are about 1.5 jobs for every unemployed worker — has helped give workers more leverage.</p>
+<div><div><p>The number of workers quitting in November was<b> </b>up from the 4.2 million who left or changed jobs in October and surpassed the previous record of 4.4 million in September.</p></div></div>
+<div><p>Portraits from inside the wild, messy, overheating and confounding economy of 2021.</p></div>
+<div><div><p>Nearly 7 percent of restaurant and bar workers changed or quit jobs in November, as did 4.4 percent of retail workers.</p></div></div>
+<a>according to the most recent Bureau of Labor Statistics data</a>.
+<div><div><p>On surveys ZipRecruiter has done, many job seekers report they are looking for new types of work and particularly for remote work, due to family, child care or safety concerns.</p></div></div>
+<div><div><p>“I thought there were a fair amount of opportunities,” she said.</p></div></div>
+<div><div><p>Ian Cohen, a marketing manager in his 40s near Chattanooga, Tenn., has changed jobs twice during the pandemic.</p></div></div>
+<div><div><p>He starts a new job, as a program manager for another tech company, next week.</p></div></div>
+<div><p>Life after quitting: What happened next to the workers who left their jobs</p></div>
+<div><p>Policymakers and economists have been concerned about a job market slowdown <a>after November’s employment figures came in below expectations</a>. And the effects of the latest coronavirus surge may not yet be clear for weeks.</p></div>
+<div><div><p><i>Andrew Van Dam contributed to this report.</i></p></div></div>
+<header><div><div>Economy</div></div><div><h1>Wall Street takes Washington debt drama ritual in stride as markets remained calm</h1></div><h2>The markets showed little reaction even as lawmakers were at an impasse over the debt ceiling</h2></header>
+<div><div><span><div><span><div><div>By David J. Lynch</div></div></span></div></span></div><div>October 8, 2021 at 11:00 a.m. EDT</div></div>
+<div><div><p>Wall Street hardly stirred this week amid the latest debt ceiling drama, reflecting both investor fatigue with how lawmakers handle the public purse and confidence in a financial system armored with cash.</p></div></div>
+<div><div><p>Even while an impasse on Capitol Hill threatened what President Biden warned would be “catastrophic” economic damage, the stock market held onto its 2021 gains and long-term Treasury bonds were stable.</p></div></div>
+<p>“The market’s not going to react to all the political drama. We’ve just seen this movie too many times,” said Priya Misra, head of global rates strategy for TD Securities in New York, speaking before the deal emerged.</p>
+<div><p>White House calls for new course on China trade relations</p></div>
+<div><div><p>Stoicism in the financial markets was born of experience. Two previous showdowns over raising the government’s borrowing limit, in 2011 and 2013, rattled investor nerves but ultimately fizzled short of default.</p></div></div>
+<div><div><p>However scary it was at the time, those episodes handed market players greater confidence that they could weather a genuine crisis if the federal government had to delay repaying investors for a day or two.</p></div></div>
+<div><div><p>“We have been through this song and dance multiple times,” said Blake Gwinn, head of U.S. rates strategy at RBC Capital Markets, who worked for the Federal Reserve Bank of New York during earlier debt battles.</p></div></div>
+<div><div><p>Despite Treasury denials, bond traders expect the government to prioritize repaying bondholders under a plan shaped in the 2011 debt crisis.</p></div></div>
+<div><div><p>The U.S. government bonds also are often used as collateral in the routine overnight borrowing which financial institutions and many corporations perform to keep the economic gears turning in the country.</p></div></div>
+<div><p>A look inside the broken supply chain of the United States</p></div>
+<a>Russian roulette</a>” with the U.S. economy while his advisers warned of a crisis that could be “even worse” than in 2008. He called business leaders to the White House to make the case for avoiding a default by the federal government.
+<div><p>Europe and America try to forge closer trade ties after recent spats</p></div>
+<div><div><p>The faith shown by Wall Street had a happy ending this week that rested on a cushion of cash and on guardrails which the Federal Reserve put in place last year, following unusual activity in the Treasury market.</p></div></div>
+<div><h1>More than 1,700 flights canceled Wednesday as airlines’ troubles persist</h1></div>
+<h2>Carriers are struggling to get customers to their destinations amid a surge in coronavirus infections and weather issues</h2>
+<div><div><span><div><span><div><div>By Lori Aratani</div></div></span></div></span></div><div>Yesterday at 11:11 a.m. EST|Updated yesterday at 5:41 p.m. EST</div></div>
+<div><p>Travelers faced more frustrating news Wednesday, with more than 1,700 flight cancellations, a sign that staffing shortages and weather-related issues continue to stymie airlines’ efforts to get customers to their destinations.</p></div>
+<div><div><p>Nearly 20,000 U.S. flights have been canceled since Christmas Eve.</p></div></div>
+<div><p>More than 3,000 flights canceled on the first Monday in 2022</p></div>
+<div><div><p>Weather is often a factor during the days around Christmas and New Year’s, but operations have been complicated by higher-than-expected numbers of employees taking sick leave because of the coronavirus.</p></div></div>
+<div><p>How to get refunds if your winter flight is canceled</p></div>
+<div><p>Omicron snarls holiday travel plans for thousands</p></div>
+<div><div><p>Some carriers have cautioned that as infections surge in different parts of the country, staffing may remain in flux.</p></div></div>
+<h3>Transportation, infrastructure and the pandemic</h3>
+<p><b>I-95 closure:</b> <a>Traffic blocked on snowy I-95 in Virginia for hours after drivers were stranded overnight</a></p>
+<p><b>Air travel:</b> <a>More than 18,000 flights canceled since Christmas Eve as omicron, weather hamper operations</a></p>
+<p><b>Purple Line:</b> <a>Along the Purple Line, worries that new transit will bring higher rents</a></p>
+<p><b>Transit: </b><a>Metro safety commission orders cars out of service, saying agency didn’t follow terms of plan</a></p>
+<p><b>Electric vehicles:</b> <a>As U.S. pushes a shift toward electric cars, where should the chargers go?</a></p>
+<div><div>The Daily 202<div><div>Analysis</div><div>Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events</div></div></div></div>
+<div><div><p>A lunchtime newsletter featuring political analysis on the stories driving the day.</p></div></div>
+<div><h1>With omicron, Biden faces a ‘breakthrough’ problem</h1></div>
+<div><p>A lunchtime newsletter featuring political analysis on the stories driving the day.</p></div>
+<div><div><div><span><div><span><div><div>By Olivier Knox</div></div></span></div></span><p>with research by Caroline Anders</p></div></div><div>Yesterday at 11:35 a.m. EST</div></div>
+<i>Welcome to The Daily 202! Tell your friends to </i>
+<i>. Via the Associated Press: On this day in 1925, Democrat Nellie Tayloe Ross became America’s first female governor after a special election in Wyoming. She succeeded her late husband, William.</i>
+<div><div><p><i>Correction: An earlier version of this bit of political trivia misidentified Ross's home state as Wisconsin.</i></p></div></div>
+<div><div><h3><div>The big idea</div></h3></div></div>
+<div><div><h4><div>Biden's ‘breathrough’ problem</div></h4></div></div>
+<div><p>“If the booster shots work, why don’t they work?” House Judiciary Committee Republicans asked on their official Twitter account last week, as omicron cases soared. They later deleted that message with no explanation.</p></div>
+<div><div><h5><div>Do they or don't they?</div></h5></div></div>
+<div><div><p>Last month, Florida Gov. Ron DeSantis refused to say whether he’d had a booster shot, or to recommend others get theirs.</p></div></div>
+<div><div><p>But the president hasn’t tackled the “breakthrough” problem in a particularly serious and sustained way – not in proportion to the systematic and organized manner the GOP has weaponized the phenomenon.</p></div></div>
+<p>“I wish the White House would engage, and not just engage breakthrough as some level of failure we have to accept,” Ashish Jha, dean of the Brown University School of Public Health, told The Daily 202 in a telephone interview yesterday.</p>
+<div><div><p>Biden and his team should “instead be very proactive in saying vaccines are remarkably effective at turning something that is deadly into something that is manageable,” Jha said.</p></div></div>
+<div><div><p>To some degree, the president did that yesterday as he kicked off a meeting with his top pandemic advisers.</p></div></div>
+<div><div><p>For the unvaccinated, it’s a different story. “Some will die – needlessly die,” the president said.</p></div></div>
+<div><div><p>Most vaccines work by reducing the severity of illness, priming the body’s immune system to fend off an infection – and that’s what the covid shots do.</p></div></div>
+<div><p>But Americans – including public health officials – saw “those original magical numbers” showing vaccines with effectiveness near 100 percent, coloring expectations about the protection they bestow, Jha said.</p></div>
+<div><div><h3><div>What's happening now</div></h3></div></div>
+<div><div><h4><div>13 people, including 7 children, killed in Philadelphia rowhouse blaze, fire officials say</div></h4></div></div>
+<p>“Eight people escaped the fire in the city’s Fairmount district, and first responders brought an adult and a child to hospitals, First Deputy Fire Commissioner Craig Murphy told reporters,” Marisa Iati and Timothy Bella report.</p>
+<div><div><h4><div>Lawmakers begin early talks about another round of coronavirus relief targeting businesses</div></h4></div></div>
+<div><div><h4><div>Kazakhstan shuts off Internet as government offices burn in protests</div></h4></div></div>
+<div><div><h4><div>Phone-bill fees to fund suicide hotline spark statehouse debates</div></h4></div></div>
+<div><div><h4><div>Chicago Public Schools cancels classes after union votes to go virtual</div></h4></div></div>
+<div><div><h3><div>Lunchtime reads from The Post</div></h3></div></div>
+<div><div><h4><div>With simulations and more information-sharing, Biden administration tries to prevent another Jan. 6</div></h4></div></div>
+<div><div><h3><div>… and beyond</div></h3></div></div>
+<div><div><h4><div>2022 House overview: Still a GOP advantage, but redistricting looks like a wash</div></h4></div></div>
+<div><div><p>“The bad news for Democrats: if President Biden's approval ratings are still mired in the low-to-mid 40s in November, that won't be enough to save their razor-thin House majority (currently 221 to 212 seats).”</p></div></div>
+<div><div><h3><div>The rise of omicron</div></h3></div></div>
+<div><div><h4><div>Walmart, Kroger raise prices of covid-19 test kits</div></h4></div></div>
+<div><div><h3><div>The Biden agenda</div></h3></div></div>
+<div><div><h4><div>Biden faces highly charged legal fight with migrants whose children were taken away under Trump</div></h4></div></div>
+<div><div><h4><div>Biden administration to increase supply of ‘game changer’ Pfizer pill</div></h4></div></div>
+<div><div><h4><div>White House embraces a manage-not-contain omicron game plan</div></h4></div></div>
+<div><div><h4><div>ACA health insurance plans need more protections for LGBTQ people, White House says</div></h4></div></div>
+<div><div><h3><div>Facebook political groups, visualized</div></h3></div></div>
+<div><div><h3><div>Hot on the left</div></h3></div></div>
+<div><div><h4><div>The real tragedy of Jan. 6 is that it’s still not over</div></h4></div></div>
+<div><div><p>“I wish I could tell you that, 364 days after one of our darkest days as a nation, we are in a much better place. We are not,” the Daily Beast's Matt Fuller writes.</p></div></div>
+<div><div><h3><div>Hot on the right</div></h3></div></div>
+<div><div><h4><div>Sen. Ted Cruz says Republicans are likely to impeach Biden if they retake House</div></h4></div></div>
+<div><div><h3><div>Today in Washington</div></h3></div></div>
+<div><div><p>The president has no public events scheduled.</p></div></div>
+<div><div><h3><div>In closing</div></h3></div></div>
+<div><div><p>How did Monday's D.C.-area snowstorm get so bad so quickly? Capital Weather Gang's Jason Samenow and Jeff Halverson have answers.</p></div></div>
+<div><div><p>And though it shouldn't be as severe as Monday's storm, experts are predicting 2 or 3 inches of snow Thursday night. Get ready to bundle up!</p></div></div>
+<div><div><div>Economy</div></div><h1>Portraits from inside the wild, messy, overheating and confounding economy of 2021</h1><h2>Americans experienced highs and lows that were unique to the incredible disruption of pandemic life.</h2></div>
+<div><div><div><div><div><span><div><span><div><div>By David J. Lynch</div></div></span></div></span></div></div></div><div>Dec. 21, 2021</div></div></div>
+<p>The U.S. economy this year was strong and scary and not at all normal.</p>
+<p>Theirs are tales of perseverance and adaptation, resilience and triumph.</p>
+<p>“We don’t look at this as a classic recovery,” said Paul Gruenwald, global chief economist for SP Global Ratings. “We’re learning this as we go.”</p>
+<p>But no one knows how the pandemic will affect next year. Few people even know how it will affect next week.</p>
+<h6>Demand far beyond supply</h6>
+<p>“You see that 2018 Nissan Altima sitting out there?” asked Joe Zeidan, who owns Z Auto Place, a used-car business in west Houston.</p>
+<div><div><p>“For sure, 2020 was a disaster year for us, both financially and personally,” Zeidan says. “I lost a lot of money last year.” </p></div></div>
+<div><div><p>Toy cars line a shelf at Z Auto Place. </p></div></div>
+<div><div><p>As the year ends, Zeidan says the number of customers outstrips the availability of cars. </p></div></div>
+<p>This year, customers are back, and prices are up. Way up. Zeidan estimates his business is booming 50 percent over 2020.</p>
+<p>“That’s why I’m not so unhappy that I had so many cars I couldn’t sell last year. Now, I’m selling them at a higher price than I could have gotten last year.”</p>
+<p>How long does Zeidan expect the car-buying frenzy to continue?</p>
+<p>“I give it another six or seven months. But you never know,” he said. “Nobody knows anything about which way the world is turning.”</p>
+<p><i>— Story by Ken Hoffman, photos by Mark Felix</i></p>
+<h6>Dancing again — and hearing the applause</h6>
+<p>Two hours and many leaps later, she couldn’t hold back: “I cried tears of joy.”</p>
+<p>“You’d do one take and then say, ‘I have to do it again,’ ” Cirio said.</p>
+<div><div><p>Cirio prepares for a piece she is choreographing.</p></div></div>
+<div><div><p>Cirio is leading a new work for the Boston Ballet's ChoreograpHER Project.</p></div></div>
+<div><div><p>A partner holds Cirio aloft during a rehearsal.</p></div></div>
+<p>The dancers finally resumed full rehearsals this fall. After practicing for so long in small pods and via Zoom, she relishes being together. “I care about my colleagues even more because of that separation.”</p>
+<p>She is thrilled that the audiences have returned in force. And as she pirouettes in a fantasyland of gently falling snowflakes, they watch her in spellbound silence.</p>
+<p>“Being onstage again has been a really powerful feeling,” Cirio said.</p>
+<p><i>— Story by Joelle Renstrom, photos by Iaritza Menjivar</i></p>
+<h6>From paycheck to paycheck to pay dirt</h6>
+<p>Kailey Kernick knew she was in trouble when yet another luxury-label boutique moved into Miami’s most chichi shopping area this month.</p>
+<p>“They just opened a Chanel store a week ago,” she said. “And so that’s going to be dangerous for me.”</p>
+<p>“Dior is my favorite thing. And I love Chanel. I have an insane shopping addiction,” Kernick said.</p>
+<p>It’s an addiction she can afford, thanks to the supercharged cryptocurrency trading that has transformed and empowered her world.</p>
+<p>Two years ago, she was in her hometown near Calgary, working as a waitress and “living paycheck to paycheck,” she said. “I barely had any savings.”</p>
+<div><div><p>A woman toting bags from Loro Piana pauses outside a store in Miami's Design District.</p></div></div>
+<div><div><p>People shop in the area's high-end boutiques. Kernick says she and her friends are all enjoying luxe lifestyles.</p></div></div>
+<div><div><p>Expensive fashion is on display in window after window.</p></div></div>
+<p>Though she realizes the pandemic is still upending many lives, she expects to be ready to weather any future financial setbacks.</p>
+<p>For now, she’s trying to persuade her parents in Canada to come visit. “They’re frugal people. They don’t really quite understand what I’m doing with crypto,” she said.</p>
+<p>Kernick isn’t apologizing for the extravagance of her splurges — like the $4,000 pair of earrings from Cartier she recently bought.</p>
+<p>“I think life manifests itself in the way you live it. I live the life I want to live, and I’m just going to keep inviting more luxury and abundance,” Kernick said. “You attract what you give out to the world.”</p>
+<p><i>— Story by Lori Rozsa, photos by Scott McIntyre</i></p>
+<h6>A surge of interest as the nation reckoned</h6>
+<p>She’s tired, though there’s no question of walking away. Marcus Books, named for Black activist Marcus Garvey, remains her mission.</p>
+<p>“It’s essential that any culture, any community has its own source of knowledge,” Richardson said. “For the Black community, this is it.”</p>
+<p>The past two years have of course been challenging. When the pandemic forced shutdowns in California, the bookstore’s supporters responded with fundraising efforts and waves of phone orders to help keep it afloat.</p>
+<div><div><p>Marcus Books is the oldest Black-owned bookstore in the United States. </p></div></div>
+<div><div><p>Richardson and a friend discuss whether to move a display for “A Promised Land,” by former president Barack Obama.</p></div></div>
+<div><div><p>Books are rearranged in the store's front window.</p></div></div>
+<p>“We find that people will now turn to us to order things they could very well get at another bookstore,” she said. Many tell her, “I didn’t want to shop at Amazon.”</p>
+<p><i>— Story by Alissa Greenberg, photos by Amy Osborne</i></p>
+<h6>Big trucks, small parts and an economy hanging in the balance</h6>
+<p>After pulling countless trailers of grain across the country during the pandemic, Mike Nichols’s truck was, at last, sitting still.</p>
+<p>Parked at the shop, it needed a routine part — a length of aluminum tubing — just as the trucking industry was gripped by a parts shortage.</p>
+<p>“Even the supply chain is affected by the supply chain,” said Nichols, 54, as he waited at his home in central Wisconsin. “It’s a week without revenue, so that hurts. But you need breaks, too, now and then.”</p>
+<p>When truck traffic dipped in 2020, he had kept rolling, crisscrossing the country with 25-ton loads of grain. Corn from Iowa. Rice from Arkansas. Malted barley from Minnesota.</p>
+<p>Yet now, trucks are crowding the interstates, heavy with the goods fueling a pandemic consumer binge.</p>
+<p>Nichols has logged about 2.5 million miles without an accident since he began driving in the 1980s. More than ever, though, he feels the stress of crowded roads ­— a big rig to the left of him, to the right, behind him.</p>
+<div><div><p>Nichols carries grain on his long hauls through the Midwest.</p></div></div>
+<div><div><p>Nichols checks the map during a stop in Iowa.</p></div></div>
+<div><div><p>An attendant walks to Nichols's truck while he waits to have his tank washed in Cedar Rapids.</p></div></div>
+<p>On the biggest lot, he soon got stuck in a futile cul-de-sac of trucks. He had to back out. “They were in there like cordwood,” he said.</p>
+<p>The second lot was smaller and also crowded with more vehicles than spaces. With his ELD ticking toward a break violation, he didn’t bother to check the third lot.</p>
+<p>“You work all day, putting in 14 hours, and then you have to worry about where you are going to park your bed,” he said. “It’s almost like being homeless.”</p>
+<p>His rig, recently purchased for $195,000, is set up with a microwave, fridge and bed. Its mud flaps read “Don’t tread on me.” His late wife’s name is painted across the back.</p>
+<p><i>— Story by Peter Kendall, photos by KC McGinnis</i></p>
+<h6>With everything in flux, family comes first</h6>
+<p>Dodging tumbleweeds, Christine Hilborn’s granddaughter slid between the rungs of an iron gate, tiptoed around piles of poop and stopped under a chestnut-colored horse’s dusty belly.</p>
+<p>“He sees me!” the 4-year-old shouted.</p>
+<div><div><p>“It’s a huge adjustment,” Hilborn says of her decision to leave her job to care for her granddaughters. </p></div></div>
+<div><div><p>Hilborn, with Lavina, prepares to take Voodoo for a walk.</p></div></div>
+<div><div><p>Nearly two years of juggling work and helping to care for her granddaughters pushed Hilborn into a tough job decision. </p></div></div>
+<p>As 2021 comes to a close, she doesn’t plan to go back to the office. She’s starting a consulting business for group-home providers who care for foster children.</p>
+<p>“I wanted to do it,” she said. “But at times it’s all so overwhelming.”</p>
+<p><i>— Story by Jennifer Oldham, photos by Stephen Speranza</i></p>
+<div><h1>More than 3,000 flights canceled Monday as airlines grapple with wintry weather, omicron variant</h1></div>
+<h2>The first Monday of 2022 offered little relief for travelers as flight cancellations showed no signs of slowed momentum</h2>
+<div><div><span><div><span><div><div>By Lori Aratani</div></div></span></div></span></div><div>January 3, 2022|Updated January 3, 2022 at 8:29 p.m. EST</div></div>
+<div><div><p>Monday’s increase in cancellations was driven, in part, by storms in the Northeast at a time when other major hubs, including Chicago and Atlanta, were recovering from weather this past weekend.</p></div></div>
+<b> </b>flights, or 16 percent, of those scheduled Monday, up from 11 percent a day earlier.
+<div><div><p>Regional carrier SkyWest also continued to struggle, reporting 368 flights were canceled by early evening, compared to 570 cancellations Sunday.</p></div></div>
+<div><div><p>The pain was spread widely among U.S. airlines Monday, with most reporting cancellations. Passengers flying American Airlines, Delta Air Lines, United Airlines, Frontier Airlines and Spirit Airlines were affected.</p></div></div>
+<div><p>Travelers ring in the 2022 with more flight cancelations</p></div>
+<div><div><p>The weather-related problems in recent days have added to airlines’ woes as they contend with staffing shortages — the result of a growing number of workers testing positive for the coronavirus.</p></div></div>
+<div><div><p>Some airlines showed slight improvements: JetBlue reported about 151 cancellations Monday, down from 178 on Sunday. The carrier announced last week it would <a>preemptively cancel 1,280 flights</a> through Jan. 13.</p></div></div>
+<div><div><p>Henry Harteveldt, an aviation analyst with Atmosphere Research Group, said other carriers could follow JetBlue’s lead in canceling flights days before their departure.</p></div></div>
+<div><div><p>The FAA also has warned of potential delays amid rising infections among its workforce, which includes air traffic controllers.</p></div></div>
+<div><p>Millions plan to travel for Christmas even as omicron spreads</p></div>
+<div><div><p>High-profile cancellations have done little to curb enthusiasm for air travel. The TSA reported screening just more than 2 million passengers Sunday, compared with 1.3 million on the same day in 2021, which fell on a Saturday.</p></div></div>
+<a>more than 2,000 flights</a>, costing it an estimated
+<h3>Transportation, infrastructure and the pandemic</h3>
+<p><b>I-95 closure:</b> <a>Traffic blocked on snowy I-95 in Virginia for hours after drivers were stranded overnight</a></p>
+<p><b>Air travel:</b> <a>More than 18,000 flights canceled since Christmas Eve as omicron, weather hamper operations</a></p>
+<p><b>Purple Line:</b> <a>Along the Purple Line, worries that new transit will bring higher rents</a></p>
+<p><b>Transit: </b><a>Metro safety commission orders cars out of service, saying agency didn’t follow terms of plan</a></p>
+<p><b>Electric vehicles:</b> <a>As U.S. pushes a shift toward electric cars, where should the chargers go?</a></p>
+<header><div><div>Economy</div></div><div><h1>Economic challenges piling up for the Biden administration</h1></div><h2>Data from September underscored how susceptible supply chains and the overall economy remain to the pandemic </h2></header>
+<div><div><span><div><span><div>By David J. Lynch</div> and </span></div><div><span><div>Rachel Siegel</div></span></div></span></div><div>October 13, 2021 at 5:44 p.m. EDT</div></div>
+<div><div><span><div><span><div>By David J. Lynch</div> and</span></div><div><span><div>Rachel Siegel</div></span></div></span></div><div>October 13, 2021 at 5:44 p.m. EDT</div></div>
+<div><p>Rising prices, product shortages and labor market tumult are making for a surprisingly rocky economic recovery, testing the political skills of the Biden White House little more than one year before the midterm congressional elections.</p></div>
+<div><div><p>More than 18 months into the pandemic, thorny economic challenges that directly touch voters represent political peril for a president with sagging public approval ratings.</p></div></div>
+<div><p>As supply chain troubles mount, Biden to tout longer hours for L.A. port</p></div>
+<a>quit their jobs at a record pace</a>, according to the Labor Department.
+<div><div><p>The news offered further evidence that the pandemic has triggered economic aftershocks that policymakers are struggling to understand, let alone quell.</p></div></div>
+<div><div><p>“There’s not an off-the-shelf playbook for this kind of situation. I think they’re figuring it out as they go,” said Jason Furman, who was President Barack Obama’s top White House economist.</p></div></div>
+<div><p>Inside America’s broken supply chain</p></div>
+<div><p>But interrelated price, supply and labor problems that were once expected to fade by Labor Day now appear likely to last well into next year, further complicating the Democrats’ already rocky path to the midterm elections.</p></div>
+<div><div><p>Republicans sense a political opportunity.</p></div></div>
+<a>coronavirus</a>, which depressed services spending and discouraged some people from returning to the workplace.
+<div><div><p>Rouse played down the significance of a single month’s hiring. But she warned that even the recent three-month average of 550,000 jobs was likely to decline because it was distorted by unusually strong results in July.</p></div></div>
+<div><p>America’s unemployed are sending a message: They’ll go back to work when they feel safe – and well-compensated</p></div>
+<div><div><p>Still, the 4.8 percent unemployment rate is the lowest of the pandemic. And the record number of Americans quitting their jobs last month is a sign of ample opportunities for those who are able to work.</p></div></div>
+<div><div><p>“The U.S. economy faces some high-class problems,” said Furman, now an economics professor at Harvard University. “Quits are not a concern at all. That’s a choice people are making.”</p></div></div>
+<div><div><p>The record number of people quitting their jobs, combined with survey data, suggests wages will increase at an annual rate of 4 percent to 4.5 percent, said Michael Pearce, senior U.S. economist for Capital Economics.</p></div></div>
+<p>But the tighter labor market — a significant problem for small businesses — threatens to keep inflation above the Fed’s long-run 2 percent target and become “a lasting drag on economic activity,” according to Pearce.</p>
+<p>“The longer shortages continue to worsen and growth of the labor force remains sluggish, the more likely it is that the decline reflects more structural factors, such as an increased pace of retirements,” he wrote in a client note.</p>
+<div><p>As meat prices continue to rise, Biden administration takes aim at Big Chicken</p></div>
+<div><p>Still, economic data from September underscored how vulnerable the economic recovery remains to the pandemic — and how policymakers <a>underestimated</a> the threat posed by the delta variant when the surge began a few months ago.</p></div>
+<a>speech</a>, Fed governor Lael Brainard cited builders who can’t get enough construction materials and North American auto production, which was paused by shutdowns in Malaysia and Vietnam.
+<a>soaring home prices</a> have become a litmus test for whether price increases will stick even once the pandemic is over.
+<header><div><div>Economic Policy</div></div><div><h1>Biden team struggles to promote economic message as inflation persists </h1></div><h2>Voters spooked by prices and shortages while administration counsels patience</h2></header>
+<div><div><span><div><span><div>By David J. Lynch</div> and </span></div><div><span><div>Tyler Pager</div></span></div></span></div><div>October 30, 2021 at 11:25 a.m. EDT</div></div>
+<div><div><span><div><span><div>By David J. Lynch</div> and</span></div><div><span><div>Tyler Pager</div></span></div></span></div><div>October 30, 2021 at 11:25 a.m. EDT</div></div>
+<b> </b>fresh stock market highs and a red-hot labor market, as voters increasingly focus instead on rising prices and product shortages in assessing President Biden’s performance.
+<div><div><p>But public cheer over those gains is eclipsed by concern over an unusual economic rebound that is confounding hopes of a smooth return to full employment.</p></div></div>
+<b> </b>medical crisis, many Americans are in no mood to wait. With elections to decide control of Congress one year away, the president and his team have little room for error.
+<div><p>Inside America's broken supply chain</p></div>
+<div><div><p>Biden officials are struggling to explain an economic recovery like no other.</p></div></div>
+<p>When the country was emerging from previous recessions, the main economic problem typically involved getting people to buy. Now the problem is getting them to produce. Instead of a lack of demand, the economy suffers from inadequate supply.</p>
+<div><div><p>Plus, most economists say the economy already has begun accelerating from its third-quarter lull, with Bank of America forecasters expecting annualized growth of 6 percent in the final three months of the year.</p></div></div>
+<div><div><p>In a recent <a>CNBC survey</a>, 79 percent of those polled described the economy as “fair” or “poor,” even though jobs are plentiful and <a>coronavirus</a> case numbers are in decline.</p></div></div>
+<div><div><p>Even as Congress creeps closer to passing Biden’s centerpiece social spending and infrastructure bills, officials say individual provisions can be difficult to explain and may take years to bear fruit.</p></div></div>
+<div><div><p>In contrast, Americans already are feeling the effects of a clogged supply chain and inflation.</p></div></div>
+<div><div><p>“Biden from the campaign on has positioned himself as a transformational president, like FDR,” she said. “You want to be transformational? You have to sell the policy.”</p></div></div>
+<div><p><a>Snarled supply chains</a> are at the root of the administration’s political predicament. Soaring freight costs, delivery delays and product shortages are contributing to 5.4 percent inflation and eating into economic growth.</p></div>
+<a>manufacturing disruptions</a> caused by the pandemic, cost it $6 billion in sales of iPads, iPhones and Mac computers and will cost it even more over the remainder of this year, CEO Tim Cook told investors.
+<p>Across the administration, officials have convened a dizzying array of meetings to address the supply chain snags, but there is little the federal government can do to quickly alleviate the problems, the people familiar with the conversations said.</p>
+<div><div><p>“It’s all people talk about,” one senior administration official said.</p></div></div>
+<p>But for millions of consumers, everyday metrics like the cost of food and shelter outweigh assurances that price pressures won’t last — especially with a gallon of gas at a seven-year high of $3.40, one dollar more than in January.</p>
+<div><div><p>Supply concerns — congested ports, insufficient numbers of truck drivers, overwhelmed rail yards and warehouses — are drawing unusual attention at the highest levels of government.</p></div></div>
+<div><div><p>Yet that search proved unsuccessful, and 74 container ships remain stuck at anchor in San Pedro Bay, a flotilla that would have been unimaginable before the pandemic.</p></div></div>
+<div><div><p>“We are in crisis,” Mario Cordero, executive director of the Port of Long Beach, told reporters Wednesday. “There shouldn’t be any vessels at anchor.”</p></div></div>
+<a>White House officials touted</a> what they said was a move by the Port of Los Angeles to begin operating “24/7” to clear overloaded docks.
+<div><div><p>“They’ll operate around-the-clock,” said one senior administration official on an Oct. 12 press call, who could not be named under White House ground rules for the briefing.</p></div></div>
+<div><p>Temporary or not, inflation is rattling restaurants and the broader economy</p></div>
+<div><div><p>Republicans are making a bid to capitalize on the recovery’s teething pains.</p></div></div>
+<div><div><p>“INFLATION NATION!” former president Donald Trump, the party’s titular leader, said in an all-caps emailed statement Friday.</p></div></div>
+<div><div><p>“They are really fighting an uphill battle right now,” Newhouse said of the administration.</p></div></div>
+<div><div><div>MORE TOP STORIES</div><div><div>HAND CURATED</div></div></div></div>
+<div><div>Economic Policy</div></div>
+<div><h1>New White House supply chain ‘action plan’ aims to ease tremendous backlog</h1></div>
+<h2>Modest steps reflect near-term challenge as White House attempts to speed up the flow of goods.</h2>
+<div><div><span><div><span><div><div>By David J. Lynch</div></div></span></div></span></div><div>November 9, 2021 at 4:19 p.m. EST</div></div>
+<div><div><p>The White House announced a new “action plan” Tuesday aimed at expanding the capacity of U.S. ports and inland waterways, as persistent supply chain congestion slows goods deliveries and fuels rising prices.</p></div></div>
+<div><p>Inside America's Broken Supply Chain</p></div>
+<div><div><p>In Savannah, more than 30,000 containers full of imported products for Americans are sitting on the docks, more than 50 percent above the port’s operational goal, according to the Georgia Ports Authority website.</p></div></div>
+<a>were 8.6 percent higher than one year ago</a>, the sharpest increase in the 11 years that such records have been kept, according to the Bureau of Labor Statistics.
+<div><div><p>Snarled supply lines accounted for 60 percent of the increase, according to economist Mahir Rasheed of Oxford Economics.</p></div></div>
+<div><div><p>“The persistent mismatch between supply and demand will remain a principal driver of elevated inflation as capital and labor shortages improve only gradually heading into 2022,” he wrote in a client note.</p></div></div>
+<p>The Federal Reserve continues to expect inflation to ease next year, as does the Biden administration. But higher prices, for goods such as gasoline, food and rent, are taking a toll on the <a>president’s public approval</a> ratings.</p>
+<div><div><p>“This is a much bigger problem than people had thought, and the lack of good information prevents importers and exporters from making sound decisions,” Reinsch said.</p></div></div>
+<div><div><p>Federal regulators will call for suggestions on how to standardize data exchange requirements, calling it “an important first step” in enabling more fluid cargo movements.</p></div></div>
+<header><div><div>Economy</div></div><div><h1>As supply lines strain, some corporations rewrite production playbook</h1></div><h2>Many firms are eyeing regional networks to replace globe-circling supply chains</h2></header>
+<div><div><span><div><span><div><div>By David J. Lynch</div></div></span></div></span></div><div>November 15, 2021 at 9:19 a.m. EST</div></div>
+<div><div><p>The pandemic caught Stanley Black Decker midway through an overhaul of its 18-country supply chain.</p></div></div>
+<div><div><p>The toolmaker’s strategy illustrates how corporations are responding to the pandemic with some of the most consequential supply line makeovers since the onset of globalized production roughly three decades ago.</p></div></div>
+<div><p>The shifts that are occurring<b> </b>cap four years of supply chain volatility, including the Trump administration’s trade wars, a once-in-a-century health crisis and increasingly frequent natural disasters on multiple continents.</p></div>
+<div><div><p>To insulate itself against future supply surprises, Honeywell is developing a dual-source strategy for some products and signing longer-term deals with key suppliers.</p></div></div>
+<div><p>Biden administration struggles to address supply chains as holiday season looms</p></div>
+<div><div><p>Amid congested ports, trucker shortages and rail yard delays, it now takes Stanley almost 90 days to get its products from factories in China to U.S. stores — three times as long as before covid-19, Allan said.</p></div></div>
+<div><div><p>“We think that’s going to be a nice little bump for us, probably late ‘22, early ‘23,” Joseph Cutillo, CEO of Sterling Construction in Houston, told investors earlier this month.</p></div></div>
+<a>China</a> to Mexico. The cement and building products producer already is benefiting from the construction of new warehouses near the U.S. border, executives said.
+<div><div><p>Today, about 40 percent of the Stanley tools purchased by Americans are made in the United States or Mexico. Allan wants to get that figure closer to 70 percent over the next two years.</p></div></div>
+<div><p>Biden keeps many Trump tariffs in place, confounding businesses</p></div>
+<div><div><p>More goods are coming to the United States, and they are coming from more places.</p></div></div>
+<div><div><p>Even before the pandemic, years of tariffs and geopolitical tensions had prompted many companies to diversify their goods and materials sourcing by adopting a “China-plus-one” strategy.</p></div></div>
+<div><div><p>But there are no perfect defenses against supply interruptions.</p></div></div>
+<div><div><p>But widespread supply bottlenecks meant that more than twice as much of the company’s inventory was in transit at the end of September, compared with a typical year.</p></div></div>
+<div><div><p>“It’s an unrealistic goal to think there will never be any type of disruption to their supply chain,” Shute said. “What’s realistic is to be able to react quickly.”</p></div></div>
+<header><div><div>Economic Policy</div></div><div><h1>Biden sees gains in supply chain battle, but the fight isn’t over</h1></div><h2>New problems arise as old ones are fixed</h2></header>
+<div><div><span><div><span><div><div>By David J. Lynch</div></div></span></div></span></div><div>November 26, 2021 at 6:00 a.m. EST</div></div>
+<div><div><p>President Biden’s claim to have eased bottlenecks at a vital U.S. port complex marks an initial win in what is likely to prove a long campaign to free Americans from tangled supply chains.</p></div></div>
+<div><div><p>“Because of the actions we’ve taken, things have begun to change,” Biden said in a speech at the Eisenhower Executive Office Building.</p></div></div>
+<div><p>How to buy gifts in a supply chain crisis</p></div>
+<div><div><p>Yet even as Biden took credit for the turnaround, industry groups and logistics specialists warned that a return to the smooth flow of goods that was typical before the pandemic remains a long way off.</p></div></div>
+<div><div><p>As supply hiccups escalated this summer, the White House formed a task force drawing on multiple Cabinet agencies and appointed a “ports envoy” to untangle the cargo jams.</p></div></div>
+<div><p>The cost of delay</p></div>
+<div><div><p>Citing significant improvement, the ports have now delayed implementation of the fines until Monday. But carriers, which face potential multimillion-dollar penalties, are hounding customers to collect their goods.</p></div></div>
+<div><div><p>“They send me an email every day. They’ve put on a lot of pressure,” said Craig Grossgart, senior vice president for Seko Logistics. “It’s very consistent. Every single day without fail.”</p></div></div>
+<div><p>Fewer boots, more slippers: How a shortage of shipping containers is changing what shows up on shelves</p></div>
+<div><div><p>“That’s going to improve the overall fluidity,” said Val Noel, chief operations officer for Trac Intermodal, a chassis provider.</p></div></div>
+<a>China</a> and can only make a dent in the growing container pile.
+<div><div><p>More than 100,000 metal boxes are stranded at the twin Southern California ports, slowing normal terminal operations, according to Matt Schrap, chief executive officer of the Harbor Trucking Association.</p></div></div>
+<div><div><p>Other administration initiatives have been less successful.</p></div></div>
+<div><div><p>Last month, the White House announced that the two California ports would begin operating around-the-clock, seven days a week to clear the cargo jam. But more than a month later, that remains only an aspiration.</p></div></div>
+<div><div><p>No terminal at either port is truly open on a 24-7 basis. One of seven container terminals in Long Beach is open 24 hours, four days a week on a trial basis.</p></div></div>
+<div><p>From ports to rail yards, global supply chains struggle amid virus outbreaks in the developing world</p></div>
+<div><div><p>For months, the most visible sign of supply chain dysfunction has been the floating traffic jam off the Southern California coast as container ships lined up to await an unloading berth.</p></div></div>
+<div><div><p>Before the pandemic, ships typically sailed directly from Asia to a spot along the docks. But in recent weeks, more than 80 ships each day could be glimpsed swinging at anchor a few miles offshore.</p></div></div>
+<div><p>Effective Nov. 16, a new queuing policy took effect, which essentially shifted the seaborne traffic jam farther from the coast. Instead of parking within sight of the docks, ships will now be forced to loiter 150 miles from shore.</p></div>
+<div><div><p>The maritime industry groups that developed the new procedure, including the Pacific Merchant Shipping Association, said the goal was “to improve safety and air quality” by moving container ships.</p></div></div>
+<div><div><p>As holiday shipping volumes drop, the supply chain may get a temporary respite. But fresh headaches loom in 2022, including potential labor unrest before the expiration of the dockworkers’ contract at the end of June.</p></div></div>
+<div><div><p>There also is little sign that Americans’ demand for imported goods is cooling. On Wednesday, White House economists noted that consumer spending on goods, as a share of total consumption, remains unusually high.</p></div></div>
+<div><div><p>Unless Americans devote a larger share of their spending to services such as restaurant meals, hotel stays and concert tickets, and buy fewer goods that need to be shipped to their homes, the supply chain will struggle.</p></div></div>
+<div><div><div>MORE TOP STORIES</div><div><div>HAND CURATED</div></div></div></div>
+<header><div><div>Economic Policy</div></div><div><h1>FTC demands information from top companies, such as Amazon and Walmart, in sweeping supply chain probe</h1></div><h2>The study could shape future regulatory enforcement steps</h2></header>
+<div><div><span><div><span><div><div>By David J. Lynch</div></div></span></div></span></div><div>November 29, 2021 at 6:29 p.m. EST</div></div>
+<div><p>While the FTC move will do nothing to ease the economy’s current bottlenecks, it could shape future regulatory actions intended to maintain or increase the amount of competition in key industries, according to antitrust specialists.</p></div>
+<div><p>As supply lines strain, some companies rewrite production playbook</p></div>
+<div><p>FTC Chair Lina Khan said the goal of the commission study is to “shed light on market conditions and business practices that may have worsened” the supply jams that were the focus of Monday’s White House event.</p></div>
+<a>have made headway</a> clearing out some of the tens of thousands of shipping containers that have been crowding the docks.
+<div><div><p>Yet other problems, including stacks of empty containers bound for Asia, continue to hobble operations.</p></div></div>
+<div><div><p>In the early 2000s, after repeatedly failing in efforts to block proposed hospital mergers, the FTC launched a Section 6b study, which enabled the commission to thwart future combinations.</p></div></div>
+<div><div><p>The commission is an independent agency that shares responsibility for antitrust enforcement with the Department of Justice and can crack down on deceptive business practices that harm consumers.</p></div></div>
+<div><div><p>A commission spokeswoman did not respond to a request for comment.</p></div></div>
+<p>FTC lawyers will review information gathered from the individual companies, looking for indications that producers and wholesalers may have contractual arrangements that favor large retailers over their smaller rivals, the former official said.</p>
+<div><div><p>“They’re trying to see if there are things gumming up the works,” the former official added.</p></div></div>
+<div><p>Inside America's Broken Supply Chain</p></div>
+<div><div><p>Along with Walmart, Amazon and PG, commission orders for information are being sent to Kroger Co., CS Wholesale Grocers Inc., Associated Wholesale Grocers Inc., McLane Co., Tyson Foods Inc. and Kraft Heinz Co.</p></div></div>
+<div><div><p>The CEOs of Kroger and Walmart participated in the White House session with the president a few hours before the FTC sent them its order.</p></div></div>
+<header><div><div><div><div><h4>U.S. Policy</h4></div><h1>ECONOMIC POLICY</h1></div></div></div></header>
+<a><h3>Inflation could linger longer than previously expected, Federal Reserve officials discussed in December</h3></a>
+<p>Policymakers also flagged the omicron variant as another economic threat, according to minutes from the Fed’s December policy meeting.</p>By Rachel SiegelJanuary 5, 2022
+<a><h3>Lawmakers begin talks on another round of coronavirus relief for businesses</h3></a>
+<p>The discussions are early, no decisions have been made and Democratic leaders have not identified specific, concrete targets for additional funds.</p>By Tony RommJanuary 5, 2022
+<a><h3>In latest effort to combat rising prices, White House to offer $1 billion in aid for smaller meat-industry producers</h3></a>
+<p>Officials have tried to deflect criticism over inflation by alleging that large companies have too much clout.</p>By Jeff Stein and Laura ReileyJanuary 3, 2022
+<div><a><h3>Manchin told White House he would support version of tax on billionaires</h3></a><p>The West Virginia Democrat’s comments came as Sinema raises new concerns, showing how Democrats have work to do.</p>By Jeff SteinDecember 24, 2021</div>
+<a><h3>With tensions simmering, Democrats plot next steps to rethink their $2 trillion spending bill</h3></a>
+<p>Tough decisions and uncomfortable cuts await lawmakers as Biden and Manchin tone down attacks in pursuit of a deal.</p>By Tony Romm and Mike DeBonis and Marianna SotomayorDecember 23, 2021
+<li><div><div><a><h3>Biden administration extends federal student loan payment pause until May </h3></a><p>A moratorium was scheduled to expire early in 2022.</p>By Nick Anderson and Jeff SteinDecember 22, 2021</div></div></li>
+<a><h3>Biden aides see March 2021 rescue package as initial economic buffer against omicron</h3></a>
+<p>Restaurants are closing and people are canceling plans because of the virus’s latest surge, but the White House doesn’t see the need for a big cash infusion — yet.</p>By Jeff SteinDecember 22, 2021
+<a><h3>Manchin’s private offer to Biden included pre-K, climate money, Obamacare — but excluded child benefit</h3></a>
+<p>The West Virginia Democrat tried to pare back a tax and spending package, stripping out pieces the White House wanted to keep.</p>By Jeff Stein and Tyler PagerDecember 20, 2021
+<a><h3>More than 40 House Democrats urge Treasury Department to unfreeze Afghanistan’s bank reserves</h3></a>
+<p>The letter comes as experts warn of an increasingly dire humanitarian situation in Afghanistan.</p>By Jeff SteinDecember 20, 2021
+<a><h3>Lawmakers, business leaders begin to raise alarms about dwindling federal aid, as omicron cases rise across U.S.</h3></a>
+<a><h3>Manchin says he ‘cannot vote’ for Democrats’ $2 trillion spending package, drawing sharp White House rebuke</h3></a>
+<a><h3>Biden says resolving differences on $2 trillion spending package could take ‘weeks’</h3></a>
+<a><h3>Fed pivots toward tackling inflation, forecasting three rate hikes in 2022</h3></a>
+<p>The change in policy marks a significant shift in how the Fed is responding to economic pressures during the coronavirus pandemic, and could affect everything from mortgages and car loans to business investments.</p>By Rachel SiegelDecember 15, 2021
+<a><h3>Democrats’ $2 trillion spending plan in political peril as talks between Biden, Manchin appear to hit snag</h3></a>
+<p>The sticking points include the fate the child tax credit, a Democratic priority that Manchin hopes to strip from the bill in full, sources said.</p>By Tony Romm and Seung Min KimDecember 15, 2021
+<div><a><h3>Congress approves measure that would raise debt ceiling by $2.5 trillion</h3></a><p>Congressional Democrats were racing to approve the measure so the Treasury Department can continue borrowing money.</p>By Tony RommDecember 15, 2021</div>
+<div><a><h3>Manchin, Biden discuss ‘different iterations’ of spending bill as Democrats seek consensus</h3></a><p>The West Virginia Democrat has expressed caution about size and scope of spending package.</p>By Tony RommDecember 13, 2021</div>
+<a><h3>Inflation pinch challenges Biden agenda, but president says worst will soon pass</h3></a>
+<p>Prices keep climbing and the president is working to convince critics that his agenda will help, not hurt.</p>By Jeff Stein and Ashley ParkerDecember 10, 2021
+<a><h3>Republicans help Senate Democrats approve bipartisan deal to avert debt ceiling crisis</h3></a>
+<a><h3>Democrats face race against the clock to extend soon-expiring child tax credit payments</h3></a>
+<p>A new federal program that provides monthly payments to an estimated 35 million families with children is set to expire at the end of December.</p>By Tony RommDecember 9, 2021
+<a><h3>Senate votes to repeal key Biden administration vaccine and testing policy</h3></a>
+<div><h1>Amid huge shortage, new truck drivers train for some of supply chain’s toughest jobs</h1></div>
+<h2>Trucking industry moves 70 percent of nation’s freight but struggles to retain workers</h2>
+<div><div><span><div><span><div><div>By David J. Lynch</div></div></span></div></span></div><div>December 16, 2021|Updated December 16, 2021 at 10:31 a.m. EST</div></div>
+<b> </b>the other half of the instructor team here at SAGE Truck Driving School, yells encouragement.
+<div><div><p>Turning such untrained talent into drivers who can safely command a 40-ton load at highway speeds takes four to six weeks of classroom instruction, observation, and practice behind the wheel.</p></div></div>
+<div><div><p>“What it really boils down to is: Tell them, tell them and keep telling them,” Hanlon said.</p></div></div>
+<div><p>Inside America's Broken Supply Chain</p></div>
+<div><div><p>In February, the federal government for the first time will begin requiring that all new commercial driver license (CDL) applicants be trained in a registered facility using a standard curriculum.</p></div></div>
+<div><div><p>“This is going to further negatively impact an already crippled supply chain,” said Kelly Krapu, director of safety for TrueNorth Compliance Services in West Fargo, N.D.</p></div></div>
+<div><div><p>The Department of Transportation disputes that view and promises that regulators will work with industry representatives to ensure a smooth process.</p></div></div>
+<div><div><p>The government edict comes as driving schools scramble to make up for pandemic closures. SAGE last year fell about 20 percent short of its typical output of 4,000 new drivers, said Chris Thropp, the company’s president.</p></div></div>
+<div><p>“We’re very busy right now at the vast majority of our schools,” said Thropp, 61, a former corporate attorney who joined SAGE nearly a quarter century ago. “We’ve definitely seen an uptick in interest.”</p></div>
+<div><div><p>“There is no one reason for the driver shortage, which means there is no one solution,” he said.</p></div></div>
+<div><div><p>“If that time was cut in half, all of those drivers would be that [much] more productive and you might not need more trucks on the road,” said Todd Spencer, the association’s president.</p></div></div>
+<p>The $1 trillion infrastructure legislation <a>President Biden</a> signed last month includes a pilot apprenticeship program for drivers between the ages of 18 and 21, promotes the hiring of female truckers, and authorizes a compensation study.</p>
+<div><div><p>Despite the long-term plateau in wages, trucking enjoys a reputation as a good-paying blue-collar occupation. Billboards along the nearby Lehigh Valley Thruway advertise truck driving jobs for $31 per hour, plus signing bonus.</p></div></div>
+<div><div><p>Through the first half of this year, states issued a monthly average of roughly 50,000 new licenses, 14 percent higher than the pre-pandemic rate.</p></div></div>
+<div><div><p>He’s heard that one trucking company is paying drivers up to $2,200 per week. Four of his friends have already landed jobs with FedEx. Eventually, he plans to run his own freight business.</p></div></div>
+<div><div><p>“Trucking is where it’s at. That’s what everybody tells me,” Nivar said. “The ball’s in my court, the way I see it.”</p></div></div>
+<a>trucking companies</a> instead accept high turnover and the headache of near-constant recruitment, said Burks, who drove a tractor-trailer for a decade before becoming an economist.
+<div><div><p>Some would-be drivers insist they are unfazed. Cameron Thomas, 26, and his wife, Reina, 24, started<b> </b>their training five days after getting married. They are eager to start a life together in the cab of a tractor-trailer.</p></div></div>
+<div><div><p>“We already love spending time together,” Reina said. “And it would be good for money with both of us doing it.”</p></div></div>
+<div><div><p>Federal safety regulations limit truck drivers to 11 hours per day behind the wheel. The Thomases figure they can keep their truck moving almost constantly if one of them sleeps while the other drives.</p></div></div>
+<div><p>From ports to rail yards, global supply chains struggle amid virus outbreaks in the developing world</p></div>
+<div><div><p>SAGE emphasizes one-on-one training. Hanlon, who said his father taught him to drive a truck using “the yell-and-scream method,” takes a calmer approach.</p></div></div>
+<div><div><p>Riding shotgun as Mason Mott, 18, steers a tractor trailer around the campus of Lehigh Career and Technical Institute, Hanlon mixes gentle correctives with praise.</p></div></div>
+<div><div><p>Mott was inconsistent in his earlier parking attempts and concedes he has a tendency to fumble the clutch on the 10-speed manual transmission. But Hanlon is reassuring.</p></div></div>
+<div><div><p>“That’s all right. You got to make mistakes to learn,” he said.</p></div></div>
+<div><div><p>Wearing a baseball cap and hoodie, Mott successfully pilots the truck on several laps of the college, as Hanlon alternates between mild rebukes (“both hands on the wheel unless shifting”) and encouragement.</p></div></div>
+<div><div><p>Finally, after Mott executes a tight left turn back into the lot, Hanlon applauds. “Beautiful! Very good. Good job. Perfect,” he said.</p></div></div>
+<div><div><p>Meanwhile, inside a beige single-story building nearby, Sugeidy Sanchez, 24, is receiving her new-student briefing.</p></div></div>
+<div><div><p>A small Christmas tree, decorated with tiny white lights, sits on Borowski’s desk as he delivers a safety lecture.</p></div></div>
+<div><div><p>“Think of these orange [traffic] cones out there as your brother, sister or children. If you run over one, you’ve killed someone,” Borowski said. “Try not to kill the cones.”</p></div></div>
+<div><div><p>Sanchez nods. Eight members of her family are truck drivers, so she understands what the job entails. An uncle, who quit long-haul driving after just six months, tried to talk her out of it, saying the grind would exhaust her.</p></div></div>
+<div><div><p>But Sanchez, the mother of a daughter, 6, and a five-month old son, wants to make as much money as she can, as quickly as she can. Then, she will buy her own truck and stay closer to home.</p></div></div>
+<div><div><p>“I’m looking for something to bring more money into my family,” she said. “I feel this is it.”</p></div></div>
+<div><div><p><i>Andrew Van Dam in Washington contributed to this report.</i></p></div></div>
+<div><div><div>MORE TOP STORIES</div><div><div>HAND CURATED</div></div></div></div>
+<div><h1>‘Last on the rung’: Africa deals with fallout from a ‘Made in the USA’ supply chain crisis</h1><h2>Shipping lines flock to Asia-to-U.S. trade lanes at expense of many developing nations.</h2></div>
+<div><div><span><div><span><div>By David J. Lynch</div> and </span></div><div><span><div>Neha Wadekar</div></span></div></span></div><div>December 16, 2021 at 2:22 p.m. EST</div></div>
+<div><div><span><div><span><div>By David J. Lynch</div> and</span></div><div><span><div>Neha Wadekar</div></span></div></span></div><div>December 16, 2021 at 2:22 p.m. EST</div></div>
+<div><div><p>As the world’s largest cargo ships rush to the United States with all the clothes, furniture, toys and electronics that American consumers might want, Aditya Awtani is feeling neglected.</p></div></div>
+<b> </b>he needs to make clothes in his high-ceilinged factory in Mombasa, Kenya.
+<div><div><p>The shipping headaches, along with freight costs that have nearly quadrupled, are carving a hole in his profits, straining his relations with customers and threatening his 5,800 employees’ jobs.</p></div></div>
+<div><div><p>“There are days when I walk into the factory and I see workers with their arms folded because the containers have not come, which is a very depressing sight to see,” Awtani said.</p></div></div>
+<div><p>Inside America's Broken Supply Chain</p></div>
+<div><p>As supply chains strain, some corporations rewrite production playbook</p></div>
+<div><div><p>“Africa, sadly, I can’t think of any other continent that is last on the rung. Africa will be the last to come out of this,” Awtani said.</p></div></div>
+<div><div><p>The resulting port congestion means it takes longer for each cargo ship, some carrying nearly 18,000 shipping containers, to make the round trip between China and the United States’ West Coast.</p></div></div>
+<div><div><p>But at a time when more ships are needed, Africa is seeing fewer, according to the United Nations Conference on Trade and Development (UNCTAD), which tracks worldwide port calls by all types of vessels.</p></div></div>
+<div><p>How crazed is the used car market? This auction sparked a frenzy over two-year-old minivan</p></div>
+<div><div><p>African nations, including Kenya, Guinea, Angola and Namibia, also lost direct connections to some foreign countries, leaving their shippers reliant upon more expensive services that connect through a third port.</p></div></div>
+<div><div><p>“The rich countries are the least impacted,” said Frank Appel, CEO of Deutsche Post DHL Group. “We see delays in getting some products. It’s not that we don’t get the products.”</p></div></div>
+<div><div><p>David Malpass, president of the World Bank, this fall said per-person income was growing 10 times as fast in the advanced economies as in the developing world, where the economic outlook is “grim.”</p></div></div>
+<div><p>“Redeployment of tonnage never led to shortages,” Jan Tiedemann, senior shipping line and port analyst for Alphaliner, said. “The difference this time around is the market is sold out. There’s no more ships.”</p></div>
+<div><div><p>The number of container ships calling at African ports fell 2 percent during the first half of this year compared to the same period in 2019, according to UNCTAD.</p></div></div>
+<div><div><p>But that figure masks differences among regions and vessel sizes.</p></div></div>
+<div><div><p>Including the smaller ships that are more common in many parts of Africa, Mombasa is still receiving as many vessels as it was two years ago, according to the Kenya Ports Authority, a state corporation.</p></div></div>
+<div><div><p>Yet ultimately, the number of vessels calling at a port is not as important economically as the amount of cargo moving through it.</p></div></div>
+<div><div><p>During the third quarter, the port handled 7 percent fewer containers than it did during the same period in 2019, KPA said.</p></div></div>
+<b> </b>If shipping were more reliable, Awtani said, he would increase his weekly container order by 25 percent.
+<div><div><p>Vessels that originate in Shanghai, able to hold almost 30,000 TEUs, are already full when they reach Colombo. So they skip the port, he said.</p></div></div>
+<div><div><p>“They view the priority as USA for cargo,” added Dayananda, whose factories supply U.S. brands including Victoria’s Secret.</p></div></div>
+<div><div><p>For competitive reasons, most carriers provide little public detail about specific deployment decisions.</p></div></div>
+<div><div><p>“Carriers have redeployed ships according to where rates are the highest,” said Tiedemann. “It’s a big game of musical chairs.”</p></div></div>
+<div><div><p>Two-thirds of the roughly 70 vessels stuck outside the top U.S. import gateway in Southern California belong to those smaller carriers, according to Gene Seroka, executive director of the port of Los Angeles.</p></div></div>
+<div><div><p>Many of the new players sail from China without a reservation at a L.A. terminal and thus go to the end of the floating queue. Some are ships that freight forwarders charter for big retailers such as Walmart or Home Depot.</p></div></div>
+<p>Like many African economies, Kenya imports several times as many containers as it exports. Traditionally, that meant there were plenty of empties available for the country’s exporters to ship coffee, tea and apparel to foreign customers.</p>
+<div><div><p>The supply chain disruptions are also making themselves felt on Nairobi’s Biashara Street, where shopkeepers decry high freight costs, shipping delays and the resultant price increases.</p></div></div>
+<div><div><p>Kenya’s inflation rate has topped<b> </b>6 percent for the past five months, the longest it’s been above that mark in four years, according to the Central Bank of Kenya.</p></div></div>
+<div><div><p>Shah checks almost every day to see if he can afford to replenish his supplies.</p></div></div>
+<div><div><p><i>Lynch reported from Washington, D.C., and Wadekar reported from Nairobi and Mombasa, Kenya.</i></p></div></div>
+<div><div><div>MORE TOP STORIES</div><div><div>HAND CURATED</div></div></div></div>
+<div><div><div>Economy</div></div><h1>Portraits from inside the wild, messy, overheating and confounding economy of 2021</h1><h2>Americans experienced highs and lows that were unique to the incredible disruption of pandemic life.</h2></div>
+<div><div><div><div><div><span><div><span><div><div>By David J. Lynch</div></div></span></div></span></div></div></div><div>Dec. 21, 2021</div></div></div>
+<p>The U.S. economy this year was strong and scary and not at all normal.</p>
+<p>Theirs are tales of perseverance and adaptation, resilience and triumph.</p>
+<p>“We don’t look at this as a classic recovery,” said Paul Gruenwald, global chief economist for SP Global Ratings. “We’re learning this as we go.”</p>
+<p>But no one knows how the pandemic will affect next year. Few people even know how it will affect next week.</p>
+<h6>Demand far beyond supply</h6>
+<p>“You see that 2018 Nissan Altima sitting out there?” asked Joe Zeidan, who owns Z Auto Place, a used-car business in west Houston.</p>
+<div><div><p>“For sure, 2020 was a disaster year for us, both financially and personally,” Zeidan says. “I lost a lot of money last year.” </p></div></div>
+<div><div><p>Toy cars line a shelf at Z Auto Place. </p></div></div>
+<div><div><p>As the year ends, Zeidan says the number of customers outstrips the availability of cars. </p></div></div>
+<p>This year, customers are back, and prices are up. Way up. Zeidan estimates his business is booming 50 percent over 2020.</p>
+<p>“That’s why I’m not so unhappy that I had so many cars I couldn’t sell last year. Now, I’m selling them at a higher price than I could have gotten last year.”</p>
+<p>How long does Zeidan expect the car-buying frenzy to continue?</p>
+<p>“I give it another six or seven months. But you never know,” he said. “Nobody knows anything about which way the world is turning.”</p>
+<p><i>— Story by Ken Hoffman, photos by Mark Felix</i></p>
+<h6>Dancing again — and hearing the applause</h6>
+<p>Two hours and many leaps later, she couldn’t hold back: “I cried tears of joy.”</p>
+<p>“You’d do one take and then say, ‘I have to do it again,’ ” Cirio said.</p>
+<div><div><p>Cirio prepares for a piece she is choreographing.</p></div></div>
+<div><div><p>Cirio is leading a new work for the Boston Ballet's ChoreograpHER Project.</p></div></div>
+<div><div><p>A partner holds Cirio aloft during a rehearsal.</p></div></div>
+<p>The dancers finally resumed full rehearsals this fall. After practicing for so long in small pods and via Zoom, she relishes being together. “I care about my colleagues even more because of that separation.”</p>
+<p>She is thrilled that the audiences have returned in force. And as she pirouettes in a fantasyland of gently falling snowflakes, they watch her in spellbound silence.</p>
+<p>“Being onstage again has been a really powerful feeling,” Cirio said.</p>
+<p><i>— Story by Joelle Renstrom, photos by Iaritza Menjivar</i></p>
+<h6>From paycheck to paycheck to pay dirt</h6>
+<p>Kailey Kernick knew she was in trouble when yet another luxury-label boutique moved into Miami’s most chichi shopping area this month.</p>
+<p>“They just opened a Chanel store a week ago,” she said. “And so that’s going to be dangerous for me.”</p>
+<p>“Dior is my favorite thing. And I love Chanel. I have an insane shopping addiction,” Kernick said.</p>
+<p>It’s an addiction she can afford, thanks to the supercharged cryptocurrency trading that has transformed and empowered her world.</p>
+<p>Two years ago, she was in her hometown near Calgary, working as a waitress and “living paycheck to paycheck,” she said. “I barely had any savings.”</p>
+<div><div><p>A woman toting bags from Loro Piana pauses outside a store in Miami's Design District.</p></div></div>
+<div><div><p>People shop in the area's high-end boutiques. Kernick says she and her friends are all enjoying luxe lifestyles.</p></div></div>
+<div><div><p>Expensive fashion is on display in window after window.</p></div></div>
+<p>Though she realizes the pandemic is still upending many lives, she expects to be ready to weather any future financial setbacks.</p>
+<p>For now, she’s trying to persuade her parents in Canada to come visit. “They’re frugal people. They don’t really quite understand what I’m doing with crypto,” she said.</p>
+<p>Kernick isn’t apologizing for the extravagance of her splurges — like the $4,000 pair of earrings from Cartier she recently bought.</p>
+<p>“I think life manifests itself in the way you live it. I live the life I want to live, and I’m just going to keep inviting more luxury and abundance,” Kernick said. “You attract what you give out to the world.”</p>
+<p><i>— Story by Lori Rozsa, photos by Scott McIntyre</i></p>
+<h6>A surge of interest as the nation reckoned</h6>
+<p>She’s tired, though there’s no question of walking away. Marcus Books, named for Black activist Marcus Garvey, remains her mission.</p>
+<p>“It’s essential that any culture, any community has its own source of knowledge,” Richardson said. “For the Black community, this is it.”</p>
+<p>The past two years have of course been challenging. When the pandemic forced shutdowns in California, the bookstore’s supporters responded with fundraising efforts and waves of phone orders to help keep it afloat.</p>
+<div><div><p>Marcus Books is the oldest Black-owned bookstore in the United States. </p></div></div>
+<div><div><p>Richardson and a friend discuss whether to move a display for “A Promised Land,” by former president Barack Obama.</p></div></div>
+<div><div><p>Books are rearranged in the store's front window.</p></div></div>
+<p>“We find that people will now turn to us to order things they could very well get at another bookstore,” she said. Many tell her, “I didn’t want to shop at Amazon.”</p>
+<p><i>— Story by Alissa Greenberg, photos by Amy Osborne</i></p>
+<h6>Big trucks, small parts and an economy hanging in the balance</h6>
