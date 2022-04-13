@@ -2060,3 +2060,10 @@
 > abstract_content_output_accuracy: 0.2304 - detail_content_output_accuracy: 0.2748 - detail_title_output_accuracy: 0.2431
 > val_loss: 15.4234 - val_abstract_content_output_loss: 5.1774 - val_detail_content_output_loss: 5.0242 - val_detail_title_output_loss: 5.0158
 > val_abstract_content_output_accuracy: 0.0155 - val_detail_content_output_accuracy: 0.0388 - val_detail_title_output_accuracy: 0.0930
+### v3x24x00x00r10: batch_size -> 57; learning_rate -> 5e-4, Nadam; fine_tuning -> 0;
+> Report number: 20220413-142511
+> Result: Epoch 201/201
+> loss: 10.1112 - abstract_content_output_loss: 3.4184 - detail_content_output_loss: 3.1731 - detail_title_output_loss: 3.3228
+> abstract_content_output_accuracy: 0.2070 - detail_content_output_accuracy: 0.2344 - detail_title_output_accuracy: 0.2063
+> val_loss: 14.8021 - val_abstract_content_output_loss: 4.7535 - val_detail_content_output_loss: 4.9315 - val_detail_title_output_loss: 4.9202
+> val_abstract_content_output_accuracy: 0.0526 - val_detail_content_output_accuracy: 0.1111 - val_detail_title_output_accuracy: 0.0702
