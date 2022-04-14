@@ -84,12 +84,12 @@ from scraping.transformer import transform_top_level_nodes_to_sequence
 ```python
 cfg = {
     'pretrained_emb_vers': 'v5x10u03',
-    'pretrained_version': 'v3x24x00x00r10',
-    'new_version': 'v3x24x00x00r11',
-    'dropout_fine_tuning': 0.06,
+    'pretrained_version': 'v3x24x00x00r11',
+    'new_version': 'v3x24x00x00r12',
+    'dropout_fine_tuning': 0,
     'max_length': 75000,
     'sequence_clip_ratio': 0.07,
-    'batch_size': 29,
+    'batch_size': 57,
     'num_classes': char_emb_training_specs['NUM_CLASSES'],
     'num_categories': 501, #  to validate dataset does not have item's value exceed this
     'epochs': 201,
