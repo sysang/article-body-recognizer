@@ -99,12 +99,12 @@ PRESET = [
   },
 ]
 
-scheme = 0
+scheme = 1
 
 cfg = {
     'pretrained_emb_vers': 'v5x10u03',
-    'pretrained_version': 'v3x24x00x00r15',
-    'new_version': 'v3x24x00x00r16',
+    'pretrained_version': 'v3x24x00x00r16',
+    'new_version': 'v3x24x00x00r17',
     'dropout_fine_tuning': PRESET[scheme]['dropout_fine_tuning'],
     'max_length': 75000,
     'sequence_clip_ratio': 0.07,
