@@ -84,35 +84,35 @@ from scraping.transformer import transform_top_level_nodes_to_sequence
 ```python
 PRESET = [
   {
-    'scheme': 0,
+    'SCHEME': 0,
     'dropout_fine_tuning': 0,
     'batch_size': 57,
-    'epochs': 301,
+    'epochs': 121,
     'optimizer': RMSprop,
   },
   {
-    'scheme': 1,
+    'SCHEME': 1,
     'dropout_fine_tuning': 0.06,
     'batch_size': 29,
-    'epochs': 201,
+    'epochs': 301,
     'optimizer': Nadam,
   },
 ]
 
-scheme = 1
+SCHEME = 0
 
 cfg = {
     'pretrained_emb_vers': 'v5x10u03',
-    'pretrained_version': 'v3x24x00x00r16',
-    'new_version': 'v3x24x00x00r17',
-    'dropout_fine_tuning': PRESET[scheme]['dropout_fine_tuning'],
+    'pretrained_version': 'v3x24x00x00r17',
+    'new_version': 'v3x24x00x00r18',
+    'dropout_fine_tuning': PRESET[SCHEME]['dropout_fine_tuning'],
     'max_length': 75000,
     'sequence_clip_ratio': 0.07,
-    'batch_size': PRESET[scheme]['batch_size'],
+    'batch_size': PRESET[SCHEME]['batch_size'],
     'num_classes': char_emb_training_specs['NUM_CLASSES'],
     'num_categories': 501, #  to validate dataset does not have item's value exceed this
-    'epochs': PRESET[scheme]['epochs'],
-    'optimizer': PRESET[scheme]['optimizer'],
+    'epochs': PRESET[SCHEME]['epochs'],
+    'optimizer': PRESET[SCHEME]['optimizer'],
     'learning_rate': 5e-4,
     'buffer_size': 17,
     'pribuf_looping': True, # If is True then buffer_size makes no affect and is set to steps_per_epoch
