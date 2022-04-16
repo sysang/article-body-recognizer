@@ -2154,10 +2154,13 @@
 > abstract_content_output_accuracy: 0.2449 - detail_content_output_accuracy: 0.2829 - detail_title_output_accuracy: 0.2498
 > val_loss: 15.6675 - val_abstract_content_output_loss: 5.2610 - val_detail_content_output_loss: 5.3765 - val_detail_title_output_loss: 4.8066
 > val_abstract_content_output_accuracy: 0.0621 - val_detail_content_output_accuracy: 0.0552 - val_detail_title_output_accuracy: 0.0828
-### v3x24x00x00r222: fine_tuning -> 0, optimizer -> Nadam, learning_rate -> 5e-4, batch_size -> 57;
+### v3x24x00x00r22: fine_tuning -> 0, optimizer -> Nadam, learning_rate -> 5e-4, batch_size -> 57;
 > Report number: 20220416-011746
 > Result: Epoch 121/121
 > loss: 10.1228 - abstract_content_output_loss: 3.4683 - detail_content_output_loss: 3.1810 - detail_title_output_loss: 3.2774
 > abstract_content_output_accuracy: 0.1902 - detail_content_output_accuracy: 0.2512 - detail_title_output_accuracy: 0.2253
 > val_loss: 14.3727 - val_abstract_content_output_loss: 4.6134 - val_detail_content_output_loss: 4.7309 - val_detail_title_output_loss: 4.8328
 > val_abstract_content_output_accuracy: 0.0585 - val_detail_content_output_accuracy: 0.0351 - val_detail_title_output_accuracy: 0.0819
+### v3x24x00x00r23: fine_tuning -> 0.06, optimizer -> RMSprop, learning_rate -> 5e-4, batch_size -> 29;
+> Report number:
+> Result: Epoch 301/301
