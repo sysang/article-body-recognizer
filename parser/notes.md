@@ -2240,3 +2240,21 @@
 > abstract_content_output_accuracy: 0.1881 - detail_content_output_accuracy: 0.2484 - detail_title_output_accuracy: 0.2077
 > val_loss: 14.6371 - val_abstract_content_output_loss: 4.7482 - val_detail_content_output_loss: 4.8660 - val_detail_title_output_loss: 4.8715
 > val_abstract_content_output_accuracy: 0.0585 - val_detail_content_output_accuracy: 0.0292 - val_detail_title_output_accuracy: 0.0351
+### v3x24x00x00r33: fine_tuning -> 0.06, optimizer -> Nadam, learning_rate -> 5e-4, batch_size -> 29;
+## BASELINE
+> Report number: 20220418-131230
+> Result: Epoch 36/301
+> loss: 9.7955 - abstract_content_output_loss: 3.3215 - detail_content_output_loss: 3.1192 - detail_title_output_loss: 3.1570
+> abstract_content_output_accuracy: 0.2027 - detail_content_output_accuracy: 0.2414 - detail_title_output_accuracy: 0.2695
+> val_loss: 14.3246 - val_abstract_content_output_loss: 4.6587 - val_detail_content_output_loss: 4.6289 - val_detail_title_output_loss: 4.8383
+> val_abstract_content_output_accuracy: 0.1103 - val_detail_content_output_accuracy: 0.1448 - val_detail_title_output_accuracy: 0.0414
+> Result: Epoch 60/301
+> loss: 9.6459 - abstract_content_output_loss: 3.2534 - detail_content_output_loss: 3.0461 - detail_title_output_loss: 3.1395
+> abstract_content_output_accuracy: 0.2252 - detail_content_output_accuracy: 0.2723 - detail_title_output_accuracy: 0.2548
+> val_loss: 14.4167 - val_abstract_content_output_loss: 4.6578 - val_detail_content_output_loss: 4.6594 - val_detail_title_output_loss: 4.8927
+> val_abstract_content_output_accuracy: 0.1448 - val_detail_content_output_accuracy: 0.1172 - val_detail_title_output_accuracy: 0.0552
+> Result: Epoch 301/301
+> loss: 9.5762 - abstract_content_output_loss: 3.1909 - detail_content_output_loss: 2.9742 - detail_title_output_loss: 3.1854
+> abstract_content_output_accuracy: 0.2442 - detail_content_output_accuracy: 0.2745 - detail_title_output_accuracy: 0.2667
+> val_loss: 14.6164 - val_abstract_content_output_loss: 4.7173 - val_detail_content_output_loss: 4.7910 - val_detail_title_output_loss: 4.8817
+> val_abstract_content_output_accuracy: 0.1241 - val_detail_content_output_accuracy: 0.0897 - val_detail_title_output_accuracy: 0.0345
