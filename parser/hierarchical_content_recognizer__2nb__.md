@@ -94,17 +94,17 @@ PRESET = [
     'SCHEME': 1,
     'dropout_fine_tuning': 0.06,
     'batch_size': 29,
-    'epochs': 201,
+    'epochs': 301,
     'optimizer': RMSprop,
   },
 ]
 
-SCHEME = 1
+SCHEME = 0
 
 cfg = {
     'pretrained_emb_vers': 'v5x10u03',
-    'pretrained_version': 'v3x24x00x00r24',
-    'new_version': 'v3x24x00x00r25',
+    'pretrained_version': 'v3x24x00x00r25',
+    'new_version': 'v3x24x00x00r26',
     'dropout_fine_tuning': PRESET[SCHEME]['dropout_fine_tuning'],
     'max_length': 75000,
     'sequence_clip_ratio': 0.07,
