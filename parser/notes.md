@@ -2311,3 +2311,6 @@
 > abstract_content_output_accuracy: 0.2225 - detail_content_output_accuracy: 0.2870 - detail_title_output_accuracy: 0.2346
 > val_loss: 14.8969 - val_abstract_content_output_loss: 4.8576 - val_detail_content_output_loss: 4.9175 - val_detail_title_output_loss: 4.8733
 > val_abstract_content_output_accuracy: 0.0588 - val_detail_content_output_accuracy: 0.0662 - val_detail_title_output_accuracy: 0.0588
+### v3x24x00x00r40: dropout_fine_tuning -> 0, optimizer -> RMSprop, learning_rate -> 5e-4, batch_size -> 57;
+> Report number: 20220419-144858
+> Result: Epoch 201/201
