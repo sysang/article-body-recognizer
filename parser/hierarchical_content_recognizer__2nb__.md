@@ -89,6 +89,7 @@ PRESET = [
     'batch_size': 57,
     'epochs': 91,
     'optimizer': RMSprop,
+    'learning_rate': 6e-4,
   },
   {
     'SCHEME': 1,
@@ -96,22 +97,23 @@ PRESET = [
     'batch_size': 29,
     'epochs': 131,
     'optimizer': Nadam,
+    'learning_rate': 5e-4,
   },
 ]
 
-SCHEME = 1
+SCHEME = 0
 
 cfg = {
     'pretrained_emb_vers': 'v5x10u03',
-    'pretrained_version': 'v3x24x00x00r53',
-    'new_version': 'v3x24x00x00r54',
+    'pretrained_version': 'v3x24x00x00r54',
+    'new_version': 'v3x24x00x00r55',
     'dropout_fine_tuning': PRESET[SCHEME]['dropout_fine_tuning'],
     'max_length': 75000,
     'sequence_clip_ratio': 0.07,
     'num_classes': char_emb_training_specs['NUM_CLASSES'],
     'num_categories': 501, #  to validate dataset does not have item's value exceed this
     'optimizer': PRESET[SCHEME]['optimizer'],
-    'learning_rate': 5e-4,
+    'learning_rate': PRESET[SCHEME]['learning_rate'],
     'batch_size': PRESET[SCHEME]['batch_size'],
     'epochs': PRESET[SCHEME]['epochs'],
     'buffer_size': 17,
