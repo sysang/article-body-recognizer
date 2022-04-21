@@ -95,7 +95,7 @@ PRESET = [
     'SCHEME': 1,
     'dropout_fine_tuning': 0.06,
     'batch_size': 29,
-    'epochs': 91,
+    'epochs': 327,
     'optimizer': Nadam,
     'learning_rate': 4.9e-4,
   },
@@ -105,8 +105,8 @@ SCHEME = 1
 
 cfg = {
     'pretrained_emb_vers': 'v5x10u03',
-    'pretrained_version': 'v3x24x00x00r59',
-    'new_version': 'v3x24x00x00r60',
+    'pretrained_version': 'v3x24x00x00r60',
+    'new_version': 'v3x24x00x00r61',
     'dropout_fine_tuning': PRESET[SCHEME]['dropout_fine_tuning'],
     'max_length': 75000,
     'sequence_clip_ratio': 0.07,
@@ -121,7 +121,7 @@ cfg = {
     # 'decay_steps': 10,
     # 'decay_rate': 0.2479,  # Formular: (2e-4 / 5e-5 - 1) / floor(121 / 10)
     # 'model': vers_models.HierarchyV3_100100,
-    'emb_trainable': True,
+    'emb_trainable': False,
     'decoder_trainable': True,
     'model': models.Hierarchy,
   }
