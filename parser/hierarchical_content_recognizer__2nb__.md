@@ -93,8 +93,8 @@ PRESET = [
   },
   {
     'SCHEME': 1,
-    'dropout_fine_tuning': 0.06,
-    'batch_size': 29,
+    'dropout_fine_tuning': 0.03,
+    'batch_size': 43,
     'epochs': 109,
     'optimizer': Nadam,
     'learning_rate': 5e-4,
@@ -105,8 +105,8 @@ SCHEME = 1
 
 cfg = {
     'pretrained_emb_vers': 'v5x10u03',
-    'pretrained_version': 'v3x24x00x00r68',
-    'new_version': 'v3x24x00x00r69',
+    'pretrained_version': 'v3x24x00x00r48',
+    'new_version': 'v3x24x00x00r70',
     'dropout_fine_tuning': PRESET[SCHEME]['dropout_fine_tuning'],
     'max_length': 75000,
     'sequence_clip_ratio': 0.07,
