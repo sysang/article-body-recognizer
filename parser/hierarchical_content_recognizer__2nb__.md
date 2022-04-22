@@ -85,11 +85,11 @@ from scraping.transformer import transform_top_level_nodes_to_sequence
 PRESET = [
   {
     'SCHEME': 0,
-    'dropout_fine_tuning': 0.1,
-    'batch_size': 51,
+    'dropout_fine_tuning': 0,
+    'batch_size': 57,
     'epochs': 327,
-    'optimizer': Adagrad,
-    'learning_rate': 6.3e-4,
+    'optimizer': RMSprop,
+    'learning_rate': 5e-4,
   },
   {
     'SCHEME': 1,
@@ -101,12 +101,12 @@ PRESET = [
   },
 ]
 
-SCHEME = 1
+SCHEME = 0
 
 cfg = {
     'pretrained_emb_vers': 'v5x10u03',
-    'pretrained_version': 'v3x24x00x00r64',
-    'new_version': 'v3x24x00x00r65',
+    'pretrained_version': 'v3x24x00x00r65',
+    'new_version': 'v3x24x00x00r66',
     'dropout_fine_tuning': PRESET[SCHEME]['dropout_fine_tuning'],
     'max_length': 75000,
     'sequence_clip_ratio': 0.07,
