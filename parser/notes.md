@@ -2659,4 +2659,3 @@
 > abstract_content_output_accuracy: 0.1681 - detail_content_output_accuracy: 0.2269 - detail_title_output_accuracy: 0.2122
 > val_loss: 13.6861 - val_abstract_content_output_loss: 4.5306 - val_detail_content_output_loss: 4.5028 - val_detail_title_output_loss: 4.5064
 > val_abstract_content_output_accuracy: 0.0654 - val_detail_content_output_accuracy: 0.0784 - val_detail_title_output_accuracy: 0.0915
-
