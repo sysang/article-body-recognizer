@@ -2639,5 +2639,13 @@
 > val_loss: 14.7629 - val_abstract_content_output_loss: 4.9598 - val_detail_content_output_loss: 4.8960 - val_detail_title_output_loss: 4.7098
 > val_abstract_content_output_accuracy: 0.0620 - val_detail_content_output_accuracy: 0.0310 - val_detail_title_output_accuracy: 0.0543
 ### v3x24x00x00r81: dropout_fine_tuning -> 0, optimizer -> RMSprop, learning_rate -> 4.9e-4, batch_size -> 51;
+> Report number: 20220423-120602
+> Epoch 109/109
+> loss: 10.4245 - abstract_content_output_loss: 3.5861 - detail_content_output_loss: 3.3139 - detail_title_output_loss: 3.3773
+> abstract_content_output_accuracy: 0.1499 - detail_content_output_accuracy: 0.2164 - detail_title_output_accuracy: 0.2157
+> val_loss: 13.1541 - val_abstract_content_output_loss: 4.3225 - val_detail_content_output_loss: 4.2872 - val_detail_title_output_loss: 4.3969
+> val_abstract_content_output_accuracy: 0.0523 - val_detail_content_output_accuracy: 0.0196 - val_detail_title_output_accuracy: 0.0523
+### v3x24x00x00r82: dropout_fine_tuning -> 0.03, optimizer -> Nadam, learning_rate -> 5e-4, batch_size -> 43;
 > Report number:
 > Epoch 109/109
+Goal-Directed Planning by Reinforcement Learning and Active Inference
