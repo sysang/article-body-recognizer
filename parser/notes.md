@@ -2631,3 +2631,6 @@
 > abstract_content_output_accuracy: 0.1649 - detail_content_output_accuracy: 0.2042 - detail_title_output_accuracy: 0.1993
 > val_loss: 13.7765 - val_abstract_content_output_loss: 4.4957 - val_detail_content_output_loss: 4.5395 - val_detail_title_output_loss: 4.5911
 > val_abstract_content_output_accuracy: 0.0585 - val_detail_content_output_accuracy: 0.0585 - val_detail_title_output_accuracy: 0.0409
+### v3x24x00x00r80: dropout_fine_tuning -> 0.03, optimizer -> Nadam, learning_rate -> 5e-4, batch_size -> 43;
+> Report number: 20220423-113724
+> Epoch 109/109
