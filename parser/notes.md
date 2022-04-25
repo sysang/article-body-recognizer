@@ -2085,7 +2085,6 @@
 > val_abstract_content_output_accuracy: 0.0585 - val_detail_content_output_accuracy: 0.0409 - val_detail_title_output_accuracy: 0.0526
 ### v3x24x00x00r13: batch_size -> 29; learning_rate -> 5e-4, Nadam; dropout_fine_tuning -> 0.06;
 ## BASELINE-1
-## TRAINING_LOSS
 > Report number: 20220414-050353
 > Result: Epoch 201/201
 > loss: 9.7279 - abstract_content_output_loss: 3.2515 - detail_content_output_loss: 3.0552 - detail_title_output_loss: 3.1986
@@ -2398,7 +2397,7 @@
 > val_loss: 13.1626 - val_abstract_content_output_loss: 4.3641 - val_detail_content_output_loss: 4.1937 - val_detail_title_output_loss: 4.4064
 > val_abstract_content_output_accuracy: 0.0930 - val_detail_content_output_accuracy: 0.1163 - val_detail_title_output_accuracy: 0.0698
 ### v3x24x00x00r47: dropout_fine_tuning -> 0, optimizer -> RMSprop, learning_rate -> 5e-4, batch_size -> 57;
-## BASELINE-0 
+## BASELINE-0
 > Report number: 20220420-074202
 > Result: Epoch 91/91
 > loss: 10.6178 - abstract_content_output_loss: 3.6770 - detail_content_output_loss: 3.3577 - detail_title_output_loss: 3.4311
@@ -2429,7 +2428,6 @@
 > val_abstract_content_output_accuracy: 0.0620 - val_detail_content_output_accuracy: 0.0853 - val_detail_title_output_accuracy: 0.0388
 ### v3x24x00x00r51: dropout_fine_tuning -> 0, optimizer -> RMSprop, learning_rate -> 5e-4, batch_size -> 57;
 ## BASELINE-0, 2nd
-> Remark: loss and val_over_train ratio are equivalent to v3x24x00x00r47 but abstract_content_output_accuracy, detail_content_output_accuracy (train, val) are all better.
 > Report number: 20220420-122325
 > Result: Epoch 91/91
 > loss: 10.5216 - abstract_content_output_loss: 3.6155 - detail_content_output_loss: 3.3545 - detail_title_output_loss: 3.3988
@@ -2670,6 +2668,8 @@
 > val_loss: 14.6484 - val_abstract_content_output_loss: 4.7684 - val_detail_content_output_loss: 4.9694 - val_detail_title_output_loss: 4.7140
 > val_abstract_content_output_accuracy: 0.0671 - val_detail_content_output_accuracy: 0.0671 - val_detail_title_output_accuracy: 0.0183
 ### v3x24x00x00r85: dropout_fine_tuning -> 0.01, optimizer -> RMSprop, learning_rate -> 6e-4, batch_size -> 57;
+## BASELINE-0, 2nd
+## TRAINING_LOSS
 > Report number: 20220424-033342
 > Epoch 93/93
 > loss: 10.3243 - abstract_content_output_loss: 3.5115 - detail_content_output_loss: 3.2800 - detail_title_output_loss: 3.3714
@@ -2678,6 +2678,7 @@
 > val_abstract_content_output_accuracy: 0.0351 - val_detail_content_output_accuracy: 0.0585 - val_detail_title_output_accuracy: 0.0643
 ### v3x24x00x00r86: dropout_fine_tuning -> 0.09, optimizer -> Nadam, learning_rate -> 4.9e-4, batch_size -> 39;
 ## BASELINE-1
+## TRAINING_LOSS
 > Report number: 20220424-040850
 > Epoch 129/129
 > loss: 9.4881 - abstract_content_output_loss: 3.1657 - detail_content_output_loss: 3.0109 - detail_title_output_loss: 3.1119
@@ -2744,5 +2745,13 @@
 > Report number: 20220424-112947
 > Epoch 93/93
 ### v3x24x00x00r96: dropout_fine_tuning -> 0.09, optimizer -> Nadam, learning_rate -> 4.9e-4, batch_size -> 57;
-> Report number: 20220424-102525
+> Report number: 20220424-154104
 > Epoch 129/129
+> loss: 9.4217 - abstract_content_output_loss: 3.1389 - detail_content_output_loss: 2.9721 - detail_title_output_loss: 3.1295
+> abstract_content_output_accuracy: 0.2498 - detail_content_output_accuracy: 0.2751 - detail_title_output_accuracy: 0.2653
+> val_loss: 15.9606 - val_abstract_content_output_loss: 5.2298 - val_detail_content_output_loss: 5.3583 - val_detail_title_output_loss: 5.1911
+> val_abstract_content_output_accuracy: 0.0351 - val_detail_content_output_accuracy: 0.0409 - val_detail_title_output_accuracy: 0.0468
+### v3x24x00x00r97 (<- v3x24x00x00r86): dropout_fine_tuning -> -0.01, optimizer -> RMSprop, learning_rate -> 6e-4, batch_size -> 57;
+> Remarks: v3x24x00x00r87 is continuation but val_loss seemed stopping so early because there was improving potential, 231 epochs is set to re-train
+> Report number:
+> Epoch 231/231

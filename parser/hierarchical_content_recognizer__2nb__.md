@@ -86,27 +86,27 @@ PRESET = [
   {
     'SCHEME': 0,
     'dropout_fine_tuning': -0.01,
-    'batch_size': 39,
-    'epochs': 93,
-    'optimizer': Adagrad,
-    'learning_rate': 6.1e-4,
+    'batch_size': 57,
+    'epochs': 381,
+    'optimizer': RMSprop,
+    'learning_rate': 6e-4,
   },
   {
     'SCHEME': 1,
     'dropout_fine_tuning': 0.09,
     'batch_size': 57,
-    'epochs': 129,
+    'epochs': 147,
     'optimizer': Nadam,
     'learning_rate': 4.9e-4,
   },
 ]
 
-SCHEME = 1
+SCHEME = 0
 
 cfg = {
     'pretrained_emb_vers': 'v5x10u03',
-    'pretrained_version': 'v3x24x00x00r95',
-    'new_version': 'v3x24x00x00r96',
+    'pretrained_version': 'v3x24x00x00r86',
+    'new_version': 'v3x24x00x00r97',
     'dropout_fine_tuning': PRESET[SCHEME]['dropout_fine_tuning'],
     'max_length': 75000,
     'sequence_clip_ratio': 0.07,
@@ -441,11 +441,16 @@ class TrainOverValidationLossRatioCallback(Callback):
         lr = self.model.optimizer.lr
         loss = logs['loss']
         val_loss = logs['val_loss']
-        # compensate for model that has loss decrease forcely
-        # beause the validating loss tends to change inversely against training loss
+        ratio = (val_loss - loss) / loss
+
+        # - Because the validating loss tends to change inversely against training loss
+        #     a good evalutation ratio should count good train_loss.
+        # - The ration and train_loss have same qualitative justification: the smaller the better,
+        #     so we multiply ratio with train_loss to manifest that.
         compensated = math.sqrt(loss)
-        data = (val_loss - loss) / loss / compensated
-        tf.summary.scalar('validation_over_training_loss', data=data, step=epoch)
+        ratio = ratio * compensated
+
+        tf.summary.scalar('validation_over_training_loss', data=ratio, step=epoch)
 
 logdir = "logs/scalars/" + datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
 file_writer = tf.summary.create_file_writer(logdir + "/metrics")
