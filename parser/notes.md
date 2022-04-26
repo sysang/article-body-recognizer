@@ -2889,3 +2889,6 @@
 > abstract_content_output_accuracy: 0.1719 - detail_content_output_accuracy: 0.2386 - detail_title_output_accuracy: 0.2267
 > val_loss: 14.7403 - val_abstract_content_output_loss: 4.8272 - val_detail_content_output_loss: 4.8838 - val_detail_title_output_loss: 4.8606
 > val_abstract_content_output_accuracy: 0.0468 - val_detail_content_output_accuracy: 0.0292 - val_detail_title_output_accuracy: 0.0409
+### v3x24x00x00r114: dropout_fine_tuning -> 0.06, optimizer -> RMSprop, learning_rate -> 4.9e-4, batch_size -> 33;
+> Report number:
+> Epoch 93/93
