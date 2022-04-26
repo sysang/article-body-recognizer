@@ -2919,5 +2919,9 @@
 > val_abstract_content_output_accuracy: 0.0379 - val_detail_content_output_accuracy: 0.0530 - val_detail_title_output_accuracy: 0.1061
 ### v3x24x00x00r118: dropout_fine_tuning -> 0.06, optimizer -> RMSprop, learning_rate -> 4.9e-4, batch_size -> 57;
 ## BASELINE-1
-> Report number:
+> Report number: 20220426-155626
 > Epoch 93/93
+> loss: 9.7808 - abstract_content_output_loss: 3.3039 - detail_content_output_loss: 3.0829 - detail_title_output_loss: 3.2546
+> abstract_content_output_accuracy: 0.2218 - detail_content_output_accuracy: 0.2681 - detail_title_output_accuracy: 0.2182
+> val_loss: 13.9286 - val_abstract_content_output_loss: 4.7038 - val_detail_content_output_loss: 4.6383 - val_detail_title_output_loss: 4.4471
+> val_abstract_content_output_accuracy: 0.0175 - val_detail_content_output_accuracy: 0.0351 - val_detail_title_output_accuracy: 0.0468
