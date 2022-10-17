@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://docs.bitnami.com');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8ZGl2ID4gPGhlYWRlciA+ICA8L2hlYWRlcj4gPC9kaXY+IDxtYWluID4gPHNlY3Rpb24gPiA8aDEgPkJpdG5hbWkgRG9jdW1lbnRhdGlvbjwvaDE+IDxwID4gRG9jdW1lbnRhdGlvbiwgdHV0b3JpYWxzLCBhbmQgbW9yZSByZXNvdXJjZXMgZm9yIGRldmVsb3BpbmcgYW5kIG1hbmFnaW5nIHlvdXIgYXBwbGljYXRpb25zIDwvcD4gPC9zZWN0aW9uPiA8c2VjdGlvbiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8aDI+VHV0b3JpYWxzPC9oMj4gPHAgPiBTdGVwIGJ5IHN0ZXAgdHV0b3JpYWxzIGZvciBkZXZlbG9wZXJzIGFuZCBzeXNhZG1pbnMgPC9wPiA8L2Rpdj4gPHVsID4gPGxpID4gPGFydGljbGU+IDxhID4gUmVzb2x2ZSBDaGFydCBVcGdyYWRlIElzc3VlcyBBZnRlciBNaWdyYXRpbmcgdG8gSGVsbSB2MyA8L2E+IDxwPlZpa3JhbSBWYXN3YW5pPC9wPiA8L2FydGljbGU+IDwvbGk+IDxsaSA+IDxhcnRpY2xlPiA8YSA+IERlcGxveSBhbmQgVXNlIEFwYWNoZSBBaXJmbG93IG9uIEt1YmVybmV0ZXMgd2l0aCBCaXRuYW1pIGFuZCBIZWxtIDwvYT4gPHA+UmFxdWVsIENhbXB1emFubzwvcD4gPC9hcnRpY2xlPiA8L2xpPiA8bGkgPiA8YXJ0aWNsZT4gPGEgPiBNaWdyYXRlIERhdGEgQmV0d2VlbiBLdWJlcm5ldGVzIENsdXN0ZXJzIHdpdGggQml0bmFtaSBhbmQgVmVsZXJvIDwvYT4gPHA+VmlrcmFtIFZhc3dhbmk8L3A+IDwvYXJ0aWNsZT4gPC9saT4gPC91bD4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGgyPlNlcmllczwvaDI+IDxwID4gQSBjdXJhdGVkIGxpc3Qgb2YgdHV0b3JpYWxzIHRvIGNvbXBsZXRlIGEgZnVsbCBkZXZlbG9wbWVudCBqb3VybmV5IDwvcD4gPC9kaXY+IDx1bCA+IDxsaT4gPGFydGljbGUgPiA8YSA+IENyZWF0ZSBTZWN1cmUgYW5kIE9wdGltaXplZCBBcHBsaWNhdGlvbiBJbWFnZXMgd2l0aCBCaXRuYW1pJ3MgUHJvZHVjdGlvbiBDb250YWluZXJzIDwvYT4gPHA+IExlYXJuIGhvdyB0byB1c2UgQml0bmFtaSdzIHByb2R1Y3Rpb24gY29udGFpbmVycyB0byBjcmVhdGUgc2VjdXJlLCBtaW5pbWFsIHByb2R1Y3Rpb24gaW1hZ2VzIGZvciBhcHBsaWNhdGlvbnMgaW4gZGlmZmVyZW50IHByb2dyYW1taW5nIGxhbmd1YWdlcy4gPC9wPiA8L2FydGljbGU+IDwvbGk+IDwvdWw+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxhID4gUmVhZCBtb3JlIHR1dG9yaWFscyA8L2E+IDwvZGl2PiA8L2Rpdj4gPC9zZWN0aW9uPiA8c2VjdGlvbiA+IDxkaXYgPiA8aDIgPiBWTXdhcmUgQXBwbGljYXRpb24gQ2F0YWxvZ+KEoiA8L2gyPiA8cCA+IFRydXN0ZWQgb3BlbiBzb3VyY2UgY29udGVudCB0aGF0IGNhbiBiZSBjdXN0b21pemVkIHRvIHlvdXIgb3JnYW5pemF0aW9uIHJlcXVpcmVtZW50cyBhbmQgZGVsaXZlcmVkIHRvIHlvdXIgY29udHJvbGxlZCByZXBvc2l0b3J5LiA8L3A+IDxwID4gPGEgPiBDaGVjayB0aGUgZG9jdW1lbnRhdGlvbiA8L2E+IDwvcD4gPC9kaXY+IDwvc2VjdGlvbj4gPHNlY3Rpb24gPiA8ZGl2ID4gPGgyID4gU2NhbGUgeW91ciBhcHBsaWNhdGlvbnMgZnJvbSB5b3VyIGxhcHRvcCB0byB5b3VyIHVzZXJzIDwvaDI+IDxwID4gV2l0aCBCaXRuYW1pIHlvdSBjYW4gc3RhcnQgZGV2ZWxvcGluZyB5b3VyIGFwcGxpY2F0aW9uIGxvY2FsbHkgYW5kIG1vdmUgaXQgdG8gcHJvZHVjdGlvbiB3aXRoIGVhc2UuIEluIGFueSBjbG91ZCwgaW4gYW55IHBsYXRmb3JtLiA8L3A+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMz5EZXZlbG9wbWVudDwvaDM+IDxwPkRldmVsb3AgYW5kIHRlc3QgeW91ciBhcHBsaWNhdGlvbiBsb2NhbGx5PC9wPiA8L2Rpdj4gPHVsID4gPGxpID4gPGEgPiA8aDQ+V2luZG93cyAvIExpbnV4IC8gbWFjT1MgLyBPUyBYIFZNPC9oND4gPHA+UnVuIGFuZCBkZXZlbG9wIHVzaW5nIG91ciBsb2NhbCBpbnN0YWxsZXJzPC9wPiA8L2E+IDwvbGk+IDxsaSA+IDxhID4gPGg0PlZpcnR1YWwgTWFjaGluZXM8L2g0PiA8cD5SdW4gYW55IGFwcGxpY2F0aW9uIGluIHlvdXIgbG9jYWwgZW52aXJvbm1lbnQ8L3A+IDwvYT4gPC9saT4gPGxpID4gPGEgPiA8aDQ+Q29udGFpbmVyczwvaDQ+IDxwPkRldmVsb3AgYW5kIHBvcnQgeW91ciBlbnZpcm9ubWVudCBlYXNpbHk8L3A+IDwvYT4gPC9saT4gPC91bD4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGgzPlByb2R1Y3Rpb248L2gzPiA8cD5Nb3ZlIHRvIHByb2R1Y3Rpb24gaW4gdGhlIHBsYXRmb3JtIG9mIHlvdXIgY2hvaWNlPC9wPiA8L2Rpdj4gPHVsID4gPGxpID4gPGEgPiA8aDQ+R29vZ2xlIENsb3VkIFBsYXRmb3JtPC9oND4gPC9hPiA8L2xpPiA8bGkgPiA8YSA+IDxoND5BV1MgQ2xvdWQ8L2g0PiA8L2E+IDwvbGk+IDxsaSA+IDxhID4gPGg0Pk1pY3Jvc29mdCBBenVyZTwvaDQ+IDwvYT4gPC9saT4gPGxpID4gPGEgPiA8aDQ+Qml0bmFtaSBDbG91ZCBIb3N0aW5nPC9oND4gPC9hPiA8L2xpPiA8bGkgPiA8YSA+IDxoND5JQk0gQ2xvdWQ8L2g0PiA8L2E+IDwvbGk+IDxsaSA+IDxhID4gPGg0Pkt1YmVybmV0ZXM8L2g0PiA8L2E+IDwvbGk+IDxsaSA+IDxhID4gPGg0PlZNd2FyZSBNYXJrZXRwbGFjZTwvaDQ+IDwvYT4gPC9saT4gPC91bD4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9zZWN0aW9uPiA8ZGl2ID4gPGRpdiA+IDxzZWN0aW9uID4gPGRpdiA+IDxoMiA+IFNlY3VyaXR5IE5vdGljZXMgPC9oMj4gPHAgPiBTZWN1cml0eSBpcyBvbmUgb2YgQml0bmFtaSdzIGNvcmUgdmFsdWVzLiBGaW5kIHRoZSBsYXRlc3QgQ1ZFIGFuZCBzZWN1cml0eSBmaXhlcy4gPC9wPiA8dWwgPiA8bGk+IDxhID4yMDIxLTEyLTEwIENWRS0yMDIxLTQ0MjI4IFJDRSAwLWRheSBleHBsb2l0IGZvdW5kIGluIGxvZzRqPC9hPiA8L2xpPiA8bGk+IDxhID4yMDIxLTEwLTIxIERpc2NvdXJzZTogUkNFIHZpYSBtYWxpY2lvdXMgU05TIHN1YnNjcmlwdGlvbiBwYXlsb2FkPC9hPiA8L2xpPiA8bGk+IDxhID4yMDIxLTEwLTA2IEFwYWNoZSBTZXJ2ZXIgMi40LjQ5IFBhdGggdHJhdmVyc2FsIGFuZCBmaWxlIGRpc2Nsb3N1cmUgdnVsbmVyYWJpbGl0eSAoQ1ZFLTIwMjEtMzM5MDkgYW5kIENWRS0yMDIxLTQyMDEzKTwvYT4gPC9saT4gPGxpPiA8YSA+MjAyMS0wNy0yMiBTZXF1b2lhIChDVkUtMjAyMS0zMzkwOSk6IExpbnV4IEtlcm5lbCBmaWxlc3lzdGVtIGxheWVyIFZ1bG5lcmFiaWxpdHk8L2E+IDwvbGk+IDwvdWw+IDxwID4gPGEgPiBSZWFkIGFsbCBTZWN1cml0eSBOb3RpY2VzIDwvYT4gPC9wPiA8L2Rpdj4gPC9zZWN0aW9uPiA8c2VjdGlvbiA+IDxkaXYgPiA8aDIgPiBGQVFzIDwvaDI+IDxwID4gRnJvbSB0aGUgaW5zdGFsbGF0aW9uIHByb2Nlc3MgdG8gc3BlY2lmaWMgYWRtaW4gdGFza3MuIEZpbmQgdGhlIG1vc3QgRkFRLiA8L3A+IDx1bCA+IDxsaT4gPGEgPiBGaW5kIGFwcGxpY2F0aW9uIGNyZWRlbnRpYWxzIDwvYT4gPC9saT4gPGxpPiA8YSA+IENvbm5lY3QgdG8gdGhlIHNlcnZlciB0aHJvdWdoIFNTSCA8L2E+IDwvbGk+IDxsaT4gPGEgPiBVcGxvYWQgZmlsZXMgd2l0aCBTRlRQIDwvYT4gPC9saT4gPGxpPiA8YSA+IE9wZW4gb3IgY2xvc2Ugc2VydmVyIHBvcnRzIDwvYT4gPC9saT4gPGxpPiA8YSA+IENvbmZpZ3VyZSB0aGlyZC1wYXJ0eSBTTVRQIGZvciBvdXRib3VuZCBlbWFpbHMgPC9hPiA8L2xpPiA8bGk+IDxhID4gQmxvY2sgYSBzdXNwaWNpb3VzIElQIGFkZHJlc3MgPC9hPiA8L2xpPiA8L3VsPiA8cCA+IDxhID4gUmVhZCBhbGwgRkFRcyA8L2E+IDwvcD4gPC9kaXY+IDwvc2VjdGlvbj4gPC9kaXY+IDwvZGl2PiA8c2VjdGlvbiA+IDxkaXYgPiA8aDIgPk5lZWQgbW9yZSBoZWxwPzwvaDI+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMyA+IDxhID4gU3VnZ2VzdCBjb250ZW50IDwvYT4gPC9oMz4gPHAgPiBBcmUgeW91IG1pc3Npbmcgc29tZXRoaW5nIGluIG91ciBkb2N1bWVudGF0aW9uPyBEbyBub3QgaGVzaXRhdGUgdG8gc3VnZ2VzdCBpdCEgPC9wPiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGgzID4gPGEgPiBWaWRlbyB0dXRvcmlhbHMgPC9hPiA8L2gzPiA8cCA+IExlYXJuIGhvdyB0byBzb2x2ZSBjb21tb24gaXNzdWVzIHdpdGggQml0bmFtaSB2aWRlbyB0dXRvcmlhbHMgPC9wPiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGgzID4gPGEgPiBUcm91Ymxlc2hvb3RpbmcgPC9hPiA8L2gzPiA8cCA+IElkZW50aWZ5IHlvdXIgcHJvYmxlbSBhbmQgZmluZCBhIHNvbHV0aW9uIGZvciBmaXhpbmcgaXQgPC9wPiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGgzID4gPGEgPiBDb21tdW5pdHkgZm9ydW1zIDwvYT4gPC9oMz4gPHAgPiBEaXNjdXNzIHlvdXIgaXNzdWVzIHdpdGggb3RoZXIgdXNlcnMgYW5kIGdldCBoZWxwIGZyb20gdGhlIGNvbW11bml0eSA8L3A+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L3NlY3Rpb24+IDwvbWFpbj4gPC9ib2R5Pg=='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, tag: body, level: 1" node_number="1"> <div class="valid" valid="valid" title="valid: True, node: 2, tag: div, level: 2" node_number="2"> <header class="valid" valid="valid" title="valid: True, node: 3, tag: header, level: 3" node_number="3">  </header> </div> <main class="valid" valid="valid" title="valid: True, node: 4, tag: main, level: 2" node_number="4"> <section class="valid" valid="valid" title="valid: True, node: 5, tag: section, level: 3" node_number="5"> <h1 class="valid" valid="valid" title="valid: True, node: 6, tag: h1, level: 4" node_number="6">Bitnami Documentation</h1> <p class="valid" valid="valid" title="valid: True, node: 7, tag: p, level: 4" node_number="7"> Documentation, tutorials, and more resources for developing and managing your applications </p> </section> <section class="valid" valid="valid" title="valid: True, node: 8, tag: section, level: 3" node_number="8"> <div class="valid" valid="valid" title="valid: True, node: 9, tag: div, level: 4" node_number="9"> <div class="valid" valid="valid" title="valid: True, node: 10, tag: div, level: 5" node_number="10"> <div class="valid" valid="valid" title="valid: True, node: 11, tag: div, level: 6" node_number="11"> <div class="valid" valid="valid" title="valid: True, node: 12, tag: div, level: 7" node_number="12"> <h2 class="valid" valid="valid" title="valid: True, node: 13, tag: h2, level: 8" node_number="13">Tutorials</h2> <p class="valid" valid="valid" title="valid: True, node: 14, tag: p, level: 8" node_number="14"> Step by step tutorials for developers and sysadmins </p> </div> <ul class="valid" valid="valid" title="valid: True, node: 15, tag: ul, level: 7" node_number="15"> <li class="valid" valid="valid" title="valid: True, node: 16, tag: li, level: 8" node_number="16"> <article class="valid" valid="valid" title="valid: True, node: 17, tag: article, level: 9" node_number="17"> <a class="valid" valid="valid" title="valid: True, node: 18, tag: a, level: 10" node_number="18"> Resolve Chart Upgrade Issues After Migrating to Helm v3 </a> <p class="valid" valid="valid" title="valid: True, node: 19, tag: p, level: 10" node_number="19">Vikram Vaswani</p> </article> </li> <li class="valid" valid="valid" title="valid: True, node: 20, tag: li, level: 8" node_number="20"> <article class="valid" valid="valid" title="valid: True, node: 21, tag: article, level: 9" node_number="21"> <a class="valid" valid="valid" title="valid: True, node: 22, tag: a, level: 10" node_number="22"> Deploy and Use Apache Airflow on Kubernetes with Bitnami and Helm </a> <p class="valid" valid="valid" title="valid: True, node: 23, tag: p, level: 10" node_number="23">Raquel Campuzano</p> </article> </li> <li class="valid" valid="valid" title="valid: True, node: 24, tag: li, level: 8" node_number="24"> <article class="valid" valid="valid" title="valid: True, node: 25, tag: article, level: 9" node_number="25"> <a class="valid" valid="valid" title="valid: True, node: 26, tag: a, level: 10" node_number="26"> Migrate Data Between Kubernetes Clusters with Bitnami and Velero </a> <p class="valid" valid="valid" title="valid: True, node: 27, tag: p, level: 10" node_number="27">Vikram Vaswani</p> </article> </li> </ul> </div> <div class="valid" valid="valid" title="valid: True, node: 28, tag: div, level: 6" node_number="28"> <div class="valid" valid="valid" title="valid: True, node: 29, tag: div, level: 7" node_number="29"> <h2 class="valid" valid="valid" title="valid: True, node: 30, tag: h2, level: 8" node_number="30">Series</h2> <p class="valid" valid="valid" title="valid: True, node: 31, tag: p, level: 8" node_number="31"> A curated list of tutorials to complete a full development journey </p> </div> <ul class="valid" valid="valid" title="valid: True, node: 32, tag: ul, level: 7" node_number="32"> <li class="valid" valid="valid" title="valid: True, node: 33, tag: li, level: 8" node_number="33"> <article class="valid" valid="valid" title="valid: True, node: 34, tag: article, level: 9" node_number="34"> <a class="valid" valid="valid" title="valid: True, node: 35, tag: a, level: 10" node_number="35"> Create Secure and Optimized Application Images with Bitnami's Production Containers </a> <p class="valid" valid="valid" title="valid: True, node: 36, tag: p, level: 10" node_number="36"> Learn how to use Bitnami's production containers to create secure, minimal production images for applications in different programming languages. </p> </article> </li> </ul> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 37, tag: div, level: 5" node_number="37"> <a class="valid" valid="valid" title="valid: True, node: 38, tag: a, level: 6" node_number="38"> Read more tutorials </a> </div> </div> </section> <section class="valid" valid="valid" title="valid: True, node: 39, tag: section, level: 3" node_number="39"> <div class="valid" valid="valid" title="valid: True, node: 40, tag: div, level: 4" node_number="40"> <h2 class="valid" valid="valid" title="valid: True, node: 41, tag: h2, level: 5" node_number="41"> VMware Application Catalog&#8482; </h2> <p class="valid" valid="valid" title="valid: True, node: 42, tag: p, level: 5" node_number="42"> Trusted open source content that can be customized to your organization requirements and delivered to your controlled repository. </p> <p class="valid" valid="valid" title="valid: True, node: 43, tag: p, level: 5" node_number="43"> <a class="valid" valid="valid" title="valid: True, node: 44, tag: a, level: 6" node_number="44"> Check the documentation </a> </p> </div> </section> <section class="valid" valid="valid" title="valid: True, node: 45, tag: section, level: 3" node_number="45"> <div class="valid" valid="valid" title="valid: True, node: 46, tag: div, level: 4" node_number="46"> <h2 class="valid" valid="valid" title="valid: True, node: 47, tag: h2, level: 5" node_number="47"> Scale your applications from your laptop to your users </h2> <p class="valid" valid="valid" title="valid: True, node: 48, tag: p, level: 5" node_number="48"> With Bitnami you can start developing your application locally and move it to production with ease. In any cloud, in any platform. </p> <div class="valid" valid="valid" title="valid: True, node: 49, tag: div, level: 5" node_number="49"> <div class="valid" valid="valid" title="valid: True, node: 50, tag: div, level: 6" node_number="50"> <div class="valid" valid="valid" title="valid: True, node: 51, tag: div, level: 7" node_number="51"> <h3 class="valid" valid="valid" title="valid: True, node: 52, tag: h3, level: 8" node_number="52">Development</h3> <p class="valid" valid="valid" title="valid: True, node: 53, tag: p, level: 8" node_number="53">Develop and test your application locally</p> </div> <ul class="valid" valid="valid" title="valid: True, node: 54, tag: ul, level: 7" node_number="54"> <li class="valid" valid="valid" title="valid: True, node: 55, tag: li, level: 8" node_number="55"> <a class="valid" valid="valid" title="valid: True, node: 56, tag: a, level: 9" node_number="56"> <h4 class="valid" valid="valid" title="valid: True, node: 57, tag: h4, level: 10" node_number="57">Windows / Linux / macOS / OS X VM</h4> <p class="valid" valid="valid" title="valid: True, node: 58, tag: p, level: 10" node_number="58">Run and develop using our local installers</p> </a> </li> <li class="valid" valid="valid" title="valid: True, node: 59, tag: li, level: 8" node_number="59"> <a class="valid" valid="valid" title="valid: True, node: 60, tag: a, level: 9" node_number="60"> <h4 class="valid" valid="valid" title="valid: True, node: 61, tag: h4, level: 10" node_number="61">Virtual Machines</h4> <p class="valid" valid="valid" title="valid: True, node: 62, tag: p, level: 10" node_number="62">Run any application in your local environment</p> </a> </li> <li class="valid" valid="valid" title="valid: True, node: 63, tag: li, level: 8" node_number="63"> <a class="valid" valid="valid" title="valid: True, node: 64, tag: a, level: 9" node_number="64"> <h4 class="valid" valid="valid" title="valid: True, node: 65, tag: h4, level: 10" node_number="65">Containers</h4> <p class="valid" valid="valid" title="valid: True, node: 66, tag: p, level: 10" node_number="66">Develop and port your environment easily</p> </a> </li> </ul> </div> <div class="valid" valid="valid" title="valid: True, node: 67, tag: div, level: 6" node_number="67"> <div class="valid" valid="valid" title="valid: True, node: 68, tag: div, level: 7" node_number="68"> <h3 class="valid" valid="valid" title="valid: True, node: 69, tag: h3, level: 8" node_number="69">Production</h3> <p class="valid" valid="valid" title="valid: True, node: 70, tag: p, level: 8" node_number="70">Move to production in the platform of your choice</p> </div> <ul class="valid" valid="valid" title="valid: True, node: 71, tag: ul, level: 7" node_number="71"> <li class="valid" valid="valid" title="valid: True, node: 72, tag: li, level: 8" node_number="72"> <a class="valid" valid="valid" title="valid: True, node: 73, tag: a, level: 9" node_number="73"> <h4 class="valid" valid="valid" title="valid: True, node: 74, tag: h4, level: 10" node_number="74">Google Cloud Platform</h4> </a> </li> <li class="valid" valid="valid" title="valid: True, node: 75, tag: li, level: 8" node_number="75"> <a class="valid" valid="valid" title="valid: True, node: 76, tag: a, level: 9" node_number="76"> <h4 class="valid" valid="valid" title="valid: True, node: 77, tag: h4, level: 10" node_number="77">AWS Cloud</h4> </a> </li> <li class="valid" valid="valid" title="valid: True, node: 78, tag: li, level: 8" node_number="78"> <a class="valid" valid="valid" title="valid: True, node: 79, tag: a, level: 9" node_number="79"> <h4 class="valid" valid="valid" title="valid: True, node: 80, tag: h4, level: 10" node_number="80">Microsoft Azure</h4> </a> </li> <li class="valid" valid="valid" title="valid: True, node: 81, tag: li, level: 8" node_number="81"> <a class="valid" valid="valid" title="valid: True, node: 82, tag: a, level: 9" node_number="82"> <h4 class="valid" valid="valid" title="valid: True, node: 83, tag: h4, level: 10" node_number="83">Bitnami Cloud Hosting</h4> </a> </li> <li class="valid" valid="valid" title="valid: True, node: 84, tag: li, level: 8" node_number="84"> <a class="valid" valid="valid" title="valid: True, node: 85, tag: a, level: 9" node_number="85"> <h4 class="valid" valid="valid" title="valid: True, node: 86, tag: h4, level: 10" node_number="86">IBM Cloud</h4> </a> </li> <li class="valid" valid="valid" title="valid: True, node: 87, tag: li, level: 8" node_number="87"> <a class="valid" valid="valid" title="valid: True, node: 88, tag: a, level: 9" node_number="88"> <h4 class="valid" valid="valid" title="valid: True, node: 89, tag: h4, level: 10" node_number="89">Kubernetes</h4> </a> </li> <li class="valid" valid="valid" title="valid: True, node: 90, tag: li, level: 8" node_number="90"> <a class="valid" valid="valid" title="valid: True, node: 91, tag: a, level: 9" node_number="91"> <h4 class="valid" valid="valid" title="valid: True, node: 92, tag: h4, level: 10" node_number="92">VMware Marketplace</h4> </a> </li> </ul> </div> </div> </div> </section> <div class="valid" valid="valid" title="valid: True, node: 93, tag: div, level: 3" node_number="93"> <div class="valid" valid="valid" title="valid: True, node: 94, tag: div, level: 4" node_number="94"> <section class="valid" valid="valid" title="valid: True, node: 95, tag: section, level: 5" node_number="95"> <div class="valid" valid="valid" title="valid: True, node: 96, tag: div, level: 6" node_number="96"> <h2 class="valid" valid="valid" title="valid: True, node: 97, tag: h2, level: 7" node_number="97"> Security Notices </h2> <p class="valid" valid="valid" title="valid: True, node: 98, tag: p, level: 7" node_number="98"> Security is one of Bitnami's core values. Find the latest CVE and security fixes. </p> <ul class="valid" valid="valid" title="valid: True, node: 99, tag: ul, level: 7" node_number="99"> <li class="valid" valid="valid" title="valid: True, node: 100, tag: li, level: 8" node_number="100"> <a class="valid" valid="valid" title="valid: True, node: 101, tag: a, level: 9" node_number="101">2021-12-10 CVE-2021-44228 RCE 0-day exploit found in log4j</a> </li> <li class="valid" valid="valid" title="valid: True, node: 102, tag: li, level: 8" node_number="102"> <a class="valid" valid="valid" title="valid: True, node: 103, tag: a, level: 9" node_number="103">2021-10-21 Discourse: RCE via malicious SNS subscription payload</a> </li> <li class="valid" valid="valid" title="valid: True, node: 104, tag: li, level: 8" node_number="104"> <a class="valid" valid="valid" title="valid: True, node: 105, tag: a, level: 9" node_number="105">2021-10-06 Apache Server 2.4.49 Path traversal and file disclosure vulnerability (CVE-2021-33909 and CVE-2021-42013)</a> </li> <li class="valid" valid="valid" title="valid: True, node: 106, tag: li, level: 8" node_number="106"> <a class="valid" valid="valid" title="valid: True, node: 107, tag: a, level: 9" node_number="107">2021-07-22 Sequoia (CVE-2021-33909): Linux Kernel filesystem layer Vulnerability</a> </li> </ul> <p class="valid" valid="valid" title="valid: True, node: 108, tag: p, level: 7" node_number="108"> <a class="valid" valid="valid" title="valid: True, node: 109, tag: a, level: 8" node_number="109"> Read all Security Notices </a> </p> </div> </section> <section class="valid" valid="valid" title="valid: True, node: 110, tag: section, level: 5" node_number="110"> <div class="valid" valid="valid" title="valid: True, node: 111, tag: div, level: 6" node_number="111"> <h2 class="valid" valid="valid" title="valid: True, node: 112, tag: h2, level: 7" node_number="112"> FAQs </h2> <p class="valid" valid="valid" title="valid: True, node: 113, tag: p, level: 7" node_number="113"> From the installation process to specific admin tasks. Find the most FAQ. </p> <ul class="valid" valid="valid" title="valid: True, node: 114, tag: ul, level: 7" node_number="114"> <li class="valid" valid="valid" title="valid: True, node: 115, tag: li, level: 8" node_number="115"> <a class="valid" valid="valid" title="valid: True, node: 116, tag: a, level: 9" node_number="116"> Find application credentials </a> </li> <li class="valid" valid="valid" title="valid: True, node: 117, tag: li, level: 8" node_number="117"> <a class="valid" valid="valid" title="valid: True, node: 118, tag: a, level: 9" node_number="118"> Connect to the server through SSH </a> </li> <li class="valid" valid="valid" title="valid: True, node: 119, tag: li, level: 8" node_number="119"> <a class="valid" valid="valid" title="valid: True, node: 120, tag: a, level: 9" node_number="120"> Upload files with SFTP </a> </li> <li class="valid" valid="valid" title="valid: True, node: 121, tag: li, level: 8" node_number="121"> <a class="valid" valid="valid" title="valid: True, node: 122, tag: a, level: 9" node_number="122"> Open or close server ports </a> </li> <li class="valid" valid="valid" title="valid: True, node: 123, tag: li, level: 8" node_number="123"> <a class="valid" valid="valid" title="valid: True, node: 124, tag: a, level: 9" node_number="124"> Configure third-party SMTP for outbound emails </a> </li> <li class="valid" valid="valid" title="valid: True, node: 125, tag: li, level: 8" node_number="125"> <a class="valid" valid="valid" title="valid: True, node: 126, tag: a, level: 9" node_number="126"> Block a suspicious IP address </a> </li> </ul> <p class="valid" valid="valid" title="valid: True, node: 127, tag: p, level: 7" node_number="127"> <a class="valid" valid="valid" title="valid: True, node: 128, tag: a, level: 8" node_number="128"> Read all FAQs </a> </p> </div> </section> </div> </div> <section class="valid" valid="valid" title="valid: True, node: 129, tag: section, level: 3" node_number="129"> <div class="valid" valid="valid" title="valid: True, node: 130, tag: div, level: 4" node_number="130"> <h2 class="valid" valid="valid" title="valid: True, node: 131, tag: h2, level: 5" node_number="131">Need more help?</h2> <div class="valid" valid="valid" title="valid: True, node: 132, tag: div, level: 5" node_number="132"> <div class="valid" valid="valid" title="valid: True, node: 133, tag: div, level: 6" node_number="133"> <div class="valid" valid="valid" title="valid: True, node: 134, tag: div, level: 7" node_number="134"> <h3 class="valid" valid="valid" title="valid: True, node: 135, tag: h3, level: 8" node_number="135"> <a class="valid" valid="valid" title="valid: True, node: 136, tag: a, level: 9" node_number="136"> Suggest content </a> </h3> <p class="valid" valid="valid" title="valid: True, node: 137, tag: p, level: 8" node_number="137"> Are you missing something in our documentation? Do not hesitate to suggest it! </p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 138, tag: div, level: 6" node_number="138"> <div class="valid" valid="valid" title="valid: True, node: 139, tag: div, level: 7" node_number="139"> <h3 class="valid" valid="valid" title="valid: True, node: 140, tag: h3, level: 8" node_number="140"> <a class="valid" valid="valid" title="valid: True, node: 141, tag: a, level: 9" node_number="141"> Video tutorials </a> </h3> <p class="valid" valid="valid" title="valid: True, node: 142, tag: p, level: 8" node_number="142"> Learn how to solve common issues with Bitnami video tutorials </p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 143, tag: div, level: 6" node_number="143"> <div class="valid" valid="valid" title="valid: True, node: 144, tag: div, level: 7" node_number="144"> <h3 class="valid" valid="valid" title="valid: True, node: 145, tag: h3, level: 8" node_number="145"> <a class="valid" valid="valid" title="valid: True, node: 146, tag: a, level: 9" node_number="146"> Troubleshooting </a> </h3> <p class="valid" valid="valid" title="valid: True, node: 147, tag: p, level: 8" node_number="147"> Identify your problem and find a solution for fixing it </p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 148, tag: div, level: 6" node_number="148"> <div class="valid" valid="valid" title="valid: True, node: 149, tag: div, level: 7" node_number="149"> <h3 class="valid" valid="valid" title="valid: True, node: 150, tag: h3, level: 8" node_number="150"> <a class="valid" valid="valid" title="valid: True, node: 151, tag: a, level: 9" node_number="151"> Community forums </a> </h3> <p class="valid" valid="valid" title="valid: True, node: 152, tag: p, level: 8" node_number="152"> Discuss your issues with other users and get help from the community </p> </div> </div> </div> </div> </section> </main> </body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

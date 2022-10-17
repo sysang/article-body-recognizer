@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://www.python.org/about/gettingstarted/');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8ZGl2ID4gPGRpdiA+IDxwPk5vdGljZTogV2hpbGUgSmF2YVNjcmlwdCBpcyBub3QgZXNzZW50aWFsIGZvciB0aGlzIHdlYnNpdGUsIHlvdXIgaW50ZXJhY3Rpb24gd2l0aCB0aGUgY29udGVudCB3aWxsIGJlIGxpbWl0ZWQuIFBsZWFzZSB0dXJuIEphdmFTY3JpcHQgb24gZm9yIHRoZSBmdWxsIGV4cGVyaWVuY2UuIDwvcD4gPC9kaXY+IDxkaXYgPiAgPC9kaXY+IDxoZWFkZXIgPiA8ZGl2ID4gPGRpdiA+IDxhID5Eb25hdGU8L2E+IDxkaXYgPiA8YSA+4omhIE1lbnU8L2E+PGRpdiA+IDx1bCA+IDxsaSA+IDxhID48c21hbGw+QTwvc21hbGw+IEE8L2E+IDx1bCA+IDxsaSA+U21hbGxlcjwvbGk+IDxsaSA+PGEgPkxhcmdlcjwvYT48L2xpPiA8bGkgPjxhID5SZXNldDwvYT48L2xpPiA8L3VsPiA8L2xpPiA8L3VsPiA8L2Rpdj48ZGl2ID4gPHVsID4gPGxpID4gPGEgPlNvY2lhbGl6ZTwvYT4gPHVsID4gPGxpID48YSA+RmFjZWJvb2s8L2E+PC9saT4gPGxpID48YSA+VHdpdHRlcjwvYT48L2xpPiA8bGkgPjxhID5DaGF0IG9uIElSQzwvYT48L2xpPiA8L3VsPiA8L2xpPiA8L3VsPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiAgPC9kaXY+IDwvaGVhZGVyPiA8ZGl2ID4gPGRpdiA+IDxzZWN0aW9uID4gPHVsID4gPGxpPiA8YSA+UHl0aG9uPC9hPiZndDsmZ3Q7Jmd0OyA8L2xpPiA8bGk+IDxhID5BYm91dDwvYT4mZ3Q7Jmd0OyZndDsgPC9saT4gPGxpPkdldHRpbmcgU3RhcnRlZDwvbGk+IDwvdWw+IDxhcnRpY2xlID4gPGhlYWRlciA+IDxoMSA+UHl0aG9uIEZvciBCZWdpbm5lcnM8L2gxPiA8L2hlYWRlcj4gPHA+V2VsY29tZSEgQXJlIHlvdSA8YSA+Y29tcGxldGVseSBuZXcgdG8gcHJvZ3JhbW1pbmc8L2E+PyBJZiBub3QgdGhlbiB3ZSBwcmVzdW1lIHlvdSB3aWxsIGJlIGxvb2tpbmcgZm9yIGluZm9ybWF0aW9uIGFib3V0IHdoeSBhbmQgaG93IHRvIGdldCBzdGFydGVkIHdpdGggUHl0aG9uLiBGb3J0dW5hdGVseSBhbiBleHBlcmllbmNlZCBwcm9ncmFtbWVyIGluIGFueSBwcm9ncmFtbWluZyBsYW5ndWFnZSAod2hhdGV2ZXIgaXQgbWF5IGJlKSBjYW4gcGljayB1cCBQeXRob24gdmVyeSBxdWlja2x5LiBJdCdzIGFsc28gZWFzeSBmb3IgYmVnaW5uZXJzIHRvIHVzZSBhbmQgbGVhcm4sIHNvIDxhID5qdW1wIGluPC9hPiE8L3A+IDxkaXYgPiA8aDE+SW5zdGFsbGluZzwvaDE+IDxwPkluc3RhbGxpbmcgUHl0aG9uIGlzIGdlbmVyYWxseSBlYXN5LCBhbmQgbm93YWRheXMgbWFueSBMaW51eCBhbmQgVU5JWCBkaXN0cmlidXRpb25zIGluY2x1ZGUgYSByZWNlbnQgUHl0aG9uLiBFdmVuIHNvbWUgV2luZG93cyBjb21wdXRlcnMgKG5vdGFibHkgdGhvc2UgZnJvbSBIUCkgbm93IGNvbWUgd2l0aCBQeXRob24gYWxyZWFkeSBpbnN0YWxsZWQuIElmIHlvdSBkbyBuZWVkIHRvIGluc3RhbGwgUHl0aG9uIGFuZCBhcmVuJ3QgY29uZmlkZW50IGFib3V0IHRoZSB0YXNrIHlvdSBjYW4gZmluZCBhIGZldyBub3RlcyBvbiB0aGUgPGEgPkJlZ2lubmVyc0d1aWRlL0Rvd25sb2FkPC9hPiB3aWtpIHBhZ2UsIGJ1dCBpbnN0YWxsYXRpb24gaXMgdW5yZW1hcmthYmxlIG9uIG1vc3QgcGxhdGZvcm1zLjwvcD4gPC9kaXY+IDxkaXYgPiA8aDE+TGVhcm5pbmc8L2gxPiA8cD5CZWZvcmUgZ2V0dGluZyBzdGFydGVkLCB5b3UgbWF5IHdhbnQgdG8gZmluZCBvdXQgd2hpY2ggPGEgPklERXM8L2E+IGFuZCA8YSA+dGV4dCBlZGl0b3JzPC9hPiBhcmUgdGFpbG9yZWQgdG8gbWFrZSBQeXRob24gZWRpdGluZyBlYXN5LCBicm93c2UgdGhlIGxpc3Qgb2YgPGEgPmludHJvZHVjdG9yeSBib29rczwvYT4sIG9yIGxvb2sgYXQgPGEgPmNvZGUgc2FtcGxlczwvYT4gdGhhdCB5b3UgbWlnaHQgZmluZCBoZWxwZnVsLjwvcD4gPHA+VGhlcmUgaXMgYSBsaXN0IG9mIHR1dG9yaWFscyBzdWl0YWJsZSBmb3IgZXhwZXJpZW5jZWQgcHJvZ3JhbW1lcnMgb24gdGhlIDxhID5CZWdpbm5lcnNHdWlkZS9UdXRvcmlhbHM8L2E+IHBhZ2UuIFRoZXJlIGlzIGFsc28gYSBsaXN0IG9mIDxhID5yZXNvdXJjZXMgaW4gb3RoZXIgbGFuZ3VhZ2VzPC9hPiB3aGljaCBtaWdodCBiZSB1c2VmdWwgaWYgRW5nbGlzaCBpcyBub3QgeW91ciBmaXJzdCBsYW5ndWFnZS48L3A+IDxwPlRoZSA8YSA+b25saW5lIGRvY3VtZW50YXRpb248L2E+IGlzIHlvdXIgZmlyc3QgcG9ydCBvZiBjYWxsIGZvciBkZWZpbml0aXZlIGluZm9ybWF0aW9uLiBUaGVyZSBpcyBhIGZhaXJseSBicmllZiA8YSA+dHV0b3JpYWw8L2E+IHRoYXQgZ2l2ZXMgeW91IGJhc2ljIGluZm9ybWF0aW9uIGFib3V0IHRoZSBsYW5ndWFnZSBhbmQgZ2V0cyB5b3Ugc3RhcnRlZC4gWW91IGNhbiBmb2xsb3cgdGhpcyBieSBsb29raW5nIGF0IHRoZSA8YSA+bGlicmFyeSByZWZlcmVuY2U8L2E+IGZvciBhIGZ1bGwgZGVzY3JpcHRpb24gb2YgUHl0aG9uJ3MgbWFueSBsaWJyYXJpZXMgYW5kIHRoZSA8YSA+bGFuZ3VhZ2UgcmVmZXJlbmNlPC9hPiBmb3IgYSBjb21wbGV0ZSAodGhvdWdoIHNvbWV3aGF0IGRyeSkgZXhwbGFuYXRpb24gb2YgUHl0aG9uJ3Mgc3ludGF4LiBJZiB5b3UgYXJlIGxvb2tpbmcgZm9yIGNvbW1vbiBQeXRob24gcmVjaXBlcyBhbmQgcGF0dGVybnMsIHlvdSBjYW4gYnJvd3NlIHRoZSA8YSA+QWN0aXZlU3RhdGUgUHl0aG9uIENvb2tib29rPC9hPjwvcD4gPC9kaXY+IDxkaXYgPiA8aDE+TG9va2luZyBmb3IgU29tZXRoaW5nIFNwZWNpZmljPzwvaDE+IDxwPklmIHlvdSB3YW50IHRvIGtub3cgd2hldGhlciBhIHBhcnRpY3VsYXIgYXBwbGljYXRpb24sIG9yIGEgbGlicmFyeSB3aXRoIHBhcnRpY3VsYXIgZnVuY3Rpb25hbGl0eSwgaXMgYXZhaWxhYmxlIGluIFB5dGhvbiB0aGVyZSBhcmUgYSBudW1iZXIgb2YgcG9zc2libGUgc291cmNlcyBvZiBpbmZvcm1hdGlvbi4gVGhlIFB5dGhvbiB3ZWIgc2l0ZSBwcm92aWRlcyBhIDxhID5QeXRob24gUGFja2FnZSBJbmRleDwvYT4gKGFsc28ga25vd24gYXMgdGhlIENoZWVzZSBTaG9wLCBhIHJlZmVyZW5jZSB0byB0aGUgTW9udHkgUHl0aG9uIHNjcmlwdCBvZiB0aGF0IG5hbWUpLiBUaGVyZSBpcyBhbHNvIGEgPGEgPnNlYXJjaCBwYWdlPC9hPiBmb3IgYSBudW1iZXIgb2Ygc291cmNlcyBvZiBQeXRob24tcmVsYXRlZCBpbmZvcm1hdGlvbi4gRmFpbGluZyB0aGF0LCBqdXN0IDxhID5Hb29nbGU8L2E+IGZvciBhIHBocmFzZSBpbmNsdWRpbmcgdGhlIHdvcmQgJydweXRob24nJyBhbmQgeW91IG1heSB3ZWxsIGdldCB0aGUgcmVzdWx0IHlvdSBuZWVkLiBJZiBhbGwgZWxzZSBmYWlscywgYXNrIG9uIHRoZSA8YSA+cHl0aG9uIG5ld3Nncm91cDwvYT4gYW5kIHRoZXJlJ3MgYSBnb29kIGNoYW5jZSBzb21lb25lIHdpbGwgcHV0IHlvdSBvbiB0aGUgcmlnaHQgdHJhY2suPC9wPiA8L2Rpdj4gPGRpdiA+IDxoMT5GcmVxdWVudGx5IEFza2VkIFF1ZXN0aW9uczwvaDE+IDxwPklmIHlvdSBoYXZlIGEgcXVlc3Rpb24sIGl0J3MgYSBnb29kIGlkZWEgdG8gdHJ5IHRoZSA8YSA+RkFRPC9hPiwgd2hpY2ggYW5zd2VycyB0aGUgbW9zdCBjb21tb25seSBhc2tlZCBxdWVzdGlvbnMgYWJvdXQgUHl0aG9uLjwvcD4gPC9kaXY+IDxkaXYgPiA8aDE+TG9va2luZyB0byBIZWxwPzwvaDE+IDxwPklmIHlvdSB3YW50IHRvIGhlbHAgdG8gZGV2ZWxvcCBQeXRob24sIHRha2UgYSBsb29rIGF0IHRoZSA8YSA+ZGV2ZWxvcGVyIGFyZWE8L2E+IGZvciBmdXJ0aGVyIGluZm9ybWF0aW9uLiBQbGVhc2Ugbm90ZSB0aGF0IHlvdSBkb24ndCBoYXZlIHRvIGJlIGFuIGV4cGVydCBwcm9ncmFtbWVyIHRvIGhlbHAuIFRoZSBkb2N1bWVudGF0aW9uIGlzIGp1c3QgYXMgaW1wb3J0YW50IGFzIHRoZSBjb21waWxlciwgYW5kIHN0aWxsIG5lZWRzIHBsZW50eSBvZiB3b3JrITwvcD4gPC9kaXY+IDwvYXJ0aWNsZT4gPC9zZWN0aW9uPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2JvZHk+'</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, level: 1" node_number="1"> <div class="valid" valid="valid" title="valid: True, node: 2, level: 2" node_number="2"> <div class="valid" valid="valid" title="valid: True, node: 3, level: 3" node_number="3"> <p class="valid" valid="valid" title="valid: True, node: 4, level: 4" node_number="4">Notice: While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience. </p> </div> <div class="valid" valid="valid" title="valid: True, node: 5, level: 3" node_number="5">  </div> <header class="valid" valid="valid" title="valid: True, node: 6, level: 3" node_number="6"> <div class="valid" valid="valid" title="valid: True, node: 7, level: 4" node_number="7"> <div class="valid" valid="valid" title="valid: True, node: 8, level: 5" node_number="8"> <a class="valid" valid="valid" title="valid: True, node: 9, level: 6" node_number="9">Donate</a> <div class="valid" valid="valid" title="valid: True, node: 10, level: 6" node_number="10"> <a class="valid" valid="valid" title="valid: True, node: 11, level: 7" node_number="11">&#8801; Menu</a><div class="valid" valid="valid" title="valid: True, node: 12, level: 7" node_number="12"> <ul class="valid" valid="valid" title="valid: True, node: 13, level: 8" node_number="13"> <li class="valid" valid="valid" title="valid: True, node: 14, level: 9" node_number="14"> <a class="valid" valid="valid" title="valid: True, node: 15, level: 10" node_number="15"><small class="valid" valid="valid" title="valid: True, node: 16, level: 11" node_number="16">A</small> A</a> <ul class="valid" valid="valid" title="valid: True, node: 17, level: 10" node_number="17"> <li class="valid" valid="valid" title="valid: True, node: 18, level: 11" node_number="18">Smaller</li> <li class="valid" valid="valid" title="valid: True, node: 19, level: 11" node_number="19"><a class="valid" valid="valid" title="valid: True, node: 20, level: 12" node_number="20">Larger</a></li> <li class="valid" valid="valid" title="valid: True, node: 21, level: 11" node_number="21"><a class="valid" valid="valid" title="valid: True, node: 22, level: 12" node_number="22">Reset</a></li> </ul> </li> </ul> </div><div class="valid" valid="valid" title="valid: True, node: 23, level: 7" node_number="23"> <ul class="valid" valid="valid" title="valid: True, node: 24, level: 8" node_number="24"> <li class="valid" valid="valid" title="valid: True, node: 25, level: 9" node_number="25"> <a class="valid" valid="valid" title="valid: True, node: 26, level: 10" node_number="26">Socialize</a> <ul class="valid" valid="valid" title="valid: True, node: 27, level: 10" node_number="27"> <li class="valid" valid="valid" title="valid: True, node: 28, level: 11" node_number="28"><a class="valid" valid="valid" title="valid: True, node: 29, level: 12" node_number="29">Facebook</a></li> <li class="valid" valid="valid" title="valid: True, node: 30, level: 11" node_number="30"><a class="valid" valid="valid" title="valid: True, node: 31, level: 12" node_number="31">Twitter</a></li> <li class="valid" valid="valid" title="valid: True, node: 32, level: 11" node_number="32"><a class="valid" valid="valid" title="valid: True, node: 33, level: 12" node_number="33">Chat on IRC</a></li> </ul> </li> </ul> </div> </div> </div>  </div> </header> <div class="valid" valid="valid" title="valid: True, node: 34, level: 3" node_number="34"> <div class="valid" valid="valid" title="valid: True, node: 35, level: 4" node_number="35"> <section class="valid" valid="valid" title="valid: True, node: 36, level: 5" node_number="36"> <ul class="valid" valid="valid" title="valid: True, node: 37, level: 6" node_number="37"> <li class="valid" valid="valid" title="valid: True, node: 38, level: 7" node_number="38"> <a class="valid" valid="valid" title="valid: True, node: 39, level: 8" node_number="39">Python</a>&gt;&gt;&gt; </li> <li class="valid" valid="valid" title="valid: True, node: 40, level: 7" node_number="40"> <a class="valid" valid="valid" title="valid: True, node: 41, level: 8" node_number="41">About</a>&gt;&gt;&gt; </li> <li class="valid" valid="valid" title="valid: True, node: 42, level: 7" node_number="42">Getting Started</li> </ul> <article class="valid" valid="valid" title="valid: True, node: 43, level: 6" node_number="43"> <header class="valid" valid="valid" title="valid: True, node: 44, level: 7" node_number="44"> <h1 class="valid" valid="valid" title="valid: True, node: 45, level: 8" node_number="45">Python For Beginners</h1> </header> <p class="valid" valid="valid" title="valid: True, node: 46, level: 7" node_number="46">Welcome! Are you <a class="valid" valid="valid" title="valid: True, node: 47, level: 8" node_number="47">completely new to programming</a>? If not then we presume you will be looking for information about why and how to get started with Python. Fortunately an experienced programmer in any programming language (whatever it may be) can pick up Python very quickly. It's also easy for beginners to use and learn, so <a class="valid" valid="valid" title="valid: True, node: 48, level: 8" node_number="48">jump in</a>!</p> <div class="valid" valid="valid" title="valid: True, node: 49, level: 7" node_number="49"> <h1 class="valid" valid="valid" title="valid: True, node: 50, level: 8" node_number="50">Installing</h1> <p class="valid" valid="valid" title="valid: True, node: 51, level: 8" node_number="51">Installing Python is generally easy, and nowadays many Linux and UNIX distributions include a recent Python. Even some Windows computers (notably those from HP) now come with Python already installed. If you do need to install Python and aren't confident about the task you can find a few notes on the <a class="valid" valid="valid" title="valid: True, node: 52, level: 9" node_number="52">BeginnersGuide/Download</a> wiki page, but installation is unremarkable on most platforms.</p> </div> <div class="valid" valid="valid" title="valid: True, node: 53, level: 7" node_number="53"> <h1 class="valid" valid="valid" title="valid: True, node: 54, level: 8" node_number="54">Learning</h1> <p class="valid" valid="valid" title="valid: True, node: 55, level: 8" node_number="55">Before getting started, you may want to find out which <a class="valid" valid="valid" title="valid: True, node: 56, level: 9" node_number="56">IDEs</a> and <a class="valid" valid="valid" title="valid: True, node: 57, level: 9" node_number="57">text editors</a> are tailored to make Python editing easy, browse the list of <a class="valid" valid="valid" title="valid: True, node: 58, level: 9" node_number="58">introductory books</a>, or look at <a class="valid" valid="valid" title="valid: True, node: 59, level: 9" node_number="59">code samples</a> that you might find helpful.</p> <p class="valid" valid="valid" title="valid: True, node: 60, level: 8" node_number="60">There is a list of tutorials suitable for experienced programmers on the <a class="valid" valid="valid" title="valid: True, node: 61, level: 9" node_number="61">BeginnersGuide/Tutorials</a> page. There is also a list of <a class="valid" valid="valid" title="valid: True, node: 62, level: 9" node_number="62">resources in other languages</a> which might be useful if English is not your first language.</p> <p class="valid" valid="valid" title="valid: True, node: 63, level: 8" node_number="63">The <a class="valid" valid="valid" title="valid: True, node: 64, level: 9" node_number="64">online documentation</a> is your first port of call for definitive information. There is a fairly brief <a class="valid" valid="valid" title="valid: True, node: 65, level: 9" node_number="65">tutorial</a> that gives you basic information about the language and gets you started. You can follow this by looking at the <a class="valid" valid="valid" title="valid: True, node: 66, level: 9" node_number="66">library reference</a> for a full description of Python's many libraries and the <a class="valid" valid="valid" title="valid: True, node: 67, level: 9" node_number="67">language reference</a> for a complete (though somewhat dry) explanation of Python's syntax. If you are looking for common Python recipes and patterns, you can browse the <a class="valid" valid="valid" title="valid: True, node: 68, level: 9" node_number="68">ActiveState Python Cookbook</a></p> </div> <div class="valid" valid="valid" title="valid: True, node: 69, level: 7" node_number="69"> <h1 class="valid" valid="valid" title="valid: True, node: 70, level: 8" node_number="70">Looking for Something Specific?</h1> <p class="valid" valid="valid" title="valid: True, node: 71, level: 8" node_number="71">If you want to know whether a particular application, or a library with particular functionality, is available in Python there are a number of possible sources of information. The Python web site provides a <a class="valid" valid="valid" title="valid: True, node: 72, level: 9" node_number="72">Python Package Index</a> (also known as the Cheese Shop, a reference to the Monty Python script of that name). There is also a <a class="valid" valid="valid" title="valid: True, node: 73, level: 9" node_number="73">search page</a> for a number of sources of Python-related information. Failing that, just <a class="valid" valid="valid" title="valid: True, node: 74, level: 9" node_number="74">Google</a> for a phrase including the word ''python'' and you may well get the result you need. If all else fails, ask on the <a class="valid" valid="valid" title="valid: True, node: 75, level: 9" node_number="75">python newsgroup</a> and there's a good chance someone will put you on the right track.</p> </div> <div class="valid" valid="valid" title="valid: True, node: 76, level: 7" node_number="76"> <h1 class="valid" valid="valid" title="valid: True, node: 77, level: 8" node_number="77">Frequently Asked Questions</h1> <p class="valid" valid="valid" title="valid: True, node: 78, level: 8" node_number="78">If you have a question, it's a good idea to try the <a class="valid" valid="valid" title="valid: True, node: 79, level: 9" node_number="79">FAQ</a>, which answers the most commonly asked questions about Python.</p> </div> <div class="valid" valid="valid" title="valid: True, node: 80, level: 7" node_number="80"> <h1 class="valid" valid="valid" title="valid: True, node: 81, level: 8" node_number="81">Looking to Help?</h1> <p class="valid" valid="valid" title="valid: True, node: 82, level: 8" node_number="82">If you want to help to develop Python, take a look at the <a class="valid" valid="valid" title="valid: True, node: 83, level: 9" node_number="83">developer area</a> for further information. Please note that you don't have to be an expert programmer to help. The documentation is just as important as the compiler, and still needs plenty of work!</p> </div> </article> </section> </div> </div> </div> </body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

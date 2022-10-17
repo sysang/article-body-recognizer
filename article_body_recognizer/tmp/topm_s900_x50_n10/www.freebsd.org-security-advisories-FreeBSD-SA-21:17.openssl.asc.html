@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://www.freebsd.org/security/advisories/FreeBSD-SA-21:17.openssl.asc');</script>
+
+        <script> var body_html = 'PGJvZHk+PHA+LS0tLS1CRUdJTiBQR1AgU0lHTkVEIE1FU1NBR0UtLS0tLSBIYXNoOiBTSEE1MTIgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gRnJlZUJTRC1TQS0yMToxNy5vcGVuc3NsIFNlY3VyaXR5IEFkdmlzb3J5IFRoZSBGcmVlQlNEIFByb2plY3QgVG9waWM6IE11bHRpcGxlIHZ1bG5lcmFiaWxpdGllcyBpbiBPcGVuU1NMIENhdGVnb3J5OiBjb250cmliIE1vZHVsZTogb3BlbnNzbCBBbm5vdW5jZWQ6IDIwMjEtMDgtMjQgQWZmZWN0czogRnJlZUJTRCAxMi4yIGFuZCBGcmVlQlNEIDExLjQgQ29ycmVjdGVkOiAyMDIxLTAyLTE4IDIzOjU1OjA5IFVUQyAoc3RhYmxlLzEyLCAxMi4yLVNUQUJMRSkgMjAyMS0wOC0yNCAxODozMjoyMiBVVEMgKHJlbGVuZy8xMi4yLCAxMi4yLVJFTEVBU0UtcDEwKSAyMDIxLTAyLTE5IDE2OjIxOjAzIFVUQyAoc3RhYmxlLzExLCAxMS40LVNUQUJMRSkgMjAyMS0wOC0yNCAxODozMTozNCBVVEMgKHJlbGVuZy8xMS40LCAxMS40LVJFTEVBU0UtcDEzKSBDVkUgTmFtZTogQ1ZFLTIwMjEtMjM4NDAsIENWRS0yMDIxLTIzODQxIEZvciBnZW5lcmFsIGluZm9ybWF0aW9uIHJlZ2FyZGluZyBGcmVlQlNEIFNlY3VyaXR5IEFkdmlzb3JpZXMsIGluY2x1ZGluZyBkZXNjcmlwdGlvbnMgb2YgdGhlIGZpZWxkcyBhYm92ZSwgc2VjdXJpdHkgYnJhbmNoZXMsIGFuZCB0aGUgZm9sbG93aW5nIHNlY3Rpb25zLCBwbGVhc2UgdmlzaXQgPGh0dHBzOj48L2h0dHBzOj4uIEkuIEJhY2tncm91bmQgRnJlZUJTRCBpbmNsdWRlcyBzb2Z0d2FyZSBmcm9tIHRoZSBPcGVuU1NMIFByb2plY3QuIFRoZSBPcGVuU1NMIFByb2plY3QgaXMgYSBjb2xsYWJvcmF0aXZlIGVmZm9ydCB0byBkZXZlbG9wIGEgcm9idXN0LCBjb21tZXJjaWFsLWdyYWRlLCBmdWxsLWZlYXR1cmVkIE9wZW4gU291cmNlIHRvb2xraXQgZm9yIHRoZSBUcmFuc3BvcnQgTGF5ZXIgU2VjdXJpdHkgKFRMUykgcHJvdG9jb2wuIEl0IGlzIGFsc28gYSBnZW5lcmFsLXB1cnBvc2UgY3J5cHRvZ3JhcGh5IGxpYnJhcnkuIElJLiBQcm9ibGVtIERlc2NyaXB0aW9uIFRoaXMgYWR2aXNvcnkgY292ZXJzIHR3byBkaXN0aW5jdCBPcGVuU1NMIGlzc3VlczogQ2FsbHMgdG8gRVZQX0NpcGhlclVwZGF0ZSgpLCBFVlBfRW5jcnlwdFVwZGF0ZSgpIGFuZCBFVlBfRGVjcnlwdFVwZGF0ZSgpIG1heSBvdmVyZmxvdyB0aGUgb3V0cHV0IGxlbmd0aCBhcmd1bWVudCBpbiBzb21lIGNhc2VzIHdoZXJlIHRoZSBpbnB1dCBsZW5ndGggaXMgY2xvc2UgdG8gdGhlIG1heGltdW0gcGVybWlzc2FibGUgbGVuZ3RoIGZvciBhbiBpbnRlZ2VyIG9uIHRoZSBwbGF0Zm9ybS4gSW4gc3VjaCBjYXNlcyB0aGUgcmV0dXJuIHZhbHVlIGZyb20gdGhlIGZ1bmN0aW9uIGNhbGwgd2lsbCBiZSAxIChpbmRpY2F0aW5nIHN1Y2Nlc3MpLCBidXQgdGhlIG91dHB1dCBsZW5ndGggdmFsdWUgd2lsbCBiZSBuZWdhdGl2ZS4gW0NWRS0yMDIxLTIzODQwXSBUaGUgT3BlblNTTCBwdWJsaWMgQVBJIGZ1bmN0aW9uIFg1MDlfaXNzdWVyX2FuZF9zZXJpYWxfaGFzaCgpIGF0dGVtcHRzIHRvIGNyZWF0ZSBhIHVuaXF1ZSBoYXNoIHZhbHVlIGJhc2VkIG9uIHRoZSBpc3N1ZXIgYW5kIHNlcmlhbCBudW1iZXIgZGF0YSBjb250YWluZWQgd2l0aGluIGFuIFg1MDkgY2VydGlmaWNhdGUuIEhvd2V2ZXIgaXQgZmFpbHMgdG8gY29ycmVjdGx5IGhhbmRsZSBhbnkgZXJyb3JzIHRoYXQgbWF5IG9jY3VyIHdoaWxlIHBhcnNpbmcgdGhlIGlzc3VlciBmaWVsZCAod2hpY2ggbWlnaHQgb2NjdXIgaWYgdGhlIGlzc3VlciBmaWVsZCBpcyBtYWxpY2lvdXNseSBjb25zdHJ1Y3RlZCkuIFtDVkUtMjAyMS0yMzg0MV0gSUlJLiBJbXBhY3QgVGhlIGludGVnZXIgb3ZlcmZsb3cgaW4gRVZQXypVcGRhdGUoKSBjb3VsZCBjYXVzZSBhcHBsaWNhdGlvbnMgdG8gYmVoYXZlIGluY29ycmVjdGx5IG9yIGNyYXNoIGxlYWRpbmcgdG8gYSBwb3RlbnRpYWwgZGVuaWFsIG9mIHNlcnZpY2UgYXR0YWNrLiBUaGUgWDUwOV9pc3N1ZXJfYW5kX3NlcmlhbF9oYXNoKCkgaXNzdWUgbWF5IHJlc3VsdCBpbiBhIE5VTEwgcG9pbnRlciBkZXJlZmVyZW5jZSBhbmQgYSBjcmFzaCBsZWFkaW5nIHRvIGEgcG90ZW50aWFsIGRlbmlhbCBvZiBzZXJ2aWNlIGF0dGFjay4gSVYuIFdvcmthcm91bmQgTm8gd29ya2Fyb3VuZCBpcyBhdmFpbGFibGUuIFRoZSBmdW5jdGlvbiBYNTA5X2lzc3Vlcl9hbmRfc2VyaWFsX2hhc2goKSBpcyBuZXZlciBkaXJlY3RseSBjYWxsZWQgYnkgT3BlblNTTCBpdHNlbGYgc28gYXBwbGljYXRpb25zIGFyZSBvbmx5IHZ1bG5lcmFibGUgaWYgdGhleSB1c2UgdGhpcyBmdW5jdGlvbiBkaXJlY3RseSBhbmQgdGhleSB1c2UgaXQgb24gY2VydGlmaWNhdGVzIHRoYXQgbWF5IGhhdmUgYmVlbiBvYnRhaW5lZCBmcm9tIHVudHJ1c3RlZCBzb3VyY2VzLiBWLiBTb2x1dGlvbiBVcGdyYWRlIHlvdXIgdnVsbmVyYWJsZSBzeXN0ZW0gdG8gYSBzdXBwb3J0ZWQgRnJlZUJTRCBzdGFibGUgb3IgcmVsZWFzZSAvIHNlY3VyaXR5IGJyYW5jaCAocmVsZW5nKSBkYXRlZCBhZnRlciB0aGUgY29ycmVjdGlvbiBkYXRlLiBQZXJmb3JtIG9uZSBvZiB0aGUgZm9sbG93aW5nOiAxKSBUbyB1cGRhdGUgeW91ciB2dWxuZXJhYmxlIHN5c3RlbSB2aWEgYSBiaW5hcnkgcGF0Y2g6IFN5c3RlbXMgcnVubmluZyBhIFJFTEVBU0UgdmVyc2lvbiBvZiBGcmVlQlNEIG9uIHRoZSBhbWQ2NCwgaTM4Niwgb3IgKG9uIEZyZWVCU0QgMTMgYW5kIGxhdGVyKSBhcm02NCBwbGF0Zm9ybXMgY2FuIGJlIHVwZGF0ZWQgdmlhIHRoZSBmcmVlYnNkLXVwZGF0ZSg4KSB1dGlsaXR5OiAjIGZyZWVic2QtdXBkYXRlIGZldGNoICMgZnJlZWJzZC11cGRhdGUgaW5zdGFsbCAyKSBUbyB1cGRhdGUgeW91ciB2dWxuZXJhYmxlIHN5c3RlbSB2aWEgYSBzb3VyY2UgY29kZSBwYXRjaDogVGhlIGZvbGxvd2luZyBwYXRjaGVzIGhhdmUgYmVlbiB2ZXJpZmllZCB0byBhcHBseSB0byB0aGUgYXBwbGljYWJsZSBGcmVlQlNEIHJlbGVhc2UgYnJhbmNoZXMuIGEpIERvd25sb2FkIHRoZSByZWxldmFudCBwYXRjaCBmcm9tIHRoZSBsb2NhdGlvbiBiZWxvdywgYW5kIHZlcmlmeSB0aGUgZGV0YWNoZWQgUEdQIHNpZ25hdHVyZSB1c2luZyB5b3VyIFBHUCB1dGlsaXR5LiBbRnJlZUJTRCAxMi4yXSAjIGZldGNoIGh0dHBzOi8vc2VjdXJpdHkuRnJlZUJTRC5vcmcvcGF0Y2hlcy9TQS0yMToxNy9vcGVuc3NsLjEyLnBhdGNoICMgZmV0Y2ggaHR0cHM6Ly9zZWN1cml0eS5GcmVlQlNELm9yZy9wYXRjaGVzL1NBLTIxOjE3L29wZW5zc2wuMTIucGF0Y2guYXNjICMgZ3BnIC0tdmVyaWZ5IG9wZW5zc2wuMTIucGF0Y2guYXNjIFtGcmVlQlNEIDExLjRdICMgZmV0Y2ggaHR0cHM6Ly9zZWN1cml0eS5GcmVlQlNELm9yZy9wYXRjaGVzL1NBLTIxOjE3L29wZW5zc2wuMTEucGF0Y2ggIyBmZXRjaCBodHRwczovL3NlY3VyaXR5LkZyZWVCU0Qub3JnL3BhdGNoZXMvU0EtMjE6MTcvb3BlbnNzbC4xMS5wYXRjaC5hc2MgIyBncGcgLS12ZXJpZnkgb3BlbnNzbC4xMS5wYXRjaC5hc2MgYikgQXBwbHkgdGhlIHBhdGNoLiBFeGVjdXRlIHRoZSBmb2xsb3dpbmcgY29tbWFuZHMgYXMgcm9vdDogIyBjZCAvdXNyL3NyYyAjIHBhdGNoICZsdDsgL3BhdGgvdG8vcGF0Y2ggYykgUmVjb21waWxlIHRoZSBvcGVyYXRpbmcgc3lzdGVtIHVzaW5nIGJ1aWxkd29ybGQgYW5kIGluc3RhbGx3b3JsZCBhcyBkZXNjcmliZWQgaW4gPGh0dHBzOj4uIFJlc3RhcnQgYWxsIGRhZW1vbnMgdGhhdCB1c2UgdGhlIGxpYnJhcnksIG9yIHJlYm9vdCB0aGUgc3lzdGVtLiBWSS4gQ29ycmVjdGlvbiBkZXRhaWxzIFRoaXMgaXNzdWUgaXMgY29ycmVjdGVkIGJ5IHRoZSBjb3JyZXNwb25kaW5nIEdpdCBjb21taXQgaGFzaCBvciBTdWJ2ZXJzaW9uIHJldmlzaW9uIG51bWJlciBpbiB0aGUgZm9sbG93aW5nIHN0YWJsZSBhbmQgcmVsZWFzZSBicmFuY2hlczogQnJhbmNoL3BhdGggSGFzaCBSZXZpc2lvbiAtIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gc3RhYmxlLzEyLyByMzY5Mjg0IHJlbGVuZy8xMi4yLyByMzcwMzk3IHN0YWJsZS8xMS8gcjM2OTI5OSByZWxlbmcvMTEuNC8gcjM3MDM4OSAtIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gUnVuIHRoZSBmb2xsb3dpbmcgY29tbWFuZCB0byBzZWUgd2hpY2ggZmlsZXMgd2VyZSBtb2RpZmllZCBieSBhIHBhcnRpY3VsYXIgcmV2aXNpb24sIHJlcGxhY2luZyBOTk5OTk4gd2l0aCB0aGUgcmV2aXNpb24gbnVtYmVyOiAjIHN2biBkaWZmIC1jTk5OTk5OIC0tc3VtbWFyaXplIHN2bjovL3N2bi5mcmVlYnNkLm9yZy9iYXNlIE9yIHZpc2l0IHRoZSBmb2xsb3dpbmcgVVJMLCByZXBsYWNpbmcgTk5OTk5OIHdpdGggdGhlIHJldmlzaW9uIG51bWJlcjogPGh0dHBzOj4gVklJLiBSZWZlcmVuY2VzIDxodHRwczo+IDxodHRwczo+IDxodHRwczo+IFRoZSBsYXRlc3QgcmV2aXNpb24gb2YgdGhpcyBhZHZpc29yeSBpcyBhdmFpbGFibGUgYXQgPGh0dHBzOj4gLS0tLS1CRUdJTiBQR1AgU0lHTkFUVVJFLS0tLS0gaVFJekJBRUJDZ0FkRmlFRS9BNkhpdVd2NTRnQ2pXTlYwNWVTOUo2bjVjSUZBbUVsVjE4QUNna1EwNWVTOUo2biA1Y0luZ0EvOUhuY3M5MWNOSFNWVHV2TnZyQVRtcHhwbkN5aXBoaXZSMjk3b2lES1JDT29IeEE3VzhBQWlnU1FIIGdOTThYR1o4YUFObW9HZmg3TTg2VjVEdmxxMHFlUm4wUGU4Y0V1czUzT3VtRXFwYlNrTXU5N2Z0djdnRmtNL1MgK3VFRW9OQStwSy9scnVwUVE3Z0FId1diemFOdW1Kd0dYcEgvRkxoODY1VGpuZ3ZJMmhGVzQxVGZNeEhRdnltZiB0QUl6UmRnL1FZQVNuWFRYQm41NmFkMGkzNHYrL1o0Q3o2WEZKNGJCa3FQSnBpQ3Z6SlBXQjM3Q1N4dzFENllNIDR3NXlCaHU3ZGIxVkpLTFA4OS9ZblJuc0I0cnlPRTVjQ0d0ZzA4NnBhMkRkYWNCNjNYVEVnYy9tOTBVdGZIWWwgRGs2TFZyNzlTcUZQRFJ1a05DVEJvemN3a0hyOGFLU2cxZVI0bzJ2VjN5ZnE1T1VoSG1DQTlGWHN0eXhYUFllKyBEanRTRzhYOW0vWEtpejRFb2syRUl2M1B3QlQyOU0zbFZuS0cyMGt2cHhvZ3VPVVRnNFZMdHl5RElaeEttTnBZIFhDM09BbVVWaURTOWlFQTh1cUtqVUV0NVlFc052czZxSUthc1pIZHpuU1QwNG51RWltSWlNVU9ENTdvZHdMN00gckFlSnU0R0JQSEpxTlFzZkZQUmRkanJWaW1uVXRHSEZEVzVyNEp0cVBQNXNaWkNJQnBsV3VNemF5ODc1RVlDTCBhbVlHdWV3WmhzYWNVU2dVa3RzRlByTTl6OHJkMjRrODZJUG4zUEVJd3NWYnViRER6NDBRMS92MU1jZ3F1WjBuIGJvVW5oWVNSRzVxVmdPSXRzaWthaGsxT3BRTVFoc1hEUm82Um90R2RsOTBwcWRuZ05qUT0gPVQzLysgLS0tLS1FTkQgUEdQIFNJR05BVFVSRS0tLS0tPC9odHRwczo+PC9odHRwczo+PC9odHRwczo+PC9odHRwczo+PC9odHRwczo+PC9odHRwczo+PC9wPjwvYm9keT4='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, tag: body, level: 1" node_number="1"><p class="valid" valid="valid" title="valid: True, node: 2, tag: p, level: 2" node_number="2">-----BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 ============================================================================= FreeBSD-SA-21:17.openssl Security Advisory The FreeBSD Project Topic: Multiple vulnerabilities in OpenSSL Category: contrib Module: openssl Announced: 2021-08-24 Affects: FreeBSD 12.2 and FreeBSD 11.4 Corrected: 2021-02-18 23:55:09 UTC (stable/12, 12.2-STABLE) 2021-08-24 18:32:22 UTC (releng/12.2, 12.2-RELEASE-p10) 2021-02-19 16:21:03 UTC (stable/11, 11.4-STABLE) 2021-08-24 18:31:34 UTC (releng/11.4, 11.4-RELEASE-p13) CVE Name: CVE-2021-23840, CVE-2021-23841 For general information regarding FreeBSD Security Advisories, including descriptions of the fields above, security branches, and the following sections, please visit <https: class="valid" valid="valid" title="valid: True, node: 3, tag: https:, level: 3" node_number="3"/>. I. Background FreeBSD includes software from the OpenSSL Project. The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured Open Source toolkit for the Transport Layer Security (TLS) protocol. It is also a general-purpose cryptography library. II. Problem Description This advisory covers two distinct OpenSSL issues: Calls to EVP_CipherUpdate(), EVP_EncryptUpdate() and EVP_DecryptUpdate() may overflow the output length argument in some cases where the input length is close to the maximum permissable length for an integer on the platform. In such cases the return value from the function call will be 1 (indicating success), but the output length value will be negative. [CVE-2021-23840] The OpenSSL public API function X509_issuer_and_serial_hash() attempts to create a unique hash value based on the issuer and serial number data contained within an X509 certificate. However it fails to correctly handle any errors that may occur while parsing the issuer field (which might occur if the issuer field is maliciously constructed). [CVE-2021-23841] III. Impact The integer overflow in EVP_*Update() could cause applications to behave incorrectly or crash leading to a potential denial of service attack. The X509_issuer_and_serial_hash() issue may result in a NULL pointer dereference and a crash leading to a potential denial of service attack. IV. Workaround No workaround is available. The function X509_issuer_and_serial_hash() is never directly called by OpenSSL itself so applications are only vulnerable if they use this function directly and they use it on certificates that may have been obtained from untrusted sources. V. Solution Upgrade your vulnerable system to a supported FreeBSD stable or release / security branch (releng) dated after the correction date. Perform one of the following: 1) To update your vulnerable system via a binary patch: Systems running a RELEASE version of FreeBSD on the amd64, i386, or (on FreeBSD 13 and later) arm64 platforms can be updated via the freebsd-update(8) utility: # freebsd-update fetch # freebsd-update install 2) To update your vulnerable system via a source code patch: The following patches have been verified to apply to the applicable FreeBSD release branches. a) Download the relevant patch from the location below, and verify the detached PGP signature using your PGP utility. [FreeBSD 12.2] # fetch https://security.FreeBSD.org/patches/SA-21:17/openssl.12.patch # fetch https://security.FreeBSD.org/patches/SA-21:17/openssl.12.patch.asc # gpg --verify openssl.12.patch.asc [FreeBSD 11.4] # fetch https://security.FreeBSD.org/patches/SA-21:17/openssl.11.patch # fetch https://security.FreeBSD.org/patches/SA-21:17/openssl.11.patch.asc # gpg --verify openssl.11.patch.asc b) Apply the patch. Execute the following commands as root: # cd /usr/src # patch &lt; /path/to/patch c) Recompile the operating system using buildworld and installworld as described in <https: class="valid" valid="valid" title="valid: True, node: 4, tag: https:, level: 3" node_number="4">. Restart all daemons that use the library, or reboot the system. VI. Correction details This issue is corrected by the corresponding Git commit hash or Subversion revision number in the following stable and release branches: Branch/path Hash Revision - ------------------------------------------------------------------------- stable/12/ r369284 releng/12.2/ r370397 stable/11/ r369299 releng/11.4/ r370389 - ------------------------------------------------------------------------- Run the following command to see which files were modified by a particular revision, replacing NNNNNN with the revision number: # svn diff -cNNNNNN --summarize svn://svn.freebsd.org/base Or visit the following URL, replacing NNNNNN with the revision number: <https: class="valid" valid="valid" title="valid: True, node: 5, tag: https:, level: 4" node_number="5"> VII. References <https: class="valid" valid="valid" title="valid: True, node: 6, tag: https:, level: 5" node_number="6"> <https: class="valid" valid="valid" title="valid: True, node: 7, tag: https:, level: 6" node_number="7"> <https: class="valid" valid="valid" title="valid: True, node: 8, tag: https:, level: 7" node_number="8"> The latest revision of this advisory is available at <https: class="valid" valid="valid" title="valid: True, node: 9, tag: https:, level: 8" node_number="9"> -----BEGIN PGP SIGNATURE----- iQIzBAEBCgAdFiEE/A6HiuWv54gCjWNV05eS9J6n5cIFAmElV18ACgkQ05eS9J6n 5cIngA/9Hncs91cNHSVTuvNvrATmpxpnCyiphivR297oiDKRCOoHxA7W8AAigSQH gNM8XGZ8aANmoGfh7M86V5Dvlq0qeRn0Pe8cEus53OumEqpbSkMu97ftv7gFkM/S +uEEoNA+pK/lrupQQ7gAHwWbzaNumJwGXpH/FLh865TjngvI2hFW41TfMxHQvymf tAIzRdg/QYASnXTXBn56ad0i34v+/Z4Cz6XFJ4bBkqPJpiCvzJPWB37CSxw1D6YM 4w5yBhu7db1VJKLP89/YnRnsB4ryOE5cCGtg086pa2DdacB63XTEgc/m90UtfHYl Dk6LVr79SqFPDRukNCTBozcwkHr8aKSg1eR4o2vV3yfq5OUhHmCA9FXstyxXPYe+ DjtSG8X9m/XKiz4Eok2EIv3PwBT29M3lVnKG20kvpxoguOUTg4VLtyyDIZxKmNpY XC3OAmUViDS9iEA8uqKjUEt5YEsNvs6qIKasZHdznST04nuEimIiMUOD57odwL7M rAeJu4GBPHJqNQsfFPRddjrVimnUtGHFDW5r4JtqPP5sZZCIBplWuMzay875EYCL amYGuewZhsacUSgUktsFPrM9z8rd24k86IPn3PEIwsVbubDDz40Q1/v1McgquZ0n boUnhYSRG5qVgOItsikahk1OpQMQhsXDRo6RotGdl90pqdngNjQ= =T3/+ -----END PGP SIGNATURE-----</https:></https:></https:></https:></https:></https:></p></body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

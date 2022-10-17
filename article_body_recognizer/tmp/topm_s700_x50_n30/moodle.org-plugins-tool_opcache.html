@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://moodle.org/plugins/tool_opcache');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8ZGl2ID4gPGRpdj4gPGEgPlNraXAgdG8gbWFpbiBjb250ZW50PC9hPiA8L2Rpdj4gIDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gIDxkaXYgPiA8aGVhZGVyID4gPGRpdiA+PGRpdiA+PGgxPk1vb2RsZSBwbHVnaW5zIGRpcmVjdG9yeTogT3BjYWNoZSBtYW5hZ2VtZW50PC9oMT48L2Rpdj48L2Rpdj4gPC9oZWFkZXI+IDxkaXYgPiA8ZGl2ID4gPHNlY3Rpb24gPiA8ZGl2ID48ZGl2ID48ZGl2ID48ZGl2ID48ZGl2ID48ZGl2ID48ZGl2ID48aDEgPk9wY2FjaGUgbWFuYWdlbWVudDwvaDE+PGRpdiA+IEFkbWluIHRvb2xzIDo6OiB0b29sX29wY2FjaGU8L2Rpdj48L2Rpdj48L2Rpdj48ZGl2ID5NYWludGFpbmVkIGJ5IFVsbSBVbml2ZXJzaXR5LCBBbGV4YW5kZXIgQmlhczwvZGl2PjxkaXYgPk1vb2RsZSBwbHVnaW4gd2hpY2ggYWRkcyBhIFBIUCBPcGNhY2hlIG1hbmFnZW1lbnQgR1VJIHRvIE1vb2RsZSBzaXRlIGFkbWluaXN0cmF0aW9uLCBhIENMSSB0b29sIHRvIHJlc2V0IFBIUCBPcGNhY2hlIGFuZCBhIE5hZ2lvcyBjaGVjayBmb3IgUEhQIE9wY2FjaGUuPC9kaXY+PGRpdiA+PGRpdiA+PHNwYW4gPiBMYXRlc3QgcmVsZWFzZTogPHRpbWUgPjIgZGF5czwvdGltZT48L3NwYW4+PC9kaXY+PGRpdiA+IDE5MTUgc2l0ZXMgPC9kaXY+PGRpdiA+IDQ4NiBkb3dubG9hZHMgPC9kaXY+PGRpdiA+IDQ3IGZhbnMgPC9kaXY+PC9kaXY+PC9kaXY+PGRpdiA+PGRpdiA+PGRpdiA+Q3VycmVudCB2ZXJzaW9ucyBhdmFpbGFibGU6IDEwPC9kaXY+PGRpdiA+RG93bmxvYWQ8L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48dWwgPjxsaSA+IERlc2NyaXB0aW9uPC9saT48bGkgPiBWZXJzaW9uczwvbGk+PGxpID48YSA+IFN0YXRzPC9hPjwvbGk+PGxpID48YSA+IFRyYW5zbGF0aW9uczwvYT48L2xpPjwvdWw+PGRpdiA+PGRpdiA+PHA+Rm9yIHBlcmZvcm1hbmNlIHJlYXNvbnMsIE1vb2RsZSBzaG91bGQgYWx3YXlzIGJlIHJ1biB3aXRoIHRoZSBPcGNhY2hlIFBIUCBleHRlbnNpb24gZW5hYmxlZC4gVW5mb3J0dW5hdGVseSwgUEhQIE9wY2FjaGUgaXMga2luZCBvZiBhIGJsYWNrIGJveCBhbmQgZG9lc24ndCBwcm92aWRlIGEgbWFuYWdlbWVudCBpbnRlcmZhY2UgYnkgZGVmYXVsdC48L3A+PHA+THVja2lseSwgdGhlcmUgYXJlIHNvbWUgZnJlZSBPcGNhY2hlIG1hbmFnZW1lbnQgR1VJcyBvdXQgdGhlcmUgd2l0aCBPcGNhY2hlLUdVSSBieSBBbmRyZXcgQ29sbGluZ3RvbiAoPGEgPmh0dHBzOi8vZ2l0aHViLmNvbS9hbW51dHMvb3BjYWNoZS1ndWk8L2E+KSBiZWluZyB0aGUgYmVzdC1sb29raW5nIG9uZS4gQXMgYSBNb29kbGUgc2VydmVyIGFkbWluaXN0cmF0b3IsIHlvdSBjYW4ganVzdCB0aHJvdyBPcGNhY2hlLUdVSSdzIHNpbmdsZSBpbmRleC5waHAgZmlsZSBzb21ld2hlcmUgb250byB5b3VyIE1vb2RsZSBzZXJ2ZXIgYW5kIGdldCBhIE9wY2FjaGUgbWFuYWdlbWVudCBHVUkgaW5zdGFudGx5LiBIb3dldmVyLCB0aGlzIGFwcHJvYWNoIHJlcXVpcmVzIHRoYXQgeW91IHByb3RlY3QgdGhlIE9wY2FjaGUtR1VJIGZyb20gdW5hdXRob3JpemVkIGFjY2VzcyBtYW51YWxseSBpbiB5b3VyIHdlYnNlcnZlciBhbmQgY29tZXMgd2l0aCB0aGUgZG93bnNpZGUgdGhhdCBPcGNhY2hlLUdVSSBpcyBsb2NhdGVkIG91dHNpZGUgTW9vZGxlLjwvcD48cD5Gb3IgdGhlc2UgcmVhc29ucywgd2UgaGF2ZSBwYWNrYWdlZCBPcGNhY2hlLUdVSSBhcyBhIHZlcnkgc2ltcGxlIE1vb2RsZSBhZG1pbiB0b29sIHByb3ZpZGluZyBpdCB3aXRoaW4gTW9vZGxlIHNpdGUgYWRtaW5pc3RyYXRpb24gZm9yIE1vb2RsZSBhZG1pbmlzdHJhdG9ycyBvbmx5LjwvcD48cD5QbGVhc2Ugc2VlIFJFQURNRSBmaWxlIGZvciBkZXRhaWxzIGFib3V0IHRoZSB1c2FnZSBhbmQgZmVhdHVyZXMgb2YgdGhpcyBwbHVnaW4uPC9wPiA8ZGl2ID4gPHA+PGI+Tm8gc3VwcG9ydCBpbiB0aGUgY29tbWVudHMgc2VjdGlvbiBvbiB0aGlzIHBhZ2U8L2I+PC9wPiA8cD5QbGVhc2Ugbm90ZSB0aGF0IHdlIGRvbid0IHByb3ZpZGUgYW55IHN1cHBvcnQgZm9yIHRoaXMgcGx1Z2luIGluIHRoZSBjb21tZW50cyBzZWN0aW9uIG9uIHRoaXMgcGFnZSBhbnltb3JlLjwvcD4gPHA+V2UgYXBwcmVjaWF0ZSB5b3VyIGNvbW1lbmRhdGlvbiBhbmQgcmV2aWV3cyBmb3IgdGhpcyBwbHVnaW4gaW4gdGhlIGNvbW1lbnRzLiBGb3IgYnVnIHJlcG9ydHMgYW5kIHN1cHBvcnQgcmVxdWVzdHMsIHBsZWFzZSA8Yj5yZWFkIHRoZSBleHRlbnNpdmUgaW5mb3JtYXRpb24gaW4gdGhlIHBsdWdpbidzIFJFQURNRSBmaWxlIGZpcnN0PC9iPiBhbmQgY3JlYXRlLCBpZiBuZWVkZWQsIGEgdGlja2V0IGluIHRoZSBidWcgdHJhY2tlciB3aGljaCBpcyBsaW5rZWQgYmVsb3cuPC9wPiA8cD5UaGFua3MgZm9yIHlvdXIgY29vcGVyYXRpb24uPC9wPjwvZGl2PjwvZGl2PjxkaXYgPjxoMz5Qb3RlbnRpYWwgcHJpdmFjeSBpc3N1ZXM8L2gzPjxkaXYgPlBsZWFzZSBub3RlIHRoZSBzZWN1cml0eSBub3RlIG9uIGh0dHBzOi8vZ2l0aHViLmNvbS9tb29kbGV1dWxtL21vb2RsZS10b29sX29wY2FjaGUjc2VjdXJpdHktbm90ZSBhbmQgdGhlIHByaXZhY3kgbm90ZSBvbiBodHRwczovL2dpdGh1Yi5jb20vbW9vZGxldXVsbS9tb29kbGUtdG9vbF9vcGNhY2hlI3ByaXZhY3ktbm90ZTwvZGl2PjwvZGl2PjxkaXYgPjxoMz5Vc2VmdWwgbGlua3M8L2gzPjxkaXYgPjxkaXYgPjxhID4gTW9yZSBkb2N1bWVudGF0aW9uIG9uIHRoaXMgcGx1Z2luPC9hPjwvZGl2PjxkaXYgPjxhID4gU291cmNlIGNvbnRyb2wgVVJMPC9hPjwvZGl2PjxkaXYgPjxhID4gQnVnIHRyYWNrZXI8L2E+PC9kaXY+PC9kaXY+PC9kaXY+PGRpdiA+PGgzPlNjcmVlbnNob3RzPC9oMz48L2Rpdj48ZGl2ID48aDM+Q29udHJpYnV0b3JzPC9oMz48ZGl2ID48ZGl2ID48ZGl2ID48ZGl2ID5VbG0gVW5pdmVyc2l0eSAoTGVhZCBtYWludGFpbmVyKTwvZGl2PjxkaXYgPlZpZXcgb3RoZXIgY29udHJpYnV0aW9uczwvZGl2PjwvZGl2PjwvZGl2PjxkaXYgPjxkaXYgPjxkaXYgPkFsZXhhbmRlciBCaWFzOiBNYWludGFpbmVyPC9kaXY+PGRpdiA+VmlldyBvdGhlciBjb250cmlidXRpb25zPC9kaXY+PC9kaXY+PC9kaXY+PGRpdiA+PGRpdiA+PGRpdiA+S2F0aHJpbiBPc3N3YWxkOiBEZXZlbG9wZXI8L2Rpdj48ZGl2ID48YSA+VmlldyBvdGhlciBjb250cmlidXRpb25zPC9hPjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjxkaXYgPlBsZWFzZSBsb2dpbiB0byB2aWV3IGNvbnRyaWJ1dG9ycyBkZXRhaWxzIGFuZC9vciB0byBjb250YWN0IHRoZW08L2Rpdj48L2Rpdj48ZGl2ID48aDM+QXdhcmRzPC9oMz48ZGl2ID48ZGl2ID48ZGl2ID48YSA+UHJpdmFjeSBmcmllbmRseTwvYT48L2Rpdj48L2Rpdj48ZGl2ID48ZGl2ID48YSA+QXV0b21hdGVkIHRlc3Rpbmcgc3VwcG9ydDwvYT48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48ZGl2ID48aDM+Q29tbWVudHMgPC9oMz48ZGl2ID48ZGl2ID48ZGl2ID48ZGl2ID48ZGl2ID5fX19waWN0dXJlX19fPC9kaXY+PGRpdiA+X19fbmFtZV9fXzwvZGl2PjxkaXYgPl9fX3RpbWVfX188L2Rpdj48L2Rpdj48ZGl2ID5fX19jb250ZW50X19fPC9kaXY+PC9kaXY+PC9kaXY+PGRpdiA+PGEgPlNob3cgY29tbWVudHM8L2E+PGRpdiA+PHVsID48bGkgPjxsaSA+PGRpdiA+PGRpdiA+PGRpdiA+PGEgPlBsdWdpbnMgYm90PC9hPjwvZGl2PjxkaXYgPldlZCwgOSBBdWcgMjAxNywgODoyMCBQTTwvZGl2PjwvZGl2PjxkaXYgPjxkaXYgPjxkaXYgPkFwcHJvdmFsIGlzc3VlIGNyZWF0ZWQ6IDxhID5DT05UUklCLTY5OTk8L2E+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9saT48bGkgPjxkaXYgPjxkaXYgPjxkaXYgPjxhID5SaWNhcmRvIENhaWFkbzwvYT48L2Rpdj48ZGl2ID5UdWUsIDE4IEF1ZyAyMDIwLCA0OjM0IEFNPC9kaXY+PC9kaXY+PGRpdiA+PGRpdiA+PGRpdiA+SXMgaXQgY29tcGF0aWJsZSB3aXRoIDMuOSsgdmVyc2lvbiBvZiBNb29kbGU/PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9saT48L3VsPjwvZGl2PjwvZGl2PjwvZGl2PjxkaXYgPlBsZWFzZSBsb2dpbiB0byBwb3N0IGNvbW1lbnRzPC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+IDwvc2VjdGlvbj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvYm9keT4='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, tag: body, level: 1" node_number="1"> <div class="valid" valid="valid" title="valid: True, node: 2, tag: div, level: 2" node_number="2"> <div class="valid" valid="valid" title="valid: True, node: 3, tag: div, level: 3" node_number="3"> <a class="valid" valid="valid" title="valid: True, node: 4, tag: a, level: 4" node_number="4">Skip to main content</a> </div>  <div class="valid" valid="valid" title="valid: True, node: 5, tag: div, level: 3" node_number="5"> <div class="valid" valid="valid" title="valid: True, node: 6, tag: div, level: 4" node_number="6"> <div class="valid" valid="valid" title="valid: True, node: 7, tag: div, level: 5" node_number="7"> <div class="valid" valid="valid" title="valid: True, node: 8, tag: div, level: 6" node_number="8"> <div class="valid" valid="valid" title="valid: True, node: 9, tag: div, level: 7" node_number="9">  <div class="valid" valid="valid" title="valid: True, node: 10, tag: div, level: 8" node_number="10"> <header class="valid" valid="valid" title="valid: True, node: 11, tag: header, level: 9" node_number="11"> <div class="valid" valid="valid" title="valid: True, node: 12, tag: div, level: 10" node_number="12"><div class="valid" valid="valid" title="valid: True, node: 13, tag: div, level: 11" node_number="13"><h1 class="valid" valid="valid" title="valid: True, node: 14, tag: h1, level: 12" node_number="14">Moodle plugins directory: Opcache management</h1></div></div> </header> <div class="valid" valid="valid" title="valid: True, node: 15, tag: div, level: 9" node_number="15"> <div class="valid" valid="valid" title="valid: True, node: 16, tag: div, level: 10" node_number="16"> <section class="valid" valid="valid" title="valid: True, node: 17, tag: section, level: 11" node_number="17"> <div class="valid" valid="valid" title="valid: True, node: 18, tag: div, level: 12" node_number="18"><div class="valid" valid="valid" title="valid: True, node: 19, tag: div, level: 13" node_number="19"><div class="valid" valid="valid" title="valid: True, node: 20, tag: div, level: 14" node_number="20"><div title="valid: False, node: 21, tag: div, level: 15" node_number="21"><div title="valid: False, node: 22, tag: div, level: 16" node_number="22"><div title="valid: False, node: 23, tag: div, level: 17" node_number="23"><div title="valid: False, node: 24, tag: div, level: 18" node_number="24"><h1 title="valid: False, node: 25, tag: h1, level: 19" node_number="25">Opcache management</h1><div title="valid: False, node: 26, tag: div, level: 19" node_number="26"> Admin tools ::: tool_opcache</div></div></div><div title="valid: False, node: 27, tag: div, level: 17" node_number="27">Maintained by Ulm University, Alexander Bias</div><div title="valid: False, node: 28, tag: div, level: 17" node_number="28">Moodle plugin which adds a PHP Opcache management GUI to Moodle site administration, a CLI tool to reset PHP Opcache and a Nagios check for PHP Opcache.</div><div title="valid: False, node: 29, tag: div, level: 17" node_number="29"><div title="valid: False, node: 30, tag: div, level: 18" node_number="30"><span title="valid: False, node: 31, tag: span, level: 19" node_number="31"> Latest release: <time title="valid: False, node: 32, tag: time, level: 20" node_number="32">2 days</time></span></div><div title="valid: False, node: 33, tag: div, level: 18" node_number="33"> 1915 sites </div><div title="valid: False, node: 34, tag: div, level: 18" node_number="34"> 486 downloads </div><div title="valid: False, node: 35, tag: div, level: 18" node_number="35"> 47 fans </div></div></div><div title="valid: False, node: 36, tag: div, level: 16" node_number="36"><div title="valid: False, node: 37, tag: div, level: 17" node_number="37"><div title="valid: False, node: 38, tag: div, level: 18" node_number="38">Current versions available: 10</div><div title="valid: False, node: 39, tag: div, level: 18" node_number="39">Download</div></div></div></div></div><ul class="valid" valid="valid" title="valid: True, node: 40, tag: ul, level: 14" node_number="40"><li title="valid: False, node: 41, tag: li, level: 15" node_number="41"> Description</li><li title="valid: False, node: 42, tag: li, level: 15" node_number="42"> Versions</li><li title="valid: False, node: 43, tag: li, level: 15" node_number="43"><a title="valid: False, node: 44, tag: a, level: 16" node_number="44"> Stats</a></li><li title="valid: False, node: 45, tag: li, level: 15" node_number="45"><a title="valid: False, node: 46, tag: a, level: 16" node_number="46"> Translations</a></li></ul><div class="valid" valid="valid" title="valid: True, node: 47, tag: div, level: 14" node_number="47"><div title="valid: False, node: 48, tag: div, level: 15" node_number="48"><p title="valid: False, node: 49, tag: p, level: 16" node_number="49">For performance reasons, Moodle should always be run with the Opcache PHP extension enabled. Unfortunately, PHP Opcache is kind of a black box and doesn't provide a management interface by default.</p><p title="valid: False, node: 50, tag: p, level: 16" node_number="50">Luckily, there are some free Opcache management GUIs out there with Opcache-GUI by Andrew Collington (<a title="valid: False, node: 51, tag: a, level: 17" node_number="51">https://github.com/amnuts/opcache-gui</a>) being the best-looking one. As a Moodle server administrator, you can just throw Opcache-GUI's single index.php file somewhere onto your Moodle server and get a Opcache management GUI instantly. However, this approach requires that you protect the Opcache-GUI from unauthorized access manually in your webserver and comes with the downside that Opcache-GUI is located outside Moodle.</p><p title="valid: False, node: 52, tag: p, level: 16" node_number="52">For these reasons, we have packaged Opcache-GUI as a very simple Moodle admin tool providing it within Moodle site administration for Moodle administrators only.</p><p title="valid: False, node: 53, tag: p, level: 16" node_number="53">Please see README file for details about the usage and features of this plugin.</p> <div title="valid: False, node: 54, tag: div, level: 16" node_number="54"> <p title="valid: False, node: 55, tag: p, level: 17" node_number="55"><b title="valid: False, node: 56, tag: b, level: 18" node_number="56">No support in the comments section on this page</b></p> <p title="valid: False, node: 57, tag: p, level: 17" node_number="57">Please note that we don't provide any support for this plugin in the comments section on this page anymore.</p> <p title="valid: False, node: 58, tag: p, level: 17" node_number="58">We appreciate your commendation and reviews for this plugin in the comments. For bug reports and support requests, please <b title="valid: False, node: 59, tag: b, level: 18" node_number="59">read the extensive information in the plugin's README file first</b> and create, if needed, a ticket in the bug tracker which is linked below.</p> <p title="valid: False, node: 60, tag: p, level: 17" node_number="60">Thanks for your cooperation.</p></div></div><div title="valid: False, node: 61, tag: div, level: 15" node_number="61"><h3 title="valid: False, node: 62, tag: h3, level: 16" node_number="62">Potential privacy issues</h3><div title="valid: False, node: 63, tag: div, level: 16" node_number="63">Please note the security note on https://github.com/moodleuulm/moodle-tool_opcache#security-note and the privacy note on https://github.com/moodleuulm/moodle-tool_opcache#privacy-note</div></div><div title="valid: False, node: 64, tag: div, level: 15" node_number="64"><h3 title="valid: False, node: 65, tag: h3, level: 16" node_number="65">Useful links</h3><div title="valid: False, node: 66, tag: div, level: 16" node_number="66"><div title="valid: False, node: 67, tag: div, level: 17" node_number="67"><a title="valid: False, node: 68, tag: a, level: 18" node_number="68"> More documentation on this plugin</a></div><div title="valid: False, node: 69, tag: div, level: 17" node_number="69"><a title="valid: False, node: 70, tag: a, level: 18" node_number="70"> Source control URL</a></div><div title="valid: False, node: 71, tag: div, level: 17" node_number="71"><a title="valid: False, node: 72, tag: a, level: 18" node_number="72"> Bug tracker</a></div></div></div><div title="valid: False, node: 73, tag: div, level: 15" node_number="73"><h3 title="valid: False, node: 74, tag: h3, level: 16" node_number="74">Screenshots</h3></div><div title="valid: False, node: 75, tag: div, level: 15" node_number="75"><h3 title="valid: False, node: 76, tag: h3, level: 16" node_number="76">Contributors</h3><div title="valid: False, node: 77, tag: div, level: 16" node_number="77"><div title="valid: False, node: 78, tag: div, level: 17" node_number="78"><div title="valid: False, node: 79, tag: div, level: 18" node_number="79"><div title="valid: False, node: 80, tag: div, level: 19" node_number="80">Ulm University (Lead maintainer)</div><div title="valid: False, node: 81, tag: div, level: 19" node_number="81">View other contributions</div></div></div><div title="valid: False, node: 82, tag: div, level: 17" node_number="82"><div title="valid: False, node: 83, tag: div, level: 18" node_number="83"><div title="valid: False, node: 84, tag: div, level: 19" node_number="84">Alexander Bias: Maintainer</div><div title="valid: False, node: 85, tag: div, level: 19" node_number="85">View other contributions</div></div></div><div title="valid: False, node: 86, tag: div, level: 17" node_number="86"><div title="valid: False, node: 87, tag: div, level: 18" node_number="87"><div title="valid: False, node: 88, tag: div, level: 19" node_number="88">Kathrin Osswald: Developer</div><div title="valid: False, node: 89, tag: div, level: 19" node_number="89"><a title="valid: False, node: 90, tag: a, level: 20" node_number="90">View other contributions</a></div></div></div></div><div title="valid: False, node: 91, tag: div, level: 16" node_number="91">Please login to view contributors details and/or to contact them</div></div><div title="valid: False, node: 92, tag: div, level: 15" node_number="92"><h3 title="valid: False, node: 93, tag: h3, level: 16" node_number="93">Awards</h3><div title="valid: False, node: 94, tag: div, level: 16" node_number="94"><div title="valid: False, node: 95, tag: div, level: 17" node_number="95"><div title="valid: False, node: 96, tag: div, level: 18" node_number="96"><a title="valid: False, node: 97, tag: a, level: 19" node_number="97">Privacy friendly</a></div></div><div title="valid: False, node: 98, tag: div, level: 17" node_number="98"><div title="valid: False, node: 99, tag: div, level: 18" node_number="99"><a title="valid: False, node: 100, tag: a, level: 19" node_number="100">Automated testing support</a></div></div></div></div><div title="valid: False, node: 101, tag: div, level: 15" node_number="101"><h3 title="valid: False, node: 102, tag: h3, level: 16" node_number="102">Comments </h3><div title="valid: False, node: 103, tag: div, level: 16" node_number="103"><div title="valid: False, node: 104, tag: div, level: 17" node_number="104"><div title="valid: False, node: 105, tag: div, level: 18" node_number="105"><div title="valid: False, node: 106, tag: div, level: 19" node_number="106"><div title="valid: False, node: 107, tag: div, level: 20" node_number="107">___picture___</div><div title="valid: False, node: 108, tag: div, level: 20" node_number="108">___name___</div><div title="valid: False, node: 109, tag: div, level: 20" node_number="109">___time___</div></div><div title="valid: False, node: 110, tag: div, level: 19" node_number="110">___content___</div></div></div><div title="valid: False, node: 111, tag: div, level: 17" node_number="111"><a title="valid: False, node: 112, tag: a, level: 18" node_number="112">Show comments</a><div title="valid: False, node: 113, tag: div, level: 18" node_number="113"><ul title="valid: False, node: 114, tag: ul, level: 19" node_number="114"><li title="valid: False, node: 115, tag: li, level: 20" node_number="115"><li title="valid: False, node: 116, tag: li, level: 21" node_number="116"><div title="valid: False, node: 117, tag: div, level: 22" node_number="117"><div title="valid: False, node: 118, tag: div, level: 23" node_number="118"><div title="valid: False, node: 119, tag: div, level: 24" node_number="119"><a title="valid: False, node: 120, tag: a, level: 25" node_number="120">Plugins bot</a></div><div title="valid: False, node: 121, tag: div, level: 24" node_number="121">Wed, 9 Aug 2017, 8:20 PM</div></div><div title="valid: False, node: 122, tag: div, level: 23" node_number="122"><div title="valid: False, node: 123, tag: div, level: 24" node_number="123"><div title="valid: False, node: 124, tag: div, level: 25" node_number="124">Approval issue created: <a title="valid: False, node: 125, tag: a, level: 26" node_number="125">CONTRIB-6999</a></div></div></div></div></li><li title="valid: False, node: 126, tag: li, level: 21" node_number="126"><div title="valid: False, node: 127, tag: div, level: 22" node_number="127"><div title="valid: False, node: 128, tag: div, level: 23" node_number="128"><div title="valid: False, node: 129, tag: div, level: 24" node_number="129"><a title="valid: False, node: 130, tag: a, level: 25" node_number="130">Ricardo Caiado</a></div><div title="valid: False, node: 131, tag: div, level: 24" node_number="131">Tue, 18 Aug 2020, 4:34 AM</div></div><div title="valid: False, node: 132, tag: div, level: 23" node_number="132"><div title="valid: False, node: 133, tag: div, level: 24" node_number="133"><div title="valid: False, node: 134, tag: div, level: 25" node_number="134">Is it compatible with 3.9+ version of Moodle?</div></div></div></div></li></li></ul></div></div><div title="valid: False, node: 135, tag: div, level: 17" node_number="135">Please login to post comments</div></div></div></div></div> </div> </section> </div> </div> </div> </div></div></div></div></div></div></body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

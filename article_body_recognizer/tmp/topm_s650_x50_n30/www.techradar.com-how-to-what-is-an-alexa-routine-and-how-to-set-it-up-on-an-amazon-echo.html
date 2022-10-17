@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://www.techradar.com/how-to/what-is-an-alexa-routine-and-how-to-set-it-up-on-an-amazon-echo');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8YSA+U2tpcCB0byBtYWluIGNvbnRlbnQ8L2E+ICA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gVHJlbmRpbmcgPC9kaXY+IDx1bCA+IDxsaSA+IDxhID5DRVMgMjAyMjwvYT48L2xpPiA8bGkgPiA8YSA+SG9saWRheSBkZWFsczwvYT48L2xpPiA8bGkgPiA8YSA+R2FsYXh5IFMyMSBGRTwvYT48L2xpPiA8bGkgPiA8YSA+QmVzdCBsYXB0b3A8L2E+PC9saT4gPGxpID4gPGEgPmlQaG9uZSAxMzwvYT48L2xpPiA8bGkgPiA8YSA+QmVzdCBwaG9uZTwvYT48L2xpPiA8L3VsPiA8L2Rpdj4gPC9kaXY+IDxhcnRpY2xlID4gPGhlYWRlcj4gPG9sPiA8bGk+PGEgPkhvbWU8L2E+PC9saT4gPGxpPjxhID5Ib3ctdG88L2E+PC9saT4gPGxpPjxhID5TbWFydCBIb21lPC9hPjwvbGk+IDwvb2w+IDxoMT5XaGF0IGlzIGFuIEFsZXhhIHJvdXRpbmUsIGFuZCBob3cgdG8gc2V0IGl0IHVwIG9uIGFuIEFtYXpvbiBFY2hvPC9oMT4gPHAgPiBCeSBBbGlzdGFpciBDaGFybHRvbiBwdWJsaXNoZWQgPHRpbWUgPjI2IERlY2VtYmVyIDIxPC90aW1lPiA8L3A+IDxoMj5HZXQgeW91ciBzbWFydCBob21lIGRldmljZXMgdG8gd29yayB0b2dldGhlciB3aXRoIGEgc2luZ2xlIGNvbW1hbmQ8L2gyPiA8L2hlYWRlcj4gPHNlY3Rpb24gPiA8ZGl2ID4gPGRpdiA+KEltYWdlOiDCqSBBbWF6b24pPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPHA+Qnkgbm93IHlvdSBwcm9iYWJseSBrbm93IHRoYXQgQWxleGEgY2FuIHNlcnZlIHVwIGluZm9ybWF0aW9uIHN1Y2ggYXMgdGhlIHdlYXRoZXIgcmVwb3J0LCB0aGUgc3BvcnRzIHNjb3Jlcywgb3IgZXZlbiBhbnN3ZXIgeW91ciBidXJuaW5nIHF1ZXN0aW9ucyBvbiBvbmUgb2YgQW1hem9u4oCZcyA8YSA+c21hcnQgc3BlYWtlcnM8L2E+IG9yIDxhID5zbWFydCBkaXNwbGF5czwvYT4sIGFzIHdlbGwgYXMgY29udHJvbCA8YSA+c21hcnQgaG9tZSBkZXZpY2VzPC9hPiB3aXRoIGEgdm9pY2UgY29tbWFuZC48L3A+PHA+QnV0IHlvdSBtYXkgbm90IGtub3cgdGhhdCB0aGFua3MgdG8gQWxleGEgcm91dGluZXMsIHRoZXJl4oCZcyBtdWNoIG1vcmUgaXQgY2FuIGRvLiBGb3IgZXhhbXBsZSwgeW91IGNhbiBjcmVhdGUgYW4gYXV0b21hdGlvbiB0aGF0IGhhcyBBbGV4YSBicmlnaHRlbiB5b3VyIDxhID5zbWFydCBsaWdodHM8L2E+LCBhZGp1c3QgdGhlIGhlYXRpbmcgZnJvbSB0aGUgPGEgPnNtYXJ0IHRoZXJtb3N0YXQ8L2E+LCBwbGF5IGEgY2VydGFpbiByYWRpbyBzdGF0aW9uIHRocm91Z2ggdGhlIEFtYXpvbiBFY2hvIGRldmljZSBpdHNlbGYgYW5kIHN3aXRjaCBvbiB5b3VyIHNtYXJ0IDxhID5jb2ZmZWUgbWFjaGluZTwvYT4sIGFsbCB3aGVuIHlvdSBkaXNtaXNzIHlvdXIgbW9ybmluZyBhbGFybS7CoDwvcD48cD5JdOKAmXMgYWxzbyBwb3NzaWJsZSB0byBjcmVhdGUgYSByb3V0aW5lIHRoYXQgaGFzIEFsZXhhIGZsYXNoIHlvdXIgc21hcnQgbGlnaHRzIGEgY2VydGFpbiBjb2xvciB3aGVuIHRoZSA8YSA+dmlkZW8gZG9vcmJlbGw8L2E+IGlzIHJ1bmcsIG9yIHR1cm4gb2ZmIHRoZSBsaWdodHMsIGxvd2VyIHRoZSBoZWF0aW5nIGFuZCB0dXJuIG9uIGEgPGEgPnJvYm90IHZhY3V1bTwvYT4gd2hlbiB5b3UgdGVsbCBpdCwgeW914oCZcmUgaGVhZGluZyBvdXQuPC9wPjxwPlRoZSBrZXkgaGVyZSBpcyB0aGF0IHJvdXRpbmVzIGVuYWJsZSBBbGV4YSB0byBkbyBzZXZlcmFsIHRoaW5ncyBhdCBvbmNlLCBhbmQgdGhlIHRyaWdnZXIgZm9yIHRoZXNlIGFjdGlvbnMgY2FuIGJlIGEgdm9pY2UgY29tbWFuZCwgYW4gYWN0aW9uIGZyb20gYW5vdGhlciBkZXZpY2UgKGxpa2UgYSBzbWFydCBkb29yYmVsbCkgb3Igc29tZXRoaW5nIGVsc2UgZW50aXJlbHkuIEFsbCBvZiB0aGlzIGlzIHNldCB1cCB1c2luZyB0aGUgQWxleGEgc21hcnRwaG9uZSBhcHAsIGFuZCByb3V0aW5lcyBjYW4gYmUgdXNlZCB3aXRoIGFueSBvZiA8YSA+QW1hem9u4oCZcyBFY2hvIHNtYXJ0IHNwZWFrZXJzPC9hPiBhbmQgZGlzcGxheXMuPC9wPjxwPkZhbmN5IGdyYWJiaW5nIHlvdXJzZWxmIG9uZSBvZiBBbWF6b27igJlzIHNtYXJ0IHNwZWFrZXJzIG9yIHNtYXJ0IGRpc3BsYXlzPyBDaGVjayBvdXQgdGhlIGJlc3QgcHJpY2VzIG9uIG9mZmVyIHJpZ2h0IG5vdy7CoDwvcD48aDIgPkhvdyB0byBzZXQgdXAgQWxleGEgcm91dGluZXM8L2gyPjxwPlNvdW5kcyBnb29kIGRvZXNu4oCZdCBpdD8gSXTigJlzIHByZXR0eSBzaW1wbGUgdG8gc2V0IHVwLCBzbyBsZXTigJlzIGdldCBjcmFja2luZy4gVW5mb3J0dW5hdGVseSwgaXTigJlzIG5vdCBzb21ldGhpbmcgdGhhdCBjYW4gYmUgc2V0LXVwIHRocm91Z2ggYW4gQW1hem9uIGRldmljZSwgaW5zdGVhZCwgeW914oCZbGwgbmVlZCBhIHNtYXJ0cGhvbmUgdG8gaGFuZCwgd2l0aCB0aGUgQWxleGEgYXBwIG9wZW4uwqA8L3A+PHA+VGFwIHRoZSBNb3JlIHRhYiBhbmQgc2VsZWN0IFJvdXRpbmVzLiBUaGlzIHBhZ2Ugc2hvd3MgYW55IHJvdXRpbmVzIHRoYXQgaGF2ZSBhbHJlYWR5IGJlZW4gY3JlYXRlZCwgYSB0aW1lbGluZSBvZiB3aGVuIHlvdXIgcm91dGluZXMgaGF2ZSBiZWVuIGFjdGl2YXRlZCwgYW5kIGEgbGlzdCBvZiBmZWF0dXJlZCByb3V0aW5lcyByZWNvbW1lbmRlZCBieSBBbWF6b24uIFRoaXMgbGlzdCBpcyBncmVhdCBmb3IgaW5zcGlyYXRpb24gYW5kIHRvIHNob3cgd2hhdCBBbGV4YSByb3V0aW5lcyBjYW4gZG8uPC9wPjxwPlRvIGVuYWJsZSBhbnkgb2YgdGhlc2UgcmVjb21tZW5kZWQgcm91dGluZXMsIHNpbXBseSB0YXAgb24gdGhlbSB0byBzZWUgaG93IHRoZXkgd29yaywgdGhlbiB0YXAgdGhlIOKAmEVuYWJsZeKAmSBidXR0b24gaW4gdGhlIHRvcC1yaWdodCBjb3JuZXIuIE9uY2UgYSByb3V0aW5lIGlzIGVuYWJsZWQgaXQgY2FuIGJlIGFjdGl2YXRlZCBieSBzcGVha2luZyB0byB0aGUgQWxleGEgb2YgYW55IEVjaG8gZGV2aWNlIGF0dGFjaGVkIHRvIHlvdXIgQW1hem9uIGFjY291bnQuPC9wPjxwPkZvciBleGFtcGxlLCBhIHJlY29tbWVuZGVkIHJvdXRpbmcgY2FsbGVkIEdvb2RuaWdodCB0dXJucyBvZmYgYWxsIHNtYXJ0IGxpZ2h0cyBjb25uZWN0ZWQgdG8geW91ciBBbGV4YSBzeXN0ZW0uIEFsZXhhIHdpbGwgdGhlbiBzYXkgYSByYW5kb20gcGhyYXNlIHRoYXQgd2lzaGVzIHlvdSBnb29kbmlnaHQsIGFuZCBvcGVuIHRoZSBTbGVlcCBTb3VuZHMgc2tpbGwsIHdoZXJlIHlvdSBjYW4gcGxheSBhIGNhbG1pbmcgc291bmQgdG8gaGVscCB5b3UgZmFsbCBhc2xlZXAuPC9wPjxwPkFub3RoZXIgZXhhbXBsZSBvZiBhIHJvdXRpbmUgYWxyZWFkeSBjcmVhdGVkIGJ5IEFtYXpvbiBpcyBjYWxsZWQg4oCYSeKAmW0gaG9tZeKAmS4gRW5hYmxlIHRoaXMsIGFuZCB3aGVuIHlvdSBzYXk6IOKAnEFsZXhhLCBJ4oCZbSBob21lLOKAnSB0aGUgYXNzaXN0YW50IHdpbGwgcGxheSB5b3VyIEZsYXNoIEJyaWVmaW5nIHRvIHVwZGF0ZSB5b3Ugb24gdGhlIGRheeKAmXMgbmV3cyBoZWFkbGluZXMsIHRoZW4gY3VlIHVwIGEgcGxheWxpc3Qgb2YgcmVsYXhpbmcgbXVzaWMgZm9yIHR3byBob3Vycy4gWW914oCZbGwgbmVlZCB0byBkaWcgaW50byB0aGlzIHJvdXRpbmUgdG8gc2VsZWN0IHlvdXIgbXVzaWMgcHJvdmlkZXIgb2YgY2hvaWNlLjwvcD48aDIgPkhvdyB0byBjcmVhdGUgeW91ciBvd24gQWxleGEgcm91dGluZcKgPC9oMj48cD5BbWF6b27igJlzIHJlY29tbWVuZGVkIHJvdXRpbmVzIGFyZSBhIGdvb2QgcGxhY2UgdG8gc3RhcnQsIGJ1dCBmb3IgYSBtb3JlIGdyYW51bGFyIGFuZCBwZXJzb25hbGl6ZWQgZXhwZXJpZW5jZSwgaXTigJlzIHBvc3NpYmxlIHRvIGNyZWF0ZSB5b3VyIG93biByb3V0aW5lcyBmcm9tIHNjcmF0Y2guPC9wPjxwPlRvIGRvIHRoaXMsIHRhcCBvbiB0aGUgKyBpY29uIGluIHRoZSB0b3AtcmlnaHQgY29ybmVyIG9mIHRoZSByb3V0aW5lcyBwYWdlLiBIZXJlIHlvdSBjYW4gbmFtZSB0aGUgcm91dGluZSwgdGhlbiBzZXQgdGhlIHRyaWdnZXIgYW5kIHRoZSBhY3Rpb24uIFRoZSB0cmlnZ2VyIGNhbiBiZSBhIHBocmFzZSBzcG9rZW4gdG8gQWxleGEsIGEgY2VydGFpbiB0aW1lIG9mIGRheSBvciB3ZWVrLCB0aGUgYWN0aW9uIG9mIGFub3RoZXIgc21hcnQgaG9tZSBkZXZpY2UgKHN1Y2ggYXMgbW92ZW1lbnQgYmVpbmcgc3BvdHRlZCBieSBhIHNlY3VyaXR5IGNhbWVyYSksIHRoZSBzb3VuZGluZyBvZiBhbiBBbGV4YSBhbGFybSwgb3IgdGhlIHByZXNzIG9mIGFuIEVjaG8gQnV0dG9uLjwvcD48cD5UaGUgZmluYWwgY2F0ZWdvcnkgaXMgY2FsbGVkIFNvdW5kIERldGVjdGlvbiwgd2hpY2ggaXMgY3VycmVudGx5IGF2YWlsYWJsZSBhcyBhIHB1YmxpYyBiZXRhLiBIZXJlLCBhbiBBbGV4YSByb3V0aW5lIGNhbiBiZSB0cmlnZ2VyZWQgd2hlbiBhbiBFY2hvIGRldmljZSBoZWFycyBhIGJlZXBpbmcgYXBwbGlhbmNlLCBhIGNyeWluZyBiYWJ5LCBzbm9yaW5nLCB3YXRlciwgZG9ncyBiYXJraW5nIG9yIHNvbWVvbmUgY291Z2hpbmcuIFRoZSBpZGVhIGhlcmUgaXMgdGhhdCBBbGV4YSBjb3VsZCBhbGVydCB5b3UgdG8gdGhlIGJlZXBpbmcgb2YgeW91ciB3YXNoaW5nIG1hY2hpbmUgZmluaXNoaW5nIGl0cyBjeWNsZSwgdHVybiBvbiBhbiBvdXRzaWRlIHNlY3VyaXR5IGxpZ2h0IHdoZW4gYmFya2luZyBpcyBoZWFyZCwgb3IgcGxheSBhIHNvdW5kIHdoZW4gc25vcmluZyBpcyBoZWFyZCwgaW4gYSBiaWQgdG8gZW5jb3VyYWdlIHRoZSBndWlsdHkgcGFydHkgdG8gbW92ZS48L3A+PHA+T25jZSB5b3UgaGF2ZSBhc3NpZ25lZCBhIHRyaWdnZXIsIGl04oCZcyB0aW1lIHRvIHBpY2sgYW4gYWN0aW9uLiBUaGlzIGNvdWxkIGJlIEFsZXhhIHNheWluZyBzb21ldGhpbmcgKHN1Y2ggYXMg4oCcc29tZW9uZSBpcyBhdCB0aGUgZG9vcuKAnSB3aGVuIGEgc21hcnQgZG9vcmJlbGwgaXMgcnVuZyksIGFkZGluZyBhbiBldmVudCB0byB5b3VyIGNhbGVuZGFyLCBjdWUgdXAgbXVzaWMgb3IgYSBwb2RjYXN0LCBtYWtlIGEgc291bmQsIHJlcG9ydCB0aGUgbmV3cyBoZWFkbGluZXMgb3Igd2VhdGhlciBmb3JlY2FzdCwgcGxheSBzb21ldGhpbmcgb24gYSBGaXJlIFRWIGRldmljZSwgb3IgdHJpZ2dlciBhbiBhcHBsZXQgd2l0aCBJRlRUVCAoSWYgVGhpcywgVGhlbiBUaGF0KSwgdGhlIHNtYXJ0IGhvbWUgYXV0b21hdGlvbiBzeXN0ZW0uPC9wPjxwPk11bHRpcGxlIGFjdGlvbnMgY2FuIGJlIGFkZGVkIHRvIG9uZSByb3V0aW5lLiBGb3IgZXhhbXBsZSwgQWxleGEgY291bGQgdHVybiBvbiB0aGUgbGlnaHRzLCBhZGp1c3QgdGhlIGhlYXRpbmcgYW5kIHBsYXkgdGhlIG5ld3MgYW5kIHdlYXRoZXIgZm9yZWNhc3QsIGFsbCB3aGVuIHlvdSBzd2l0Y2ggb2ZmIHlvdXIgbW9ybmluZyBhbGFybS4gSXTigJlzIGFsc28gcG9zc2libGUgdG8gYWRkIGEgcGF1c2UgdG8gdGhlIHNlcXVlbmNlIG9mIHRyaWdnZXJzOyB0aGF0IHdheSwgQWxleGEgY291bGQgdHVybiBvbiB0aGUgbGlnaHRzLCB0aGVuIHdhaXQgMTAgbWludXRlcyBiZWZvcmUgcmVhZGluZyB0aGUgbmV3cyBoZWFkbGluZXMsIHRodXMgZ2l2aW5nIHlvdSB0aW1lIHRvIHByb3Blcmx5IHdha2UgdXAgYW5kIGdvIHRvIHRoZSBiYXRocm9vbSBmaXJzdC48L3A+PHA+Um91dGluZXMgYXJlIGEgcG93ZXJmdWwgd2F5IHRvIHVubG9jayBhIGxvdCBvZiBuZXcgZnVuY3Rpb25hbGl0eSB3aXRoIEFsZXhhLiBUaGV5IHRyYW5zZm9ybSBBbGV4YSBpbnRvIGFuIGFzc2lzdGFudCB0aGF0IGNhbiBkbyBtdWx0aXBsZSB0aGluZ3MgYXQgb25jZSwgYW5kIGluIHNvbWUgd2F5cyBhY3QgYXV0b25vbW91c2x5LCBwZXJmb3JtaW5nIGFjdGlvbnMgd2l0aG91dCB5b3UgZmlyc3QgbmVlZGluZyB0byBhc2suIFRoaXMgaXNu4oCZdCBBbGV4YSB3aXRoIGludHVpdGlvbiDigJMgaXTigJlzIHN0aWxsIGZvbGxvd2luZyBhIHRyaXRlIHNjcmlwdCwgd3JpdHRlbiBieSB5b3Ug4oCTIGJ1dCB3aXRoIHJvdXRpbmVzLCB0aGUgYXNzaXN0YW50IGJlY29tZXMgc2lnbmlmaWNhbnRseSBtb3JlIHVzZWZ1bCwgZXNwZWNpYWxseSB3aGVuIGhvb2tlZCB1cCB0byBhIHJhbmdlIG9mIHNtYXJ0IGhvbWUgZGV2aWNlcy48L3A+PHVsPjxsaT7CoENoZWNrIG91dCB0aGVzZSBncmVhdCA8YSA+PHU+Y2hlYXAgRWNobyBkZWFsczwvdT48L2E+PC9saT48L3VsPiA8L2Rpdj4gPGRpdiA+IDxhID4gU2VlIG1vcmUgaG93LXRvIGFydGljbGVzIDwvYT4gPC9kaXY+IDwvc2VjdGlvbj4gPC9hcnRpY2xlPiA8L2Rpdj4gPC9ib2R5Pg=='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, tag: body, level: 1" node_number="1"> <a class="valid" valid="valid" title="valid: True, node: 2, tag: a, level: 2" node_number="2">Skip to main content</a>  <div class="valid" valid="valid" title="valid: True, node: 3, tag: div, level: 2" node_number="3"> <div class="valid" valid="valid" title="valid: True, node: 4, tag: div, level: 3" node_number="4"> <div class="valid" valid="valid" title="valid: True, node: 5, tag: div, level: 4" node_number="5"> <div class="valid" valid="valid" title="valid: True, node: 6, tag: div, level: 5" node_number="6"> Trending </div> <ul class="valid" valid="valid" title="valid: True, node: 7, tag: ul, level: 5" node_number="7"> <li class="valid" valid="valid" title="valid: True, node: 8, tag: li, level: 6" node_number="8"> <a class="valid" valid="valid" title="valid: True, node: 9, tag: a, level: 7" node_number="9">CES 2022</a></li> <li class="valid" valid="valid" title="valid: True, node: 10, tag: li, level: 6" node_number="10"> <a class="valid" valid="valid" title="valid: True, node: 11, tag: a, level: 7" node_number="11">Holiday deals</a></li> <li class="valid" valid="valid" title="valid: True, node: 12, tag: li, level: 6" node_number="12"> <a class="valid" valid="valid" title="valid: True, node: 13, tag: a, level: 7" node_number="13">Galaxy S21 FE</a></li> <li class="valid" valid="valid" title="valid: True, node: 14, tag: li, level: 6" node_number="14"> <a class="valid" valid="valid" title="valid: True, node: 15, tag: a, level: 7" node_number="15">Best laptop</a></li> <li class="valid" valid="valid" title="valid: True, node: 16, tag: li, level: 6" node_number="16"> <a class="valid" valid="valid" title="valid: True, node: 17, tag: a, level: 7" node_number="17">iPhone 13</a></li> <li class="valid" valid="valid" title="valid: True, node: 18, tag: li, level: 6" node_number="18"> <a class="valid" valid="valid" title="valid: True, node: 19, tag: a, level: 7" node_number="19">Best phone</a></li> </ul> </div> </div> <article class="valid" valid="valid" title="valid: True, node: 20, tag: article, level: 3" node_number="20"> <header class="valid" valid="valid" title="valid: True, node: 21, tag: header, level: 4" node_number="21"> <ol class="valid" valid="valid" title="valid: True, node: 22, tag: ol, level: 5" node_number="22"> <li class="valid" valid="valid" title="valid: True, node: 23, tag: li, level: 6" node_number="23"><a class="valid" valid="valid" title="valid: True, node: 24, tag: a, level: 7" node_number="24">Home</a></li> <li class="valid" valid="valid" title="valid: True, node: 25, tag: li, level: 6" node_number="25"><a class="valid" valid="valid" title="valid: True, node: 26, tag: a, level: 7" node_number="26">How-to</a></li> <li class="valid" valid="valid" title="valid: True, node: 27, tag: li, level: 6" node_number="27"><a class="valid" valid="valid" title="valid: True, node: 28, tag: a, level: 7" node_number="28">Smart Home</a></li> </ol> <h1 class="valid" valid="valid" title="valid: True, node: 29, tag: h1, level: 5" node_number="29">What is an Alexa routine, and how to set it up on an Amazon Echo</h1> <p class="valid" valid="valid" title="valid: True, node: 30, tag: p, level: 5" node_number="30"> By Alistair Charlton published <time class="valid" valid="valid" title="valid: True, node: 31, tag: time, level: 6" node_number="31">26 December 21</time> </p> <h2 class="valid" valid="valid" title="valid: True, node: 32, tag: h2, level: 5" node_number="32">Get your smart home devices to work together with a single command</h2> </header> <section class="valid" valid="valid" title="valid: True, node: 33, tag: section, level: 4" node_number="33"> <div class="valid" valid="valid" title="valid: True, node: 34, tag: div, level: 5" node_number="34"> <div class="valid" valid="valid" title="valid: True, node: 35, tag: div, level: 6" node_number="35">(Image: &#169; Amazon)</div> </div> <div class="valid" valid="valid" title="valid: True, node: 36, tag: div, level: 5" node_number="36"> <p class="valid" valid="valid" title="valid: True, node: 37, tag: p, level: 6" node_number="37">By now you probably know that Alexa can serve up information such as the weather report, the sports scores, or even answer your burning questions on one of Amazon&#8217;s <a class="valid" valid="valid" title="valid: True, node: 38, tag: a, level: 7" node_number="38">smart speakers</a> or <a class="valid" valid="valid" title="valid: True, node: 39, tag: a, level: 7" node_number="39">smart displays</a>, as well as control <a class="valid" valid="valid" title="valid: True, node: 40, tag: a, level: 7" node_number="40">smart home devices</a> with a voice command.</p><p class="valid" valid="valid" title="valid: True, node: 41, tag: p, level: 6" node_number="41">But you may not know that thanks to Alexa routines, there&#8217;s much more it can do. For example, you can create an automation that has Alexa brighten your <a class="valid" valid="valid" title="valid: True, node: 42, tag: a, level: 7" node_number="42">smart lights</a>, adjust the heating from the <a class="valid" valid="valid" title="valid: True, node: 43, tag: a, level: 7" node_number="43">smart thermostat</a>, play a certain radio station through the Amazon Echo device itself and switch on your smart <a class="valid" valid="valid" title="valid: True, node: 44, tag: a, level: 7" node_number="44">coffee machine</a>, all when you dismiss your morning alarm.&#160;</p><p class="valid" valid="valid" title="valid: True, node: 45, tag: p, level: 6" node_number="45">It&#8217;s also possible to create a routine that has Alexa flash your smart lights a certain color when the <a class="valid" valid="valid" title="valid: True, node: 46, tag: a, level: 7" node_number="46">video doorbell</a> is rung, or turn off the lights, lower the heating and turn on a <a class="valid" valid="valid" title="valid: True, node: 47, tag: a, level: 7" node_number="47">robot vacuum</a> when you tell it, you&#8217;re heading out.</p><p class="valid" valid="valid" title="valid: True, node: 48, tag: p, level: 6" node_number="48">The key here is that routines enable Alexa to do several things at once, and the trigger for these actions can be a voice command, an action from another device (like a smart doorbell) or something else entirely. All of this is set up using the Alexa smartphone app, and routines can be used with any of <a class="valid" valid="valid" title="valid: True, node: 49, tag: a, level: 7" node_number="49">Amazon&#8217;s Echo smart speakers</a> and displays.</p><p class="valid" valid="valid" title="valid: True, node: 50, tag: p, level: 6" node_number="50">Fancy grabbing yourself one of Amazon&#8217;s smart speakers or smart displays? Check out the best prices on offer right now.&#160;</p><h2 class="valid" valid="valid" title="valid: True, node: 51, tag: h2, level: 6" node_number="51">How to set up Alexa routines</h2><p class="valid" valid="valid" title="valid: True, node: 52, tag: p, level: 6" node_number="52">Sounds good doesn&#8217;t it? It&#8217;s pretty simple to set up, so let&#8217;s get cracking. Unfortunately, it&#8217;s not something that can be set-up through an Amazon device, instead, you&#8217;ll need a smartphone to hand, with the Alexa app open.&#160;</p><p class="valid" valid="valid" title="valid: True, node: 53, tag: p, level: 6" node_number="53">Tap the More tab and select Routines. This page shows any routines that have already been created, a timeline of when your routines have been activated, and a list of featured routines recommended by Amazon. This list is great for inspiration and to show what Alexa routines can do.</p><p class="valid" valid="valid" title="valid: True, node: 54, tag: p, level: 6" node_number="54">To enable any of these recommended routines, simply tap on them to see how they work, then tap the &#8216;Enable&#8217; button in the top-right corner. Once a routine is enabled it can be activated by speaking to the Alexa of any Echo device attached to your Amazon account.</p><p class="valid" valid="valid" title="valid: True, node: 55, tag: p, level: 6" node_number="55">For example, a recommended routing called Goodnight turns off all smart lights connected to your Alexa system. Alexa will then say a random phrase that wishes you goodnight, and open the Sleep Sounds skill, where you can play a calming sound to help you fall asleep.</p><p class="valid" valid="valid" title="valid: True, node: 56, tag: p, level: 6" node_number="56">Another example of a routine already created by Amazon is called &#8216;I&#8217;m home&#8217;. Enable this, and when you say: &#8220;Alexa, I&#8217;m home,&#8221; the assistant will play your Flash Briefing to update you on the day&#8217;s news headlines, then cue up a playlist of relaxing music for two hours. You&#8217;ll need to dig into this routine to select your music provider of choice.</p><h2 class="valid" valid="valid" title="valid: True, node: 57, tag: h2, level: 6" node_number="57">How to create your own Alexa routine&#160;</h2><p class="valid" valid="valid" title="valid: True, node: 58, tag: p, level: 6" node_number="58">Amazon&#8217;s recommended routines are a good place to start, but for a more granular and personalized experience, it&#8217;s possible to create your own routines from scratch.</p><p class="valid" valid="valid" title="valid: True, node: 59, tag: p, level: 6" node_number="59">To do this, tap on the + icon in the top-right corner of the routines page. Here you can name the routine, then set the trigger and the action. The trigger can be a phrase spoken to Alexa, a certain time of day or week, the action of another smart home device (such as movement being spotted by a security camera), the sounding of an Alexa alarm, or the press of an Echo Button.</p><p class="valid" valid="valid" title="valid: True, node: 60, tag: p, level: 6" node_number="60">The final category is called Sound Detection, which is currently available as a public beta. Here, an Alexa routine can be triggered when an Echo device hears a beeping appliance, a crying baby, snoring, water, dogs barking or someone coughing. The idea here is that Alexa could alert you to the beeping of your washing machine finishing its cycle, turn on an outside security light when barking is heard, or play a sound when snoring is heard, in a bid to encourage the guilty party to move.</p><p class="valid" valid="valid" title="valid: True, node: 61, tag: p, level: 6" node_number="61">Once you have assigned a trigger, it&#8217;s time to pick an action. This could be Alexa saying something (such as &#8220;someone is at the door&#8221; when a smart doorbell is rung), adding an event to your calendar, cue up music or a podcast, make a sound, report the news headlines or weather forecast, play something on a Fire TV device, or trigger an applet with IFTTT (If This, Then That), the smart home automation system.</p><p class="valid" valid="valid" title="valid: True, node: 62, tag: p, level: 6" node_number="62">Multiple actions can be added to one routine. For example, Alexa could turn on the lights, adjust the heating and play the news and weather forecast, all when you switch off your morning alarm. It&#8217;s also possible to add a pause to the sequence of triggers; that way, Alexa could turn on the lights, then wait 10 minutes before reading the news headlines, thus giving you time to properly wake up and go to the bathroom first.</p><p class="valid" valid="valid" title="valid: True, node: 63, tag: p, level: 6" node_number="63">Routines are a powerful way to unlock a lot of new functionality with Alexa. They transform Alexa into an assistant that can do multiple things at once, and in some ways act autonomously, performing actions without you first needing to ask. This isn&#8217;t Alexa with intuition &#8211; it&#8217;s still following a trite script, written by you &#8211; but with routines, the assistant becomes significantly more useful, especially when hooked up to a range of smart home devices.</p><ul class="valid" valid="valid" title="valid: True, node: 64, tag: ul, level: 6" node_number="64"><li class="valid" valid="valid" title="valid: True, node: 65, tag: li, level: 7" node_number="65">&#160;Check out these great <a class="valid" valid="valid" title="valid: True, node: 66, tag: a, level: 8" node_number="66"><u class="valid" valid="valid" title="valid: True, node: 67, tag: u, level: 9" node_number="67">cheap Echo deals</u></a></li></ul> </div> <div class="valid" valid="valid" title="valid: True, node: 68, tag: div, level: 5" node_number="68"> <a class="valid" valid="valid" title="valid: True, node: 69, tag: a, level: 6" node_number="69"> See more how-to articles </a> </div> </section> </article> </div> </body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

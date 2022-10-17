@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://launchpad.net/apparmor');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPjxhID5Mb2cgaW4gLyBSZWdpc3RlcjwvYT48L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGgyID48YSA+QXBwQXJtb3I8L2E+PC9oMj4gPC9kaXY+IDx1bCA+IDxsaSA+T3ZlcnZpZXc8L2xpPiA8bGkgPkNvZGU8L2xpPiA8bGkgPjxhID5CdWdzPC9hPjwvbGk+IDxsaSA+PGEgPkJsdWVwcmludHM8L2E+PC9saT4gPGxpID48YSA+VHJhbnNsYXRpb25zPC9hPjwvbGk+IDxsaSA+PGEgPkFuc3dlcnM8L2E+PC9saT4gPC91bD4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gUmVnaXN0ZXJlZCA8dGltZSA+MjAwNy0wNy0wMzwvdGltZT4gYnkgPGEgPktlZXMgQ29vazwvYT4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+PHA+QXBwQXJtb3IgZ2l2ZXMgeW91IG5ldHdvcmsgYXBwbGljYXRpb24gc2VjdXJpdHkgdmlhIG1hbmRhdG9yeSBhY2Nlc3MgY29udHJvbCBmb3IgcHJvZ3JhbXMsIHByb3RlY3RpbmcgYWdhaW5zdCB0aGUgZXhwbG9pdGF0aW9uIG9mIHNvZnR3YXJlIGZsYXdzIGFuZCBjb21wcm9taXNlZCBzeXN0ZW1zLjwvcD48L2Rpdj4gPHVsID4gPGxpPiA8YSA+SG9tZSBwYWdlPC9hPiA8L2xpPiA8bGk+IDxhID5XaWtpPC9hPiA8L2xpPiA8bGk+IDxhID5FeHRlcm5hbCBkb3dubG9hZHM8L2E+IDwvbGk+IDwvdWw+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8aDI+UHJvamVjdCBpbmZvcm1hdGlvbjwvaDI+IDxkaXYgPiA8ZGwgPiA8ZHQ+TWFpbnRhaW5lcjo8L2R0PiA8ZGQ+IEFwcEFybW9yIERldmVsb3BlcnMgPC9kZD4gPC9kbD4gPGRsID4gPGR0PkRyaXZlcjo8L2R0PiA8ZGQ+IEFwcEFybW9yIERldmVsb3BlcnMgPC9kZD4gPC9kbD4gPC9kaXY+IDxkaXY+IDxkbCA+IDxkdD5MaWNlbmNlOjwvZHQ+IDxkZD4gR05VIEdQTCB2MiwgR05VIExHUEwgdjIuMSA8L2RkPiA8L2RsPiA8L2Rpdj4gPHA+IDxhID48YWJiciA+UkRGPC9hYmJyPiBtZXRhZGF0YTwvYT4gPC9wPiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGgyPiBWaWV3IGZ1bGwgaGlzdG9yeSBTZXJpZXMgYW5kIG1pbGVzdG9uZXMgPC9oMj4gPGRpdiA+IExvYWRpbmcgZ3JhcGguLi4gPC9kaXY+IDxwID4gbWFzdGVyIHNlcmllcyBpcyB0aGUgY3VycmVudCBmb2N1cyBvZiBkZXZlbG9wbWVudC4gPC9wPiA8dWwgPiA8bGkgPiBWaWV3IG1pbGVzdG9uZXMgPC9saT4gPGxpID4gPGEgPlZpZXcgc291cmNlIHBhY2thZ2UgcmVjaXBlczwvYT4gPC9saT4gPGxpID4gPGEgPkNyZWF0ZSBzbmFwIHBhY2thZ2U8L2E+IDwvbGk+IDwvdWw+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMj4gQWxsIGNvZGUgQ29kZSA8L2gyPiA8ZGl2ID4gPHA+IDxhID5scDphcHBhcm1vcjwvYT4gPGEgPkJyb3dzZSB0aGUgY29kZTwvYT4gPC9wPiA8L2Rpdj4gPGRpdiA+IDxkbCA+IDxkdD5WZXJzaW9uIGNvbnRyb2wgc3lzdGVtOjwvZHQ+IDxkZD5HaXQ8L2RkPiA8L2RsPiA8ZGwgPiA8ZHQ+UHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzOjwvZHQ+IDxkZD4gQywgQysrLCBQZXJsLCBQeXRob24sIHNoIDwvZGQ+IDwvZGw+IDwvZGl2PiA8L2Rpdj4gPGRpdj4gPGRpdiA+IDxoMj4gQWxsIHBhY2thZ2VzIFBhY2thZ2VzIGluIERpc3RyaWJ1dGlvbnMgPC9oMj4gPHVsPiA8bGk+IGFwcGFybW9yIHNvdXJjZSBwYWNrYWdlIGluIFhlbmlhbCA8c3BhbiA+IFZlcnNpb24gMi4xMC45NS0wdWJ1bnR1Mi4xMSB1cGxvYWRlZCA8dGltZSA+b24gMjAxOS0wNS0yODwvdGltZT4gPC9zcGFuPiA8L2xpPiA8bGk+IGFwcGFybW9yIHNvdXJjZSBwYWNrYWdlIGluIFRydXN0eSA8c3BhbiA+IFZlcnNpb24gMi4xMC45NS0wdWJ1bnR1Mi42fjE0LjA0LjQgdXBsb2FkZWQgPHRpbWUgPm9uIDIwMTgtMDktMjc8L3RpbWU+IDwvc3Bhbj4gPC9saT4gPGxpPiBhcHBhcm1vciBzb3VyY2UgcGFja2FnZSBpbiBTaWQgPHNwYW4gPiBWZXJzaW9uIDMuMC4zLTYgdXBsb2FkZWQgPHRpbWUgPm9uIDIwMjEtMTEtMTg8L3RpbWU+IDwvc3Bhbj4gPC9saT4gPGxpPiBhcHBhcm1vciBzb3VyY2UgcGFja2FnZSBpbiBQcmVjaXNlIDxzcGFuID4gVmVyc2lvbiAyLjcuMTAyLTB1YnVudHUzLjExIHVwbG9hZGVkIDx0aW1lID5vbiAyMDE3LTAzLTE2PC90aW1lPiA8L3NwYW4+IDwvbGk+IDxsaT4gYXBwYXJtb3Igc291cmNlIHBhY2thZ2UgaW4gT25laXJpYyBiYXNlZCBzZXJpZXMgZm9yIFVidW50dSBMRUIgPHNwYW4gPiBWZXJzaW9uIDIuNy4wfmJldGExK2J6cjE3NzQtMXVidW50dTIgdXBsb2FkZWQgPHRpbWUgPm9uIDIwMTEtMTAtMDQ8L3RpbWU+IDwvc3Bhbj4gPC9saT4gPC91bD4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXY+PGRpdiA+IDxoMj5BbGwgYnVncyBMYXRlc3QgYnVncyByZXBvcnRlZDwvaDI+IDx1bD4gPGxpPiBCdWcgIzE5NDkzODE6IGFwcGFybW9yX3BhcnNlciBkb2VzIG5vdCBoYW5kbGUgcXVvdGVkIGZpbGVzIHdpdGggYnJhY2VzIGluIHRoZWlyIG5hbWUgPHNwYW4gPiBSZXBvcnRlZCA8dGltZSA+b24gMjAyMS0xMS0wMTwvdGltZT4gPC9zcGFuPiA8L2xpPiA8bGk+IEJ1ZyAjMTk0Mzc2NzogZmxvY2sgZG9lcyBub3QgcmVzb2x2ZSBwYXRocyBjb3JyZWN0bHkgaW4gY29udGFpbmVycyB3aXRoIG1pY3JvazhzIDxzcGFuID4gUmVwb3J0ZWQgPHRpbWUgPm9uIDIwMjEtMDktMTU8L3RpbWU+IDwvc3Bhbj4gPC9saT4gPGxpPiBCdWcgIzE5Mzk5MTU6IG1lbW9yeSBsZWFraW5nIHdoZW4gcmVtb3ZpbmcgYSBwcm9maWxlIDxzcGFuID4gUmVwb3J0ZWQgPHRpbWUgPm9uIDIwMjEtMDgtMTM8L3RpbWU+IDwvc3Bhbj4gPC9saT4gPGxpPiBCdWcgIzE5Mzk4ODQ6IENhbid0IGNyZWF0ZSBjYWNoZSBsb2NhdGlvbiAnL3Zhci9jYWNoZS9hcHBhcm1vcic6IE5vIHN1Y2ggZmlsZSBvciBkaXJlY3RvcnkgPHNwYW4gPiBSZXBvcnRlZCA8dGltZSA+b24gMjAyMS0wOC0xMzwvdGltZT4gPC9zcGFuPiA8L2xpPiA8bGk+IEJ1ZyAjMTkzMjMzMTogdWJ1bnR1X3FydF9hcHBhcm1vcjogaTE4biB0ZXN0IGZhaWxzIG9uIGFybTY0IEhpcnN1dGUgLyBJbXBpc2ggPHNwYW4gPiBSZXBvcnRlZCA8dGltZSA+b24gMjAyMS0wNi0xNzwvdGltZT4gPC9zcGFuPiA8L2xpPiA8L3VsPiA8L2Rpdj4gPC9kaXY+IDxkaXY+IDxkaXYgPiA8aDI+IEFsbCBibHVlcHJpbnRzIExhdGVzdCBibHVlcHJpbnRzPC9oMj4gPHVsPiA8bGk+IEZpbGVuYW1lIFBvbGljeSBLaXQgPHNwYW4gPiBSZWdpc3RlcmVkIDx0aW1lID5vbiAyMDEyLTA2LTI0PC90aW1lPiA8L3NwYW4+IDwvbGk+IDwvdWw+IDwvZGl2PiA8L2Rpdj4gPGRpdj4gPGRpdiA+IDxoMj4gTW9yZSBjb250cmlidXRvcnMgVG9wIGNvbnRyaWJ1dG9ycyA8L2gyPiA8dWw+IDxsaT4gZ29nbyA4NiBwb2ludHMgPC9saT4gPGxpPiBBZGVsYSBFdmVseW4gQmljaGVzY3UgNTcgcG9pbnRzIDwvbGk+IDxsaT4gWWFuZyBZdWxpbiAyOCBwb2ludHMgPC9saT4gPGxpPiBJYW4gSm9obnNvbiAyMCBwb2ludHMgPC9saT4gPGxpPiBHZW9yZ2lhIEdhcmNpYSAxOSBwb2ludHMgPC9saT4gPC91bD4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8aDI+R2V0IEludm9sdmVkPC9oMj4gPHVsID4gPGxpPiBSZXBvcnQgYSBidWcgPC9saT4gPGxpPiBIZWxwIHRyYW5zbGF0ZSA8L2xpPiA8bGk+IFJlZ2lzdGVyIGEgYmx1ZXByaW50IDwvbGk+IDxsaSA+IDxkaXYgPiA8ZGl2ID53YXJuaW5nPC9kaXY+IEFzayBhIHF1ZXN0aW9uIDwvZGl2PiA8L2xpPiA8L3VsPiA8L2Rpdj4gPGRpdiA+IDxoMj5Eb3dubG9hZHM8L2gyPiA8ZGl2ID4gTGF0ZXN0IHZlcnNpb24gaXMgMy4wLjMgPC9kaXY+IDx1bD4gPGxpPiBhcHBhcm1vci0zLjAuMy50YXIuZ3ogPC9saT4gPC91bD4gPGRpdiA+IHJlbGVhc2VkIDx0aW1lID5vbiAyMDIxLTA4LTA3PC90aW1lPiA8L2Rpdj4gPHAgPiBBbGwgZG93bmxvYWRzIDwvcD4gPC9kaXY+IDxkaXYgPiA8aDI+IEFubm91bmNlbWVudHMgPC9oMj4gPHVsPiA8bGk+IDxkaXYgPiBBcHBBcm1vciAzLjAuMyBSZWxlYXNlZCBvbiAyMDIxLTA4LTA3IFRoZSBBcHBBcm1vciBkZXZlbG9wbWVudCB0ZWFtIGlzIHBsZWFzZWQgdG8gYW5ub3VuY2UgdGhlIDMuMC4zIHJlbGVhc2Ugb2YgdGhlLi4uIDwvZGl2PiA8L2xpPiA8bGk+IEFwcEFSbW9yIDMuMC4yIFJlbGVhc2VkIG9uIDIwMjEtMDgtMDYgVGhlIEFwcEFybW9yIGRldmVsb3BtZW50IHRlYW0gaXMgcGxlYXNlZCB0byBhbm5vdW5jZSB0aGUgMy4wLjIgcmVsZWFzZSBvZiB0aGUuLi4gPC9saT4gPGxpPiBBcHBBcm1vciAyLjEwLjYgUmVsZWFzZWQgb24gMjAyMC0xMi0wOSBUaGUgQXBwQXJtb3IgZGV2ZWxvcG1lbnQgdGVhbSBpcyBwbGVhc2VkIHRvIGFubm91bmNlIHRoZSAyLjEwLjYgcmVsZWFzZSBvZiB0aC4uLiA8L2xpPiA8bGk+IEFwcEFybW9yIDIuMTMuNiBSZWxlYXNlZCBvbiAyMDIwLTEyLTA5IFRoZSBBcHBBcm1vciBkZXZlbG9wbWVudCB0ZWFtIGlzIHBsZWFzZWQgdG8gYW5ub3VuY2UgdGhlIDIuMTMuNiByZWxlYXNlIG9mIHRoLi4uIDwvbGk+IDxsaT4gQXBwQVJtb3IgMy4wLjEgUmVsZWFzZWQgb24gMjAyMC0xMi0wMiBBcHBBcm1vciAzLjAuMSBpcyBhIG1haW50ZW5hbmNlIHJlbGVhc2Ugb2YgdGhlIHVzZXIgc3BhY2UgY29tcG9uZW50cyBvZiB0aGUgQS4uLiA8L2xpPiA8L3VsPiA8ZGl2ID5SZWFkIGFsbCBhbm5vdW5jZW1lbnRzPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IOKAoiBUYWtlIHRoZSB0b3VyIOKAoiBSZWFkIHRoZSBndWlkZSA8L2Rpdj4gPC9kaXY+IDxkaXYgPiDCqSAyMDA0LTIwMjEgQ2Fub25pY2FswqBMdGQuIOKAoiBUZXJtcyBvZiB1c2Ug4oCiIERhdGEgcHJpdmFjeSDigKIgQ29udGFjdCBMYXVuY2hwYWQgU3VwcG9ydCDigKIgQmxvZyDigKIgQ2FyZWVycyDigKIgU3lzdGVtIHN0YXR1cyA8c3BhbiA+IOKAoiByZjkyYjZlMCAoR2V0IHRoZSBjb2RlISkgPC9zcGFuPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2JvZHk+'</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, level: 1" node_number="1"> <div class="valid" valid="valid" title="valid: True, node: 2, level: 2" node_number="2"> <div class="valid" valid="valid" title="valid: True, node: 3, level: 3" node_number="3"> <div class="valid" valid="valid" title="valid: True, node: 4, level: 4" node_number="4"><a class="valid" valid="valid" title="valid: True, node: 5, level: 5" node_number="5">Log in / Register</a></div> </div> <div class="valid" valid="valid" title="valid: True, node: 6, level: 3" node_number="6"> <div class="valid" valid="valid" title="valid: True, node: 7, level: 4" node_number="7"> <h2 class="valid" valid="valid" title="valid: True, node: 8, level: 5" node_number="8"><a class="valid" valid="valid" title="valid: True, node: 9, level: 6" node_number="9">AppArmor</a></h2> </div> <ul class="valid" valid="valid" title="valid: True, node: 10, level: 4" node_number="10"> <li class="valid" valid="valid" title="valid: True, node: 11, level: 5" node_number="11">Overview</li> <li class="valid" valid="valid" title="valid: True, node: 12, level: 5" node_number="12">Code</li> <li class="valid" valid="valid" title="valid: True, node: 13, level: 5" node_number="13"><a class="valid" valid="valid" title="valid: True, node: 14, level: 6" node_number="14">Bugs</a></li> <li class="valid" valid="valid" title="valid: True, node: 15, level: 5" node_number="15"><a class="valid" valid="valid" title="valid: True, node: 16, level: 6" node_number="16">Blueprints</a></li> <li class="valid" valid="valid" title="valid: True, node: 17, level: 5" node_number="17"><a class="valid" valid="valid" title="valid: True, node: 18, level: 6" node_number="18">Translations</a></li> <li class="valid" valid="valid" title="valid: True, node: 19, level: 5" node_number="19"><a class="valid" valid="valid" title="valid: True, node: 20, level: 6" node_number="20">Answers</a></li> </ul> </div> <div class="valid" valid="valid" title="valid: True, node: 21, level: 3" node_number="21"> <div class="valid" valid="valid" title="valid: True, node: 22, level: 4" node_number="22"> <div class="valid" valid="valid" title="valid: True, node: 23, level: 5" node_number="23"> <div class="valid" valid="valid" title="valid: True, node: 24, level: 6" node_number="24"> <div class="valid" valid="valid" title="valid: True, node: 25, level: 7" node_number="25"> Registered <time class="valid" valid="valid" title="valid: True, node: 26, level: 8" node_number="26">2007-07-03</time> by <a class="valid" valid="valid" title="valid: True, node: 27, level: 8" node_number="27">Kees Cook</a> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 28, level: 6" node_number="28"> <div class="valid" valid="valid" title="valid: True, node: 29, level: 7" node_number="29"><p class="valid" valid="valid" title="valid: True, node: 30, level: 8" node_number="30">AppArmor gives you network application security via mandatory access control for programs, protecting against the exploitation of software flaws and compromised systems.</p></div> <ul class="valid" valid="valid" title="valid: True, node: 31, level: 7" node_number="31"> <li class="valid" valid="valid" title="valid: True, node: 32, level: 8" node_number="32"> <a class="valid" valid="valid" title="valid: True, node: 33, level: 9" node_number="33">Home page</a> </li> <li class="valid" valid="valid" title="valid: True, node: 34, level: 8" node_number="34"> <a class="valid" valid="valid" title="valid: True, node: 35, level: 9" node_number="35">Wiki</a> </li> <li class="valid" valid="valid" title="valid: True, node: 36, level: 8" node_number="36"> <a class="valid" valid="valid" title="valid: True, node: 37, level: 9" node_number="37">External downloads</a> </li> </ul> </div> <div class="valid" valid="valid" title="valid: True, node: 38, level: 6" node_number="38"> <div class="valid" valid="valid" title="valid: True, node: 39, level: 7" node_number="39"> <div class="valid" valid="valid" title="valid: True, node: 40, level: 8" node_number="40"> <h2 class="valid" valid="valid" title="valid: True, node: 41, level: 9" node_number="41">Project information</h2> <div class="valid" valid="valid" title="valid: True, node: 42, level: 9" node_number="42"> <dl class="valid" valid="valid" title="valid: True, node: 43, level: 10" node_number="43"> <dt class="valid" valid="valid" title="valid: True, node: 44, level: 11" node_number="44">Maintainer:</dt> <dd class="valid" valid="valid" title="valid: True, node: 45, level: 11" node_number="45"> AppArmor Developers </dd> </dl> <dl class="valid" valid="valid" title="valid: True, node: 46, level: 10" node_number="46"> <dt class="valid" valid="valid" title="valid: True, node: 47, level: 11" node_number="47">Driver:</dt> <dd class="valid" valid="valid" title="valid: True, node: 48, level: 11" node_number="48"> AppArmor Developers </dd> </dl> </div> <div class="valid" valid="valid" title="valid: True, node: 49, level: 9" node_number="49"> <dl class="valid" valid="valid" title="valid: True, node: 50, level: 10" node_number="50"> <dt class="valid" valid="valid" title="valid: True, node: 51, level: 11" node_number="51">Licence:</dt> <dd class="valid" valid="valid" title="valid: True, node: 52, level: 11" node_number="52"> GNU GPL v2, GNU LGPL v2.1 </dd> </dl> </div> <p class="valid" valid="valid" title="valid: True, node: 53, level: 9" node_number="53"> <a class="valid" valid="valid" title="valid: True, node: 54, level: 10" node_number="54"><abbr class="valid" valid="valid" title="valid: True, node: 55, level: 11" node_number="55">RDF</abbr> metadata</a> </p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 56, level: 7" node_number="56"> <div class="valid" valid="valid" title="valid: True, node: 57, level: 8" node_number="57"> <h2 class="valid" valid="valid" title="valid: True, node: 58, level: 9" node_number="58"> View full history Series and milestones </h2> <div class="valid" valid="valid" title="valid: True, node: 59, level: 9" node_number="59"> Loading graph... </div> <p class="valid" valid="valid" title="valid: True, node: 60, level: 9" node_number="60"> master series is the current focus of development. </p> <ul class="valid" valid="valid" title="valid: True, node: 61, level: 9" node_number="61"> <li class="valid" valid="valid" title="valid: True, node: 62, level: 10" node_number="62"> View milestones </li> <li class="valid" valid="valid" title="valid: True, node: 63, level: 10" node_number="63"> <a class="valid" valid="valid" title="valid: True, node: 64, level: 11" node_number="64">View source package recipes</a> </li> <li class="valid" valid="valid" title="valid: True, node: 65, level: 10" node_number="65"> <a class="valid" valid="valid" title="valid: True, node: 66, level: 11" node_number="66">Create snap package</a> </li> </ul> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 67, level: 6" node_number="67"> <div class="valid" valid="valid" title="valid: True, node: 68, level: 7" node_number="68"> <div class="valid" valid="valid" title="valid: True, node: 69, level: 8" node_number="69"> <h2 class="valid" valid="valid" title="valid: True, node: 70, level: 9" node_number="70"> All code Code </h2> <div class="valid" valid="valid" title="valid: True, node: 71, level: 9" node_number="71"> <p class="valid" valid="valid" title="valid: True, node: 72, level: 10" node_number="72"> <a class="valid" valid="valid" title="valid: True, node: 73, level: 11" node_number="73">lp:apparmor</a> <a class="valid" valid="valid" title="valid: True, node: 74, level: 11" node_number="74">Browse the code</a> </p> </div> <div class="valid" valid="valid" title="valid: True, node: 75, level: 9" node_number="75"> <dl class="valid" valid="valid" title="valid: True, node: 76, level: 10" node_number="76"> <dt class="valid" valid="valid" title="valid: True, node: 77, level: 11" node_number="77">Version control system:</dt> <dd class="valid" valid="valid" title="valid: True, node: 78, level: 11" node_number="78">Git</dd> </dl> <dl class="valid" valid="valid" title="valid: True, node: 79, level: 10" node_number="79"> <dt class="valid" valid="valid" title="valid: True, node: 80, level: 11" node_number="80">Programming languages:</dt> <dd class="valid" valid="valid" title="valid: True, node: 81, level: 11" node_number="81"> C, C++, Perl, Python, sh </dd> </dl> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 82, level: 8" node_number="82"> <div class="valid" valid="valid" title="valid: True, node: 83, level: 9" node_number="83"> <h2 class="valid" valid="valid" title="valid: True, node: 84, level: 10" node_number="84"> All packages Packages in Distributions </h2> <ul class="valid" valid="valid" title="valid: True, node: 85, level: 10" node_number="85"> <li class="valid" valid="valid" title="valid: True, node: 86, level: 11" node_number="86"> apparmor source package in Xenial <span class="valid" valid="valid" title="valid: True, node: 87, level: 12" node_number="87"> Version 2.10.95-0ubuntu2.11 uploaded <time class="valid" valid="valid" title="valid: True, node: 88, level: 13" node_number="88">on 2019-05-28</time> </span> </li> <li class="valid" valid="valid" title="valid: True, node: 89, level: 11" node_number="89"> apparmor source package in Trusty <span class="valid" valid="valid" title="valid: True, node: 90, level: 12" node_number="90"> Version 2.10.95-0ubuntu2.6~14.04.4 uploaded <time class="valid" valid="valid" title="valid: True, node: 91, level: 13" node_number="91">on 2018-09-27</time> </span> </li> <li class="valid" valid="valid" title="valid: True, node: 92, level: 11" node_number="92"> apparmor source package in Sid <span class="valid" valid="valid" title="valid: True, node: 93, level: 12" node_number="93"> Version 3.0.3-6 uploaded <time class="valid" valid="valid" title="valid: True, node: 94, level: 13" node_number="94">on 2021-11-18</time> </span> </li> <li class="valid" valid="valid" title="valid: True, node: 95, level: 11" node_number="95"> apparmor source package in Precise <span class="valid" valid="valid" title="valid: True, node: 96, level: 12" node_number="96"> Version 2.7.102-0ubuntu3.11 uploaded <time class="valid" valid="valid" title="valid: True, node: 97, level: 13" node_number="97">on 2017-03-16</time> </span> </li> <li class="valid" valid="valid" title="valid: True, node: 98, level: 11" node_number="98"> apparmor source package in Oneiric based series for Ubuntu LEB <span class="valid" valid="valid" title="valid: True, node: 99, level: 12" node_number="99"> Version 2.7.0~beta1+bzr1774-1ubuntu2 uploaded <time class="valid" valid="valid" title="valid: True, node: 100, level: 13" node_number="100">on 2011-10-04</time> </span> </li> </ul> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 101, level: 7" node_number="101"> <div class="valid" valid="valid" title="valid: True, node: 102, level: 8" node_number="102"><div class="valid" valid="valid" title="valid: True, node: 103, level: 9" node_number="103"> <h2 class="valid" valid="valid" title="valid: True, node: 104, level: 10" node_number="104">All bugs Latest bugs reported</h2> <ul class="valid" valid="valid" title="valid: True, node: 105, level: 10" node_number="105"> <li class="valid" valid="valid" title="valid: True, node: 106, level: 11" node_number="106"> Bug #1949381: apparmor_parser does not handle quoted files with braces in their name <span class="valid" valid="valid" title="valid: True, node: 107, level: 12" node_number="107"> Reported <time class="valid" valid="valid" title="valid: True, node: 108, level: 13" node_number="108">on 2021-11-01</time> </span> </li> <li class="valid" valid="valid" title="valid: True, node: 109, level: 11" node_number="109"> Bug #1943767: flock does not resolve paths correctly in containers with microk8s <span class="valid" valid="valid" title="valid: True, node: 110, level: 12" node_number="110"> Reported <time class="valid" valid="valid" title="valid: True, node: 111, level: 13" node_number="111">on 2021-09-15</time> </span> </li> <li class="valid" valid="valid" title="valid: True, node: 112, level: 11" node_number="112"> Bug #1939915: memory leaking when removing a profile <span class="valid" valid="valid" title="valid: True, node: 113, level: 12" node_number="113"> Reported <time class="valid" valid="valid" title="valid: True, node: 114, level: 13" node_number="114">on 2021-08-13</time> </span> </li> <li class="valid" valid="valid" title="valid: True, node: 115, level: 11" node_number="115"> Bug #1939884: Can't create cache location '/var/cache/apparmor': No such file or directory <span class="valid" valid="valid" title="valid: True, node: 116, level: 12" node_number="116"> Reported <time class="valid" valid="valid" title="valid: True, node: 117, level: 13" node_number="117">on 2021-08-13</time> </span> </li> <li class="valid" valid="valid" title="valid: True, node: 118, level: 11" node_number="118"> Bug #1932331: ubuntu_qrt_apparmor: i18n test fails on arm64 Hirsute / Impish <span class="valid" valid="valid" title="valid: True, node: 119, level: 12" node_number="119"> Reported <time class="valid" valid="valid" title="valid: True, node: 120, level: 13" node_number="120">on 2021-06-17</time> </span> </li> </ul> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 121, level: 8" node_number="121"> <div class="valid" valid="valid" title="valid: True, node: 122, level: 9" node_number="122"> <h2 class="valid" valid="valid" title="valid: True, node: 123, level: 10" node_number="123"> All blueprints Latest blueprints</h2> <ul class="valid" valid="valid" title="valid: True, node: 124, level: 10" node_number="124"> <li class="valid" valid="valid" title="valid: True, node: 125, level: 11" node_number="125"> Filename Policy Kit <span class="valid" valid="valid" title="valid: True, node: 126, level: 12" node_number="126"> Registered <time class="valid" valid="valid" title="valid: True, node: 127, level: 13" node_number="127">on 2012-06-24</time> </span> </li> </ul> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 128, level: 8" node_number="128"> <div class="valid" valid="valid" title="valid: True, node: 129, level: 9" node_number="129"> <h2 class="valid" valid="valid" title="valid: True, node: 130, level: 10" node_number="130"> More contributors Top contributors </h2> <ul class="valid" valid="valid" title="valid: True, node: 131, level: 10" node_number="131"> <li class="valid" valid="valid" title="valid: True, node: 132, level: 11" node_number="132"> gogo 86 points </li> <li class="valid" valid="valid" title="valid: True, node: 133, level: 11" node_number="133"> Adela Evelyn Bichescu 57 points </li> <li class="valid" valid="valid" title="valid: True, node: 134, level: 11" node_number="134"> Yang Yulin 28 points </li> <li class="valid" valid="valid" title="valid: True, node: 135, level: 11" node_number="135"> Ian Johnson 20 points </li> <li class="valid" valid="valid" title="valid: True, node: 136, level: 11" node_number="136"> Georgia Garcia 19 points </li> </ul> </div> </div> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 137, level: 4" node_number="137"> <div class="valid" valid="valid" title="valid: True, node: 138, level: 5" node_number="138"> <h2 class="valid" valid="valid" title="valid: True, node: 139, level: 6" node_number="139">Get Involved</h2> <ul class="valid" valid="valid" title="valid: True, node: 140, level: 6" node_number="140"> <li class="valid" valid="valid" title="valid: True, node: 141, level: 7" node_number="141"> Report a bug </li> <li class="valid" valid="valid" title="valid: True, node: 142, level: 7" node_number="142"> Help translate </li> <li class="valid" valid="valid" title="valid: True, node: 143, level: 7" node_number="143"> Register a blueprint </li> <li class="valid" valid="valid" title="valid: True, node: 144, level: 7" node_number="144"> <div class="valid" valid="valid" title="valid: True, node: 145, level: 8" node_number="145"> <div class="valid" valid="valid" title="valid: True, node: 146, level: 9" node_number="146">warning</div> Ask a question </div> </li> </ul> </div> <div class="valid" valid="valid" title="valid: True, node: 147, level: 5" node_number="147"> <h2 class="valid" valid="valid" title="valid: True, node: 148, level: 6" node_number="148">Downloads</h2> <div class="valid" valid="valid" title="valid: True, node: 149, level: 6" node_number="149"> Latest version is 3.0.3 </div> <ul class="valid" valid="valid" title="valid: True, node: 150, level: 6" node_number="150"> <li class="valid" valid="valid" title="valid: True, node: 151, level: 7" node_number="151"> apparmor-3.0.3.tar.gz </li> </ul> <div class="valid" valid="valid" title="valid: True, node: 152, level: 6" node_number="152"> released <time class="valid" valid="valid" title="valid: True, node: 153, level: 7" node_number="153">on 2021-08-07</time> </div> <p class="valid" valid="valid" title="valid: True, node: 154, level: 6" node_number="154"> All downloads </p> </div> <div class="valid" valid="valid" title="valid: True, node: 155, level: 5" node_number="155"> <h2 class="valid" valid="valid" title="valid: True, node: 156, level: 6" node_number="156"> Announcements </h2> <ul class="valid" valid="valid" title="valid: True, node: 157, level: 6" node_number="157"> <li class="valid" valid="valid" title="valid: True, node: 158, level: 7" node_number="158"> <div class="valid" valid="valid" title="valid: True, node: 159, level: 8" node_number="159"> AppArmor 3.0.3 Released on 2021-08-07 The AppArmor development team is pleased to announce the 3.0.3 release of the... </div> </li> <li class="valid" valid="valid" title="valid: True, node: 160, level: 7" node_number="160"> AppARmor 3.0.2 Released on 2021-08-06 The AppArmor development team is pleased to announce the 3.0.2 release of the... </li> <li class="valid" valid="valid" title="valid: True, node: 161, level: 7" node_number="161"> AppArmor 2.10.6 Released on 2020-12-09 The AppArmor development team is pleased to announce the 2.10.6 release of th... </li> <li class="valid" valid="valid" title="valid: True, node: 162, level: 7" node_number="162"> AppArmor 2.13.6 Released on 2020-12-09 The AppArmor development team is pleased to announce the 2.13.6 release of th... </li> <li class="valid" valid="valid" title="valid: True, node: 163, level: 7" node_number="163"> AppARmor 3.0.1 Released on 2020-12-02 AppArmor 3.0.1 is a maintenance release of the user space components of the A... </li> </ul> <div class="valid" valid="valid" title="valid: True, node: 164, level: 6" node_number="164">Read all announcements</div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 165, level: 3" node_number="165"> <div class="valid" valid="valid" title="valid: True, node: 166, level: 4" node_number="166"> <div class="valid" valid="valid" title="valid: True, node: 167, level: 5" node_number="167"> &#8226; Take the tour &#8226; Read the guide </div> </div> <div class="valid" valid="valid" title="valid: True, node: 168, level: 4" node_number="168"> &#169; 2004-2021 Canonical&#160;Ltd. &#8226; Terms of use &#8226; Data privacy &#8226; Contact Launchpad Support &#8226; Blog &#8226; Careers &#8226; System status <span class="valid" valid="valid" title="valid: True, node: 169, level: 5" node_number="169"> &#8226; rf92b6e0 (Get the code!) </span> </div> </div> </div> </body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

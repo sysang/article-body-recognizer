@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://firebase.google.com/products/crashlytics/');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8ZGV2c2l0ZS1wcm9ncmVzcyA+PC9kZXZzaXRlLXByb2dyZXNzPiA8c2VjdGlvbiA+PGRldnNpdGUtaGVhZGVyPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGV2c2l0ZS10YWJzID4gPC9kZXZzaXRlLXRhYnM+IDwvZGl2PiA8ZGV2c2l0ZS1zZWFyY2ggPiA8L2RldnNpdGUtc2VhcmNoPiA8L2Rpdj4gPGRldnNpdGUtbGFuZ3VhZ2Utc2VsZWN0b3I+IDxkZXZzaXRlLXNlbGVjdCA+IDxzZWxlY3QgPiA8b3B0aW9uPkxhbmd1YWdlPC9vcHRpb24+IDxvcHRpb24gPiBFbmdsaXNoIDwvb3B0aW9uPiA8b3B0aW9uID4gQmFoYXNhIEluZG9uZXNpYSA8L29wdGlvbj4gPG9wdGlvbiA+IEVzcGHDsW9sIOKAkyBBbcOpcmljYSBMYXRpbmEgPC9vcHRpb24+IDxvcHRpb24gPiBQb3J0dWd1w6pzIOKAkyBCcmFzaWwgPC9vcHRpb24+IDxvcHRpb24gPiDkuK3mlocg4oCTIOeugOS9kyA8L29wdGlvbj4gPG9wdGlvbiA+IOaXpeacrOiqniA8L29wdGlvbj4gPG9wdGlvbiA+IO2VnOq1reyWtCA8L29wdGlvbj4gPC9zZWxlY3Q+IDwvZGV2c2l0ZS1zZWxlY3Q+IDwvZGV2c2l0ZS1sYW5ndWFnZS1zZWxlY3Rvcj4gR28gdG8gY29uc29sZSA8ZGV2c2l0ZS11c2VyID4gU2lnbiBpbiA8L2RldnNpdGUtdXNlcj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDx1bCA+IDxsaSA+IDxhID4gUHJvZHVjdHMgPC9hPiA8L2xpPiA8L3VsPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGV2c2l0ZS1oZWFkZXI+IDxkZXZzaXRlLWJvb2stbmF2ID4gPC9kZXZzaXRlLWJvb2stbmF2PiA8c2VjdGlvbiA+IDxtYWluID4gPGRpdiA+IDxkaXYgPiA8ZGV2c2l0ZS10b2MgPjwvZGV2c2l0ZS10b2M+IDxkZXZzaXRlLXJlY29tbWVuZGF0aW9ucy1zaWRlYmFyID4gPC9kZXZzaXRlLXJlY29tbWVuZGF0aW9ucy1zaWRlYmFyPiA8L2Rpdj4gPC9kaXY+IDxkZXZzaXRlLWNvbnRlbnQ+IDxhcnRpY2xlID4gPGRpdiA+IDx1bCA+IDxsaSA+IDxhID4gRmlyZWJhc2UgPC9hPiA8L2xpPiA8bGkgPiA8YSA+IFByb2R1Y3RzIDwvYT4gPC9saT4gPC91bD4gPC9kaXY+IDxkZXZzaXRlLWZlZWRiYWNrID4gPC9kZXZzaXRlLWZlZWRiYWNrPiA8ZGV2c2l0ZS1ib29rbWFyaz48L2RldnNpdGUtYm9va21hcms+IDxkZXZzaXRlLXRvYyA+IDwvZGV2c2l0ZS10b2M+IDxkaXYgPiA8bWFpbj4gPHNlY3Rpb24gPiA8aGVhZGVyID4gPGRpdiA+IDxoNSA+IEZpcmViYXNlIENyYXNobHl0aWNzIDwvaDU+IDxoMSA+VHJhY2ssIHByaW9yaXRpemUgYW5kZml4IGNyYXNoZXMgZmFzdGVyPC9oMT4gPGRpdiA+IDxhID4gVmlzaXQgY29uc29sZSA8L2E+IDxhID4gVmlldyBkb2NzIDwvYT4gPC9kaXY+IDwvZGl2PiA8L2hlYWRlcj4gPC9zZWN0aW9uPiA8ZGl2ID4gPHNlY3Rpb24gPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8aDQgPlJlc29sdmUgYnVncyBxdWlja2x5PC9oND4gPHA+RmlyZWJhc2UgQ3Jhc2hseXRpY3MsIGEgcmVhbCB0aW1lIGNyYXNoIHJlcG9ydGluZyB0b29sLCBoZWxwcyB5b3UgcHJpb3JpdGl6ZSBhbmQgZml4IHlvdXIgbW9zdCBwZXJ2YXNpdmUgY3Jhc2hlcyBiYXNlZCBvbiB0aGUgaW1wYWN0IG9uIHJlYWwgdXNlcnMuIENyYXNobHl0aWNzIGFsc28gZWFzaWx5IGludGVncmF0ZXMgaW50byB5b3VyIEFuZHJvaWQsIGlPUywgbWFjT1MsIHR2T1MsIGFuZCB3YXRjaE9TIGFwcHMuPC9wPiA8ZGl2ID48aSA+cGxhdF9pb3M8L2k+IDxpID5wbGF0X2FuZHJvaWQ8L2k+IDxpID5wbGF0X3VuaXR5PC9pPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxoNCA+R2FpbiBjb250ZXh0dWFsIGluc2lnaHQgaW50byB5b3VyIGNyYXNoZXM8L2g0PiA8cD5HZXQgZGV0YWlsZWQgYW5kIGFjdGlvbmFibGUgaW5zaWdodCBvbiB0aGUgdGltZWxpbmUgb2YgZXZlbnRzIGxlYWRpbmcgdXAgdG8geW91ciBjcmFzaCBzbyB5b3UgY2FuIHVuY292ZXIgdGhlIHJvb3QgY2F1c2Ugb2YgeW91ciBjcmFzaGVzLCBhbmQgcXVpY2tseSByZXByb2R1Y2UgdGhlIGJ1Zy4gU3BlbmQgbGVzcyB0aW1lIHRyaWFnaW5nIGFuZCB0cm91Ymxlc2hvb3RpbmcgY3Jhc2hlcyBhbmQgbW9yZSB0aW1lIGJ1aWxkaW5nIGFwcCBmZWF0dXJlcyB0aGF0IGRlbGlnaHQgdXNlcnMuPC9wPiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGg0ID5OZXZlciBtaXNzIGEgY3JpdGljYWwgY3Jhc2g8L2g0PiA8cD5SZWNlaXZlIHJlYWwgdGltZSBhbGVydHMgZm9yIG5ldyBlcnJvcnMsIHJlZ3Jlc3NlZCBlcnJvcnMsIGFuZCBlcnJvcnMgdGhhdCBhcmUgc3RhcnRpbmcgdG8gaGFwcGVuIGF0IGhpZ2hlciByYXRlcywgbm8gbWF0dGVyIHdoZXJlIHlvdSBhcmUuPC9wPiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGg0ID5JbnRlZ3JhdGVzIHdpdGggeW91ciBleGlzdGluZyB3b3JrZmxvd3M8L2g0PiA8cD5GaXJlYmFzZSBDcmFzaGx5dGljcyB3b3JrcyBzZWFtbGVzc2x5IHdpdGggdG9vbHMgZm9yIGJ1ZyB0cmFja2luZyBhbmQgcHJvamVjdCBtYW5hZ2VtZW50IGxpa2UgU2xhY2ssIEppcmEgYW5kIG1vcmUuPC9wPiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGV2c2l0ZS1pZnJhbWU+PC9kZXZzaXRlLWlmcmFtZT4gPC9kaXY+IDwvZGl2PiA8L3NlY3Rpb24+IDwvZGl2PiA8ZGl2ID4gPHNlY3Rpb24gPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8aDQgPlBhcnQgb2YgdGhlIEZpcmViYXNlIHBsYXRmb3JtPC9oND4gPHA+RmlyZWJhc2UgaGVscHMgeW91IGRldmVsb3AgaGlnaC1xdWFsaXR5IGFwcHMsIGdyb3cgeW91ciB1c2VyIGJhc2UsIGFuZCBlYXJuIG1vcmUgbW9uZXkuIEVhY2ggZmVhdHVyZSB3b3JrcyBpbmRlcGVuZGVudGx5LCBhbmQgdGhleSB3b3JrIGV2ZW4gYmV0dGVyIHRvZ2V0aGVyLjwvcD4gPGRpdiA+IDxhID4gU2VlIHByb2R1Y3RzIDwvYT4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvc2VjdGlvbj4gPC9kaXY+IDxkaXYgPiA8c2VjdGlvbiA+IDxkaXYgPiA8ZGl2ID4gVHJ5IEZpcmViYXNlIHRvZGF5IDxwID5JbnRlZ3JhdGluZyBpdCBpbnRvIHlvdXIgYXBwIGlzIGVhc3kuIDwvcD4gPGEgPiBHZXQgc3RhcnRlZCA8L2E+IDwvZGl2PiA8L2Rpdj4gPC9zZWN0aW9uPiA8L2Rpdj4gPC9tYWluPiA8L2Rpdj4gPC9hcnRpY2xlPiA8ZGl2ID4gPHRlbXBsYXRlID4gW3sgInR5cGUiOiAidGh1bWItZG93biIsICJpZCI6ICJtaXNzaW5nVGhlSW5mb3JtYXRpb25JTmVlZCIsICJsYWJlbCI6Ik1pc3NpbmcgdGhlIGluZm9ybWF0aW9uIEkgbmVlZCIgfSx7ICJ0eXBlIjogInRodW1iLWRvd24iLCAiaWQiOiAidG9vQ29tcGxpY2F0ZWRUb29NYW55U3RlcHMiLCAibGFiZWwiOiJUb28gY29tcGxpY2F0ZWQgLyB0b28gbWFueSBzdGVwcyIgfSx7ICJ0eXBlIjogInRodW1iLWRvd24iLCAiaWQiOiAib3V0T2ZEYXRlIiwgImxhYmVsIjoiT3V0IG9mIGRhdGUiIH0seyAidHlwZSI6ICJ0aHVtYi1kb3duIiwgImlkIjogInNhbXBsZXNDb2RlSXNzdWUiLCAibGFiZWwiOiJTYW1wbGVzIC8gY29kZSBpc3N1ZSIgfSx7ICJ0eXBlIjogInRodW1iLWRvd24iLCAiaWQiOiAib3RoZXJEb3duIiwgImxhYmVsIjoiT3RoZXIiIH1dIDwvdGVtcGxhdGU+IDx0ZW1wbGF0ZSA+IFt7ICJ0eXBlIjogInRodW1iLXVwIiwgImlkIjogImVhc3lUb1VuZGVyc3RhbmQiLCAibGFiZWwiOiJFYXN5IHRvIHVuZGVyc3RhbmQiIH0seyAidHlwZSI6ICJ0aHVtYi11cCIsICJpZCI6ICJzb2x2ZWRNeVByb2JsZW0iLCAibGFiZWwiOiJTb2x2ZWQgbXkgcHJvYmxlbSIgfSx7ICJ0eXBlIjogInRodW1iLXVwIiwgImlkIjogIm90aGVyVXAiLCAibGFiZWwiOiJPdGhlciIgfV0gPC90ZW1wbGF0ZT4gPHRlbXBsYXRlID4gPGRldnNpdGUtZmVlZGJhY2sgPiA8L2RldnNpdGUtZmVlZGJhY2s+IDwvdGVtcGxhdGU+IDwvZGl2PiA8L2RldnNpdGUtY29udGVudD4gPC9tYWluPiA8ZGV2c2l0ZS1mb290ZXItcHJvbW9zID4gPC9kZXZzaXRlLWZvb3Rlci1wcm9tb3M+IDxkZXZzaXRlLWZvb3Rlci1saW5rYm94ZXMgPiA8L2RldnNpdGUtZm9vdGVyLWxpbmtib3hlcz4gPGRldnNpdGUtZm9vdGVyLXV0aWxpdHkgPiA8L2RldnNpdGUtZm9vdGVyLXV0aWxpdHk+IDxkZXZzaXRlLXBhbmVsPjwvZGV2c2l0ZS1wYW5lbD4gPC9zZWN0aW9uPjwvc2VjdGlvbj4gPGRldnNpdGUtc2l0ZW1hc2s+PC9kZXZzaXRlLXNpdGVtYXNrPiA8ZGV2c2l0ZS1zbmFja2Jhcj4gPC9kZXZzaXRlLXNuYWNrYmFyPiA8ZGV2c2l0ZS10b29sdGlwPjwvZGV2c2l0ZS10b29sdGlwPiA8ZGV2c2l0ZS1oZWFkaW5nLWxpbms+PC9kZXZzaXRlLWhlYWRpbmctbGluaz4gPGRldnNpdGUtYW5hbHl0aWNzID4gPC9kZXZzaXRlLWFuYWx5dGljcz4gPGRldnNpdGUtYmFkZ2VyPjwvZGV2c2l0ZS1iYWRnZXI+IDxmaXJlYmFzZS1ndG0+PC9maXJlYmFzZS1ndG0+IDxkZXZzaXRlLWExMXktYW5ub3VuY2U+PC9kZXZzaXRlLWExMXktYW5ub3VuY2U+IDwvYm9keT4='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, level: 1" node_number="1"> <devsite-progress class="valid" valid="valid" title="valid: True, node: 2, level: 2" node_number="2"/> <section class="valid" valid="valid" title="valid: True, node: 3, level: 2" node_number="3"><devsite-header class="valid" valid="valid" title="valid: True, node: 4, level: 3" node_number="4"> <div class="valid" valid="valid" title="valid: True, node: 5, level: 4" node_number="5"> <div class="valid" valid="valid" title="valid: True, node: 6, level: 5" node_number="6"> <div class="valid" valid="valid" title="valid: True, node: 7, level: 6" node_number="7"> <div class="valid" valid="valid" title="valid: True, node: 8, level: 7" node_number="8"> <div class="valid" valid="valid" title="valid: True, node: 9, level: 8" node_number="9"> <div class="valid" valid="valid" title="valid: True, node: 10, level: 9" node_number="10"> <devsite-tabs class="valid" valid="valid" title="valid: True, node: 11, level: 10" node_number="11"> </devsite-tabs> </div> <devsite-search class="valid" valid="valid" title="valid: True, node: 12, level: 9" node_number="12"> </devsite-search> </div> <devsite-language-selector class="valid" valid="valid" title="valid: True, node: 13, level: 8" node_number="13"> <devsite-select class="valid" valid="valid" title="valid: True, node: 14, level: 9" node_number="14"> <select class="valid" valid="valid" title="valid: True, node: 15, level: 10" node_number="15"> <option class="valid" valid="valid" title="valid: True, node: 16, level: 11" node_number="16">Language</option> <option class="valid" valid="valid" title="valid: True, node: 17, level: 11" node_number="17"> English </option> <option class="valid" valid="valid" title="valid: True, node: 18, level: 11" node_number="18"> Bahasa Indonesia </option> <option class="valid" valid="valid" title="valid: True, node: 19, level: 11" node_number="19"> Espa&#241;ol &#8211; Am&#233;rica Latina </option> <option class="valid" valid="valid" title="valid: True, node: 20, level: 11" node_number="20"> Portugu&#234;s &#8211; Brasil </option> <option class="valid" valid="valid" title="valid: True, node: 21, level: 11" node_number="21"> &#20013;&#25991; &#8211; &#31616;&#20307; </option> <option class="valid" valid="valid" title="valid: True, node: 22, level: 11" node_number="22"> &#26085;&#26412;&#35486; </option> <option class="valid" valid="valid" title="valid: True, node: 23, level: 11" node_number="23"> &#54620;&#44397;&#50612; </option> </select> </devsite-select> </devsite-language-selector> Go to console <devsite-user class="valid" valid="valid" title="valid: True, node: 24, level: 8" node_number="24"> Sign in </devsite-user> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 25, level: 5" node_number="25"> <div class="valid" valid="valid" title="valid: True, node: 26, level: 6" node_number="26"> <div class="valid" valid="valid" title="valid: True, node: 27, level: 7" node_number="27"> <div class="valid" valid="valid" title="valid: True, node: 28, level: 8" node_number="28"> <ul class="valid" valid="valid" title="valid: True, node: 29, level: 9" node_number="29"> <li class="valid" valid="valid" title="valid: True, node: 30, level: 10" node_number="30"> <a class="valid" valid="valid" title="valid: True, node: 31, level: 11" node_number="31"> Products </a> </li> </ul> </div> </div> </div> </div> </div> </devsite-header> <devsite-book-nav class="valid" valid="valid" title="valid: True, node: 32, level: 3" node_number="32"> </devsite-book-nav> <section class="valid" valid="valid" title="valid: True, node: 33, level: 3" node_number="33"> <main class="valid" valid="valid" title="valid: True, node: 34, level: 4" node_number="34"> <div class="valid" valid="valid" title="valid: True, node: 35, level: 5" node_number="35"> <div class="valid" valid="valid" title="valid: True, node: 36, level: 6" node_number="36"> <devsite-toc class="valid" valid="valid" title="valid: True, node: 37, level: 7" node_number="37"/> <devsite-recommendations-sidebar class="valid" valid="valid" title="valid: True, node: 38, level: 7" node_number="38"> </devsite-recommendations-sidebar> </div> </div> <devsite-content class="valid" valid="valid" title="valid: True, node: 39, level: 5" node_number="39"> <article class="valid" valid="valid" title="valid: True, node: 40, level: 6" node_number="40"> <div class="valid" valid="valid" title="valid: True, node: 41, level: 7" node_number="41"> <ul class="valid" valid="valid" title="valid: True, node: 42, level: 8" node_number="42"> <li class="valid" valid="valid" title="valid: True, node: 43, level: 9" node_number="43"> <a class="valid" valid="valid" title="valid: True, node: 44, level: 10" node_number="44"> Firebase </a> </li> <li class="valid" valid="valid" title="valid: True, node: 45, level: 9" node_number="45"> <a class="valid" valid="valid" title="valid: True, node: 46, level: 10" node_number="46"> Products </a> </li> </ul> </div> <devsite-feedback class="valid" valid="valid" title="valid: True, node: 47, level: 7" node_number="47"> </devsite-feedback> <devsite-bookmark class="valid" valid="valid" title="valid: True, node: 48, level: 7" node_number="48"/> <devsite-toc class="valid" valid="valid" title="valid: True, node: 49, level: 7" node_number="49"> </devsite-toc> <div class="valid" valid="valid" title="valid: True, node: 50, level: 7" node_number="50"> <main class="valid" valid="valid" title="valid: True, node: 51, level: 8" node_number="51"> <section class="valid" valid="valid" title="valid: True, node: 52, level: 9" node_number="52"> <header class="valid" valid="valid" title="valid: True, node: 53, level: 10" node_number="53"> <div class="valid" valid="valid" title="valid: True, node: 54, level: 11" node_number="54"> <h5 class="valid" valid="valid" title="valid: True, node: 55, level: 12" node_number="55"> Firebase Crashlytics </h5> <h1 class="valid" valid="valid" title="valid: True, node: 56, level: 12" node_number="56">Track, prioritize andfix crashes faster</h1> <div class="valid" valid="valid" title="valid: True, node: 57, level: 12" node_number="57"> <a class="valid" valid="valid" title="valid: True, node: 58, level: 13" node_number="58"> Visit console </a> <a class="valid" valid="valid" title="valid: True, node: 59, level: 13" node_number="59"> View docs </a> </div> </div> </header> </section> <div class="valid" valid="valid" title="valid: True, node: 60, level: 9" node_number="60"> <section class="valid" valid="valid" title="valid: True, node: 61, level: 10" node_number="61"> <div class="valid" valid="valid" title="valid: True, node: 62, level: 11" node_number="62"> <div class="valid" valid="valid" title="valid: True, node: 63, level: 12" node_number="63"> <div class="valid" valid="valid" title="valid: True, node: 64, level: 13" node_number="64"> <h4 class="valid" valid="valid" title="valid: True, node: 65, level: 14" node_number="65">Resolve bugs quickly</h4> <p class="valid" valid="valid" title="valid: True, node: 66, level: 14" node_number="66">Firebase Crashlytics, a real time crash reporting tool, helps you prioritize and fix your most pervasive crashes based on the impact on real users. Crashlytics also easily integrates into your Android, iOS, macOS, tvOS, and watchOS apps.</p> <div class="valid" valid="valid" title="valid: True, node: 67, level: 14" node_number="67"><i title="valid: False, node: 68, level: 15" node_number="68">plat_ios</i> <i title="valid: False, node: 69, level: 15" node_number="69">plat_android</i> <i title="valid: False, node: 70, level: 15" node_number="70">plat_unity</i> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 71, level: 12" node_number="71"> <div class="valid" valid="valid" title="valid: True, node: 72, level: 13" node_number="72"> <h4 class="valid" valid="valid" title="valid: True, node: 73, level: 14" node_number="73">Gain contextual insight into your crashes</h4> <p class="valid" valid="valid" title="valid: True, node: 74, level: 14" node_number="74">Get detailed and actionable insight on the timeline of events leading up to your crash so you can uncover the root cause of your crashes, and quickly reproduce the bug. Spend less time triaging and troubleshooting crashes and more time building app features that delight users.</p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 75, level: 12" node_number="75"> <div class="valid" valid="valid" title="valid: True, node: 76, level: 13" node_number="76"> <h4 class="valid" valid="valid" title="valid: True, node: 77, level: 14" node_number="77">Never miss a critical crash</h4> <p class="valid" valid="valid" title="valid: True, node: 78, level: 14" node_number="78">Receive real time alerts for new errors, regressed errors, and errors that are starting to happen at higher rates, no matter where you are.</p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 79, level: 12" node_number="79"> <div class="valid" valid="valid" title="valid: True, node: 80, level: 13" node_number="80"> <h4 class="valid" valid="valid" title="valid: True, node: 81, level: 14" node_number="81">Integrates with your existing workflows</h4> <p class="valid" valid="valid" title="valid: True, node: 82, level: 14" node_number="82">Firebase Crashlytics works seamlessly with tools for bug tracking and project management like Slack, Jira and more.</p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 83, level: 12" node_number="83"> <devsite-iframe class="valid" valid="valid" title="valid: True, node: 84, level: 13" node_number="84"/> </div> </div> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 85, level: 9" node_number="85"> <section class="valid" valid="valid" title="valid: True, node: 86, level: 10" node_number="86"> <div class="valid" valid="valid" title="valid: True, node: 87, level: 11" node_number="87"> <div class="valid" valid="valid" title="valid: True, node: 88, level: 12" node_number="88"> <div class="valid" valid="valid" title="valid: True, node: 89, level: 13" node_number="89"> <h4 class="valid" valid="valid" title="valid: True, node: 90, level: 14" node_number="90">Part of the Firebase platform</h4> <p class="valid" valid="valid" title="valid: True, node: 91, level: 14" node_number="91">Firebase helps you develop high-quality apps, grow your user base, and earn more money. Each feature works independently, and they work even better together.</p> <div class="valid" valid="valid" title="valid: True, node: 92, level: 14" node_number="92"> <a title="valid: False, node: 93, level: 15" node_number="93"> See products </a> </div> </div> </div> </div> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 94, level: 9" node_number="94"> <section class="valid" valid="valid" title="valid: True, node: 95, level: 10" node_number="95"> <div class="valid" valid="valid" title="valid: True, node: 96, level: 11" node_number="96"> <div class="valid" valid="valid" title="valid: True, node: 97, level: 12" node_number="97"> Try Firebase today <p class="valid" valid="valid" title="valid: True, node: 98, level: 13" node_number="98">Integrating it into your app is easy. </p> <a class="valid" valid="valid" title="valid: True, node: 99, level: 13" node_number="99"> Get started </a> </div> </div> </section> </div> </main> </div> </article> <div class="valid" valid="valid" title="valid: True, node: 100, level: 6" node_number="100"> <template class="valid" valid="valid" title="valid: True, node: 101, level: 7" node_number="101"> [{ "type": "thumb-down", "id": "missingTheInformationINeed", "label":"Missing the information I need" },{ "type": "thumb-down", "id": "tooComplicatedTooManySteps", "label":"Too complicated / too many steps" },{ "type": "thumb-down", "id": "outOfDate", "label":"Out of date" },{ "type": "thumb-down", "id": "samplesCodeIssue", "label":"Samples / code issue" },{ "type": "thumb-down", "id": "otherDown", "label":"Other" }] </template> <template class="valid" valid="valid" title="valid: True, node: 102, level: 7" node_number="102"> [{ "type": "thumb-up", "id": "easyToUnderstand", "label":"Easy to understand" },{ "type": "thumb-up", "id": "solvedMyProblem", "label":"Solved my problem" },{ "type": "thumb-up", "id": "otherUp", "label":"Other" }] </template> <template class="valid" valid="valid" title="valid: True, node: 103, level: 7" node_number="103"> <devsite-feedback class="valid" valid="valid" title="valid: True, node: 104, level: 8" node_number="104"> </devsite-feedback> </template> </div> </devsite-content> </main> <devsite-footer-promos class="valid" valid="valid" title="valid: True, node: 105, level: 4" node_number="105"> </devsite-footer-promos> <devsite-footer-linkboxes class="valid" valid="valid" title="valid: True, node: 106, level: 4" node_number="106"> </devsite-footer-linkboxes> <devsite-footer-utility class="valid" valid="valid" title="valid: True, node: 107, level: 4" node_number="107"> </devsite-footer-utility> <devsite-panel class="valid" valid="valid" title="valid: True, node: 108, level: 4" node_number="108"/> </section></section> <devsite-sitemask class="valid" valid="valid" title="valid: True, node: 109, level: 2" node_number="109"/> <devsite-snackbar class="valid" valid="valid" title="valid: True, node: 110, level: 2" node_number="110"> </devsite-snackbar> <devsite-tooltip class="valid" valid="valid" title="valid: True, node: 111, level: 2" node_number="111"/> <devsite-heading-link class="valid" valid="valid" title="valid: True, node: 112, level: 2" node_number="112"/> <devsite-analytics class="valid" valid="valid" title="valid: True, node: 113, level: 2" node_number="113"> </devsite-analytics> <devsite-badger class="valid" valid="valid" title="valid: True, node: 114, level: 2" node_number="114"/> <firebase-gtm class="valid" valid="valid" title="valid: True, node: 115, level: 2" node_number="115"/> <devsite-a11y-announce class="valid" valid="valid" title="valid: True, node: 116, level: 2" node_number="116"/> </body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://genius.com/developers');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8ZGl2ID4gPGRpdiA+IDxoMyA+IEludGVncmF0ZSB0aGUgc3VnZ2VzdGlvbiBpbnRvIHRoZSBhbm5vdGF0aW9uLCBrZWVwaW5nIHRoZSA8YSA+Y29udHJpYnV0b3IgZ3VpZGVsaW5lczwvYT4gaW4gbWluZC4gPC9oMz4gPGEgPkNvcnJlY3QgdGhpcyBMaW5lPC9hPiA8YSA+RWRpdCBWaWRlbyBJZDwvYT4gPHRleHRhcmVhID48L3RleHRhcmVhPiA8dGV4dGFyZWEgPjwvdGV4dGFyZWE+IDxhID5BZGQgYW4gSW1hZ2U8L2E+IDxhID5Gb3JtYXR0aW5nIEhlbHA8L2E+IDx0ZXh0YXJlYSA+PC90ZXh0YXJlYT4gPGRpdiA+IDx1bD4gPGxpPiA8cD5BZGQgYW4gaW1hZ2UsIHZpZGVvLCBvciB0d2VldCBieSBwYXN0aW5nIGluIHRoZSBVUkw6PC9wPiA8cHJlPmh0dHA6Ly9nZW5pdXMuY29tL2xvZ28ucG5nPC9wcmU+IDwvbGk+IDxsaT4gPHA+QWRkIGEgbGluayBsaWtlIHRoaXM6PC9wPiA8cHJlPltDaGVjayBvdXQgbXkgZmF2ZSB3ZWJzaXRlXShodHRwOi8vZ2VuaXVzLmNvbSk8L3ByZT4gPC9saT4gPGxpPiA8cD5TaW1wbGUgZm9ybWF0dGluZzo8L3A+IDxwcmU+ICpJdGFsaWNpemUgQWxidW0gVGl0bGVzKiAmZ3Q7IFRoaXMgaXMgaG93IHlvdSBxdW90ZSBmcm9tIG90aGVyIHNvdXJjZXM8L3ByZT4gPC9saT4gPC91bD4gPHA+PGEgPkhvdyB0byB3cml0ZSBmb3IgR2VuaXVzPC9hPiA8L3A+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxhID7inJMgU2F2ZSBWaWRlbzwvYT4gPGEgPuKXjyBSZS1yZWNvcmQgVmlkZW88L2E+IDxhID7ilrYgV2F0Y2ggVmlkZW8gQWdhaW48L2E+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxhID5HRU5JVVM8L2E+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDxoZWFkZXIgPiA8L2hlYWRlcj4gPGRpdiA+IDxkaXYgPiA8YSA+Q3JlYXRlIEFuIEFQSSBDbGllbnQ8L2E+IDxhID5BUEkgRG9jdW1lbnRhdGlvbjwvYT4gPGEgPkFQSSBTdXBwb3J0IEZvcnVtPC9hPiA8L2Rpdj4gPGRpdiA+IDxoMiA+TWlsbGlvbnMgb2YgYW5ub3RhdGlvbnMsIG1pbGxpb25zIG9mIHNvbmdzLCBldmVyeSBwYWdlIG9uIHRoZSBpbnRlcm5ldCDigJQgYnVpbGQgdGhlIG5leHQgZ3JlYXQgYXBwIHdpdGggR2VuaXVzIGFuZCB0aGUgR2VuaXVzIEFQSS4gPGEgPlJlYWQgYWJvdXQgb3VyIEFQSSByZWxlYXNlPC9hPi48L2gyPiA8L2Rpdj4gPGRpdiA+IDxoMiA+T3VyIGZpcnN0IGludGVncmF0aW9uOiBJbnN0YXBhcGVyPC9oMj4gPHAgPllvdSBjYW4gbm93IGF1dGggd2l0aCBHZW5pdXMgdG8gbWFrZSBHZW5pdXMgYW5ub3RhdGlvbnMgdGhyb3VnaCBJbnN0YXBhcGVyIG5vdGVzPC9wPiA8ZGl2ID4gPGRpdiA+IDxwID5QbGF5IHRoZSBkZW1vPC9wPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGgyID5FeGFtcGxlIGFwcHM8L2gyPiA8ZGl2ID4gPGEgPiA8cD5BIENocm9tZSBleHRlbnNpb24gdGhhdCBsb29rcyB1cCBseXJpY3MgZnJvbSB0aGUgb21uaWJveDwvcD4gPC9hPiA8L2Rpdj4gPGRpdiA+IDxhID4gPHA+RWFzaWx5IGF1dGggd2l0aCBHZW5pdXMgd2l0aCB0aGlzIEdlbTwvcD4gPC9hPiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8aDIgPlRoZSBHZW5pdXMgZW5naW5lZXJpbmcgdGVhbSBpcyBidWlsZGluZyB0aGUgd29ybGTigJlzIGdyZWF0ZXN0IHB1YmxpYyBrbm93bGVkZ2UgcHJvamVjdCBzaW5jZSBXaWtpcGVkaWEuIDxhID5Kb2luIFVzPC9hPjwvaDI+IDwvZGl2PiA8L2Rpdj4gPC9ib2R5Pg=='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, tag: body, level: 1" node_number="1"> <div class="valid" valid="valid" title="valid: True, node: 2, tag: div, level: 2" node_number="2"> <div class="valid" valid="valid" title="valid: True, node: 3, tag: div, level: 3" node_number="3"> <h3 class="valid" valid="valid" title="valid: True, node: 4, tag: h3, level: 4" node_number="4"> Integrate the suggestion into the annotation, keeping the <a class="valid" valid="valid" title="valid: True, node: 5, tag: a, level: 5" node_number="5">contributor guidelines</a> in mind. </h3> <a class="valid" valid="valid" title="valid: True, node: 6, tag: a, level: 4" node_number="6">Correct this Line</a> <a class="valid" valid="valid" title="valid: True, node: 7, tag: a, level: 4" node_number="7">Edit Video Id</a> <textarea class="valid" valid="valid" title="valid: True, node: 8, tag: textarea, level: 4" node_number="8"/> <textarea class="valid" valid="valid" title="valid: True, node: 9, tag: textarea, level: 4" node_number="9"/> <a class="valid" valid="valid" title="valid: True, node: 10, tag: a, level: 4" node_number="10">Add an Image</a> <a class="valid" valid="valid" title="valid: True, node: 11, tag: a, level: 4" node_number="11">Formatting Help</a> <textarea class="valid" valid="valid" title="valid: True, node: 12, tag: textarea, level: 4" node_number="12"/> <div class="valid" valid="valid" title="valid: True, node: 13, tag: div, level: 4" node_number="13"> <ul class="valid" valid="valid" title="valid: True, node: 14, tag: ul, level: 5" node_number="14"> <li class="valid" valid="valid" title="valid: True, node: 15, tag: li, level: 6" node_number="15"> <p class="valid" valid="valid" title="valid: True, node: 16, tag: p, level: 7" node_number="16">Add an image, video, or tweet by pasting in the URL:</p> <pre class="valid" valid="valid" title="valid: True, node: 17, tag: pre, level: 7" node_number="17">http://genius.com/logo.png</pre> </li> <li class="valid" valid="valid" title="valid: True, node: 18, tag: li, level: 6" node_number="18"> <p class="valid" valid="valid" title="valid: True, node: 19, tag: p, level: 7" node_number="19">Add a link like this:</p> <pre class="valid" valid="valid" title="valid: True, node: 20, tag: pre, level: 7" node_number="20">[Check out my fave website](http://genius.com)</pre> </li> <li class="valid" valid="valid" title="valid: True, node: 21, tag: li, level: 6" node_number="21"> <p class="valid" valid="valid" title="valid: True, node: 22, tag: p, level: 7" node_number="22">Simple formatting:</p> <pre class="valid" valid="valid" title="valid: True, node: 23, tag: pre, level: 7" node_number="23"> *Italicize Album Titles* &gt; This is how you quote from other sources</pre> </li> </ul> <p class="valid" valid="valid" title="valid: True, node: 24, tag: p, level: 5" node_number="24"><a class="valid" valid="valid" title="valid: True, node: 25, tag: a, level: 6" node_number="25">How to write for Genius</a> </p> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 26, tag: div, level: 2" node_number="26"> <div class="valid" valid="valid" title="valid: True, node: 27, tag: div, level: 3" node_number="27"> <div class="valid" valid="valid" title="valid: True, node: 28, tag: div, level: 4" node_number="28"> <a class="valid" valid="valid" title="valid: True, node: 29, tag: a, level: 5" node_number="29">&#10003; Save Video</a> <a class="valid" valid="valid" title="valid: True, node: 30, tag: a, level: 5" node_number="30">&#9679; Re-record Video</a> <a class="valid" valid="valid" title="valid: True, node: 31, tag: a, level: 5" node_number="31">&#9654; Watch Video Again</a> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 32, tag: div, level: 2" node_number="32"> <div class="valid" valid="valid" title="valid: True, node: 33, tag: div, level: 3" node_number="33"> <div class="valid" valid="valid" title="valid: True, node: 34, tag: div, level: 4" node_number="34"> <a class="valid" valid="valid" title="valid: True, node: 35, tag: a, level: 5" node_number="35">GENIUS</a> </div> </div> </div> <header class="valid" valid="valid" title="valid: True, node: 36, tag: header, level: 2" node_number="36"> </header> <div class="valid" valid="valid" title="valid: True, node: 37, tag: div, level: 2" node_number="37"> <div class="valid" valid="valid" title="valid: True, node: 38, tag: div, level: 3" node_number="38"> <a class="valid" valid="valid" title="valid: True, node: 39, tag: a, level: 4" node_number="39">Create An API Client</a> <a class="valid" valid="valid" title="valid: True, node: 40, tag: a, level: 4" node_number="40">API Documentation</a> <a class="valid" valid="valid" title="valid: True, node: 41, tag: a, level: 4" node_number="41">API Support Forum</a> </div> <div class="valid" valid="valid" title="valid: True, node: 42, tag: div, level: 3" node_number="42"> <h2 class="valid" valid="valid" title="valid: True, node: 43, tag: h2, level: 4" node_number="43">Millions of annotations, millions of songs, every page on the internet &#8212; build the next great app with Genius and the Genius API. <a class="valid" valid="valid" title="valid: True, node: 44, tag: a, level: 5" node_number="44">Read about our API release</a>.</h2> </div> <div class="valid" valid="valid" title="valid: True, node: 45, tag: div, level: 3" node_number="45"> <h2 class="valid" valid="valid" title="valid: True, node: 46, tag: h2, level: 4" node_number="46">Our first integration: Instapaper</h2> <p class="valid" valid="valid" title="valid: True, node: 47, tag: p, level: 4" node_number="47">You can now auth with Genius to make Genius annotations through Instapaper notes</p> <div class="valid" valid="valid" title="valid: True, node: 48, tag: div, level: 4" node_number="48"> <div class="valid" valid="valid" title="valid: True, node: 49, tag: div, level: 5" node_number="49"> <p class="valid" valid="valid" title="valid: True, node: 50, tag: p, level: 6" node_number="50">Play the demo</p> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 51, tag: div, level: 3" node_number="51"> <h2 class="valid" valid="valid" title="valid: True, node: 52, tag: h2, level: 4" node_number="52">Example apps</h2> <div class="valid" valid="valid" title="valid: True, node: 53, tag: div, level: 4" node_number="53"> <a class="valid" valid="valid" title="valid: True, node: 54, tag: a, level: 5" node_number="54"> <p class="valid" valid="valid" title="valid: True, node: 55, tag: p, level: 6" node_number="55">A Chrome extension that looks up lyrics from the omnibox</p> </a> </div> <div class="valid" valid="valid" title="valid: True, node: 56, tag: div, level: 4" node_number="56"> <a class="valid" valid="valid" title="valid: True, node: 57, tag: a, level: 5" node_number="57"> <p class="valid" valid="valid" title="valid: True, node: 58, tag: p, level: 6" node_number="58">Easily auth with Genius with this Gem</p> </a> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 59, tag: div, level: 3" node_number="59"> <h2 class="valid" valid="valid" title="valid: True, node: 60, tag: h2, level: 4" node_number="60">The Genius engineering team is building the world&#8217;s greatest public knowledge project since Wikipedia. <a class="valid" valid="valid" title="valid: True, node: 61, tag: a, level: 5" node_number="61">Join Us</a></h2> </div> </div> </body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://blog.bitnami.com/2021/11/fix-issues-in-your-code-before-going-to-production-sonarqube.html');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGhlYWRlcj4gPC9oZWFkZXI+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID48ZGl2ID4gPGRpdiA+IDxkaXYgPiA8aDIgPlR1ZXNkYXksIE5vdmVtYmVyIDMwLCAyMDIxPC9oMj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGgzID4gRml4IElzc3VlcyBpbiBZb3VyIENvZGUgQmVmb3JlIEdvaW5nIHRvIFByb2R1Y3Rpb24gaW4gTWludXRlcyB3aXRoIFNvbmFyUXViZSA8L2gzPiA8ZGl2ID4gPHA+PGk+Q2FybG9zIFJvZHLDrWd1ZXrCoDwvaT48aT5hbmTCoDwvaT48aT5SYXF1ZWwgQ2FtcHV6YW5vPC9pPjxpPsKgY28td3JvdGUgdGhpcyBibG9nIHBvc3Q8L2k+PC9wPjxwPlNvbmFyUXViZSBpcyBhbiBvcGVuLXNvdXJjZSBjb2RlIGFuYWx5c2VyIGRlc2lnbmVkIGZvciBhbmFseXNpbmcgYW5kIG1lYXN1cmluZyB0aGUgdGVjaG5pY2FsIHF1YWxpdHkgb2YgY29kZS4gVGhpcyBpcyBwYXJ0aWN1bGFybHkgdXNlZnVsIHRvIGF2b2lkIHRoZSBuZWVkIG9mIGZpeGluZyBpc3N1ZXMgd2hlbiB5b3VyIGFwcGxpY2F0aW9ucyBhcmUgYWxyZWFkeSBydW5uaW5nIGluIHByb2R1Y3Rpb24gZW52aXJvbm1lbnRzLiBXaXRoIFNvbmFyUXViZSB5b3UgY2FuIGtlZXAgeW91ciBjb2RlIGNsZWFuIGFuZCBwcmV2ZW50IGZ1dHVyZSB2dWxuZXJhYmlsaXRpZXMgZnJvbSB0aGUgZWFybGllc3Qgc3RhZ2VzIG9mIGRldmVsb3BtZW50IHRvIHByb2R1Y3Rpb24uIDwvcD48cD5JdCBjb21iaW5lcyBzdGF0aWMgYW5kIGR5bmFtaWMgYW5hbHlzaXMgdG9vbHMgdG8gbW9uaXRvciB0aGUgZm9sbG93aW5nOsKgPC9wPjx1bCA+PGxpPkR1cGxpY2F0ZWQgY29kZcKgPC9saT48bGk+Q29tcGxpYW5jZSB3aXRoIGNvZGluZyBzdGFuZGFyZHPCoDwvbGk+PGxpPlVuaXQgdGVzdHPCoDwvbGk+PGxpPkNvbXBsZXggY29kZcKgPC9saT48bGk+UG90ZW50aWFsIGJ1Z3PCoDwvbGk+PGxpPkNvbW1lbnRzIGFuZCBkZXNpZ27CoDwvbGk+PGxpPkNvZGUgYXJjaGl0ZWN0dXJlwqA8L2xpPjwvdWw+PHA+U29uYXJRdWJlIGlzIHVzZWQgZm9yIG1ham9yIHByb2dyYW1taW5nIGxhbmd1YWdlcyBzdWNoIGFzIEMvQysrLCBKYXZhU2NyaXB0LCBKYXZhLCBDIywgUEhQLCBvciBQeXRob24sIGFtb25nc3Qgb3RoZXJzLiBPZnRlbiwgYXBwbGljYXRpb25zIHVzZSBzZXZlcmFsIHByb2dyYW1taW5nIGxhbmd1YWdlcyBzaW11bHRhbmVvdXNseSwgZm9yIGV4YW1wbGUsIGEgY29tYmluYXRpb24gb2YgSmF2YSwgSmF2YVNjcmlwdCwgYW5kIEhUTUwuIFNvbmFyUXViZSBhdXRvbWF0aWNhbGx5IGRldGVjdHMgdGhlc2UgbGFuZ3VhZ2VzIGFuZCBpbnZva2VzIHRoZSBjb3JyZXNwb25kaW5nIGFuYWx5emVycy7CoDwvcD48cD5Tb25hcnF1YmUgd2FzIGF2YWlsYWJsZSBpbiB0aGUgQml0bmFtaSBBcHBsaWNhdGlvbiBDYXRhbG9nIGZvciBpdHMgbG9jYWwgZGVwbG95bWVudCBvciBpbiB0aGUgY2xvdWQsIGFuZCBub3csIHlvdSBjYW4gYWxzbyA8YSA+ZGVwbG95IGl0IG9uIHlvdXIgS3ViZXJuZXRlcyBjbHVzdGVyIGFzIGEgSGVsbSBjaGFydC7CoDwvYT7CoDwvcD48cD5LZWVwIHJlYWRpbmcgdG8gbGVhcm4gaG93IHRvIGluc3RhbGwgaXQgaW4geW91ciBjbHVzdGVyIHRvIHN0YXJ0IGFuYWx5c2luZyB5b3VyIGNvZGUgaW4gbWludXRlcy4gPC9wPjxoMyA+SG93IHRvIEluc3RhbGwgdGhlIFNvbmFyUXViZSBIZWxtIGNoYXJ0IGluIHlvdXIgS3ViZXJuZXRlcyBDbHVzdGVywqA8L2gzPjxwPkhhdmluZyBTb25hclF1YmUgcnVubmluZyBpbiB5b3VyIGNsdXN0ZXIgaXMgYXMgZWFzeSBhcyBleGVjdXRpbmcgYSBjb3VwbGUgb2YgY29tbWFuZHMuIDwvcD48cD5GaXJzdCwgaW5zdGFsbCB0aGUgQml0bmFtaSBIZWxtIGNoYXJ0cyByZXBvc2l0b3J5IGJ5IGV4ZWN1dGluZyB0aGUgZm9sbG93aW5nOsKgPC9wPjxwPmhlbG0gcmVwbyBhZGQgYml0bmFtaSBodHRwczovL2NoYXJ0cy5iaXRuYW1pLmNvbS9iaXRuYW1pwqA8L3A+PHA+T25jZSB0aGUgcmVwbyBpcyBpbnN0YWxsZWQgaW4geW91ciBjaGFydCwgcnVuIHRoZSBjb21tYW5kIGJlbG93IHRvIGZpbmlzaCB0aGUgaW5zdGFsbGF0aW9uIG9mIHRoZSBTb25hclF1YmUgSGVsbSBjaGFydDogPC9wPjxwPmhlbG0gaW5zdGFsbCBteS1yZWxlYXNlIGJpdG5hbWkvc29uYXJxdWJlwqA8L3A+PHA+UmVtZW1iZXIgdGhhdCDigJxteS1yZWxlYXNl4oCdIGlzIGEgcGxhY2Vob2xkZXIsIHlvdSBjYW4gcmVwbGFjZSBpdCB3aXRoIGFuIGlkZW50aWZpYWJsZSBuYW1lIGZvciB5b3VyIHJlbGVhc2UuIDwvcD48cD5PbmNlIHRoZSBkZXBsb3ltZW50IGNvbXBsZXRlcywgcmVmZXIgdG8gdGhlIG91dHB1dCB0byBvYnRhaW4gdGhlIFNvbmFyUXViZSBVUkwgYW5kIGNyZWRlbnRpYWxzLiA8L3A+PHA+VG8gc3RhcnQgdXNpbmcgU29uYXJRdWJlLCBleGVjdXRlIHRoZSBjb3JyZXNwb25kaW5nIGNvbW1hbmQgdG8gZ2V0IHRoZSBVUkwuIFRoZW4sIG9wZW4gYSBicm93c2VyIGFuZCBlbnRlciB0aGUgSVAgYWRkcmVzcyB5b3UgaGF2ZSBvYnRhaW5lZC4gWW91IHdpbGwgc2VlIHRoZSBsb2dpbiBzY3JlZW46wqA8L3A+PHA+RW50ZXIgdGhlIHVzZXJuYW1lIOKAnHVzZXLigJ0gYW5kIHRoZSBwYXNzd29yZCBvYnRhaW5lZCBieSBydW5uaW5nIHRoZSBjb21tYW5kIHNob3duIGluIHRoZSBkZXBsb3ltZW50IG5vdGVzLsKgPC9wPjxwPlRoYXTigJlzIGFsbCEgTm93IHlvdSBjYW4gc3RhcnQgYW5hbHlzaW5nIHlvdXIgY29kZSEgSW4gdGhlIGZvbGxvd2luZyBzZWN0aW9ucywgeW91IHdpbGwgZmluZCBhIHNhbXBsZSBKYXZhU2NyaXB0IGNvZGUgYW5kIHNvbWUgZXhhbXBsZXMgb2YgaG93IHRvIHVzZSBTb25hclF1YmUgdG8gZGV0ZWN0IGJ1Z3MsIHZ1bG5lcmFiaWxpdGllcywgYW5kIGVycm9ycyBpbiB5b3VyIGNvZGUgYW5kIGhvdyB0byBjbGVhbiB1cCB5b3VyIGNvZGUgdG8gbWFrZSBpdCBzYWZlIGZvciBwcm9kdWN0aW9uIGVudmlyb25tZW50cy4gPC9wPjxoMyA+UGxheWluZyB3aXRoIFNvbmFyUXViZSA8L2gzPjxwPkluIHRoaXMgR2l0SHViIHByb2plY3QsIHlvdeKAmWxsIGZpbmQgYW4gZXhhbXBsZSBvZiBjb2RlIHdyaXR0ZW4gaW4gSmF2YVNjcmlwdC4gVGhlIGdvYWw6IHRvIHNob3cgeW91IGhvdyB0byBpbmNvcnBvcmF0ZSBTb25hclF1YmUgaW50byB5b3VyIGRldmVsb3BtZW50IHdvcmtmbG93LiBUaGUgcmVwb3NpdG9yeSBjb250YWlucyB0d28gbWFpbiBmb2xkZXJzIChzb3VyY2VzIGFuZCB0ZXN0cykgc28sIGluIHRoaXMgd2F5LCB5b3UgY2FuIGtub3cgdGhlIHBlcmNlbnRhZ2Ugb2Ygb3VyIGNvZGUgdGhhdCBpcyBiZWluZyBjb3ZlcmVkIGJ5IHRoZSB0ZXN0cy7CoDwvcD48cD5UaGlzIHByb2plY3QgYWxzbyBpbmNsdWRlcyBhIDxpPnNvbmFyLXByb2plY3QucHJvcGVydGllczwvaT4gZmlsZSB3aGVyZSB0aGVyZSBhcmUgc29tZSBjb25maWd1cmF0aW9uIHBhcmFtZXRlcnMgbmVlZGVkIHRvIGNvbmZpZ3VyZSBTb25hclF1YmUgbGlrZSB1c2VybmFtZSwgcGFzc3dvcmQsIGxhbmd1YWdlLCBldGMuwqA8L3A+PHA+Rmlyc3QsIHJ1biB0aGUgc2Nhbm5lciBpbnNpZGUgdGhlIHByb2plY3QgZm9sZGVyLCB0aGF0IHdheSB0aGUgZmlyc3Qgc2Nhbm5lciBpcyBsYXVuY2hlZCBhbmQgeW91IGNhbiBjaGVjayB0aGUgcmVzdWx0cyBpbiB0aGUgd2ViIGludGVyZmFjZS7CoDwvcD48cD5zb25hci1zY2FubmVywqA8L3A+PHA+QXMgeW91IGNhbiBzZWUgaW4gdGhlIGFib3ZlIHNjcmVlbnNob3QsIHRoZSBjdXJyZW50IGNvZGUgaGFzIHplcm8gYnVncywgemVybyB2dWxuZXJhYmlsaXRpZXMgYW5kIHNpeCBjb2RlICJzbWVsbHMiLsKgPC9wPjxwPk1vZGlmeSB0aGUgc291cmNlIGNvZGUgaW4gb3JkZXIgdG8gaW50cm9kdWNlIG9uZSBidWcgYW5kIG9uZSB2dWxuZXJhYmlsaXR5LiBUaGlzIHRpbWUgaXQgaXMgaW50ZW50aW9uYWwsIGJ1dCBpbiBkYWlseSB3b3JrIHByb2JsZW1zIGxpa2UgdGhpcyBjYW4gYXJpc2Ugd2l0aG91dCB5b3UgcmVhbGl6aW5nLsKgPC9wPjxwPlJ1biB0aGUgc2Nhbm5lciBhZ2Fpbjo8L3A+PHA+c29uYXItc2Nhbm5lcsKgPC9wPjxwPkFzIGV4cGVjdGVkLCBhIG5ldyBidWcgYW5kIHZ1bG5lcmFiaWxpdHkgYXBwZWFyLiBDaGVjayB0aGUgYW5hbHlzaXMgYWdhaW4gdG8gc2VlIHRoZSBjaGFuZ2VzIHdlIG1hZGU6wqA8L3A+PGRpdiA+PGRpdiA+QSBuZXcgc2VjdGlvbiBhcHBlYXJzIG9uIHRoZSByaWdodC1oYW5kIHNpZGUgb2YgdGhlIHNjcmVlbiAoaGlnaGxpZ2h0ZWQgaW4geWVsbG93KS4gPGI+U29uYXJRdWJlIGhhbmRsZXMgdHdvIHN0YXRlczogdGhlIGN1cnJlbnQgc3RhdGUgKGluIHdoaXRlKSBhbmQgdGhlIGxhdGVzdCBjaGFuZ2VzLsKgPC9iPjwvZGl2PjxkaXYgPkFzIHlvdSBjYW4gc2VlIGluIHRoZSBzY3JlZW5zaG90LCB0aGUgY2hhbmdlcyBpbnRyb2R1Y2VkIGluIHRoZSBsYXN0IHNjYW4gaGF2ZSBhZGRlZCBvbmUgYnVnIGFuZCBvbmUgdnVsbmVyYWJpbGl0eS4gU29uYXJRdWJlIGV2YWx1YXRlcyB0aGUgcXVhbGl0eSBvZiBlYWNoIHNlY3Rpb24gd2l0aCBhIHNjb3JlIGJhc2VkIG9uIGRpZmZlcmVudCBwYXJhbWV0ZXJzLCBBIGJlaW5nIHRoZSBiZXN0IHN0YXRlLiBJbiB0aGlzIGNhc2UsIGludHJvZHVjaW5nIHRoZSBidWcgaGFzIGNhdXNlZCB0aGUg4oCcQnVnc+KAnSBzZWN0aW9uIHRvIHBhc3MgZnJvbSBBIHRvIEMgYW5kIHRoZSDigJxWdWxuZXJhYmlsaXRpZXPigJ0gc2VjdGlvbiBmcm9tIEEgdG8gQi7CoDwvZGl2PjxkaXYgPllvdSBjYW4gc2V0IHRoZTxiPiDigJxMZWFrIFBlcmlvZOKAnTwvYj4gdG8gZGV0ZXJtaW5lIGhvdyB5b3Ugd2FudCB0byBtYWtlIHRoZSBjb21wYXJpc29uOiBieSB0aW1lIG9yIGJldHdlZW4gZWFjaCBzY2FubmVyIGV4ZWN1dGlvbi7CoDwvZGl2PjxkaXYgPkxldOKAmXMgc2VlIGluIGRldGFpbCB0aGUgIkNvdmVyYWdlIiBzZWN0aW9uOiAzOC4xJSBpcyB0aGUgZ2xvYmFsIHRlc3QgY292ZXJhZ2UgKGFzIHlvdSBjYW4gc2VlIGluIHRoZSBHaXRIdWIgcmVwb3NpdG9yeSwgSSBoYXZlIHRlc3RzIGZvciBzb21lIGZpbGVzLCBidXQgbm90IGZvciBhbGwgb2YgdGhlbSkuIEluIHRoZSB5ZWxsb3cgc2VjdGlvbiwgeW91IGNhbiBzZWUgdGhlIGNvdmVyYWdlIGZvciB0aGUgbmV3bHkgYWRkZWQgbGluZXMuIFByZXZpb3VzbHksIHdlIGludHJvZHVjZWQgc29tZSBuZXcgbGluZXMgaW4gb3JkZXIgdG8gYWRkIGVycm9ycyBidXQgd2UgZGlkbuKAmXQgY3JlYXRlIGFueSB0ZXN0IGZvciB0aGVzZSBuZXcgbGluZXMsIHNvIHRoZSBuZXcgdGVzdCBjb3ZlcmFnZSBpcyAwJS4gQWxzbywgYnkgY2xpY2tpbmcgb24gQ292ZXJhZ2UsIHlvdSBjYW4gc2VlIG1vcmUgaW5mb3JtYXRpb24gYWJvdXQgdGhlIGNvdmVyYWdlLCBmb3IgZXhhbXBsZSwgY292ZXJhZ2UgYnkgZmlsZSwgbnVtYmVyIG9mIGNvdmVyZWQgbGluZXMsIGV0Yy7CoDwvZGl2PjxkaXYgPjxkaXYgPldpdGggdGhpcyBxdWljayBhbmQgc2ltcGxlIGFuYWx5c2lzICh5b3Ugb25seSBoYXZlIHRvIGV4ZWN1dGUgb25lIGNvbW1hbmQpIHlvdSB3aWxsIGJlIGFibGUgdG8gcHJldmVudCBlcnJvcnMgbGlrZSB0aGVzZSBhcmlzaW5nIGluIHByb2R1Y3Rpb24gZW52aXJvbm1lbnRzLCBrZWVwaW5nIHRoZSBjb2RlIHNhZmUgYW5kIGNvbXBseWluZyB3aXRoIGJlc3QgcHJhY3RpY2UgYW5kIHF1YWxpdHkgc3RhbmRhcmRzLiBJbiB0aGUgZm9sbG93aW5nIGl0ZXJhdGlvbnMgd2Ugd2lsbCB3b3JrIHRvd2FyZHMgdGhlIGdvYWwgb2YgemVybyBidWdzLCB2dWxuZXJhYmlsaXRpZXMsIGFuZCBjb2RlICJzbWVsbHMiLiBXZSBtaWdodCBhbHNvIHdvcmsgb24gZ2V0dGluZyAxMDAlIG9mIG91ciBjb2RlIGNvdmVyZWQgYnkgdGhlIHRlc3RzLsKgPC9kaXY+PGRpdiA+T25jZSB3ZSBoYXZlIG15IGNvZGUgaW4gdGhpcyBzdGF0ZSwgaXQgaXMgdmVyeSBzaW1wbGUgdG8gc2VlIGlmIHRoZSBjaGFuZ2VzIG1hZGUgaGF2ZSBpbnRyb2R1Y2VkIHNvbWUga2luZCBvZiBlcnJvciBvciBiYWQgcHJhY3RpY2UuwqA8L2Rpdj48aDMgPkhvdyB0byBzcXVlZXplIFNvbmFyUXViZcKgPC9oMz48ZGl2ID5BcyB5b3Ugc2F3IGluIHRoZSBwcmV2aW91cyBzZWN0aW9uLCBpdCBpcyBxdWl0ZSBzaW1wbGUgdG8ga2VlcCB5b3VyIGNvZGUgaW4gZ29vZCBoZWFsdGguIEJ1dCwgdGhlcmUgaXMgbW9yZSB0byBkaXNjb3Zlci4gU29uYXJRdWJlIGhhcyBhIGxvdCBvZiBjb29sIGludGVncmF0aW9ucy7CoDwvZGl2PjxoNCA+QW5hbHlzaXMgTWV0aG9kczwvaDQ+PGRpdiA+WW91IGNhbiBjaG9vc2UgYmV0d2VlbiB0aGUgZm9sbG93aW5nIGFuYWx5c2lzIG1ldGhvZHM6wqA8L2Rpdj48ZGl2ID48dWwgPjxsaT5Tb25hclF1YmUgc2Nhbm5lciBmb3IgTVNCdWlsZDogTGF1bmNoIGFuYWx5c2lzIG9mIC5OZXQgcHJvamVjdHPCoDwvbGk+PGxpPlNvbmFyUXViZSBzY2FubmVyIGZvciBNYXZlbjogTGF1bmNoIGFuYWx5c2lzIGZyb20gTWF2ZW4gd2l0aCBtaW5pbWFsIGNvbmZpZ3VyYXRpb27CoDwvbGk+PGxpPlNvbmFyUXViZSBzY2FubmVyIGZvciBHcmFkbGU6IExhdW5jaCBHcmFkbGUgYW5hbHlzaXPCoDwvbGk+PGxpPlNvbmFyUXViZSBzY2FubmVyIGZvciBBbnQ6IExhdW5jaCBhbmFseXNpcyBmcm9tIEFudMKgPC9saT48bGk+U29uYXJRdWJlIHNjYW5uZXIgZm9yIEplbmtpbnM6IExhdW5jaCBhbmFseXNpcyBmcm9tIEplbmtpbnPCoDwvbGk+PGxpPlNvbmFyUXViZSBzY2FubmVyOiBMYXVuY2ggYW5hbHlzaXMgZnJvbSB0aGUgY29tbWFuZCBsaW5lIHdoZW4gbm9uZSBvZiB0aGUgb3RoZXIgYW5hbHl6ZXJzIGlzIGFwcHJvcHJpYXRlwqA8L2xpPjwvdWw+PC9kaXY+PGg0ID5QbHVnaW5zPC9oND48ZGl2ID5JbiBhZGRpdGlvbiwgU29uYXJRdWJlIGhhcyBhbiBVcGRhdGUgQ2VudGVyIHdpdGggYSB2YXJpZXR5IG9mIHBsdWdpbnMgb3JnYW5pemVkIGludG8gZGlmZmVyZW50IGNhdGVnb3JpZXMsIHNvbWUgdXNlZnVsIHBsdWdpbnMgYXJlOsKgPC9kaXY+PGRpdiA+PHVsID48bGk+Q29kZSBBbmFseXplcnPCoDwvbGk+PHVsPjxsaT5Tb25hckNGYW1pbHkgQy9DKyvCoDwvbGk+PGxpPlNvbmFyUEhQwqA8L2xpPjxsaT5Tb25hckpTwqA8L2xpPjxsaT5Tb25hcldlYsKgPC9saT48bGk+U29uYXJKYXZhwqA8L2xpPjxsaT5DU1PCoDwvbGk+PC91bD48bGk+SW50ZWdyYXRpb248L2xpPjx1bD48bGk+R2l0SHViIFBsdWdpbjogQW5hbHl6ZXMgcHVsbCByZXF1ZXN0cywgYW5kIHBvaW50cyBvdXQgdGhlIGlzc3VlcyBhcyBjb21tZW50cy48L2xpPjxsaT5Hb29nbGUgQW5hbHl0aWNzOiBBZGRzIHRoZSBHb29nbGUgQW5hbHl0aWNzIHRyYWNraW5nIHNjcmlwdCB0byB0aGUgU29uYXJRdWJlIHdlYiBhcHBsaWNhdGlvbi48L2xpPjxsaT5TQ00gRW5naW5lc8KgPC9saT48bGk+TWVyY3VyaWFsOiBBZGRzIHN1cHBvcnQgZm9yIE1lcmN1cmlhbC7CoDwvbGk+PGxpPkdpdDogQWRkcyBzdXBwb3J0IGZvciBHaXQuwqA8L2xpPjxsaT5TVk46IEFkZHMgc3VwcG9ydCBmb3IgU3VidmVyc2lvbi7CoDwvbGk+PC91bD48bGk+QXV0aGVudGljYXRpb24gQXV0aG9yaXphdGlvbjwvbGk+PHVsPjxsaT5HaXRIdWIgQXV0aGVudGljYXRpb246IEVuYWJsZXMgdXNlciBhdXRoZW50aWNhdGlvbiBhbmQgU2luZ2xlIFNpZ24tT24gdmlhIEdpdEh1Yi7CoDwvbGk+PGxpPkdpdExhYiBBdXRoZW50aWNhdGlvbjogRW5hYmxlcyB1c2VyIGF1dGhlbnRpY2F0aW9uIGFuZCBTaW5nbGUgU2lnbi1PbiB2aWEgR2l0TGFiLsKgPC9saT48bGk+R29vZ2xlIEF1dGhlbnRpY2F0aW9uOiBFbmFibGVkIGRlbGVnYXRpb24gb2YgdXNlciBhdXRoZW50aWNhdGlvbiB0byBHb29nbGUuwqA8L2xpPjwvdWw+PC91bD48L2Rpdj48ZGl2ID5IYXBweSAoYW5kIHNhZmUpIGNvZGluZyHCoDwvZGl2PjwvZGl2PjwvZGl2PiA8ZGl2PiA8Y2VudGVyPiA8YSA+RGVwbG95IFNvbmFyUXViZSBOb3c8L2E+PC9jZW50ZXI+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGEgPkVtYWlsIFRoaXM8L2E+QmxvZ1RoaXMhPGEgPlNoYXJlIHRvIFR3aXR0ZXI8L2E+PGEgPlNoYXJlIHRvIEZhY2Vib29rPC9hPjxhID5TaGFyZSB0byBQaW50ZXJlc3Q8L2E+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IExhYmVsczogZGV2ZWxvcGVycywgaGVsbSwga3ViZXJuZXRlcywgc29uYXJxdWJlIDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj48L2Rpdj4gPC9kaXY+IDxkaXYgPiBPbGRlciBQb3N0IDxhID5Ib21lPC9hPiA8L2Rpdj4gPC9kaXY+PC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9ib2R5Pg=='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, tag: body, level: 1" node_number="1"> <div class="valid" valid="valid" title="valid: True, node: 2, tag: div, level: 2" node_number="2"> <div class="valid" valid="valid" title="valid: True, node: 3, tag: div, level: 3" node_number="3"> <div class="valid" valid="valid" title="valid: True, node: 4, tag: div, level: 4" node_number="4"> <div class="valid" valid="valid" title="valid: True, node: 5, tag: div, level: 5" node_number="5"> <header class="valid" valid="valid" title="valid: True, node: 6, tag: header, level: 6" node_number="6"> </header> <div class="valid" valid="valid" title="valid: True, node: 7, tag: div, level: 6" node_number="7"> <div class="valid" valid="valid" title="valid: True, node: 8, tag: div, level: 7" node_number="8"> <div class="valid" valid="valid" title="valid: True, node: 9, tag: div, level: 8" node_number="9"> <div class="valid" valid="valid" title="valid: True, node: 10, tag: div, level: 9" node_number="10"> <div class="valid" valid="valid" title="valid: True, node: 11, tag: div, level: 10" node_number="11"> <div class="valid" valid="valid" title="valid: True, node: 12, tag: div, level: 11" node_number="12"> <div class="valid" valid="valid" title="valid: True, node: 13, tag: div, level: 12" node_number="13"> <div class="valid" valid="valid" title="valid: True, node: 14, tag: div, level: 13" node_number="14"><div class="valid" valid="valid" title="valid: True, node: 15, tag: div, level: 14" node_number="15"> <div title="valid: False, node: 16, tag: div, level: 15" node_number="16"> <div title="valid: False, node: 17, tag: div, level: 16" node_number="17"> <h2 title="valid: False, node: 18, tag: h2, level: 17" node_number="18">Tuesday, November 30, 2021</h2> <div title="valid: False, node: 19, tag: div, level: 17" node_number="19"> <div title="valid: False, node: 20, tag: div, level: 18" node_number="20"> <div title="valid: False, node: 21, tag: div, level: 19" node_number="21"> <h3 title="valid: False, node: 22, tag: h3, level: 20" node_number="22"> Fix Issues in Your Code Before Going to Production in Minutes with SonarQube </h3> <div title="valid: False, node: 23, tag: div, level: 20" node_number="23"> <p title="valid: False, node: 24, tag: p, level: 21" node_number="24"><i title="valid: False, node: 25, tag: i, level: 22" node_number="25">Carlos Rodr&#237;guez&#160;</i><i title="valid: False, node: 26, tag: i, level: 22" node_number="26">and&#160;</i><i title="valid: False, node: 27, tag: i, level: 22" node_number="27">Raquel Campuzano</i><i title="valid: False, node: 28, tag: i, level: 22" node_number="28">&#160;co-wrote this blog post</i></p><p title="valid: False, node: 29, tag: p, level: 21" node_number="29">SonarQube is an open-source code analyser designed for analysing and measuring the technical quality of code. This is particularly useful to avoid the need of fixing issues when your applications are already running in production environments. With SonarQube you can keep your code clean and prevent future vulnerabilities from the earliest stages of development to production. </p><p title="valid: False, node: 30, tag: p, level: 21" node_number="30">It combines static and dynamic analysis tools to monitor the following:&#160;</p><ul title="valid: False, node: 31, tag: ul, level: 21" node_number="31"><li title="valid: False, node: 32, tag: li, level: 22" node_number="32">Duplicated code&#160;</li><li title="valid: False, node: 33, tag: li, level: 22" node_number="33">Compliance with coding standards&#160;</li><li title="valid: False, node: 34, tag: li, level: 22" node_number="34">Unit tests&#160;</li><li title="valid: False, node: 35, tag: li, level: 22" node_number="35">Complex code&#160;</li><li title="valid: False, node: 36, tag: li, level: 22" node_number="36">Potential bugs&#160;</li><li title="valid: False, node: 37, tag: li, level: 22" node_number="37">Comments and design&#160;</li><li title="valid: False, node: 38, tag: li, level: 22" node_number="38">Code architecture&#160;</li></ul><p title="valid: False, node: 39, tag: p, level: 21" node_number="39">SonarQube is used for major programming languages such as C/C++, JavaScript, Java, C#, PHP, or Python, amongst others. Often, applications use several programming languages simultaneously, for example, a combination of Java, JavaScript, and HTML. SonarQube automatically detects these languages and invokes the corresponding analyzers.&#160;</p><p title="valid: False, node: 40, tag: p, level: 21" node_number="40">Sonarqube was available in the Bitnami Application Catalog for its local deployment or in the cloud, and now, you can also <a title="valid: False, node: 41, tag: a, level: 22" node_number="41">deploy it on your Kubernetes cluster as a Helm chart.&#160;</a>&#160;</p><p title="valid: False, node: 42, tag: p, level: 21" node_number="42">Keep reading to learn how to install it in your cluster to start analysing your code in minutes. </p><h3 title="valid: False, node: 43, tag: h3, level: 21" node_number="43">How to Install the SonarQube Helm chart in your Kubernetes Cluster&#160;</h3><p title="valid: False, node: 44, tag: p, level: 21" node_number="44">Having SonarQube running in your cluster is as easy as executing a couple of commands. </p><p title="valid: False, node: 45, tag: p, level: 21" node_number="45">First, install the Bitnami Helm charts repository by executing the following:&#160;</p><p title="valid: False, node: 46, tag: p, level: 21" node_number="46">helm repo add bitnami https://charts.bitnami.com/bitnami&#160;</p><p title="valid: False, node: 47, tag: p, level: 21" node_number="47">Once the repo is installed in your chart, run the command below to finish the installation of the SonarQube Helm chart: </p><p title="valid: False, node: 48, tag: p, level: 21" node_number="48">helm install my-release bitnami/sonarqube&#160;</p><p title="valid: False, node: 49, tag: p, level: 21" node_number="49">Remember that &#8220;my-release&#8221; is a placeholder, you can replace it with an identifiable name for your release. </p><p title="valid: False, node: 50, tag: p, level: 21" node_number="50">Once the deployment completes, refer to the output to obtain the SonarQube URL and credentials. </p><p title="valid: False, node: 51, tag: p, level: 21" node_number="51">To start using SonarQube, execute the corresponding command to get the URL. Then, open a browser and enter the IP address you have obtained. You will see the login screen:&#160;</p><p title="valid: False, node: 52, tag: p, level: 21" node_number="52">Enter the username &#8220;user&#8221; and the password obtained by running the command shown in the deployment notes.&#160;</p><p title="valid: False, node: 53, tag: p, level: 21" node_number="53">That&#8217;s all! Now you can start analysing your code! In the following sections, you will find a sample JavaScript code and some examples of how to use SonarQube to detect bugs, vulnerabilities, and errors in your code and how to clean up your code to make it safe for production environments. </p><h3 title="valid: False, node: 54, tag: h3, level: 21" node_number="54">Playing with SonarQube </h3><p title="valid: False, node: 55, tag: p, level: 21" node_number="55">In this GitHub project, you&#8217;ll find an example of code written in JavaScript. The goal: to show you how to incorporate SonarQube into your development workflow. The repository contains two main folders (sources and tests) so, in this way, you can know the percentage of our code that is being covered by the tests.&#160;</p><p title="valid: False, node: 56, tag: p, level: 21" node_number="56">This project also includes a <i title="valid: False, node: 57, tag: i, level: 22" node_number="57">sonar-project.properties</i> file where there are some configuration parameters needed to configure SonarQube like username, password, language, etc.&#160;</p><p title="valid: False, node: 58, tag: p, level: 21" node_number="58">First, run the scanner inside the project folder, that way the first scanner is launched and you can check the results in the web interface.&#160;</p><p title="valid: False, node: 59, tag: p, level: 21" node_number="59">sonar-scanner&#160;</p><p title="valid: False, node: 60, tag: p, level: 21" node_number="60">As you can see in the above screenshot, the current code has zero bugs, zero vulnerabilities and six code "smells".&#160;</p><p title="valid: False, node: 61, tag: p, level: 21" node_number="61">Modify the source code in order to introduce one bug and one vulnerability. This time it is intentional, but in daily work problems like this can arise without you realizing.&#160;</p><p title="valid: False, node: 62, tag: p, level: 21" node_number="62">Run the scanner again:</p><p title="valid: False, node: 63, tag: p, level: 21" node_number="63">sonar-scanner&#160;</p><p title="valid: False, node: 64, tag: p, level: 21" node_number="64">As expected, a new bug and vulnerability appear. Check the analysis again to see the changes we made:&#160;</p><div title="valid: False, node: 65, tag: div, level: 21" node_number="65"><div title="valid: False, node: 66, tag: div, level: 22" node_number="66">A new section appears on the right-hand side of the screen (highlighted in yellow). <b title="valid: False, node: 67, tag: b, level: 23" node_number="67">SonarQube handles two states: the current state (in white) and the latest changes.&#160;</b></div><div title="valid: False, node: 68, tag: div, level: 22" node_number="68">As you can see in the screenshot, the changes introduced in the last scan have added one bug and one vulnerability. SonarQube evaluates the quality of each section with a score based on different parameters, A being the best state. In this case, introducing the bug has caused the &#8220;Bugs&#8221; section to pass from A to C and the &#8220;Vulnerabilities&#8221; section from A to B.&#160;</div><div title="valid: False, node: 69, tag: div, level: 22" node_number="69">You can set the<b title="valid: False, node: 70, tag: b, level: 23" node_number="70"> &#8220;Leak Period&#8221;</b> to determine how you want to make the comparison: by time or between each scanner execution.&#160;</div><div title="valid: False, node: 71, tag: div, level: 22" node_number="71">Let&#8217;s see in detail the "Coverage" section: 38.1% is the global test coverage (as you can see in the GitHub repository, I have tests for some files, but not for all of them). In the yellow section, you can see the coverage for the newly added lines. Previously, we introduced some new lines in order to add errors but we didn&#8217;t create any test for these new lines, so the new test coverage is 0%. Also, by clicking on Coverage, you can see more information about the coverage, for example, coverage by file, number of covered lines, etc.&#160;</div><div title="valid: False, node: 72, tag: div, level: 22" node_number="72"><div title="valid: False, node: 73, tag: div, level: 23" node_number="73">With this quick and simple analysis (you only have to execute one command) you will be able to prevent errors like these arising in production environments, keeping the code safe and complying with best practice and quality standards. In the following iterations we will work towards the goal of zero bugs, vulnerabilities, and code "smells". We might also work on getting 100% of our code covered by the tests.&#160;</div><div title="valid: False, node: 74, tag: div, level: 23" node_number="74">Once we have my code in this state, it is very simple to see if the changes made have introduced some kind of error or bad practice.&#160;</div><h3 title="valid: False, node: 75, tag: h3, level: 23" node_number="75">How to squeeze SonarQube&#160;</h3><div title="valid: False, node: 76, tag: div, level: 23" node_number="76">As you saw in the previous section, it is quite simple to keep your code in good health. But, there is more to discover. SonarQube has a lot of cool integrations.&#160;</div><h4 title="valid: False, node: 77, tag: h4, level: 23" node_number="77">Analysis Methods</h4><div title="valid: False, node: 78, tag: div, level: 23" node_number="78">You can choose between the following analysis methods:&#160;</div><div title="valid: False, node: 79, tag: div, level: 23" node_number="79"><ul title="valid: False, node: 80, tag: ul, level: 24" node_number="80"><li title="valid: False, node: 81, tag: li, level: 25" node_number="81">SonarQube scanner for MSBuild: Launch analysis of .Net projects&#160;</li><li title="valid: False, node: 82, tag: li, level: 25" node_number="82">SonarQube scanner for Maven: Launch analysis from Maven with minimal configuration&#160;</li><li title="valid: False, node: 83, tag: li, level: 25" node_number="83">SonarQube scanner for Gradle: Launch Gradle analysis&#160;</li><li title="valid: False, node: 84, tag: li, level: 25" node_number="84">SonarQube scanner for Ant: Launch analysis from Ant&#160;</li><li title="valid: False, node: 85, tag: li, level: 25" node_number="85">SonarQube scanner for Jenkins: Launch analysis from Jenkins&#160;</li><li title="valid: False, node: 86, tag: li, level: 25" node_number="86">SonarQube scanner: Launch analysis from the command line when none of the other analyzers is appropriate&#160;</li></ul></div><h4 title="valid: False, node: 87, tag: h4, level: 23" node_number="87">Plugins</h4><div title="valid: False, node: 88, tag: div, level: 23" node_number="88">In addition, SonarQube has an Update Center with a variety of plugins organized into different categories, some useful plugins are:&#160;</div><div title="valid: False, node: 89, tag: div, level: 23" node_number="89"><ul title="valid: False, node: 90, tag: ul, level: 24" node_number="90"><li title="valid: False, node: 91, tag: li, level: 25" node_number="91">Code Analyzers&#160;</li><ul title="valid: False, node: 92, tag: ul, level: 25" node_number="92"><li title="valid: False, node: 93, tag: li, level: 26" node_number="93">SonarCFamily C/C++&#160;</li><li title="valid: False, node: 94, tag: li, level: 26" node_number="94">SonarPHP&#160;</li><li title="valid: False, node: 95, tag: li, level: 26" node_number="95">SonarJS&#160;</li><li title="valid: False, node: 96, tag: li, level: 26" node_number="96">SonarWeb&#160;</li><li title="valid: False, node: 97, tag: li, level: 26" node_number="97">SonarJava&#160;</li><li title="valid: False, node: 98, tag: li, level: 26" node_number="98">CSS&#160;</li></ul><li title="valid: False, node: 99, tag: li, level: 25" node_number="99">Integration</li><ul title="valid: False, node: 100, tag: ul, level: 25" node_number="100"><li title="valid: False, node: 101, tag: li, level: 26" node_number="101">GitHub Plugin: Analyzes pull requests, and points out the issues as comments.</li><li title="valid: False, node: 102, tag: li, level: 26" node_number="102">Google Analytics: Adds the Google Analytics tracking script to the SonarQube web application.</li><li title="valid: False, node: 103, tag: li, level: 26" node_number="103">SCM Engines&#160;</li><li title="valid: False, node: 104, tag: li, level: 26" node_number="104">Mercurial: Adds support for Mercurial.&#160;</li><li title="valid: False, node: 105, tag: li, level: 26" node_number="105">Git: Adds support for Git.&#160;</li><li title="valid: False, node: 106, tag: li, level: 26" node_number="106">SVN: Adds support for Subversion.&#160;</li></ul><li title="valid: False, node: 107, tag: li, level: 25" node_number="107">Authentication Authorization</li><ul title="valid: False, node: 108, tag: ul, level: 25" node_number="108"><li title="valid: False, node: 109, tag: li, level: 26" node_number="109">GitHub Authentication: Enables user authentication and Single Sign-On via GitHub.&#160;</li><li title="valid: False, node: 110, tag: li, level: 26" node_number="110">GitLab Authentication: Enables user authentication and Single Sign-On via GitLab.&#160;</li><li title="valid: False, node: 111, tag: li, level: 26" node_number="111">Google Authentication: Enabled delegation of user authentication to Google.&#160;</li></ul></ul></div><div title="valid: False, node: 112, tag: div, level: 23" node_number="112">Happy (and safe) coding!&#160;</div></div></div> <div title="valid: False, node: 113, tag: div, level: 21" node_number="113"> <center title="valid: False, node: 114, tag: center, level: 22" node_number="114"> <a title="valid: False, node: 115, tag: a, level: 23" node_number="115">Deploy SonarQube Now</a></center> </div> </div> <div title="valid: False, node: 116, tag: div, level: 20" node_number="116"> <div title="valid: False, node: 117, tag: div, level: 21" node_number="117"> <div title="valid: False, node: 118, tag: div, level: 22" node_number="118"> <a title="valid: False, node: 119, tag: a, level: 23" node_number="119">Email This</a>BlogThis!<a title="valid: False, node: 120, tag: a, level: 23" node_number="120">Share to Twitter</a><a title="valid: False, node: 121, tag: a, level: 23" node_number="121">Share to Facebook</a><a title="valid: False, node: 122, tag: a, level: 23" node_number="122">Share to Pinterest</a> </div> </div> <div title="valid: False, node: 123, tag: div, level: 21" node_number="123"> Labels: developers, helm, kubernetes, sonarqube </div> </div> </div> </div> </div></div> </div> <div title="valid: False, node: 124, tag: div, level: 15" node_number="124"> Older Post <a title="valid: False, node: 125, tag: a, level: 16" node_number="125">Home</a> </div> </div></div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://www.postgresql.org/support/versioning/');</script>
+
+        <script> var body_html = 'PGJvZHk+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+ICA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4xMXRoIE5vdmVtYmVyIDIwMjE6IDxhID4gUG9zdGdyZVNRTCAxNC4xLCAxMy41LCAxMi45LCAxMS4xNCwgMTAuMTksIGFuZCA5LjYuMjQgUmVsZWFzZWQ8L2E+ISA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMj5RdWljayBMaW5rczwvaDI+IDx1bD4gPGxpPjxhID5TdXBwb3J0PC9hPiA8L2xpPiA8bGk+PGEgPlZlcnNpb25pbmcgUG9saWN5PC9hPiA8L2xpPiA8bGk+PGEgPlNlY3VyaXR5PC9hPiA8L2xpPiA8bGk+PGEgPlByb2Zlc3Npb25hbCBTZXJ2aWNlczwvYT4gPC9saT4gPGxpPjxhID5Ib3N0aW5nIFNvbHV0aW9uczwvYT4gPC9saT4gPGxpID48YSA+UmVwb3J0IGEgQnVnPC9hPiA8L2xpPiA8L3VsPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxoMT5WZXJzaW9uaW5nIFBvbGljeSA8L2gxPiA8cD4gVGhlIFBvc3RncmVTUUwgR2xvYmFsIERldmVsb3BtZW50IEdyb3VwIHJlbGVhc2VzIGEgbmV3IG1ham9yIHZlcnNpb24gY29udGFpbmluZyBuZXcgZmVhdHVyZXMgYWJvdXQgb25jZSBhIHllYXIuIEVhY2ggbWFqb3IgdmVyc2lvbiByZWNlaXZlcyBidWcgZml4ZXMgYW5kLCBpZiBuZWVkIGJlLCA8YSA+c2VjdXJpdHk8L2E+IGZpeGVzIHRoYXQgYXJlIHJlbGVhc2VkIGF0IGxlYXN0IG9uY2UgZXZlcnkgdGhyZWUgbW9udGhzIGluIHdoYXQgd2UgY2FsbCBhICJtaW5vciByZWxlYXNlLiIgRm9yIG1vcmUgaW5mb3JtYXRpb24gb24gdGhlIG1pbm9yIHJlbGVhc2Ugc2NoZWR1bGUsIHlvdSBjYW4gdmlldyB0aGUgPGEgPm1pbm9yIHJlbGVhc2Ugcm9hZG1hcDwvYT4uIDwvcD48cD4gSWYgdGhlIHJlbGVhc2UgdGVhbSBkZXRlcm1pbmVzIHRoYXQgYSBjcml0aWNhbCBidWcgb3Igc2VjdXJpdHkgZml4IGlzIHRvbyBpbXBvcnRhbnQgdG8gd2FpdCB1bnRpbCB0aGUgcmVndWxhcmx5IHNjaGVkdWxlZCBtaW5vciByZWxlYXNlLCBpdCBtYXkgbWFrZSBhIHJlbGVhc2UgYXZhaWxhYmxlIG91dHNpZGUgb2YgdGhlIG1pbm9yIHJlbGVhc2Ugcm9hZG1hcC4gPC9wPiA8cD4gVGhlIFBvc3RncmVTUUwgR2xvYmFsIERldmVsb3BtZW50IEdyb3VwIHN1cHBvcnRzIGEgbWFqb3IgdmVyc2lvbiBmb3IgNSB5ZWFycyBhZnRlciBpdHMgaW5pdGlhbCByZWxlYXNlLiBBZnRlciBpdHMgZml2ZSB5ZWFyIGFubml2ZXJzYXJ5LCBhIG1ham9yIHZlcnNpb24gd2lsbCBoYXZlIG9uZSBsYXN0IG1pbm9yIHJlbGVhc2UgY29udGFpbmluZyBhbnkgZml4ZXMgYW5kIHdpbGwgYmUgY29uc2lkZXJlZCBlbmQtb2YtbGlmZSAoRU9MKSBhbmQgbm8gbG9uZ2VyIHN1cHBvcnRlZC4gPC9wPiA8aDI+VmVyc2lvbiBOdW1iZXJpbmc8L2gyPiA8cD4gU3RhcnRpbmcgd2l0aCBQb3N0Z3JlU1FMIDEwLCBhIG1ham9yIHZlcnNpb24gaXMgaW5kaWNhdGVkIGJ5IGluY3JlYXNpbmcgdGhlIGZpcnN0IHBhcnQgb2YgdGhlIHZlcnNpb24sIGUuZy4gMTAgdG8gMTEuIEJlZm9yZSBQb3N0Z3JlU1FMIDEwLCBhIG1ham9yIHZlcnNpb24gd2FzIGluZGljYXRlZCBieSBpbmNyZWFzaW5nIGVpdGhlciB0aGUgZmlyc3Qgb3Igc2Vjb25kIHBhcnQgb2YgdGhlIHZlcnNpb24gbnVtYmVyLCBlLmcuIDkuNSB0byA5LjYuIDwvcD4gPHA+IE1pbm9yIHJlbGVhc2VzIGFyZSBudW1iZXJlZCBieSBpbmNyZWFzaW5nIHRoZSBsYXN0IHBhcnQgb2YgdGhlIHZlcnNpb24gbnVtYmVyLiBCZWdpbm5pbmcgd2l0aCBQb3N0Z3JlU1FMIDEwLCB0aGlzIGlzIHRoZSBzZWNvbmQgcGFydCBvZiB0aGUgdmVyc2lvbiBudW1iZXIsIGUuZy4gMTAuMCB0byAxMC4xOyBmb3Igb2xkZXIgdmVyc2lvbnMgdGhpcyBpcyB0aGUgdGhpcmQgcGFydCBvZiB0aGUgdmVyc2lvbiBudW1iZXIsIGUuZy4gOS41LjMgdG8gOS41LjQuIDwvcD4gPGgyPlVwZ3JhZGluZzwvaDI+IDxwPiBXZSBhbHdheXMgcmVjb21tZW5kIHRoYXQgYWxsIHVzZXJzIHJ1biB0aGUgbGF0ZXN0IGF2YWlsYWJsZSBtaW5vciByZWxlYXNlIGZvciB3aGF0ZXZlciBtYWpvciB2ZXJzaW9uIGlzIGluIHVzZS4gPC9wPiA8cD4gTWFqb3IgdmVyc2lvbnMgdXN1YWxseSBjaGFuZ2UgdGhlIGludGVybmFsIGZvcm1hdCBvZiBzeXN0ZW0gdGFibGVzIGFuZCBkYXRhIGZpbGVzLiBUaGVzZSBjaGFuZ2VzIGFyZSBvZnRlbiBjb21wbGV4LCBzbyB3ZSBkbyBub3QgbWFpbnRhaW4gYmFja3dhcmQgY29tcGF0aWJpbGl0eSBvZiBhbGwgc3RvcmVkIGRhdGEuIEEgZHVtcC9yZWxvYWQgb2YgdGhlIGRhdGFiYXNlIG9yIHVzZSBvZiB0aGUgPGEgPnBnX3VwZ3JhZGU8L2E+IG1vZHVsZSBpcyByZXF1aXJlZCBmb3IgbWFqb3IgdXBncmFkZXMuIFdlIGFsc28gcmVjb21tZW5kIHJlYWRpbmcgdGhlIDxhID51cGdyYWRpbmc8L2E+IHNlY3Rpb24gb2YgdGhlIG1ham9yIHZlcnNpb24geW91IGFyZSBwbGFubmluZyB0byB1cGdyYWRlIHRvLiBZb3UgY2FuIHVwZ3JhZGUgZnJvbSBvbmUgbWFqb3IgdmVyc2lvbiB0byBhbm90aGVyIHdpdGhvdXQgdXBncmFkaW5nIHRvIGludGVydmVuaW5nIHZlcnNpb25zLCBidXQgd2UgcmVjb21tZW5kIHJlYWRpbmcgdGhlIDxhID5yZWxlYXNlIG5vdGVzPC9hPiBvZiBhbGwgaW50ZXJ2ZW5pbmcgbWFqb3IgdmVyc2lvbnMgcHJpb3IgdG8gZG9pbmcgc28uIDwvcD4gPHA+IFVwZ3JhZGluZyB0byBhIG1pbm9yIHJlbGVhc2UgZG9lcyBub3Qgbm9ybWFsbHkgcmVxdWlyZSBhIGR1bXAgYW5kIHJlc3RvcmU7IHlvdSBjYW4gc3RvcCB0aGUgZGF0YWJhc2Ugc2VydmVyLCBpbnN0YWxsIHRoZSB1cGRhdGVkIGJpbmFyaWVzLCBhbmQgcmVzdGFydCB0aGUgc2VydmVyLiBGb3Igc29tZSByZWxlYXNlcywgbWFudWFsIGNoYW5nZXMgbWF5IGJlIHJlcXVpcmVkIHRvIGNvbXBsZXRlIHRoZSB1cGdyYWRlLCBzbyBhbHdheXMgcmVhZCB0aGUgcmVsZWFzZSBub3RlcyBiZWZvcmUgdXBncmFkaW5nLiA8L3A+IDxwPiBXaGlsZSB1cGdyYWRpbmcgd2lsbCBhbHdheXMgY29udGFpbiBzb21lIGxldmVsIG9mIHJpc2ssIFBvc3RncmVTUUwgbWlub3IgcmVsZWFzZXMgZml4IG9ubHkgZnJlcXVlbnRseS1lbmNvdW50ZXJlZCBidWdzLCA8YSA+c2VjdXJpdHk8L2E+IGlzc3VlcywgYW5kIGRhdGEgY29ycnVwdGlvbiBwcm9ibGVtcyB0byByZWR1Y2UgdGhlIHJpc2sgYXNzb2NpYXRlZCB3aXRoIHVwZ3JhZGluZy4gRm9yIG1pbm9yIHJlbGVhc2VzLCB0aGUgY29tbXVuaXR5IGNvbnNpZGVycyBub3QgdXBncmFkaW5nIHRvIGJlIHJpc2tpZXIgdGhhbiB1cGdyYWRpbmcuIDwvcD4gPGgyPlJlbGVhc2VzPC9oMj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvYm9keT4='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, tag: body, level: 1" node_number="1"> <div class="valid" valid="valid" title="valid: True, node: 2, tag: div, level: 2" node_number="2"> <div class="valid" valid="valid" title="valid: True, node: 3, tag: div, level: 3" node_number="3"> <div class="valid" valid="valid" title="valid: True, node: 4, tag: div, level: 4" node_number="4">  </div> </div> <div class="valid" valid="valid" title="valid: True, node: 5, tag: div, level: 3" node_number="5"> <div class="valid" valid="valid" title="valid: True, node: 6, tag: div, level: 4" node_number="6">11th November 2021: <a class="valid" valid="valid" title="valid: True, node: 7, tag: a, level: 5" node_number="7"> PostgreSQL 14.1, 13.5, 12.9, 11.14, 10.19, and 9.6.24 Released</a>! </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 8, tag: div, level: 2" node_number="8"> <div class="valid" valid="valid" title="valid: True, node: 9, tag: div, level: 3" node_number="9"> <div class="valid" valid="valid" title="valid: True, node: 10, tag: div, level: 4" node_number="10"> <div class="valid" valid="valid" title="valid: True, node: 11, tag: div, level: 5" node_number="11"> <div class="valid" valid="valid" title="valid: True, node: 12, tag: div, level: 6" node_number="12"> <h2 class="valid" valid="valid" title="valid: True, node: 13, tag: h2, level: 7" node_number="13">Quick Links</h2> <ul class="valid" valid="valid" title="valid: True, node: 14, tag: ul, level: 7" node_number="14"> <li class="valid" valid="valid" title="valid: True, node: 15, tag: li, level: 8" node_number="15"><a class="valid" valid="valid" title="valid: True, node: 16, tag: a, level: 9" node_number="16">Support</a> </li> <li class="valid" valid="valid" title="valid: True, node: 17, tag: li, level: 8" node_number="17"><a class="valid" valid="valid" title="valid: True, node: 18, tag: a, level: 9" node_number="18">Versioning Policy</a> </li> <li class="valid" valid="valid" title="valid: True, node: 19, tag: li, level: 8" node_number="19"><a class="valid" valid="valid" title="valid: True, node: 20, tag: a, level: 9" node_number="20">Security</a> </li> <li class="valid" valid="valid" title="valid: True, node: 21, tag: li, level: 8" node_number="21"><a class="valid" valid="valid" title="valid: True, node: 22, tag: a, level: 9" node_number="22">Professional Services</a> </li> <li class="valid" valid="valid" title="valid: True, node: 23, tag: li, level: 8" node_number="23"><a class="valid" valid="valid" title="valid: True, node: 24, tag: a, level: 9" node_number="24">Hosting Solutions</a> </li> <li class="valid" valid="valid" title="valid: True, node: 25, tag: li, level: 8" node_number="25"><a class="valid" valid="valid" title="valid: True, node: 26, tag: a, level: 9" node_number="26">Report a Bug</a> </li> </ul> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 27, tag: div, level: 4" node_number="27"> <div class="valid" valid="valid" title="valid: True, node: 28, tag: div, level: 5" node_number="28"> <h1 class="valid" valid="valid" title="valid: True, node: 29, tag: h1, level: 6" node_number="29">Versioning Policy </h1> <p class="valid" valid="valid" title="valid: True, node: 30, tag: p, level: 6" node_number="30"> The PostgreSQL Global Development Group releases a new major version containing new features about once a year. Each major version receives bug fixes and, if need be, <a class="valid" valid="valid" title="valid: True, node: 31, tag: a, level: 7" node_number="31">security</a> fixes that are released at least once every three months in what we call a "minor release." For more information on the minor release schedule, you can view the <a class="valid" valid="valid" title="valid: True, node: 32, tag: a, level: 7" node_number="32">minor release roadmap</a>. </p><p class="valid" valid="valid" title="valid: True, node: 33, tag: p, level: 6" node_number="33"> If the release team determines that a critical bug or security fix is too important to wait until the regularly scheduled minor release, it may make a release available outside of the minor release roadmap. </p> <p class="valid" valid="valid" title="valid: True, node: 34, tag: p, level: 6" node_number="34"> The PostgreSQL Global Development Group supports a major version for 5 years after its initial release. After its five year anniversary, a major version will have one last minor release containing any fixes and will be considered end-of-life (EOL) and no longer supported. </p> <h2 class="valid" valid="valid" title="valid: True, node: 35, tag: h2, level: 6" node_number="35">Version Numbering</h2> <p class="valid" valid="valid" title="valid: True, node: 36, tag: p, level: 6" node_number="36"> Starting with PostgreSQL 10, a major version is indicated by increasing the first part of the version, e.g. 10 to 11. Before PostgreSQL 10, a major version was indicated by increasing either the first or second part of the version number, e.g. 9.5 to 9.6. </p> <p class="valid" valid="valid" title="valid: True, node: 37, tag: p, level: 6" node_number="37"> Minor releases are numbered by increasing the last part of the version number. Beginning with PostgreSQL 10, this is the second part of the version number, e.g. 10.0 to 10.1; for older versions this is the third part of the version number, e.g. 9.5.3 to 9.5.4. </p> <h2 class="valid" valid="valid" title="valid: True, node: 38, tag: h2, level: 6" node_number="38">Upgrading</h2> <p class="valid" valid="valid" title="valid: True, node: 39, tag: p, level: 6" node_number="39"> We always recommend that all users run the latest available minor release for whatever major version is in use. </p> <p class="valid" valid="valid" title="valid: True, node: 40, tag: p, level: 6" node_number="40"> Major versions usually change the internal format of system tables and data files. These changes are often complex, so we do not maintain backward compatibility of all stored data. A dump/reload of the database or use of the <a class="valid" valid="valid" title="valid: True, node: 41, tag: a, level: 7" node_number="41">pg_upgrade</a> module is required for major upgrades. We also recommend reading the <a class="valid" valid="valid" title="valid: True, node: 42, tag: a, level: 7" node_number="42">upgrading</a> section of the major version you are planning to upgrade to. You can upgrade from one major version to another without upgrading to intervening versions, but we recommend reading the <a class="valid" valid="valid" title="valid: True, node: 43, tag: a, level: 7" node_number="43">release notes</a> of all intervening major versions prior to doing so. </p> <p class="valid" valid="valid" title="valid: True, node: 44, tag: p, level: 6" node_number="44"> Upgrading to a minor release does not normally require a dump and restore; you can stop the database server, install the updated binaries, and restart the server. For some releases, manual changes may be required to complete the upgrade, so always read the release notes before upgrading. </p> <p class="valid" valid="valid" title="valid: True, node: 45, tag: p, level: 6" node_number="45"> While upgrading will always contain some level of risk, PostgreSQL minor releases fix only frequently-encountered bugs, <a class="valid" valid="valid" title="valid: True, node: 46, tag: a, level: 7" node_number="46">security</a> issues, and data corruption problems to reduce the risk associated with upgrading. For minor releases, the community considers not upgrading to be riskier than upgrading. </p> <h2 class="valid" valid="valid" title="valid: True, node: 47, tag: h2, level: 6" node_number="47">Releases</h2> </div> </div> </div> </div> </body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

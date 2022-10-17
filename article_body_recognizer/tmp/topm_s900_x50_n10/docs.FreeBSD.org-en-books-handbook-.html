@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://docs.FreeBSD.org/en/books/handbook/');</script>
+
+        <script> var body_html = 'PGJvZHk+IDxoZWFkZXI+ICA8L2hlYWRlcj4gPG1haW4gPiA8ZGl2ID4gPGRpdiA+IDxsYWJlbCA+IEJvb2sgbWVudSA8L2xhYmVsPiA8L2Rpdj4gPGgxID5GcmVlQlNEIEhhbmRib29rPC9oMT4gPGRpdiA+IENvcHlyaWdodCDCqSAxOTk1LTIwMjEgVGhlIEZyZWVCU0QgRG9jdW1lbnRhdGlvbiBQcm9qZWN0IDwvZGl2PiA8ZGl2ID4gPGRldGFpbHM+IDxzdW1tYXJ5PnRyYWRlbWFya3M8L3N1bW1hcnk+IDxwPkZyZWVCU0QgaXMgYSByZWdpc3RlcmVkIHRyYWRlbWFyayBvZiB0aGUgRnJlZUJTRCBGb3VuZGF0aW9uLjwvcD4gPHA+SUJNLCBBSVgsIE9TLzIsIFBvd2VyUEMsIFBTLzIsIFMvMzkwLCBhbmQgVGhpbmtQYWQgYXJlIHRyYWRlbWFya3Mgb2YgSW50ZXJuYXRpb25hbCBCdXNpbmVzcyBNYWNoaW5lcyBDb3Jwb3JhdGlvbiBpbiB0aGUgVW5pdGVkIFN0YXRlcywgb3RoZXIgY291bnRyaWVzLCBvciBib3RoLjwvcD4gPHA+SUVFRSwgUE9TSVgsIGFuZCA4MDIgYXJlIHJlZ2lzdGVyZWQgdHJhZGVtYXJrcyBvZiBJbnN0aXR1dGUgb2YgRWxlY3RyaWNhbCBhbmQgRWxlY3Ryb25pY3MgRW5naW5lZXJzLCBJbmMuIGluIHRoZSBVbml0ZWQgU3RhdGVzLjwvcD4gPHA+UmVkIEhhdCwgUlBNLCBhcmUgdHJhZGVtYXJrcyBvciByZWdpc3RlcmVkIHRyYWRlbWFya3Mgb2YgUmVkIEhhdCwgSW5jLiBpbiB0aGUgVW5pdGVkIFN0YXRlcyBhbmQgb3RoZXIgY291bnRyaWVzLjwvcD4gPHA+M0NvbSBhbmQgSG9tZUNvbm5lY3QgYXJlIHJlZ2lzdGVyZWQgdHJhZGVtYXJrcyBvZiAzQ29tIENvcnBvcmF0aW9uLjwvcD4gPHA+QWRvYmUsIEFjcm9iYXQsIEFjcm9iYXQgUmVhZGVyLCBGbGFzaCBhbmQgUG9zdFNjcmlwdCBhcmUgZWl0aGVyIHJlZ2lzdGVyZWQgdHJhZGVtYXJrcyBvciB0cmFkZW1hcmtzIG9mIEFkb2JlIFN5c3RlbXMgSW5jb3Jwb3JhdGVkIGluIHRoZSBVbml0ZWQgU3RhdGVzIGFuZC9vciBvdGhlciBjb3VudHJpZXMuPC9wPiA8cD5BcHBsZSwgQWlyUG9ydCwgRmlyZVdpcmUsIGlNYWMsIGlQaG9uZSwgaVBhZCwgTWFjLCBNYWNpbnRvc2gsIE1hYyBPUywgUXVpY2t0aW1lLCBhbmQgVHJ1ZVR5cGUgYXJlIHRyYWRlbWFya3Mgb2YgQXBwbGUgSW5jLiwgcmVnaXN0ZXJlZCBpbiB0aGUgVS5TLiBhbmQgb3RoZXIgY291bnRyaWVzLjwvcD4gPHA+SW50ZWwsIENlbGVyb24sIENlbnRyaW5vLCBDb3JlLCBFdGhlckV4cHJlc3MsIGkzODYsIGk0ODYsIEl0YW5pdW0sIFBlbnRpdW0sIGFuZCBYZW9uIGFyZSB0cmFkZW1hcmtzIG9yIHJlZ2lzdGVyZWQgdHJhZGVtYXJrcyBvZiBJbnRlbCBDb3Jwb3JhdGlvbiBvciBpdHMgc3Vic2lkaWFyaWVzIGluIHRoZSBVbml0ZWQgU3RhdGVzIGFuZCBvdGhlciBjb3VudHJpZXMuPC9wPiA8cD5MaW51eCBpcyBhIHJlZ2lzdGVyZWQgdHJhZGVtYXJrIG9mIExpbnVzIFRvcnZhbGRzLjwvcD4gPHA+TWljcm9zb2Z0LCBJbnRlbGxpTW91c2UsIE1TLURPUywgT3V0bG9vaywgV2luZG93cywgV2luZG93cyBNZWRpYSBhbmQgV2luZG93cyBOVCBhcmUgZWl0aGVyIHJlZ2lzdGVyZWQgdHJhZGVtYXJrcyBvciB0cmFkZW1hcmtzIG9mIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBpbiB0aGUgVW5pdGVkIFN0YXRlcyBhbmQvb3Igb3RoZXIgY291bnRyaWVzLjwvcD4gPHA+TW90aWYsIE9TRi8xLCBhbmQgVU5JWCBhcmUgcmVnaXN0ZXJlZCB0cmFkZW1hcmtzIGFuZCBJVCBEaWFsVG9uZSBhbmQgVGhlIE9wZW4gR3JvdXAgYXJlIHRyYWRlbWFya3Mgb2YgVGhlIE9wZW4gR3JvdXAgaW4gdGhlIFVuaXRlZCBTdGF0ZXMgYW5kIG90aGVyIGNvdW50cmllcy48L3A+IDxwPlN1biwgU3VuIE1pY3Jvc3lzdGVtcywgSmF2YSwgSmF2YSBWaXJ0dWFsIE1hY2hpbmUsIEpESywgSlJFLCBKU1AsIEpWTSwgTmV0cmEsIE9wZW5KREssIFNvbGFyaXMsIFN0YXJPZmZpY2UsIFN1bk9TIGFuZCBWaXJ0dWFsQm94IGFyZSB0cmFkZW1hcmtzIG9yIHJlZ2lzdGVyZWQgdHJhZGVtYXJrcyBvZiBTdW4gTWljcm9zeXN0ZW1zLCBJbmMuIGluIHRoZSBVbml0ZWQgU3RhdGVzIGFuZCBvdGhlciBjb3VudHJpZXMuPC9wPiA8cD5SZWFsTmV0d29ya3MsIFJlYWxQbGF5ZXIsIGFuZCBSZWFsQXVkaW8gYXJlIHRoZSByZWdpc3RlcmVkIHRyYWRlbWFya3Mgb2YgUmVhbE5ldHdvcmtzLCBJbmMuPC9wPiA8cD5PcmFjbGUgaXMgYSByZWdpc3RlcmVkIHRyYWRlbWFyayBvZiBPcmFjbGUgQ29ycG9yYXRpb24uPC9wPiA8cD4zd2FyZSBpcyBhIHJlZ2lzdGVyZWQgdHJhZGVtYXJrIG9mIDN3YXJlIEluYy48L3A+IDxwPkFSTSBpcyBhIHJlZ2lzdGVyZWQgdHJhZGVtYXJrIG9mIEFSTSBMaW1pdGVkLjwvcD4gPHA+QWRhcHRlYyBpcyBhIHJlZ2lzdGVyZWQgdHJhZGVtYXJrIG9mIEFkYXB0ZWMsIEluYy48L3A+IDxwPkFuZHJvaWQgaXMgYSB0cmFkZW1hcmsgb2YgR29vZ2xlIEluYy48L3A+IDxwPkhlaWRlbGJlcmcsIEhlbHZldGljYSwgUGFsYXRpbm8sIGFuZCBUaW1lcyBSb21hbiBhcmUgZWl0aGVyIHJlZ2lzdGVyZWQgdHJhZGVtYXJrcyBvciB0cmFkZW1hcmtzIG9mIEhlaWRlbGJlcmdlciBEcnVja21hc2NoaW5lbiBBRyBpbiB0aGUgVS5TLiBhbmQgb3RoZXIgY291bnRyaWVzLjwvcD4gPHA+SW50dWl0IGFuZCBRdWlja2VuIGFyZSByZWdpc3RlcmVkIHRyYWRlbWFya3MgYW5kL29yIHJlZ2lzdGVyZWQgc2VydmljZSBtYXJrcyBvZiBJbnR1aXQgSW5jLiwgb3Igb25lIG9mIGl0cyBzdWJzaWRpYXJpZXMsIGluIHRoZSBVbml0ZWQgU3RhdGVzIGFuZCBvdGhlciBjb3VudHJpZXMuPC9wPiA8cD5MU0kgTG9naWMsIEFjY2VsZVJBSUQsIGVYdHJlbWVSQUlELCBNZWdhUkFJRCBhbmQgTXlsZXggYXJlIHRyYWRlbWFya3Mgb3IgcmVnaXN0ZXJlZCB0cmFkZW1hcmtzIG9mIExTSSBMb2dpYyBDb3JwLjwvcD4gPHA+TUFUTEFCIGlzIGEgcmVnaXN0ZXJlZCB0cmFkZW1hcmsgb2YgVGhlIE1hdGhXb3JrcywgSW5jLjwvcD4gPHA+U3BlZWRUb3VjaCBpcyBhIHRyYWRlbWFyayBvZiBUaG9tc29uLjwvcD4gPHA+Vk13YXJlIGlzIGEgdHJhZGVtYXJrIG9mIFZNd2FyZSwgSW5jLjwvcD4gPHA+TWF0aGVtYXRpY2EgaXMgYSByZWdpc3RlcmVkIHRyYWRlbWFyayBvZiBXb2xmcmFtIFJlc2VhcmNoLCBJbmMuPC9wPiA8cD5PZ2cgVm9yYmlzIGFuZCBYaXBoLk9yZyBhcmUgdHJhZGVtYXJrcyBvZiBYaXBoLk9yZy48L3A+IDxwPlhGcmVlODYgaXMgYSB0cmFkZW1hcmsgb2YgVGhlIFhGcmVlODYgUHJvamVjdCwgSW5jLjwvcD4gPHA+TWFueSBvZiB0aGUgZGVzaWduYXRpb25zIHVzZWQgYnkgbWFudWZhY3R1cmVycyBhbmQgc2VsbGVycyB0byBkaXN0aW5ndWlzaCB0aGVpciBwcm9kdWN0cyBhcmUgY2xhaW1lZCBhcyB0cmFkZW1hcmtzLiBXaGVyZSB0aG9zZSBkZXNpZ25hdGlvbnMgYXBwZWFyIGluIHRoaXMgZG9jdW1lbnQsIGFuZCB0aGUgRnJlZUJTRCBQcm9qZWN0IHdhcyBhd2FyZSBvZiB0aGUgdHJhZGVtYXJrIGNsYWltLCB0aGUgZGVzaWduYXRpb25zIGhhdmUgYmVlbiBmb2xsb3dlZCBieSB0aGUg4oCc4oSi4oCdIG9yIHRoZSDigJzCruKAnSBzeW1ib2wuPC9wPiA8L2RldGFpbHM+IDwvZGl2PiA8ZGl2ID4gPGgzPlRhYmxlIG9mIENvbnRlbnRzPC9oMz4gPC9kaXY+IDxkaXY+IFsgU3BsaXQgSFRNTCAvIDxhID5TaW5nbGUgSFRNTDwvYT4gXSA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxwPkFic3RyYWN0PC9wPiA8L2Rpdj4gPGRpdiA+IDxwPldlbGNvbWUgdG8gRnJlZUJTRCEgVGhpcyBoYW5kYm9vayBjb3ZlcnMgdGhlIGluc3RhbGxhdGlvbiBhbmQgZGF5IHRvIGRheSB1c2Ugb2YgRnJlZUJTRCAxMy4wLVJFTEVBU0UgYW5kIEZyZWVCU0QgMTIuMi1SRUxFQVNFLiBUaGlzIGJvb2sgaXMgdGhlIHJlc3VsdCBvZiBvbmdvaW5nIHdvcmsgYnkgbWFueSBpbmRpdmlkdWFscy4gU29tZSBzZWN0aW9ucyBtaWdodCBiZSBvdXRkYXRlZC4gVGhvc2UgaW50ZXJlc3RlZCBpbiBoZWxwaW5nIHRvIHVwZGF0ZSBhbmQgZXhwYW5kIHRoaXMgZG9jdW1lbnQgc2hvdWxkIHNlbmQgZW1haWwgdG8gdGhlIDxhID5GcmVlQlNEIGRvY3VtZW50YXRpb24gcHJvamVjdCBtYWlsaW5nIGxpc3Q8L2E+LjwvcD4gPC9kaXY+IDxkaXYgPiA8cD5UaGUgbGF0ZXN0IHZlcnNpb24gb2YgdGhpcyBib29rIGlzIGF2YWlsYWJsZSBmcm9tIHRoZSA8YSA+RnJlZUJTRCB3ZWIgc2l0ZTwvYT4uIFByZXZpb3VzIHZlcnNpb25zIGNhbiBiZSBvYnRhaW5lZCBmcm9tIDxhID5odHRwczovL2RvY3MuRnJlZUJTRC5vcmcvZG9jLzwvYT4uIFRoZSBib29rIGNhbiBiZSBkb3dubG9hZGVkIGluIGEgdmFyaWV0eSBvZiBmb3JtYXRzIGFuZCBjb21wcmVzc2lvbiBvcHRpb25zIGZyb20gdGhlIDxhID5GcmVlQlNEIEZUUCBzZXJ2ZXI8L2E+IG9yIG9uZSBvZiB0aGUgbnVtZXJvdXMgPGEgPm1pcnJvciBzaXRlczwvYT4uIFByaW50ZWQgY29waWVzIGNhbiBiZSBwdXJjaGFzZWQgYXQgdGhlIDxhID5GcmVlQlNEIE1hbGw8L2E+LiBTZWFyY2hlcyBjYW4gYmUgcGVyZm9ybWVkIG9uIHRoZSBoYW5kYm9vayBhbmQgb3RoZXIgZG9jdW1lbnRzIG9uIHRoZSA8YSA+c2VhcmNoIHBhZ2U8L2E+LjwvcD4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxhID5Ib21lPC9hPiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGEgPk5leHQ8L2E+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDxsYWJlbCA+PC9sYWJlbD4gPC9kaXY+IDwvbWFpbj4gPC9ib2R5Pg=='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, tag: body, level: 1" node_number="1"> <header class="valid" valid="valid" title="valid: True, node: 2, tag: header, level: 2" node_number="2">  </header> <main class="valid" valid="valid" title="valid: True, node: 3, tag: main, level: 2" node_number="3"> <div class="valid" valid="valid" title="valid: True, node: 4, tag: div, level: 3" node_number="4"> <div class="valid" valid="valid" title="valid: True, node: 5, tag: div, level: 4" node_number="5"> <label class="valid" valid="valid" title="valid: True, node: 6, tag: label, level: 5" node_number="6"> Book menu </label> </div> <h1 class="valid" valid="valid" title="valid: True, node: 7, tag: h1, level: 4" node_number="7">FreeBSD Handbook</h1> <div class="valid" valid="valid" title="valid: True, node: 8, tag: div, level: 4" node_number="8"> Copyright &#169; 1995-2021 The FreeBSD Documentation Project </div> <div class="valid" valid="valid" title="valid: True, node: 9, tag: div, level: 4" node_number="9"> <details class="valid" valid="valid" title="valid: True, node: 10, tag: details, level: 5" node_number="10"> <summary class="valid" valid="valid" title="valid: True, node: 11, tag: summary, level: 6" node_number="11">trademarks</summary> <p class="valid" valid="valid" title="valid: True, node: 12, tag: p, level: 6" node_number="12">FreeBSD is a registered trademark of the FreeBSD Foundation.</p> <p class="valid" valid="valid" title="valid: True, node: 13, tag: p, level: 6" node_number="13">IBM, AIX, OS/2, PowerPC, PS/2, S/390, and ThinkPad are trademarks of International Business Machines Corporation in the United States, other countries, or both.</p> <p class="valid" valid="valid" title="valid: True, node: 14, tag: p, level: 6" node_number="14">IEEE, POSIX, and 802 are registered trademarks of Institute of Electrical and Electronics Engineers, Inc. in the United States.</p> <p class="valid" valid="valid" title="valid: True, node: 15, tag: p, level: 6" node_number="15">Red Hat, RPM, are trademarks or registered trademarks of Red Hat, Inc. in the United States and other countries.</p> <p class="valid" valid="valid" title="valid: True, node: 16, tag: p, level: 6" node_number="16">3Com and HomeConnect are registered trademarks of 3Com Corporation.</p> <p class="valid" valid="valid" title="valid: True, node: 17, tag: p, level: 6" node_number="17">Adobe, Acrobat, Acrobat Reader, Flash and PostScript are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.</p> <p class="valid" valid="valid" title="valid: True, node: 18, tag: p, level: 6" node_number="18">Apple, AirPort, FireWire, iMac, iPhone, iPad, Mac, Macintosh, Mac OS, Quicktime, and TrueType are trademarks of Apple Inc., registered in the U.S. and other countries.</p> <p class="valid" valid="valid" title="valid: True, node: 19, tag: p, level: 6" node_number="19">Intel, Celeron, Centrino, Core, EtherExpress, i386, i486, Itanium, Pentium, and Xeon are trademarks or registered trademarks of Intel Corporation or its subsidiaries in the United States and other countries.</p> <p class="valid" valid="valid" title="valid: True, node: 20, tag: p, level: 6" node_number="20">Linux is a registered trademark of Linus Torvalds.</p> <p class="valid" valid="valid" title="valid: True, node: 21, tag: p, level: 6" node_number="21">Microsoft, IntelliMouse, MS-DOS, Outlook, Windows, Windows Media and Windows NT are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.</p> <p class="valid" valid="valid" title="valid: True, node: 22, tag: p, level: 6" node_number="22">Motif, OSF/1, and UNIX are registered trademarks and IT DialTone and The Open Group are trademarks of The Open Group in the United States and other countries.</p> <p class="valid" valid="valid" title="valid: True, node: 23, tag: p, level: 6" node_number="23">Sun, Sun Microsystems, Java, Java Virtual Machine, JDK, JRE, JSP, JVM, Netra, OpenJDK, Solaris, StarOffice, SunOS and VirtualBox are trademarks or registered trademarks of Sun Microsystems, Inc. in the United States and other countries.</p> <p class="valid" valid="valid" title="valid: True, node: 24, tag: p, level: 6" node_number="24">RealNetworks, RealPlayer, and RealAudio are the registered trademarks of RealNetworks, Inc.</p> <p class="valid" valid="valid" title="valid: True, node: 25, tag: p, level: 6" node_number="25">Oracle is a registered trademark of Oracle Corporation.</p> <p class="valid" valid="valid" title="valid: True, node: 26, tag: p, level: 6" node_number="26">3ware is a registered trademark of 3ware Inc.</p> <p class="valid" valid="valid" title="valid: True, node: 27, tag: p, level: 6" node_number="27">ARM is a registered trademark of ARM Limited.</p> <p class="valid" valid="valid" title="valid: True, node: 28, tag: p, level: 6" node_number="28">Adaptec is a registered trademark of Adaptec, Inc.</p> <p class="valid" valid="valid" title="valid: True, node: 29, tag: p, level: 6" node_number="29">Android is a trademark of Google Inc.</p> <p class="valid" valid="valid" title="valid: True, node: 30, tag: p, level: 6" node_number="30">Heidelberg, Helvetica, Palatino, and Times Roman are either registered trademarks or trademarks of Heidelberger Druckmaschinen AG in the U.S. and other countries.</p> <p class="valid" valid="valid" title="valid: True, node: 31, tag: p, level: 6" node_number="31">Intuit and Quicken are registered trademarks and/or registered service marks of Intuit Inc., or one of its subsidiaries, in the United States and other countries.</p> <p class="valid" valid="valid" title="valid: True, node: 32, tag: p, level: 6" node_number="32">LSI Logic, AcceleRAID, eXtremeRAID, MegaRAID and Mylex are trademarks or registered trademarks of LSI Logic Corp.</p> <p class="valid" valid="valid" title="valid: True, node: 33, tag: p, level: 6" node_number="33">MATLAB is a registered trademark of The MathWorks, Inc.</p> <p class="valid" valid="valid" title="valid: True, node: 34, tag: p, level: 6" node_number="34">SpeedTouch is a trademark of Thomson.</p> <p class="valid" valid="valid" title="valid: True, node: 35, tag: p, level: 6" node_number="35">VMware is a trademark of VMware, Inc.</p> <p class="valid" valid="valid" title="valid: True, node: 36, tag: p, level: 6" node_number="36">Mathematica is a registered trademark of Wolfram Research, Inc.</p> <p class="valid" valid="valid" title="valid: True, node: 37, tag: p, level: 6" node_number="37">Ogg Vorbis and Xiph.Org are trademarks of Xiph.Org.</p> <p class="valid" valid="valid" title="valid: True, node: 38, tag: p, level: 6" node_number="38">XFree86 is a trademark of The XFree86 Project, Inc.</p> <p class="valid" valid="valid" title="valid: True, node: 39, tag: p, level: 6" node_number="39">Many of the designations used by manufacturers and sellers to distinguish their products are claimed as trademarks. Where those designations appear in this document, and the FreeBSD Project was aware of the trademark claim, the designations have been followed by the &#8220;&#8482;&#8221; or the &#8220;&#174;&#8221; symbol.</p> </details> </div> <div class="valid" valid="valid" title="valid: True, node: 40, tag: div, level: 4" node_number="40"> <h3 class="valid" valid="valid" title="valid: True, node: 41, tag: h3, level: 5" node_number="41">Table of Contents</h3> </div> <div class="valid" valid="valid" title="valid: True, node: 42, tag: div, level: 4" node_number="42"> [ Split HTML / <a class="valid" valid="valid" title="valid: True, node: 43, tag: a, level: 5" node_number="43">Single HTML</a> ] </div> <div class="valid" valid="valid" title="valid: True, node: 44, tag: div, level: 4" node_number="44"> <div class="valid" valid="valid" title="valid: True, node: 45, tag: div, level: 5" node_number="45"> <div class="valid" valid="valid" title="valid: True, node: 46, tag: div, level: 6" node_number="46"> <div class="valid" valid="valid" title="valid: True, node: 47, tag: div, level: 7" node_number="47"> <p class="valid" valid="valid" title="valid: True, node: 48, tag: p, level: 8" node_number="48">Abstract</p> </div> <div class="valid" valid="valid" title="valid: True, node: 49, tag: div, level: 7" node_number="49"> <p class="valid" valid="valid" title="valid: True, node: 50, tag: p, level: 8" node_number="50">Welcome to FreeBSD! This handbook covers the installation and day to day use of FreeBSD 13.0-RELEASE and FreeBSD 12.2-RELEASE. This book is the result of ongoing work by many individuals. Some sections might be outdated. Those interested in helping to update and expand this document should send email to the <a class="valid" valid="valid" title="valid: True, node: 51, tag: a, level: 9" node_number="51">FreeBSD documentation project mailing list</a>.</p> </div> <div class="valid" valid="valid" title="valid: True, node: 52, tag: div, level: 7" node_number="52"> <p class="valid" valid="valid" title="valid: True, node: 53, tag: p, level: 8" node_number="53">The latest version of this book is available from the <a class="valid" valid="valid" title="valid: True, node: 54, tag: a, level: 9" node_number="54">FreeBSD web site</a>. Previous versions can be obtained from <a class="valid" valid="valid" title="valid: True, node: 55, tag: a, level: 9" node_number="55">https://docs.FreeBSD.org/doc/</a>. The book can be downloaded in a variety of formats and compression options from the <a class="valid" valid="valid" title="valid: True, node: 56, tag: a, level: 9" node_number="56">FreeBSD FTP server</a> or one of the numerous <a class="valid" valid="valid" title="valid: True, node: 57, tag: a, level: 9" node_number="57">mirror sites</a>. Printed copies can be purchased at the <a class="valid" valid="valid" title="valid: True, node: 58, tag: a, level: 9" node_number="58">FreeBSD Mall</a>. Searches can be performed on the handbook and other documents on the <a class="valid" valid="valid" title="valid: True, node: 59, tag: a, level: 9" node_number="59">search page</a>.</p> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 60, tag: div, level: 4" node_number="60"> <div class="valid" valid="valid" title="valid: True, node: 61, tag: div, level: 5" node_number="61"> <div class="valid" valid="valid" title="valid: True, node: 62, tag: div, level: 6" node_number="62"> <a class="valid" valid="valid" title="valid: True, node: 63, tag: a, level: 7" node_number="63">Home</a> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 64, tag: div, level: 5" node_number="64"> <div class="valid" valid="valid" title="valid: True, node: 65, tag: div, level: 6" node_number="65"> <a class="valid" valid="valid" title="valid: True, node: 66, tag: a, level: 7" node_number="66">Next</a> </div> </div> </div> <label class="valid" valid="valid" title="valid: True, node: 67, tag: label, level: 4" node_number="67"/> </div> </main> </body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

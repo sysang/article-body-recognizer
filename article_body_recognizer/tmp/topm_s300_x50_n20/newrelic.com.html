@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://newrelic.com');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8YSA+IFNraXAgdG8gbWFpbiBjb250ZW50IDwvYT4gPGRpdiA+IDxkaXYgPiA8aGVhZGVyID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxhID4gPHNwYW4gPiA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8L3NwYW4+IDwvYT4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiBMb2cgaW4gPGEgPiBTaWduIHVwIDwvYT4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9oZWFkZXI+IDwvZGl2PiA8bWFpbiA+IDxhcnRpY2xlID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGgxID4gTW9uaXRvciwgZGVidWcsIGFuZCBpbXByb3ZlIHlvdXIgZW50aXJlIHN0YWNrIDwvaDE+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxwPk5ldyBSZWxpYyBPbmUgaXMgdGhlIGxlYWRpbmcgb2JzZXJ2YWJpbGl0eSBwbGF0Zm9ybSB3aGVyZSBEZXYgYW5kIE9wcyB0ZWFtcyBjb21lIHRvZ2V0aGVyIHRvIHNvbHZlIHByb2JsZW1zIHdpdGggZGF0YS7CoDwvcD4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXY+V2hhdCB5b3XigJlsbCBnZXQgd2l0aCBOZXcgUmVsaWMgT25lOjwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiBUcm91Ymxlc2hvb3QgaW5mcmFzdHJ1Y3R1cmUgYmVmb3JlLiBOb3QgYWZ0ZXIuIDxkaXYgPiA8ZGl2ID4gPHA+TW92ZSBpbmZyYXN0cnVjdHVyZSBtb25pdG9yaW5nIGJleW9uZCB0aGUg4oCcd2hhdOKAnSBvZiBhbGVydHMgdG8gdGhlIOKAnHdoeeKAnSBvZiByb290IGNhdXNlcy4gQ29ycmVsYXRlIGluZnJhc3RydWN0dXJlIGhlYWx0aCB3aXRoIGFwcGxpY2F0aW9uIHBlcmZvcm1hbmNlIGFuZCBjdXN0b21lciBleHBlcmllbmNlIG9uIG9uZSBwbGF0Zm9ybS48L3A+IDwvZGl2PiBMb29rIGRlZXBlciA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMiA+U2VlIGluc2lkZSB5b3VyIHN0YWNrIGluIGEgZmV3IGNsaWNrczwvaDI+IDxkaXYgPiA8ZGl2PjxwPkluc3RhbnQgT2JzZXJ2YWJpbGl0eSBRdWlja3N0YXJ0cyBtYWtlIGl0IGVhc3kgdG8gaW5zdHJ1bWVudCwgZGFzaGJvYXJkLCBhbmQgYWxlcnQuPC9wPjwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGEgPkNob29zZSBmcm9tIDQwMCsgcXVpY2tzdGFydHM8L2E+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMiA+VHJ1c3RlZCBieSBlbmdpbmVlcnMgZXZlcnl3aGVyZTwvaDI+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGgyID5XaHkgQ2hvb3NlIE5ldyBSZWxpYz88L2gyPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoNCA+Q29sbGVjdCBhbGwgeW91ciB0ZWxlbWV0cnkgaW4gb25lIHNlY3VyZSBjbG91ZCDigJQgbm8gdG9vbCBzcHJhd2wgb3IgZGF0YSBzaWxvczwvaDQ+IDxkaXYgPiA8ZGl2Pjx1bD4gPGxpPk1ldHJpY3MsIGV2ZW50cywgdHJhY2VzIGxvZ3MgaW4gb25lIHBsYWNlPC9saT4gPGxpPlF1ZXJ5LCBkYXNoYm9hcmQgYWxlcnQgZm9yIGEgc2luZ2xlIHByaWNlPC9saT4gPGxpPjEwMEdCIGZyZWUgcGVyIG1vbnRoPC9saT4gPC91bD48L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8aDQgPk9uZSBjb25uZWN0ZWQgZXhwZXJpZW5jZSDigJQgbm90IGEgbWF6ZSBvZiBjaGFydHM8L2g0PiA8ZGl2ID4gPGRpdj48dWw+IDxsaT5Db3JyZWxhdGUgaXNzdWVzIGFjcm9zcyB5b3VyIGVudGlyZSBzdGFjazwvbGk+IDxsaT5EZWJ1ZyBhbmQgY29sbGFib3JhdGUgZnJvbSB5b3VyIElERTwvbGk+IDxsaT5BSSBhc3Npc3RhbmNlIGF0IGV2ZXJ5IHN0ZXA8L2xpPiA8L3VsPjwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxoNCA+UGF5IG9ubHkgZm9yIHdoYXQgeW91IHVzZSDigJQgbm8gc2hlbGZ3YXJlIGFuZCBubyBvdmVyYWdlIHBlbmFsdGllczwvaDQ+IDxkaXYgPiA8ZGl2Pjx1bD4gPGxpPkdldCBzdGFydGVkIGZvciBmcmVlLiBObyBjcmVkaXQgY2FyZDwvbGk+IDxsaT5TY2FsZSBhcyB5b3VyIHVzZXJzIGFuZCBkYXRhIGdyb3c8L2xpPiA8bGk+M1ggbW9yZSB2YWx1ZSBmb3IgeW91ciBtb25leTwvbGk+IDwvdWw+PC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMiA+TGVhZGluZyBUZWFtcyBUcnVzdCBOZXcgUmVsaWM8L2gyPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPHAgPlRoZSB2YWx1ZSB3ZSBnZXQgZm9yIHRoZSBwcmljZSB3aXRoIE5ldyBSZWxpYyBpcyB1bnF1ZXN0aW9uYWJsZS48L3A+IDxwID5FdiBIYXVzLCBIZWFkIG9mIFRlY2hub2xvZ3ksIFplbkh1YjwvcD4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxwID5OZXcgUmVsaWMgcHJvdmlkZXMgdmlzaWJpbGl0eSwgbm90IGp1c3Qgb24geW91ciBzZXJ2aWNlcywgYnV0IGhvdyB0aGV5IGludGVyYWN0IHdpdGggb3RoZXIgc2VydmljZXMgdGhhdCB5b3UgbWF5IG5vdCBvd24gYW5kIG9wZXJhdGUuIEl0J3MgYWJvdXQgdGhlIGRlcGVuZGVuY3kgY2hhaW4gYW5kIGdldHRpbmcgdmlzaWJpbGl0eSBpbnRvIHRoYXQgdG8gc29sdmUgdGhlIHJpZ2h0IHByb2JsZW0uPC9wPiA8cCA+SnVzdGluIEhhd2tpbnMsIEVuZ2luZWVyaW5nIE1hbmFnZXIsIFJpb3QgR2FtZXM8L3A+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8cCA+VGhlIHRyYW5zcGFyZW5jeSwgcHJlZGljdGFiaWxpdHkgYW5kIGZsZXhpYmlsaXR5IG9mIE5ldyBSZWxpYydzIHByaWNpbmcgYXJlIGh1Z2VseSBiZW5lZmljaWFsIHRvIHVzLiBUaGUgY29uc3VtcHRpb24gcHJpY2luZyBtb2RlbCBjcmVhdGVzIGEgcmVsYXRpb25zaGlwIG9mIHRydXN0IHdoZXJlIHdlIGtub3cgTmV3IFJlbGljIGlzIGZvY3VzZWQgb24gZGVsaXZlcmluZyB2YWx1ZSB0byB1cyBhbmQgd2Ugb25seSBwYXkgZm9yIHdoYXQgd2UgdXNlLjwvcD4gPHAgPkpvc2ggTWNMZWFuLCBTZW5pb3IgVmljZSBQcmVzaWRlbnQgR2xvYmFsIEVuZ2luZWVyaW5nLCBEYXRhIGFuZCBEZXZPcHMsIFdvcmxkIEZ1ZWwgU2VydmljZXM8L3A+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8cCA+Tm93IHRoYXQgTmV3IFJlbGljIE9uZSBpcyBISVBBQS1jb21wbGlhbnQsIHdlIGNhbiBzZWUgZGVlcGx5IGludG8gb3VyIGFwcGxpY2F0aW9ucyBhbmQgY29uZmlkZW50bHkgb3B0aW1pemUgb3VyIHBhdGllbnQsIHByb3ZpZGVyIGFuZCBwYXJ0bmVyIGV4cGVyaWVuY2VzIGFjcm9zcyB0aGVzZSBzb2x1dGlvbnMgd2l0aG91dCBjb21wcm9taXNpbmcgdGhlIHNlY3VyaXR5IG9mIG91ciBQSEkuPC9wPiA8cCA+UnVzdHkgQXRraW5zb24sIENoaWVmIEluZm9ybWF0aW9uIE9mZmljZXIgYXQgU2lnbmlmeSBIZWFsdGg8L3A+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8cCA+TmV3IFJlbGljJ3MgY29uc3VtcHRpb24gcHJpY2luZyBtYWtlcyBpdCBmYXIgbW9yZSBpbnR1aXRpdmUgYW5kIHByZWRpY3RhYmxlIGZyb20gYSBmaW5hbmNpYWwgbW9kZWxpbmcgcGVyc3BlY3RpdmUuIFRoZSBtb3JlIGRhdGEgd2Ugc2VuZCB0byBOZXcgUmVsaWMsIHRoZSBtb3JlIGluc2lnaHRzIHdlIGdldOKAk2l0J3MgdGhlIHBlcmZlY3Qgd2luLXdpbiByZWxhdGlvbnNoaXAuPC9wPiA8cCA+U3RldmUgRXZhbnMsIFZpY2UgUHJlc2lkZW50IG9mIEVuZ2luZWVyaW5nIFNlcnZpY2VzLCBDaGVnZzwvcD4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMiA+TGVhcm4gYWJvdXQgTmV3IFJlbGljPC9oMj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8YSA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMyA+RXh0ZW5kIG9ic2VydmFiaWxpdHkgYW5kIGNvZGUgZGlzY3Vzc2lvbiB0byB5b3VyIElERSB3aXRoIE5ldyBSZWxpYyBDb2RlU3RyZWFtPC9oMz4gPC9kaXY+IDxkaXYgPkxlYXJuIG1vcmU8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2E+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8YSA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMyA+SW5zaWdodHMgaW4gbWludXRlczogTmV3IFJlbGljIEluc3RhbnQgT2JzZXJ2YWJpbGl0eTwvaDM+IDwvZGl2PiA8ZGl2ID5MZWFybiBtb3JlPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9hPiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2ID4gPGEgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8aDMgPk5ldyBSZWxpYyBjb25zdW1wdGlvbiBwcmljaW5nOiBHZXQgbW9yZSB2YWx1ZSBmb3IgeW91ciBtb25leTwvaDM+IDwvZGl2PiA8ZGl2ID5MZWFybiBtb3JlPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9hPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8YSA+UmVhZCBvdXIgYmxvZ3M8L2E+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMiA+R28gZnJvbSB6ZXJvIHRvIGRhdGEgaW4gbWludXRlcy4gVHJ5IGl0IG5vdyBmb3IgZnJlZS48L2gyPiA8ZGl2ID4gPGEgPlN0YXJ0IE5vdzwvYT4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2FydGljbGU+IDwvbWFpbj4gPC9kaXY+IDwvYm9keT4='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, level: 1" node_number="1"> <a class="valid" valid="valid" title="valid: True, node: 2, level: 2" node_number="2"> Skip to main content </a> <div class="valid" valid="valid" title="valid: True, node: 3, level: 2" node_number="3"> <div class="valid" valid="valid" title="valid: True, node: 4, level: 3" node_number="4"> <header class="valid" valid="valid" title="valid: True, node: 5, level: 4" node_number="5"> <div class="valid" valid="valid" title="valid: True, node: 6, level: 5" node_number="6"> <div class="valid" valid="valid" title="valid: True, node: 7, level: 6" node_number="7"> <div class="valid" valid="valid" title="valid: True, node: 8, level: 7" node_number="8"> <div class="valid" valid="valid" title="valid: True, node: 9, level: 8" node_number="9"> <a class="valid" valid="valid" title="valid: True, node: 10, level: 9" node_number="10"> <span class="valid" valid="valid" title="valid: True, node: 11, level: 10" node_number="11"> <?xml version="1.0" encoding="UTF-8"?> </span> </a> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 13, level: 6" node_number="13"> <div class="valid" valid="valid" title="valid: True, node: 14, level: 7" node_number="14"> Log in <a class="valid" valid="valid" title="valid: True, node: 15, level: 8" node_number="15"> Sign up </a> </div> </div> </div> </header> </div> <main class="valid" valid="valid" title="valid: True, node: 16, level: 3" node_number="16"> <article class="valid" valid="valid" title="valid: True, node: 17, level: 4" node_number="17"> <div class="valid" valid="valid" title="valid: True, node: 18, level: 5" node_number="18"> <div class="valid" valid="valid" title="valid: True, node: 19, level: 6" node_number="19"> <div class="valid" valid="valid" title="valid: True, node: 20, level: 7" node_number="20"> <h1 class="valid" valid="valid" title="valid: True, node: 21, level: 8" node_number="21"> Monitor, debug, and improve your entire stack </h1> </div> <div class="valid" valid="valid" title="valid: True, node: 22, level: 7" node_number="22"> <div class="valid" valid="valid" title="valid: True, node: 23, level: 8" node_number="23"> <p class="valid" valid="valid" title="valid: True, node: 24, level: 9" node_number="24">New Relic One is the leading observability platform where Dev and Ops teams come together to solve problems with data.&#160;</p> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 25, level: 5" node_number="25"> <div class="valid" valid="valid" title="valid: True, node: 26, level: 6" node_number="26"> <div class="valid" valid="valid" title="valid: True, node: 27, level: 7" node_number="27"> <div class="valid" valid="valid" title="valid: True, node: 28, level: 8" node_number="28">What you&#8217;ll get with New Relic One:</div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 29, level: 5" node_number="29"> <div class="valid" valid="valid" title="valid: True, node: 30, level: 6" node_number="30"> <div class="valid" valid="valid" title="valid: True, node: 31, level: 7" node_number="31"> Troubleshoot infrastructure before. Not after. <div class="valid" valid="valid" title="valid: True, node: 32, level: 8" node_number="32"> <div class="valid" valid="valid" title="valid: True, node: 33, level: 9" node_number="33"> <p class="valid" valid="valid" title="valid: True, node: 34, level: 10" node_number="34">Move infrastructure monitoring beyond the &#8220;what&#8221; of alerts to the &#8220;why&#8221; of root causes. Correlate infrastructure health with application performance and customer experience on one platform.</p> </div> Look deeper </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 35, level: 5" node_number="35"> <div class="valid" valid="valid" title="valid: True, node: 36, level: 6" node_number="36"> <div class="valid" valid="valid" title="valid: True, node: 37, level: 7" node_number="37"> <div class="valid" valid="valid" title="valid: True, node: 38, level: 8" node_number="38"> <h2 class="valid" valid="valid" title="valid: True, node: 39, level: 9" node_number="39">See inside your stack in a few clicks</h2> <div class="valid" valid="valid" title="valid: True, node: 40, level: 9" node_number="40"> <div class="valid" valid="valid" title="valid: True, node: 41, level: 10" node_number="41"><p class="valid" valid="valid" title="valid: True, node: 42, level: 11" node_number="42">Instant Observability Quickstarts make it easy to instrument, dashboard, and alert.</p></div> </div> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 43, level: 5" node_number="43"> <div class="valid" valid="valid" title="valid: True, node: 44, level: 6" node_number="44"> <div class="valid" valid="valid" title="valid: True, node: 45, level: 7" node_number="45"> <div class="valid" valid="valid" title="valid: True, node: 46, level: 8" node_number="46"> <div class="valid" valid="valid" title="valid: True, node: 47, level: 9" node_number="47"> <a class="valid" valid="valid" title="valid: True, node: 48, level: 10" node_number="48">Choose from 400+ quickstarts</a> </div> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 49, level: 5" node_number="49"> <div class="valid" valid="valid" title="valid: True, node: 50, level: 6" node_number="50"> <div class="valid" valid="valid" title="valid: True, node: 51, level: 7" node_number="51"> <div class="valid" valid="valid" title="valid: True, node: 52, level: 8" node_number="52"> <h2 class="valid" valid="valid" title="valid: True, node: 53, level: 9" node_number="53">Trusted by engineers everywhere</h2> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 54, level: 5" node_number="54"> <div class="valid" valid="valid" title="valid: True, node: 55, level: 6" node_number="55"> <div class="valid" valid="valid" title="valid: True, node: 56, level: 7" node_number="56"> <div class="valid" valid="valid" title="valid: True, node: 57, level: 8" node_number="57"> <h2 class="valid" valid="valid" title="valid: True, node: 58, level: 9" node_number="58">Why Choose New Relic?</h2> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 59, level: 5" node_number="59"> <div class="valid" valid="valid" title="valid: True, node: 60, level: 6" node_number="60"> <div class="valid" valid="valid" title="valid: True, node: 61, level: 7" node_number="61"> <div class="valid" valid="valid" title="valid: True, node: 62, level: 8" node_number="62"> <h4 class="valid" valid="valid" title="valid: True, node: 63, level: 9" node_number="63">Collect all your telemetry in one secure cloud &#8212; no tool sprawl or data silos</h4> <div class="valid" valid="valid" title="valid: True, node: 64, level: 9" node_number="64"> <div class="valid" valid="valid" title="valid: True, node: 65, level: 10" node_number="65"><ul class="valid" valid="valid" title="valid: True, node: 66, level: 11" node_number="66"> <li class="valid" valid="valid" title="valid: True, node: 67, level: 12" node_number="67">Metrics, events, traces logs in one place</li> <li class="valid" valid="valid" title="valid: True, node: 68, level: 12" node_number="68">Query, dashboard alert for a single price</li> <li class="valid" valid="valid" title="valid: True, node: 69, level: 12" node_number="69">100GB free per month</li> </ul></div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 70, level: 7" node_number="70"> <div class="valid" valid="valid" title="valid: True, node: 71, level: 8" node_number="71"> <h4 class="valid" valid="valid" title="valid: True, node: 72, level: 9" node_number="72">One connected experience &#8212; not a maze of charts</h4> <div class="valid" valid="valid" title="valid: True, node: 73, level: 9" node_number="73"> <div class="valid" valid="valid" title="valid: True, node: 74, level: 10" node_number="74"><ul class="valid" valid="valid" title="valid: True, node: 75, level: 11" node_number="75"> <li class="valid" valid="valid" title="valid: True, node: 76, level: 12" node_number="76">Correlate issues across your entire stack</li> <li class="valid" valid="valid" title="valid: True, node: 77, level: 12" node_number="77">Debug and collaborate from your IDE</li> <li class="valid" valid="valid" title="valid: True, node: 78, level: 12" node_number="78">AI assistance at every step</li> </ul></div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 79, level: 7" node_number="79"> <div class="valid" valid="valid" title="valid: True, node: 80, level: 8" node_number="80"> <h4 class="valid" valid="valid" title="valid: True, node: 81, level: 9" node_number="81">Pay only for what you use &#8212; no shelfware and no overage penalties</h4> <div class="valid" valid="valid" title="valid: True, node: 82, level: 9" node_number="82"> <div class="valid" valid="valid" title="valid: True, node: 83, level: 10" node_number="83"><ul class="valid" valid="valid" title="valid: True, node: 84, level: 11" node_number="84"> <li class="valid" valid="valid" title="valid: True, node: 85, level: 12" node_number="85">Get started for free. No credit card</li> <li class="valid" valid="valid" title="valid: True, node: 86, level: 12" node_number="86">Scale as your users and data grow</li> <li class="valid" valid="valid" title="valid: True, node: 87, level: 12" node_number="87">3X more value for your money</li> </ul></div> </div> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 88, level: 5" node_number="88"> <div class="valid" valid="valid" title="valid: True, node: 89, level: 6" node_number="89"> <div class="valid" valid="valid" title="valid: True, node: 90, level: 7" node_number="90"> <div class="valid" valid="valid" title="valid: True, node: 91, level: 8" node_number="91"> <h2 class="valid" valid="valid" title="valid: True, node: 92, level: 9" node_number="92">Leading Teams Trust New Relic</h2> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 93, level: 5" node_number="93"> <div class="valid" valid="valid" title="valid: True, node: 94, level: 6" node_number="94"> <div class="valid" valid="valid" title="valid: True, node: 95, level: 7" node_number="95"> <div class="valid" valid="valid" title="valid: True, node: 96, level: 8" node_number="96"> <div class="valid" valid="valid" title="valid: True, node: 97, level: 9" node_number="97"> <div class="valid" valid="valid" title="valid: True, node: 98, level: 10" node_number="98"> <p class="valid" valid="valid" title="valid: True, node: 99, level: 11" node_number="99">The value we get for the price with New Relic is unquestionable.</p> <p class="valid" valid="valid" title="valid: True, node: 100, level: 11" node_number="100">Ev Haus, Head of Technology, ZenHub</p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 101, level: 9" node_number="101"> <div class="valid" valid="valid" title="valid: True, node: 102, level: 10" node_number="102"> <p class="valid" valid="valid" title="valid: True, node: 103, level: 11" node_number="103">New Relic provides visibility, not just on your services, but how they interact with other services that you may not own and operate. It's about the dependency chain and getting visibility into that to solve the right problem.</p> <p class="valid" valid="valid" title="valid: True, node: 104, level: 11" node_number="104">Justin Hawkins, Engineering Manager, Riot Games</p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 105, level: 9" node_number="105"> <div class="valid" valid="valid" title="valid: True, node: 106, level: 10" node_number="106"> <p class="valid" valid="valid" title="valid: True, node: 107, level: 11" node_number="107">The transparency, predictability and flexibility of New Relic's pricing are hugely beneficial to us. The consumption pricing model creates a relationship of trust where we know New Relic is focused on delivering value to us and we only pay for what we use.</p> <p class="valid" valid="valid" title="valid: True, node: 108, level: 11" node_number="108">Josh McLean, Senior Vice President Global Engineering, Data and DevOps, World Fuel Services</p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 109, level: 9" node_number="109"> <div class="valid" valid="valid" title="valid: True, node: 110, level: 10" node_number="110"> <p class="valid" valid="valid" title="valid: True, node: 111, level: 11" node_number="111">Now that New Relic One is HIPAA-compliant, we can see deeply into our applications and confidently optimize our patient, provider and partner experiences across these solutions without compromising the security of our PHI.</p> <p class="valid" valid="valid" title="valid: True, node: 112, level: 11" node_number="112">Rusty Atkinson, Chief Information Officer at Signify Health</p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 113, level: 9" node_number="113"> <div class="valid" valid="valid" title="valid: True, node: 114, level: 10" node_number="114"> <p class="valid" valid="valid" title="valid: True, node: 115, level: 11" node_number="115">New Relic's consumption pricing makes it far more intuitive and predictable from a financial modeling perspective. The more data we send to New Relic, the more insights we get&#8211;it's the perfect win-win relationship.</p> <p class="valid" valid="valid" title="valid: True, node: 116, level: 11" node_number="116">Steve Evans, Vice President of Engineering Services, Chegg</p> </div> </div> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 117, level: 5" node_number="117"> <div class="valid" valid="valid" title="valid: True, node: 118, level: 6" node_number="118"> <div class="valid" valid="valid" title="valid: True, node: 119, level: 7" node_number="119"> <div class="valid" valid="valid" title="valid: True, node: 120, level: 8" node_number="120"> <h2 class="valid" valid="valid" title="valid: True, node: 121, level: 9" node_number="121">Learn about New Relic</h2> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 122, level: 5" node_number="122"> <div class="valid" valid="valid" title="valid: True, node: 123, level: 6" node_number="123"> <div class="valid" valid="valid" title="valid: True, node: 124, level: 7" node_number="124"> <div class="valid" valid="valid" title="valid: True, node: 125, level: 8" node_number="125"> <a class="valid" valid="valid" title="valid: True, node: 126, level: 9" node_number="126"> <div class="valid" valid="valid" title="valid: True, node: 127, level: 10" node_number="127"> <div class="valid" valid="valid" title="valid: True, node: 128, level: 11" node_number="128"> <div class="valid" valid="valid" title="valid: True, node: 129, level: 12" node_number="129"> <h3 class="valid" valid="valid" title="valid: True, node: 130, level: 13" node_number="130">Extend observability and code discussion to your IDE with New Relic CodeStream</h3> </div> <div class="valid" valid="valid" title="valid: True, node: 131, level: 12" node_number="131">Learn more</div> </div> </div> </a> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 132, level: 7" node_number="132"> <div class="valid" valid="valid" title="valid: True, node: 133, level: 8" node_number="133"> <a class="valid" valid="valid" title="valid: True, node: 134, level: 9" node_number="134"> <div class="valid" valid="valid" title="valid: True, node: 135, level: 10" node_number="135"> <div class="valid" valid="valid" title="valid: True, node: 136, level: 11" node_number="136"> <div class="valid" valid="valid" title="valid: True, node: 137, level: 12" node_number="137"> <h3 class="valid" valid="valid" title="valid: True, node: 138, level: 13" node_number="138">Insights in minutes: New Relic Instant Observability</h3> </div> <div class="valid" valid="valid" title="valid: True, node: 139, level: 12" node_number="139">Learn more</div> </div> </div> </a> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 140, level: 7" node_number="140"> <div class="valid" valid="valid" title="valid: True, node: 141, level: 8" node_number="141"> <a class="valid" valid="valid" title="valid: True, node: 142, level: 9" node_number="142"> <div class="valid" valid="valid" title="valid: True, node: 143, level: 10" node_number="143"> <div class="valid" valid="valid" title="valid: True, node: 144, level: 11" node_number="144"> <div class="valid" valid="valid" title="valid: True, node: 145, level: 12" node_number="145"> <h3 class="valid" valid="valid" title="valid: True, node: 146, level: 13" node_number="146">New Relic consumption pricing: Get more value for your money</h3> </div> <div class="valid" valid="valid" title="valid: True, node: 147, level: 12" node_number="147">Learn more</div> </div> </div> </a> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 148, level: 5" node_number="148"> <div class="valid" valid="valid" title="valid: True, node: 149, level: 6" node_number="149"> <div class="valid" valid="valid" title="valid: True, node: 150, level: 7" node_number="150"> <div class="valid" valid="valid" title="valid: True, node: 151, level: 8" node_number="151"> <div class="valid" valid="valid" title="valid: True, node: 152, level: 9" node_number="152"> <a class="valid" valid="valid" title="valid: True, node: 153, level: 10" node_number="153">Read our blogs</a> </div> </div> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 154, level: 5" node_number="154"> <div class="valid" valid="valid" title="valid: True, node: 155, level: 6" node_number="155"> <div class="valid" valid="valid" title="valid: True, node: 156, level: 7" node_number="156"> <div class="valid" valid="valid" title="valid: True, node: 157, level: 8" node_number="157"> <h2 class="valid" valid="valid" title="valid: True, node: 158, level: 9" node_number="158">Go from zero to data in minutes. Try it now for free.</h2> <div class="valid" valid="valid" title="valid: True, node: 159, level: 9" node_number="159"> <a class="valid" valid="valid" title="valid: True, node: 160, level: 10" node_number="160">Start Now</a> </div> </div> </div> </div> </div> </article> </main> </div> </body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

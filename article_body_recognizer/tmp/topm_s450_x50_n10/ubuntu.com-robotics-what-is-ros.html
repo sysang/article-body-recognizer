@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://ubuntu.com/robotics/what-is-ros');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8aGVhZGVyID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGg1ID4gPGEgPiBSb2JvdGljcyA8L2E+IDwvaDU+IDwvZGl2PiA8L2Rpdj4gIDwvZGl2PiA8L2hlYWRlcj4gIDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxwID4gWW91ciBzdWJtaXNzaW9uIHdhcyBzZW50IHN1Y2Nlc3NmdWxseSEgPGEgPjxpID5DbG9zZTwvaT48L2E+IDwvcD4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPHNlY3Rpb24gPiA8ZGl2ID4gPGRpdiA+IDxoMT5XaGF0IGlzIFJPUzwvaDE+IDxwID5ST1MgaXMgcG93ZXJpbmcgdGhlIGZ1dHVyZSBvZiByb2JvdGljcyBpbiBpbmR1c3RyeSwgaW4gdGhlIGVudGVycHJpc2UgYW5kIGZvciBkZXZlbG9wZXJzPC9wPiA8cD5VYnVudHUgaGFzIGJlZW4gdGhlIHByaW1hcnkgcGxhdGZvcm0gZm9yIFJPUyBmcm9tIHRoZSB2ZXJ5IGJlZ2lubmluZywgdGhhbmtzIHRvIGl0cyBmbGV4aWJpbGl0eSBhbmQgdXNlci1mcmllbmRsaW5lc3MuPC9wPiA8cD5ST1MgaXMgbGVkIGJ5IE9wZW4gUm9ib3RpY3MsIHNpbWlsYXIgdG8gaG93IENhbm9uaWNhbCBzdXBwb3J0cyBVYnVudHU7IE9wZW4gUm9ib3RpY3Mgc3RlZXJzIHRoZSBzaGlwIGJ1dCBpdCBpcyBkcml2ZW4gYnkgdGhlIGNvbW11bml0eS48L3A+IDxwPkFzIHRoZSByb2JvdGljcyBpbmR1c3RyeSBncm93cywgY29tcGFuaWVzIGFuZCBkZXZlbG9wZXJzIGNvbnRpbnVlIHR1cm5pbmcgdG8gT3BlbiBSb2JvdGljcyBhbmQgQ2Fub25pY2FsIHRvIGhlbHAgbWFrZSB0aGVpciB2aXNpb24gYSByZWFsaXR5LjwvcD4gPHA+IDxhID4gR2V0IHN0YXJ0ZWQgd2l0aCBST1MgPC9hPiA8L3A+IDwvZGl2PiA8L2Rpdj4gPC9zZWN0aW9uPiA8c2VjdGlvbiA+IDxkaXYgPiA8ZGl2ID4gPGgyPldoYXQgaXMgUk9TPzwvaDI+IDxwPlRoZSBSb2JvdCBPcGVyYXRpbmcgU3lzdGVtIChST1MpIGlzIGFuIG9wZW4tc291cmNlIGZyYW1ld29yayB0aGF0IGhlbHBzIHJlc2VhcmNoZXJzIGFuZCBkZXZlbG9wZXJzIGJ1aWxkIGFuZCByZXVzZSBjb2RlIGJldHdlZW4gcm9ib3RpY3MgYXBwbGljYXRpb25zLiBST1MgaXMgYWxzbyBhIGdsb2JhbCBvcGVuLXNvdXJjZSBjb21tdW5pdHkgb2YgZW5naW5lZXJzLCBkZXZlbG9wZXJzIGFuZCBob2JieWlzdHMgd2hvIGNvbnRyaWJ1dGUgdG8gbWFraW5nIHJvYm90cyBiZXR0ZXIsIG1vcmUgYWNjZXNzaWJsZSBhbmQgYXZhaWxhYmxlIHRvIGV2ZXJ5b25lLjwvcD4gPC9kaXY+IDwvZGl2PiA8L3NlY3Rpb24+IDxzZWN0aW9uID4gPGRpdiA+IDxkaXYgPiA8aDI+V2hhdCBpcyBST1MgMj88L2gyPiA8cD5ST1MgMiBpcyBhIGNvbXBsZXRlIHJlLWRlc2lnbiBvZiB0aGUgZnJhbWV3b3JrLCB0YWNrbGluZyB0aGUgc2hvcnRjb21pbmdzIG9mIHRoZSBmaXJzdCBnZW5lcmF0aW9uLCBlZmZlY3RpdmVseSBicmluZ2luZyBpdCB0byBpbmR1c3RyeSBuZWVkcyBhbmQgc3RhbmRhcmRzLiBST1MgMiBjb250YWlucyBuZXcgc2V0cyBvZiBwYWNrYWdlcyB0aGF0IGNhbiBiZSBpbnN0YWxsZWQgYWxvbmdzaWRlIFJPUyAxIHRvIGVhc2UgbWlncmF0aW9uIHRvIGEgbW9yZSBzZWN1cmUgcGxhdGZvcm0uIFJPUyAyIHRha2VzIGFkdmFudGFnZSBvZiBuZXcgdGVjaG5vbG9naWVzIGFuZCBuZXdseSB1cGRhdGVkIEFQSXMgYXNrZWQgZm9yIGJ5IHRoZSBjb21tdW5pdHkuPC9wPiA8cD48YSA+R2V0IHN0YXJ0ZWQgd2l0aCBST1MgMjwvYT48L3A+IDwvZGl2PiA8c2VjdGlvbiA+IDxkaXYgPiA8ZGl2ID4gPGgyPldobyB1c2VzIFJPUz88L2gyPiA8cD5ST1MgaGFzIGJlZW4gYWRvcHRlZCBpbnRvIHNvbWUgb2YgdGhlIGJpZ2dlc3QgbmFtZXMgaW4gcm9ib3RpY3MuIFRoZSBtYWpvcml0eSBvZiBvcmdhbmlzYXRpb25zIGFyZSBlaXRoZXIgdXNpbmcgUk9TIGFzIGl0IGNhbiBiZSBpbnN0YWxsZWQgYnkgYW55b25lIG9yIGEgZm9yayBvZiBST1MgaW4gc29tZSBmb3JtLjwvcD4gPHA+QW5kIHRoZSB1c2UtY2FzZXMgYXJlIHN0aWxsIGdyb3dpbmcuIFJPUyBpcyB1c2VkIGFjcm9zcyBudW1lcm91cyBpbmR1c3RyaWVzIGZyb20gYWdyaWN1bHR1cmUgdG8gbWVkaWNhbCBkZXZpY2VzIHRvIHZhY3V1bSBjbGVhbmVycyBidXQgaXMgc3ByZWFkaW5nIHRvIGluY2x1ZGUgYWxsIGtpbmRzIG9mIGF1dG9tYXRpb24gYW5kIHNvZnR3YXJlLWRlZmluZWQgZHluYW1pYyB1c2UtY2FzZXMuPC9wPiA8cD5UaGVzZSBhcmUgc29tZSBvZiB0aGUgY29tcGFuaWVzIG9wZW5seSB1c2luZyBST1MgdG9kYXkgYW5kIHRoZSBsaXN0IG9ubHkgZ3Jvd3MgYW5kIGRpdmVyc2lmaWVzIGFzIHRpbWUgcHJvZ3Jlc3Nlcy48L3A+IDwvZGl2PiA8L2Rpdj4gPC9zZWN0aW9uPiA8c2VjdGlvbiA+IDxkaXYgPiA8aDIgPldoeSB1c2UgUk9TPzwvaDI+IDxkaXYgPiA8dWwgPiA8bGkgPlJPUyB3YXMgYnVpbHQgd2l0aCBjcm9zcy1jb2xsYWJvcmF0aW9uIGluIG1pbmQuIFRoZSBiYXNlIGNvZGUgYW5kIGtub3dsZWRnZSBjYW4gYmUgYXBwbGllZCBhY3Jvc3MgYWxsIHJvYm90aWNzIHBsYXRmb3JtcyAoYXJtcywgZHJvbmVzLCBtb2JpbGUgYmFzZXMsIGV0Yy4pIFlvdSdsbCBiZSBhYmxlIHRvIHJldXNlIHdoYXQgeW91IGFscmVhZHkga25vdyBhbmQgc3RvcCByZWludmVudGluZyB0aGUgd2hlZWwuPC9saT4gPGxpID5JdCBjYW4gYmUgYnVpbHQgaW50byB5b3VyIHByb2R1Y3QuIE1vc3Qgb2YgdGhlIGNvcmUgUk9TIDEgcGFja2FnZXMgYXJlIHVuZGVyIGEgQlNEIGxpY2Vuc2UgYW5kIFJPUyAyIHBhY2thZ2VzIGFyZSB1bmRlciBBcGFjaGUuIFRoaXMgbGljZW5zZSBhbGxvd3MgZm9yIHRoZSBtb2RpZmljYXRpb24gb2YgY29kZSBmb3IgY29tbWVyY2lhbCBwdXJwb3NlcyB3aXRob3V0IGhhdmluZyB0byByZWxlYXNlIHlvdXIgY29kZSB3aXRoIGFuIG9wZW4tc291cmNlIGxpY2Vuc2UuPC9saT4gPGxpID5ST1Mgcm9ib3RzIGNhbiBzcGVhayBhbnkgbGFuZ3VhZ2UuIFlvdSBjYW4gY29tbXVuaWNhdGUgZWFzaWx5IGJldHdlZW4gUHl0aG9uIGFuZCBDKysgbm9kZXMsIGdldCBsaWJyYXJpZXMgdG8gYWxsb3cgeW91IHRvIHVzZSBtb3N0IG90aGVyIGxhbmd1YWdlcyBvciBpbnN0YWxsIHJvc2JyaWRnZSBhbmQgdXNlIGFueSBsYW5ndWFnZSB0aGF0IGNhbiBzcGVhayBKU09OLiA8L2xpPiA8L3VsPiA8L2Rpdj4gPGRpdiA+IDx1bCA+IDxsaSA+Uk9TIGlzIGhlcmUgdG8gc3RheS4gUk9TIGFuZCB0aGUgY29tbXVuaXR5IGFyb3VuZCBpdCBoYXZlIGJlZW4gZ3Jvd2luZyBzaW5jZSAyMDA3IHRoYW5rcyB0byBjb250cmlidXRpb25zIGZyb20gYW4gaW5jcmVkaWJseSBzbWFydCBhbmQgb3BlbiBjb21tdW5pdHkuIFdpdGggdGhlIG1hcmtldCBzaGFyZSBST1MgaGFzIGFjcXVpcmVkIGFuZCB0aGUgb25nb2luZyBkZXZlbG9wbWVudCBvZiBST1MyLCByb2JvdHMgd2lsbCBiZSB0aGUgZnV0dXJlLjwvbGk+IDxsaSA+VGhlcmUgaXMgYSBwYWNrYWdlIGZvciBldmVyeXRoaW5nLiBXaGV0aGVyIHlvdSB3YW50IHRvIGNvbXB1dGUgdHJhamVjdG9yeSwgY29uZHVjdCBTTEFNIGFsZ29yaXRobXMgb3IgaW1wbGVtZW50IHJlbW90ZSBjb250cm9sLCB0aGVyZSdzIGEgUk9TIHBhY2thZ2UgZm9yIHRoYXQuPC9saT4gPGxpID5EaWdpdGFsIHR3aW5uaW5nLiBST1MgYWxsb3dzIGRldmVsb3BlcnMgdG8gZWFzaWx5IHNpbXVsYXRlIHRoZWlyIHJvYm90IGluIGFueSBlbnZpcm9ubWVudCwgYmVmb3JlIGRlcGxveWluZyBhbnl0aGluZyBpbiB0aGUgcmVhbCB3b3JsZC4gVG9vbHMgbGlrZSBHYXplYm8gZXZlbiBhbGxvdyB5b3UgdG8gY3JlYXRlIHNpbXVsYXRpb25zIHdpdGggcm9ib3RzIHlvdSBkb24ndCBwb3NzZXNzLjwvbGk+IDxsaSA+SXQncyBvcGVuLXNvdXJjZS4gUk9TIGhhcyBjb250cmlidXRvcnMgYWxsIG92ZXIgdGhlIHdvcmxkIHVzaW5nIFJPUyBmb3IgY291bnRsZXNzIGRpZmZlcmVudCBwdXJwb3Nlcy4gRXZlcnkgY29udHJpYnV0aW9uIGZlZWRzIGludG8gY29udGludW91c2x5IGRldmVsb3BpbmcsIGxlYWRpbmcgc3RhY2sgdGhhdCBST1MgaXMuPC9saT4gPC91bD4gPC9kaXY+IDwvZGl2PiA8L3NlY3Rpb24+IDxzZWN0aW9uID4gPGRpdiA+IDxkaXYgPiA8aDI+Sm9pbiB0aGUgY29tbXVuaXR5PC9oMj4gPHA+Uk9TIGlzIG1vcmUgdGhhbiAxMCB5ZWFycyBvbGQsIGFuZCBpbiB0aGF0IHRpbWUgaGFzIGdyb3duIHRvIGJlIHRoZSBiaWdnZXN0IHJvYm90aWNzIGRldmVsb3BlciBjb21tdW5pdHkgb24gdGhlIHBsYW5ldC4gVGhlcmUgYXJlIGFubnVhbCBST1NDb24gZXZlbnRzIHdoZXJlIGRldmVsb3BlcnMgYW5kIHJvYm90IGVudGh1c2lhc3RzIG9mIGFsbCBraW5kcyBjb21lIHRvZ2V0aGVyIHRvIGxlYXJuIG5ldyB0aGluZ3MsIHByZXNlbnQgdGhlaXIgcHJvamVjdHMgYW5kIG5ldHdvcmsgd2l0aCBlYWNoIG90aGVyLiBUaGVyZSBhcmUgZXZlbiBzZXZlcmFsIG9mZmljaWFsIG5hdGlvbmFsIGV2ZW50cyB5b3UgY2FuIGF0dGVuZCBzdWNoIGFzIFJPU0NvbiBKYXBhbiBvciBST1NDb24gRnJhbmNlLjwvcD4gPHA+PGEgPkNvbWUgdG8gUk9TQ29uPC9hPjwvcD4gPHA+PGEgPkxlYXJuIG1vcmUgYWJvdXQgdGhlIGNvbW11bml0ecKg4oC6PC9hPjwvcD4gPC9kaXY+IDwvZGl2PiA8L3NlY3Rpb24+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMyA+V2FudCB0byBsZWFybiBtb3JlIGFib3V0IGRldmVsb3Bpbmcgd2l0aCBVYnVudHUgQ29yZT88L2gzPiA8cD5MZWFybiBob3cgdG8gYnVpbGQgb3IgcG9ydCBhcHBzIGZvciB0aGUgbmV4dCBnZW5lcmF0aW9uIG9mIFVidW50dS48L3A+IDxwPjxhID5UcnkgVWJ1bnR1IENvcmU8L2E+PC9wPiA8L2Rpdj4gPGRpdiA+IDxoMyA+Um9ib3RpY3MgbmV3c2xldHRlcjwvaDM+IDwvZGl2PiA8ZGl2ID4gPGgzID5GdXJ0aGVyIHJlYWRpbmc8L2gzPiA8dWwgPiA8bGk+PGkgPkxvYWRpbmcuLi48L2k+PC9saT4gPC91bD4gPC9kaXY+IDx0ZW1wbGF0ZSA+IDwvdGVtcGxhdGU+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvc2VjdGlvbj48L2Rpdj4gPC9kaXY+PC9ib2R5Pg=='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, level: 1" node_number="1"> <header class="valid" valid="valid" title="valid: True, node: 2, level: 2" node_number="2"> <div class="valid" valid="valid" title="valid: True, node: 3, level: 3" node_number="3"> <div class="valid" valid="valid" title="valid: True, node: 4, level: 4" node_number="4"> <div class="valid" valid="valid" title="valid: True, node: 5, level: 5" node_number="5"> <h5 class="valid" valid="valid" title="valid: True, node: 6, level: 6" node_number="6"> <a class="valid" valid="valid" title="valid: True, node: 7, level: 7" node_number="7"> Robotics </a> </h5> </div> </div>  </div> </header>  <div class="valid" valid="valid" title="valid: True, node: 8, level: 2" node_number="8"> <div class="valid" valid="valid" title="valid: True, node: 9, level: 3" node_number="9"> <div class="valid" valid="valid" title="valid: True, node: 10, level: 4" node_number="10"> <p class="valid" valid="valid" title="valid: True, node: 11, level: 5" node_number="11"> Your submission was sent successfully! <a class="valid" valid="valid" title="valid: True, node: 12, level: 6" node_number="12"><i class="valid" valid="valid" title="valid: True, node: 13, level: 7" node_number="13">Close</i></a> </p> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 14, level: 3" node_number="14"> <section class="valid" valid="valid" title="valid: True, node: 15, level: 4" node_number="15"> <div class="valid" valid="valid" title="valid: True, node: 16, level: 5" node_number="16"> <div class="valid" valid="valid" title="valid: True, node: 17, level: 6" node_number="17"> <h1 class="valid" valid="valid" title="valid: True, node: 18, level: 7" node_number="18">What is ROS</h1> <p class="valid" valid="valid" title="valid: True, node: 19, level: 7" node_number="19">ROS is powering the future of robotics in industry, in the enterprise and for developers</p> <p class="valid" valid="valid" title="valid: True, node: 20, level: 7" node_number="20">Ubuntu has been the primary platform for ROS from the very beginning, thanks to its flexibility and user-friendliness.</p> <p class="valid" valid="valid" title="valid: True, node: 21, level: 7" node_number="21">ROS is led by Open Robotics, similar to how Canonical supports Ubuntu; Open Robotics steers the ship but it is driven by the community.</p> <p class="valid" valid="valid" title="valid: True, node: 22, level: 7" node_number="22">As the robotics industry grows, companies and developers continue turning to Open Robotics and Canonical to help make their vision a reality.</p> <p class="valid" valid="valid" title="valid: True, node: 23, level: 7" node_number="23"> <a class="valid" valid="valid" title="valid: True, node: 24, level: 8" node_number="24"> Get started with ROS </a> </p> </div> </div> </section> <section class="valid" valid="valid" title="valid: True, node: 25, level: 4" node_number="25"> <div class="valid" valid="valid" title="valid: True, node: 26, level: 5" node_number="26"> <div class="valid" valid="valid" title="valid: True, node: 27, level: 6" node_number="27"> <h2 class="valid" valid="valid" title="valid: True, node: 28, level: 7" node_number="28">What is ROS?</h2> <p class="valid" valid="valid" title="valid: True, node: 29, level: 7" node_number="29">The Robot Operating System (ROS) is an open-source framework that helps researchers and developers build and reuse code between robotics applications. ROS is also a global open-source community of engineers, developers and hobbyists who contribute to making robots better, more accessible and available to everyone.</p> </div> </div> </section> <section class="valid" valid="valid" title="valid: True, node: 30, level: 4" node_number="30"> <div class="valid" valid="valid" title="valid: True, node: 31, level: 5" node_number="31"> <div class="valid" valid="valid" title="valid: True, node: 32, level: 6" node_number="32"> <h2 class="valid" valid="valid" title="valid: True, node: 33, level: 7" node_number="33">What is ROS 2?</h2> <p class="valid" valid="valid" title="valid: True, node: 34, level: 7" node_number="34">ROS 2 is a complete re-design of the framework, tackling the shortcomings of the first generation, effectively bringing it to industry needs and standards. ROS 2 contains new sets of packages that can be installed alongside ROS 1 to ease migration to a more secure platform. ROS 2 takes advantage of new technologies and newly updated APIs asked for by the community.</p> <p class="valid" valid="valid" title="valid: True, node: 35, level: 7" node_number="35"><a class="valid" valid="valid" title="valid: True, node: 36, level: 8" node_number="36">Get started with ROS 2</a></p> </div> <section class="valid" valid="valid" title="valid: True, node: 37, level: 6" node_number="37"> <div class="valid" valid="valid" title="valid: True, node: 38, level: 7" node_number="38"> <div class="valid" valid="valid" title="valid: True, node: 39, level: 8" node_number="39"> <h2 class="valid" valid="valid" title="valid: True, node: 40, level: 9" node_number="40">Who uses ROS?</h2> <p class="valid" valid="valid" title="valid: True, node: 41, level: 9" node_number="41">ROS has been adopted into some of the biggest names in robotics. The majority of organisations are either using ROS as it can be installed by anyone or a fork of ROS in some form.</p> <p class="valid" valid="valid" title="valid: True, node: 42, level: 9" node_number="42">And the use-cases are still growing. ROS is used across numerous industries from agriculture to medical devices to vacuum cleaners but is spreading to include all kinds of automation and software-defined dynamic use-cases.</p> <p class="valid" valid="valid" title="valid: True, node: 43, level: 9" node_number="43">These are some of the companies openly using ROS today and the list only grows and diversifies as time progresses.</p> </div> </div> </section> <section class="valid" valid="valid" title="valid: True, node: 44, level: 6" node_number="44"> <div class="valid" valid="valid" title="valid: True, node: 45, level: 7" node_number="45"> <h2 class="valid" valid="valid" title="valid: True, node: 46, level: 8" node_number="46">Why use ROS?</h2> <div class="valid" valid="valid" title="valid: True, node: 47, level: 8" node_number="47"> <ul class="valid" valid="valid" title="valid: True, node: 48, level: 9" node_number="48"> <li class="valid" valid="valid" title="valid: True, node: 49, level: 10" node_number="49">ROS was built with cross-collaboration in mind. The base code and knowledge can be applied across all robotics platforms (arms, drones, mobile bases, etc.) You'll be able to reuse what you already know and stop reinventing the wheel.</li> <li class="valid" valid="valid" title="valid: True, node: 50, level: 10" node_number="50">It can be built into your product. Most of the core ROS 1 packages are under a BSD license and ROS 2 packages are under Apache. This license allows for the modification of code for commercial purposes without having to release your code with an open-source license.</li> <li class="valid" valid="valid" title="valid: True, node: 51, level: 10" node_number="51">ROS robots can speak any language. You can communicate easily between Python and C++ nodes, get libraries to allow you to use most other languages or install rosbridge and use any language that can speak JSON. </li> </ul> </div> <div class="valid" valid="valid" title="valid: True, node: 52, level: 8" node_number="52"> <ul class="valid" valid="valid" title="valid: True, node: 53, level: 9" node_number="53"> <li class="valid" valid="valid" title="valid: True, node: 54, level: 10" node_number="54">ROS is here to stay. ROS and the community around it have been growing since 2007 thanks to contributions from an incredibly smart and open community. With the market share ROS has acquired and the ongoing development of ROS2, robots will be the future.</li> <li class="valid" valid="valid" title="valid: True, node: 55, level: 10" node_number="55">There is a package for everything. Whether you want to compute trajectory, conduct SLAM algorithms or implement remote control, there's a ROS package for that.</li> <li class="valid" valid="valid" title="valid: True, node: 56, level: 10" node_number="56">Digital twinning. ROS allows developers to easily simulate their robot in any environment, before deploying anything in the real world. Tools like Gazebo even allow you to create simulations with robots you don't possess.</li> <li class="valid" valid="valid" title="valid: True, node: 57, level: 10" node_number="57">It's open-source. ROS has contributors all over the world using ROS for countless different purposes. Every contribution feeds into continuously developing, leading stack that ROS is.</li> </ul> </div> </div> </section> <section class="valid" valid="valid" title="valid: True, node: 58, level: 6" node_number="58"> <div class="valid" valid="valid" title="valid: True, node: 59, level: 7" node_number="59"> <div class="valid" valid="valid" title="valid: True, node: 60, level: 8" node_number="60"> <h2 class="valid" valid="valid" title="valid: True, node: 61, level: 9" node_number="61">Join the community</h2> <p class="valid" valid="valid" title="valid: True, node: 62, level: 9" node_number="62">ROS is more than 10 years old, and in that time has grown to be the biggest robotics developer community on the planet. There are annual ROSCon events where developers and robot enthusiasts of all kinds come together to learn new things, present their projects and network with each other. There are even several official national events you can attend such as ROSCon Japan or ROSCon France.</p> <p class="valid" valid="valid" title="valid: True, node: 63, level: 9" node_number="63"><a class="valid" valid="valid" title="valid: True, node: 64, level: 10" node_number="64">Come to ROSCon</a></p> <p class="valid" valid="valid" title="valid: True, node: 65, level: 9" node_number="65"><a class="valid" valid="valid" title="valid: True, node: 66, level: 10" node_number="66">Learn more about the community&#160;&#8250;</a></p> </div> </div> </section> <div class="valid" valid="valid" title="valid: True, node: 67, level: 6" node_number="67"> <div class="valid" valid="valid" title="valid: True, node: 68, level: 7" node_number="68"> <div class="valid" valid="valid" title="valid: True, node: 69, level: 8" node_number="69"> <h3 class="valid" valid="valid" title="valid: True, node: 70, level: 9" node_number="70">Want to learn more about developing with Ubuntu Core?</h3> <p class="valid" valid="valid" title="valid: True, node: 71, level: 9" node_number="71">Learn how to build or port apps for the next generation of Ubuntu.</p> <p class="valid" valid="valid" title="valid: True, node: 72, level: 9" node_number="72"><a class="valid" valid="valid" title="valid: True, node: 73, level: 10" node_number="73">Try Ubuntu Core</a></p> </div> <div class="valid" valid="valid" title="valid: True, node: 74, level: 8" node_number="74"> <h3 class="valid" valid="valid" title="valid: True, node: 75, level: 9" node_number="75">Robotics newsletter</h3> </div> <div class="valid" valid="valid" title="valid: True, node: 76, level: 8" node_number="76"> <h3 class="valid" valid="valid" title="valid: True, node: 77, level: 9" node_number="77">Further reading</h3> <ul class="valid" valid="valid" title="valid: True, node: 78, level: 9" node_number="78"> <li class="valid" valid="valid" title="valid: True, node: 79, level: 10" node_number="79"><i class="valid" valid="valid" title="valid: True, node: 80, level: 11" node_number="80">Loading...</i></li> </ul> </div> <template class="valid" valid="valid" title="valid: True, node: 81, level: 8" node_number="81"> </template> </div> </div> </div> </section></div> </div></body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

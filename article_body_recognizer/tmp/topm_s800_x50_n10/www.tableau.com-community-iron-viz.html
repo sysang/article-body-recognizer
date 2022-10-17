@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://www.tableau.com/community/iron-viz');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8YSA+IFNraXAgdG8gbWFpbiBjb250ZW50IDwvYT4gPGRpdiA+IDxkaXYgPiA8aGVhZGVyID4gIDwvaGVhZGVyPiA8bWFpbiA+IDxkaXYgPiA8ZGl2ID4gPHNlY3Rpb24gPiA8YXJ0aWNsZT4gPGRpdiA+IDxkaXY+IDxzZWN0aW9uID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8aDIgPldoZXJlIHdpbGwgdGhlIG5leHQgZ3JlYXQgZGF0YSB2aXogY29tZSBmcm9tPzwvaDI+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9zZWN0aW9uPiA8L2Rpdj4gPC9kaXY+IDxkaXYgPiA8ZGl2PiA8c2VjdGlvbiA+IDxhcnRpY2xlID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPHNlY3Rpb24gPiA8YXJ0aWNsZSA+IDwvYXJ0aWNsZT4gPC9zZWN0aW9uPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2FydGljbGU+IDwvc2VjdGlvbj4gPC9kaXY+IDxkaXY+IDxzZWN0aW9uID4gPGFydGljbGUgPiA8ZGl2ID4gPGRpdiA+IDxwID5Db25ncmF0cyB0byBvdXIgMjAyMSB3aW5uZXIgLS0gQ2hlY2sgYmFjayBmb3IgSXJvbiBWaXogMjAyMiBxdWFsaWZpZXIgZGV0YWlsczwvcD4gPC9kaXY+IDwvZGl2PiA8L2FydGljbGU+IDwvc2VjdGlvbj4gPC9kaXY+IDxkaXY+IDxzZWN0aW9uID4gPGFydGljbGUgPiA8aDIgPiBEYXRhIHJvY2tzIG91ciB3b3JsZCA8L2gyPiA8ZGl2ID4gPGRpdiA+IDxwPkRheSB0d28gb2YgVGFibGVhdSBDb25mZXJlbmNlIDIwMjEgc2F3IHRocmVlIGZpZXJjZSBjb250ZXN0YW50cyB0YWtlIHRoZSB2aXJ0dWFsIHN0YWdlLiBJbiBmcm9udCBvZiBhIG1hc3NpdmUgZ2xvYmFsIGF1ZGllbmNlLCB0aGV5IGVhY2ggaGFkIDIwIG5haWwtYml0aW5nIG1pbnV0ZXMgdG8gd2hpcCB1cCBhbiBhd2UtaW5zcGlyaW5nIHZpei4gPC9wPiA8cD5Db25ncmF0dWxhdGlvbnMgdG8gPGEgPkxpc2EgVHJlc2NvdHQgPC9hPiB3aG8gaW1wcmVzc2VkIHRoZSBqdWRnZXMgYW5kIGxpdmUgYXVkaWVuY2Ugd2l0aCBoZXIgdmlzdWFsaXphdGlvbiBvbiBicmVha3Rocm91Z2ggYXJ0aXN0cy4gPC9wPiA8cD5SZWFkIG91ciA8YSA+YmxvZzwvYT4gZm9yIGEgZGV0YWlsZWQgcmVjYXAuIDwvcD4gPHA+QW5kIGlmIHlvdSB3YW50IHRvIGdldCB0aGUgaW5zaWRlIHNjb29wIGZyb20gYWxsIHRocmVlIGZpbmFsaXN0cywgY2hlY2sgb3V0IDxhID5JZiBEYXRhIENvdWxkIFRhbGs8L2E+IGluIGVhcmx5IERlY2VtYmVyIGZvciBlcGlzb2RlcyB0aGF0IGRlZXAgZGl2ZSBpbnRvIGVhY2ggdmlzdWFsaXphdGlvbi4gPC9wPiA8L2Rpdj4gPC9kaXY+IDwvYXJ0aWNsZT4gPC9zZWN0aW9uPiA8L2Rpdj4gPGRpdj4gPHNlY3Rpb24gPiA8YXJ0aWNsZSA+IDxoMiA+IFdoYXQgaXMgSXJvbiBWaXo/IDwvaDI+IDxkaXYgPiA8ZGl2ID4gPHA+TWlzc2VkIHRoZSBtYWluIGV2ZW50LCBidXQgY3VyaW91cyBhYm91dCB0aGUgaHlwZT8gSXJvbiBWaXogaXMgdGhlIHdvcmxkJ3MgbGFyZ2VzdCBkYXRhIHZpc3VhbGl6YXRpb24gY29udGVzdC4gRXZlcnkgeWVhciwgcXVhbGlmaWVycyBmcm9tIGFyb3VuZCB0aGUgZ2xvYmUgYXR0ZW1wdCB0byBiZSBvbmUgb2YgdGhlIGVsaXRlIHRocmVlIGluIHRoZSBmaW5hbHMgYXQgVGFibGVhdSBDb25mZXJlbmNlLiBUaGluayB5b3UndmUgZ290IHdoYXQgaXQgdGFrZXM/IFdlJ2xsIGJlIGJhY2sgaW4gMjAyMiB3aXRoIGRldGFpbHMgYXJvdW5kIHRoZSBuZXh0IG9wcG9ydHVuaXR5IHRvIGNvbXBldGUuPC9wPiA8YSA+SGVyZeKAmXMgd2hhdCB5b3UgY2FuIGV4cGVjdDwvYT4gPC9kaXY+IDwvZGl2PiA8L2FydGljbGU+IDwvc2VjdGlvbj4gPC9kaXY+IDxkaXY+IDxzZWN0aW9uID4gPGFydGljbGUgPiA8aDIgPiAyMDIxIElyb24gVml6IFF1YWxpZmllciBSb3VuZCA8L2gyPiA8ZGl2ID4gPGRpdiA+IDxwPkNvbmdyYXR1bGF0aW9ucyB0byBvdXIgdml6LXRhc3RpYyBmaW5hbGlzdHMuwqBZb3UgY2FuIHdhdGNoIGEgcmVjYXAgb2YgdGhlIFRhYmxlYXUgQ29tbXVuaXR5IElyb24gVml6IFRvcCAxMCBGaW5hbGlzdCBBbm5vdW5jZW1lbnQgaG9zdGVkIGJ5wqA8YSA+QW5keSBDb3RncmVhdmU8L2E+wqBhbmTCoDxhID5LZXNoaWEgUm9zZTwvYT7CoDxhID5oZXJlPC9hPi4gVGhleSB3ZXJlIGpvaW5lZCBieSBndWVzdCBqdWRnZSBaZW4gTWFzdGVyLMKgPGEgPlRpbSBOZ3dlbmE8L2E+wqB3aG8gc2hhcmVkIHNvbWUgaW5zaWdodHMgYWJvdXQgdGhlbWVzLCB0cmVuZHMsIGp1ZGdpbmcgY3JpdGVyaWEsIGFuZCBtb3JlLjwvcD4gPHA+WW91IGNhbiBhbHNvIGxlYXJuIG1vcmUgYWJvdXQgdGhlIFRvcCAxMCBhbmQgd2hvIHdhcyBjaG9zZW4gdG8gY29tcGV0ZSBpbiB0aGUgSXJvbiBWaXogQ2hhbXBpb25zaGlwIGJ5IHZpc2l0aW5nIG91ciA8YSA+MjAyMSBEYXRhK0pveSBJcm9uIFZpeiBSZXN1bHRzIGJsb2cgcG9zdDwvYT4uIDwvcD4gPC9kaXY+IDwvZGl2PiA8L2FydGljbGU+IDwvc2VjdGlvbj4gPC9kaXY+IDxkaXY+IDxzZWN0aW9uID4gPGFydGljbGUgPiA8ZGl2ID4gPGRpdiA+IDxwPjIwMjEgSXJvbiBWaXogRmluYWxpc3Q6IFNhbSBQYXJzb25zPC9wPiA8cD5JbnRlcmFjdCB3aXRoIFNhbSdzIGJyaWxsaWFudCB2aXogb24gPGEgPiJSaXZlcnMgb2YgVGltZSI8L2E+IC0tIGEgZ3JhcGhpYyB2aXN1YWxpemF0aW9uIG9uIHRoZSBzdHVkeSBvZiB2YXJpb3VzIGNvbXBvbmVudHMgb2YgdGltZSBpbiB0aGUgTWFydmVsIENpbmVtYXRpYyBVbml2ZXJzZS7CoFRoZSB2aXN1YWxpemF0aW9uIHdpbGwgaGVscCB5b3UgbGVhcm4gaG93IGFsbCAyMyBNQ1UgbW92aWVzIGludGVydHdpbmUgYW5kIGxpbmsgdG9nZXRoZXIgZnJvbSBhIHVuaXF1ZSB2aWV3cG9pbnQuwqA8L3A+IDxhID5SZWFkIE1vcmU8L2E+IDwvZGl2PiA8L2Rpdj4gPC9hcnRpY2xlPiA8L3NlY3Rpb24+IDwvZGl2PiA8ZGl2PiA8c2VjdGlvbiA+IDxhcnRpY2xlID4gPGRpdiA+IDxkaXYgPiA8cD4yMDIxIElyb24gVml6IEZpbmFsaXN0OiBQcmFkZWVwIEt1bWFyPC9wPiA8cD5WaWV3IFByYWRlZXAncyB3b25kZXJmdWwgdmlzdWFsaXphdGlvbiB0aXRsZWQgPGEgPiJUaGUgU2hvdyBUaGF0IEJyaW5ncyBtZSBKb3kuIEF2YXRhcjogVGhlIExhc3QgQWlyYmVuZGVyLiI8L2E+IFRoaXMgdml6IHNoYXJlcyBoaXMgZXhwZXJpZW5jZXMgYWJvdXQgaGlzIGZhdm9yaXRlIGVsZW1lbnRzIG9mIHRoZSBBdmF0YXIgc2VyaWVzIGFuZCB3aHkgaGUgbG92ZXMgdGhlbS4gPC9wPiA8YSA+UmVhZCBNb3JlPC9hPiA8L2Rpdj4gPC9kaXY+IDwvYXJ0aWNsZT4gPC9zZWN0aW9uPiA8L2Rpdj4gPGRpdj4gPHNlY3Rpb24gPiA8YXJ0aWNsZSA+IDxkaXYgPiA8ZGl2ID4gPHA+MjAyMSBJcm9uIFZpeiBGaW5hbGlzdDogTGlzYSBUcmVzY290dDwvcD4gPHA+RGl2ZSBpbnRvIExpc2EncyBlbmdhZ2luZyB2aXN1YWxpemF0aW9uIHRpdGxlZCwgPGEgPiJSdXBhdWwncyBEcmFnIFJhY2U6IEFuIGFuYWx5c2lzIG9mIGxpcCBzeW5jcy4iPC9hPiBTaGUgcmV3YXRjaGVkIGFsbCBvZiBSdVBhdWwncyBEcmFnIFJhY2UgTFNGWUwgdG8gZXhwbG9yZSB0cmVuZHMsIHRoZSBxdWVlbnMgYW5kIHRoZSBtdXNpYyB0aGF0IG1ha2VzIHRoZXNlIHBlcmZvcm1hbmNlcyBoZXIgZmF2b3JpdGUgcGFydCBvZiB0aGUgc2hvdy7CoDwvcD4gPGEgPlJlYWQgTW9yZTwvYT4gPC9kaXY+IDwvZGl2PiA8L2FydGljbGU+IDwvc2VjdGlvbj4gPC9kaXY+IDxkaXY+IDxzZWN0aW9uID4gPGFydGljbGUgPiA8ZGl2ID4gPGRpdiA+IDxwID5QZXJoYXBzIGl0IHdhcyB0aGUgZmFjdCB0aGF0IHRoaXMgd2FzIGEgZm9ybWFsIGNvbXBldGl0aW9uIG9yIHRoYXQgSSBzcGVudCBtb3JlIHRpbWUgdGhhbiBwcmV2aW91cyB2aXN1YWxpemF0aW9ucywgYnV0IHNvbWV0aGluZyBhYm91dCB0aGlzIGNvbnRlc3QgYWxsb3dlZCBtZSB0byByZWFsbHkgdXAgbXkgZ2FtZS4gU28sIHdoaWxlIG5vbmUgb2YgdGhlbSB3b24sIEkgbGVhcm5lZCBzbyBtdWNoIGluIGNyZWF0aW5nIHRoZW0sIHRha2luZyBhIGJpZyBsZWFwIGZvcndhcmQgaW4gbXkgZGV2ZWxvcG1lbnQsIHNvIGl0IHdhcyB3ZWxsIHdvcnRoIGl0LjwvcD4gPHAgPiBLZW4gRmxlcmxhZ2UsIFRhYmxlYXUgWmVuIE1hc3RlciA8L3A+IDwvZGl2PiA8L2Rpdj4gPC9hcnRpY2xlPiA8L3NlY3Rpb24+IDwvZGl2PiA8ZGl2PiA8c2VjdGlvbiA+IDxhcnRpY2xlID4gPGgyID4gSXJvbiBWaXogMjAyMSA8L2gyPiA8L2FydGljbGU+IDwvc2VjdGlvbj4gPC9kaXY+IDxkaXY+IDxzZWN0aW9uID4gPGFydGljbGUgPiA8aDI+IDIwMjAgQ2hhbXBpb24gPC9oMj4gPGRpdiA+IDxoMz5UYWJsZWF1IENvbmZlcmVuY2U8L2gzPiA8L2Rpdj4gPC9hcnRpY2xlPiA8L3NlY3Rpb24+IDwvZGl2PiA8ZGl2PiA8c2VjdGlvbiA+IDxhcnRpY2xlID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoND5UaGUgQWlyIFdlIEJyZWF0aGU8L2g0PiBDaHJpc3RpYW4gRmVsaXg8L2Rpdj4gPGRpdiA+IDxwPk91ciAyMDIwIElyb24gVml6IGNoYW1waW9uIENocmlzdGlhbiBGZWxpeCB1c2VkIHRoZSBlbnZpcm9ubWVudCBkYXRhIHNldCBnaXZlbiB0byBoaW0gdG8gaWxsdXN0cmF0ZSBhIHN0b3J5IHRvIHNob3cgYSBzaWduaWZpY2FudCBnbG9iYWwgZGl2aWRlIGJldHdlZW4gY2l0aWVzIHRoYXQgYXJlIGhvbWUgdG8gaGVhbHRoeSBhaXIgYW5kIGNpdGllcyB0aGF0IGFyZSBob21lIHRvIHVuaGVhbHRoeSBhaXIuPC9wPiA8cCA+PGEgPlNlZSB0aGUgdml6PC9hPjwvcD4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvYXJ0aWNsZT4gPC9zZWN0aW9uPiA8L2Rpdj4gPGRpdj4gPHNlY3Rpb24gPiA8YXJ0aWNsZSA+IDxoMiA+IENvbnRlc3QgUmVzb3VyY2VzIDwvaDI+IDwvYXJ0aWNsZT4gPC9zZWN0aW9uPiA8L2Rpdj4gPGRpdj4gPHNlY3Rpb24gPiA8YXJ0aWNsZSA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxzZWN0aW9uID4gPGFydGljbGUgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoMz5FeHBsb3JlIHRoZSBUYWJsZWF1IENvbW11bml0eSA8L2gzPiA8cD5Mb29raW5nIGZvciBhIHBhdGggdG8gVGFibGVhdSBzdWNjZXNzPyBUaGVyZSBpcyBubyBzaW5nbGUgd2F5IHRvIGFjY2VsZXJhdGUgeW91ciBkYXRhIHNraWxscywgYnV0IGFsbCByb2FkcyBsZWFkIHRocm91Z2ggdGhlIFRhYmxlYXUgQ29tbXVuaXR5LiBUaHJvdWdoIHRoZSBtYW55IGNvbW11bml0eSByZXNvdXJjZXMgYXZhaWxhYmxlIHRvIHlvdSwgeW91IGhhdmUgdGhlIHBvd2VyIHRvIGNvbm5lY3Qgd2l0aCBsaWtlLW1pbmRlZCBwZW9wbGUsIGxlYXJuLCBncm93LCBhbmQgYmUgaW5zcGlyZWTigJR3aGVyZXZlciB5b3UgYXJlIGluIHRoZSB3b3JsZC4gPC9wPiA8YSA+TEVBUk4gTU9SRTwvYT4gPGEgPlRBQkxFQVUgQ09NTVVOSVRZIENPREUgT0YgQ09ORFVDVDwvYT4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2FydGljbGU+IDwvc2VjdGlvbj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9hcnRpY2xlPiA8L3NlY3Rpb24+IDwvZGl2PiA8L2Rpdj4gPC9hcnRpY2xlPiA8L3NlY3Rpb24+IDwvZGl2PiA8L2Rpdj4gPC9tYWluPiA8L2Rpdj4gPC9kaXY+IDwvYm9keT4='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, tag: body, level: 1" node_number="1"> <a class="valid" valid="valid" title="valid: True, node: 2, tag: a, level: 2" node_number="2"> Skip to main content </a> <div class="valid" valid="valid" title="valid: True, node: 3, tag: div, level: 2" node_number="3"> <div class="valid" valid="valid" title="valid: True, node: 4, tag: div, level: 3" node_number="4"> <header class="valid" valid="valid" title="valid: True, node: 5, tag: header, level: 4" node_number="5">  </header> <main class="valid" valid="valid" title="valid: True, node: 6, tag: main, level: 4" node_number="6"> <div class="valid" valid="valid" title="valid: True, node: 7, tag: div, level: 5" node_number="7"> <div class="valid" valid="valid" title="valid: True, node: 8, tag: div, level: 6" node_number="8"> <section class="valid" valid="valid" title="valid: True, node: 9, tag: section, level: 7" node_number="9"> <article class="valid" valid="valid" title="valid: True, node: 10, tag: article, level: 8" node_number="10"> <div class="valid" valid="valid" title="valid: True, node: 11, tag: div, level: 9" node_number="11"> <div class="valid" valid="valid" title="valid: True, node: 12, tag: div, level: 10" node_number="12"> <section class="valid" valid="valid" title="valid: True, node: 13, tag: section, level: 11" node_number="13"> <div class="valid" valid="valid" title="valid: True, node: 14, tag: div, level: 12" node_number="14"> <div class="valid" valid="valid" title="valid: True, node: 15, tag: div, level: 13" node_number="15"> <div class="valid" valid="valid" title="valid: True, node: 16, tag: div, level: 14" node_number="16"> <div title="valid: False, node: 17, tag: div, level: 15" node_number="17"> <div title="valid: False, node: 18, tag: div, level: 16" node_number="18"> <h2 title="valid: False, node: 19, tag: h2, level: 17" node_number="19">Where will the next great data viz come from?</h2> </div> </div> </div> </div> </div> </section> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 20, tag: div, level: 9" node_number="20"> <div class="valid" valid="valid" title="valid: True, node: 21, tag: div, level: 10" node_number="21"> <section class="valid" valid="valid" title="valid: True, node: 22, tag: section, level: 11" node_number="22"> <article class="valid" valid="valid" title="valid: True, node: 23, tag: article, level: 12" node_number="23"> <div class="valid" valid="valid" title="valid: True, node: 24, tag: div, level: 13" node_number="24"> <div class="valid" valid="valid" title="valid: True, node: 25, tag: div, level: 14" node_number="25"> <div title="valid: False, node: 26, tag: div, level: 15" node_number="26"> <section title="valid: False, node: 27, tag: section, level: 16" node_number="27"> <article title="valid: False, node: 28, tag: article, level: 17" node_number="28"> </article> </section> </div> </div> </div> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 29, tag: div, level: 10" node_number="29"> <section class="valid" valid="valid" title="valid: True, node: 30, tag: section, level: 11" node_number="30"> <article class="valid" valid="valid" title="valid: True, node: 31, tag: article, level: 12" node_number="31"> <div class="valid" valid="valid" title="valid: True, node: 32, tag: div, level: 13" node_number="32"> <div class="valid" valid="valid" title="valid: True, node: 33, tag: div, level: 14" node_number="33"> <p title="valid: False, node: 34, tag: p, level: 15" node_number="34">Congrats to our 2021 winner -- Check back for Iron Viz 2022 qualifier details</p> </div> </div> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 35, tag: div, level: 10" node_number="35"> <section class="valid" valid="valid" title="valid: True, node: 36, tag: section, level: 11" node_number="36"> <article class="valid" valid="valid" title="valid: True, node: 37, tag: article, level: 12" node_number="37"> <h2 class="valid" valid="valid" title="valid: True, node: 38, tag: h2, level: 13" node_number="38"> Data rocks our world </h2> <div class="valid" valid="valid" title="valid: True, node: 39, tag: div, level: 13" node_number="39"> <div class="valid" valid="valid" title="valid: True, node: 40, tag: div, level: 14" node_number="40"> <p title="valid: False, node: 41, tag: p, level: 15" node_number="41">Day two of Tableau Conference 2021 saw three fierce contestants take the virtual stage. In front of a massive global audience, they each had 20 nail-biting minutes to whip up an awe-inspiring viz. </p> <p title="valid: False, node: 42, tag: p, level: 15" node_number="42">Congratulations to <a title="valid: False, node: 43, tag: a, level: 16" node_number="43">Lisa Trescott </a> who impressed the judges and live audience with her visualization on breakthrough artists. </p> <p title="valid: False, node: 44, tag: p, level: 15" node_number="44">Read our <a title="valid: False, node: 45, tag: a, level: 16" node_number="45">blog</a> for a detailed recap. </p> <p title="valid: False, node: 46, tag: p, level: 15" node_number="46">And if you want to get the inside scoop from all three finalists, check out <a title="valid: False, node: 47, tag: a, level: 16" node_number="47">If Data Could Talk</a> in early December for episodes that deep dive into each visualization. </p> </div> </div> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 48, tag: div, level: 10" node_number="48"> <section class="valid" valid="valid" title="valid: True, node: 49, tag: section, level: 11" node_number="49"> <article class="valid" valid="valid" title="valid: True, node: 50, tag: article, level: 12" node_number="50"> <h2 class="valid" valid="valid" title="valid: True, node: 51, tag: h2, level: 13" node_number="51"> What is Iron Viz? </h2> <div class="valid" valid="valid" title="valid: True, node: 52, tag: div, level: 13" node_number="52"> <div class="valid" valid="valid" title="valid: True, node: 53, tag: div, level: 14" node_number="53"> <p title="valid: False, node: 54, tag: p, level: 15" node_number="54">Missed the main event, but curious about the hype? Iron Viz is the world's largest data visualization contest. Every year, qualifiers from around the globe attempt to be one of the elite three in the finals at Tableau Conference. Think you've got what it takes? We'll be back in 2022 with details around the next opportunity to compete.</p> <a title="valid: False, node: 55, tag: a, level: 15" node_number="55">Here&#8217;s what you can expect</a> </div> </div> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 56, tag: div, level: 10" node_number="56"> <section class="valid" valid="valid" title="valid: True, node: 57, tag: section, level: 11" node_number="57"> <article class="valid" valid="valid" title="valid: True, node: 58, tag: article, level: 12" node_number="58"> <h2 class="valid" valid="valid" title="valid: True, node: 59, tag: h2, level: 13" node_number="59"> 2021 Iron Viz Qualifier Round </h2> <div class="valid" valid="valid" title="valid: True, node: 60, tag: div, level: 13" node_number="60"> <div class="valid" valid="valid" title="valid: True, node: 61, tag: div, level: 14" node_number="61"> <p title="valid: False, node: 62, tag: p, level: 15" node_number="62">Congratulations to our viz-tastic finalists.&#160;You can watch a recap of the Tableau Community Iron Viz Top 10 Finalist Announcement hosted by&#160;<a title="valid: False, node: 63, tag: a, level: 16" node_number="63">Andy Cotgreave</a>&#160;and&#160;<a title="valid: False, node: 64, tag: a, level: 16" node_number="64">Keshia Rose</a>&#160;<a title="valid: False, node: 65, tag: a, level: 16" node_number="65">here</a>. They were joined by guest judge Zen Master,&#160;<a title="valid: False, node: 66, tag: a, level: 16" node_number="66">Tim Ngwena</a>&#160;who shared some insights about themes, trends, judging criteria, and more.</p> <p title="valid: False, node: 67, tag: p, level: 15" node_number="67">You can also learn more about the Top 10 and who was chosen to compete in the Iron Viz Championship by visiting our <a title="valid: False, node: 68, tag: a, level: 16" node_number="68">2021 Data+Joy Iron Viz Results blog post</a>. </p> </div> </div> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 69, tag: div, level: 10" node_number="69"> <section class="valid" valid="valid" title="valid: True, node: 70, tag: section, level: 11" node_number="70"> <article class="valid" valid="valid" title="valid: True, node: 71, tag: article, level: 12" node_number="71"> <div class="valid" valid="valid" title="valid: True, node: 72, tag: div, level: 13" node_number="72"> <div class="valid" valid="valid" title="valid: True, node: 73, tag: div, level: 14" node_number="73"> <p title="valid: False, node: 74, tag: p, level: 15" node_number="74">2021 Iron Viz Finalist: Sam Parsons</p> <p title="valid: False, node: 75, tag: p, level: 15" node_number="75">Interact with Sam's brilliant viz on <a title="valid: False, node: 76, tag: a, level: 16" node_number="76">"Rivers of Time"</a> -- a graphic visualization on the study of various components of time in the Marvel Cinematic Universe.&#160;The visualization will help you learn how all 23 MCU movies intertwine and link together from a unique viewpoint.&#160;</p> <a title="valid: False, node: 77, tag: a, level: 15" node_number="77">Read More</a> </div> </div> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 78, tag: div, level: 10" node_number="78"> <section class="valid" valid="valid" title="valid: True, node: 79, tag: section, level: 11" node_number="79"> <article class="valid" valid="valid" title="valid: True, node: 80, tag: article, level: 12" node_number="80"> <div class="valid" valid="valid" title="valid: True, node: 81, tag: div, level: 13" node_number="81"> <div class="valid" valid="valid" title="valid: True, node: 82, tag: div, level: 14" node_number="82"> <p title="valid: False, node: 83, tag: p, level: 15" node_number="83">2021 Iron Viz Finalist: Pradeep Kumar</p> <p title="valid: False, node: 84, tag: p, level: 15" node_number="84">View Pradeep's wonderful visualization titled <a title="valid: False, node: 85, tag: a, level: 16" node_number="85">"The Show That Brings me Joy. Avatar: The Last Airbender."</a> This viz shares his experiences about his favorite elements of the Avatar series and why he loves them. </p> <a title="valid: False, node: 86, tag: a, level: 15" node_number="86">Read More</a> </div> </div> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 87, tag: div, level: 10" node_number="87"> <section class="valid" valid="valid" title="valid: True, node: 88, tag: section, level: 11" node_number="88"> <article class="valid" valid="valid" title="valid: True, node: 89, tag: article, level: 12" node_number="89"> <div class="valid" valid="valid" title="valid: True, node: 90, tag: div, level: 13" node_number="90"> <div class="valid" valid="valid" title="valid: True, node: 91, tag: div, level: 14" node_number="91"> <p title="valid: False, node: 92, tag: p, level: 15" node_number="92">2021 Iron Viz Finalist: Lisa Trescott</p> <p title="valid: False, node: 93, tag: p, level: 15" node_number="93">Dive into Lisa's engaging visualization titled, <a title="valid: False, node: 94, tag: a, level: 16" node_number="94">"Rupaul's Drag Race: An analysis of lip syncs."</a> She rewatched all of RuPaul's Drag Race LSFYL to explore trends, the queens and the music that makes these performances her favorite part of the show.&#160;</p> <a title="valid: False, node: 95, tag: a, level: 15" node_number="95">Read More</a> </div> </div> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 96, tag: div, level: 10" node_number="96"> <section class="valid" valid="valid" title="valid: True, node: 97, tag: section, level: 11" node_number="97"> <article class="valid" valid="valid" title="valid: True, node: 98, tag: article, level: 12" node_number="98"> <div class="valid" valid="valid" title="valid: True, node: 99, tag: div, level: 13" node_number="99"> <div class="valid" valid="valid" title="valid: True, node: 100, tag: div, level: 14" node_number="100"> <p title="valid: False, node: 101, tag: p, level: 15" node_number="101">Perhaps it was the fact that this was a formal competition or that I spent more time than previous visualizations, but something about this contest allowed me to really up my game. So, while none of them won, I learned so much in creating them, taking a big leap forward in my development, so it was well worth it.</p> <p title="valid: False, node: 102, tag: p, level: 15" node_number="102"> Ken Flerlage, Tableau Zen Master </p> </div> </div> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 103, tag: div, level: 10" node_number="103"> <section class="valid" valid="valid" title="valid: True, node: 104, tag: section, level: 11" node_number="104"> <article class="valid" valid="valid" title="valid: True, node: 105, tag: article, level: 12" node_number="105"> <h2 class="valid" valid="valid" title="valid: True, node: 106, tag: h2, level: 13" node_number="106"> Iron Viz 2021 </h2> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 107, tag: div, level: 10" node_number="107"> <section class="valid" valid="valid" title="valid: True, node: 108, tag: section, level: 11" node_number="108"> <article class="valid" valid="valid" title="valid: True, node: 109, tag: article, level: 12" node_number="109"> <h2 class="valid" valid="valid" title="valid: True, node: 110, tag: h2, level: 13" node_number="110"> 2020 Champion </h2> <div class="valid" valid="valid" title="valid: True, node: 111, tag: div, level: 13" node_number="111"> <h3 class="valid" valid="valid" title="valid: True, node: 112, tag: h3, level: 14" node_number="112">Tableau Conference</h3> </div> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 113, tag: div, level: 10" node_number="113"> <section class="valid" valid="valid" title="valid: True, node: 114, tag: section, level: 11" node_number="114"> <article class="valid" valid="valid" title="valid: True, node: 115, tag: article, level: 12" node_number="115"> <div class="valid" valid="valid" title="valid: True, node: 116, tag: div, level: 13" node_number="116"> <div class="valid" valid="valid" title="valid: True, node: 117, tag: div, level: 14" node_number="117"> <div title="valid: False, node: 118, tag: div, level: 15" node_number="118"> <div title="valid: False, node: 119, tag: div, level: 16" node_number="119"> <h4 title="valid: False, node: 120, tag: h4, level: 17" node_number="120">The Air We Breathe</h4> Christian Felix</div> <div title="valid: False, node: 121, tag: div, level: 16" node_number="121"> <p title="valid: False, node: 122, tag: p, level: 17" node_number="122">Our 2020 Iron Viz champion Christian Felix used the environment data set given to him to illustrate a story to show a significant global divide between cities that are home to healthy air and cities that are home to unhealthy air.</p> <p title="valid: False, node: 123, tag: p, level: 17" node_number="123"><a title="valid: False, node: 124, tag: a, level: 18" node_number="124">See the viz</a></p> </div> </div> </div> </div> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 125, tag: div, level: 10" node_number="125"> <section class="valid" valid="valid" title="valid: True, node: 126, tag: section, level: 11" node_number="126"> <article class="valid" valid="valid" title="valid: True, node: 127, tag: article, level: 12" node_number="127"> <h2 class="valid" valid="valid" title="valid: True, node: 128, tag: h2, level: 13" node_number="128"> Contest Resources </h2> </article> </section> </div> <div class="valid" valid="valid" title="valid: True, node: 129, tag: div, level: 10" node_number="129"> <section class="valid" valid="valid" title="valid: True, node: 130, tag: section, level: 11" node_number="130"> <article class="valid" valid="valid" title="valid: True, node: 131, tag: article, level: 12" node_number="131"> <div class="valid" valid="valid" title="valid: True, node: 132, tag: div, level: 13" node_number="132"> <div class="valid" valid="valid" title="valid: True, node: 133, tag: div, level: 14" node_number="133"> <div title="valid: False, node: 134, tag: div, level: 15" node_number="134"> <section title="valid: False, node: 135, tag: section, level: 16" node_number="135"> <article title="valid: False, node: 136, tag: article, level: 17" node_number="136"> <div title="valid: False, node: 137, tag: div, level: 18" node_number="137"> <div title="valid: False, node: 138, tag: div, level: 19" node_number="138"> <div title="valid: False, node: 139, tag: div, level: 20" node_number="139"> <div title="valid: False, node: 140, tag: div, level: 21" node_number="140"> <div title="valid: False, node: 141, tag: div, level: 22" node_number="141"> <h3 title="valid: False, node: 142, tag: h3, level: 23" node_number="142">Explore the Tableau Community </h3> <p title="valid: False, node: 143, tag: p, level: 23" node_number="143">Looking for a path to Tableau success? There is no single way to accelerate your data skills, but all roads lead through the Tableau Community. Through the many community resources available to you, you have the power to connect with like-minded people, learn, grow, and be inspired&#8212;wherever you are in the world. </p> <a title="valid: False, node: 144, tag: a, level: 23" node_number="144">LEARN MORE</a> <a title="valid: False, node: 145, tag: a, level: 23" node_number="145">TABLEAU COMMUNITY CODE OF CONDUCT</a> </div> </div> </div> </div> </div> </article> </section> </div> </div> </div> </article> </section> </div> </div> </article> </section> </div> </div> </main> </div> </div> </body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>

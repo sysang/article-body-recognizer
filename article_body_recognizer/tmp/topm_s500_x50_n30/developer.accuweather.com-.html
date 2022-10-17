@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <script> var url = encodeURIComponent('https://developer.accuweather.com/');</script>
+
+        <script> var body_html = 'PGJvZHkgPiA8ZGl2ID4gPGEgPlNraXAgdG8gbWFpbiBjb250ZW50PC9hPiA8L2Rpdj4gPGhlYWRlciA+IDxkaXYgPiA8ZGl2ID4gIDwvZGl2PiA8L2Rpdj4gPC9oZWFkZXI+IDxoZWFkZXIgPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiAgPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPHNlY3Rpb24gPiA8ZGl2ID4gPG9sID4gPGxpID4gPGxpID4gPGxpID4gPGxpID4gPC9vbD4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gQlVJTEQgVEhFIFdFQVRIRVIgRVhQRVJJRU5DRSBMSUtFIE5FVkVSIEJFRk9SRS4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IE5FRUQgQSBHTE9CQUxXRUFUSEVSIEFQSVRIQVQgREVMSVZFUlM/IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiBQVVQgVEhFIFBPV0VSIE9GIEFDQ1VXRUFUSEVSIEJFSElORCBZT1VSIFBST0RVQ1QuIDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiBORUVEIEEgR0xPQkFMV0VBVEhFUiBBUElUSEFUIERFTElWRVJTPyA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9zZWN0aW9uPiA8ZGl2ID4gPGRpdiA+IDxoZWFkZXIgPiA8L2hlYWRlcj4gPGRpdiA+IDxzZWN0aW9uID4gPGRpdiA+IDxzZWN0aW9uID4gPHA+VHdlZXRzIGJ5IEBBY2N1V2VhdGhlcl9EZXY8L3A+IDwvc2VjdGlvbj4gPHNlY3Rpb24gPiA8aDIgPlJlY2VudGx5IEFkZGVkIEFQSXM8L2gyPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPHNwYW4gPjxkaXYgPiA8ZGl2ID4gPGRpdiA+PHAgPkdFVDwvcD48L2Rpdj4gPGRpdiA+TWludXRlQ2FzdOKEojxwID4vZm9yZWNhc3RzL3YxL21pbnV0ZTwvcD48L2Rpdj4gPC9kaXY+IDwvZGl2Pjwvc3Bhbj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxzcGFuID48ZGl2ID4gPGRpdiA+IDxkaXYgPjxwID5HRVQ8L3A+PC9kaXY+IDxkaXYgPkdvdmVybm1lbnQgSXNzdWVkIFN0b3JtcyBieSB5ZWFyPHAgPi90cm9waWNhbC92MS9nb3Yvc3Rvcm1zL3t5eXl5fTwvcD48L2Rpdj4gPC9kaXY+IDwvZGl2Pjwvc3Bhbj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxzcGFuID48ZGl2ID4gPGRpdiA+IDxkaXYgPjxwID5HRVQ8L3A+PC9kaXY+IDxkaXYgPkFjdGl2ZSBnb3Zlcm5tZW50LWlzc3VlZCBzdG9ybXMgYnkgYmFzaW4gSUQgYW5kIGdvdmVybm1lbnQgSUQ8cCA+L3Ryb3BpY2FsL3YxL2dvdi9zdG9ybXMvYWN0aXZlL3tiYXNpbklEfS97Z292ZXJubWVudElEfTwvcD48L2Rpdj4gPC9kaXY+IDwvZGl2Pjwvc3Bhbj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxzcGFuID48ZGl2ID4gPGRpdiA+IDxkaXYgPjxwID5HRVQ8L3A+PC9kaXY+IDxkaXYgPlBvc2l0aW9ucyBmb3IgYW4gaW5kaXZpZHVhbCBnb3Zlcm5tZW50LWlzc3VlZCBzdG9ybTxwID4vdHJvcGljYWwve3ZlcnNpb259L2dvdi9zdG9ybXMve3l5eXl9L3tiYXNpbklEfS97Z292ZXJubWVudElEfS9wb3NpdGlvbnM8L3A+PC9kaXY+IDwvZGl2PiA8L2Rpdj48L3NwYW4+IDwvZGl2PiA8L2Rpdj4gPGRpdiA+IDxkaXYgPiA8c3BhbiA+PGRpdiA+IDxkaXYgPiA8ZGl2ID48cCA+R0VUPC9wPjwvZGl2PiA8ZGl2ID5BY3RpdmUgZ292ZXJubWVudC1pc3N1ZWQgc3Rvcm1zIDxwID4vdHJvcGljYWwvdjEvZ292L3N0b3Jtcy9hY3RpdmU8L3A+PC9kaXY+IDwvZGl2PiA8L2Rpdj48L3NwYW4+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L3NlY3Rpb24+IDxzZWN0aW9uID4gPGgyID5BYm91dCBBY2N1V2VhdGhlciBBUElzPC9oMj4gPGg0PlRyeSBpdCBPdXQuPC9oND4gPHA+PGEgPlNpZ24gdXA8L2E+IGZvciBhbiBBY2N1V2VhdGhlciBBUElzIGFjY291bnQgYW5kIGdldCBmcmVlIGFjY2VzcyB0byBhIHNhbXBsaW5nIG9mIG91ciB3ZWF0aGVyIEFQSSBlbmRwb2ludHMsIGluY2x1ZGluZyBMb2NhdGlvbnMsIEN1cnJlbnQgQ29uZGl0aW9ucywgYW5kIERhaWx5IGFuZCBIb3VybHkgRm9yZWNhc3RzLjwvcD4gPHA+TGltaXRlZCBUcmlhbCBhY2Nlc3MgYWxsb3dzIGVhY2ggZGV2ZWxvcGVyIHVwIHRvIDUwIGNhbGxzIHBlciBkYXkuwqA8L3A+IDxoND5HZXR0aW5nIFN0YXJ0ZWQuPC9oND4gPHA+PGEgPkJhc2ljIGluc3RydWN0aW9uczwvYT4gZm9yIHNpZ25pbmcgdXAsIGNyZWF0aW5nIGFuIEFwcCB0byBnZXQgeW91ciBBUEkgS2V5LCBhbmQgdGVzdGluZyBvdXIgd2VhdGhlciBBUElzLjwvcD4gPGg0PldhbnQgTW9yZT88L2g0PiA8cD48YSA+Q29udGFjdDwvYT4gb3VyIHNhbGVzIGRlcGFydG1lbnQgdG8gbGVhcm4gaG93IHlvdSBjYW4gbGV2ZXJhZ2Ugb3VyIGZ1bGwgcmFuZ2Ugb2Ygd2VhdGhlciBBUEkgb2ZmZXJpbmdzLjwvcD4gPC9zZWN0aW9uPiA8L2Rpdj4gPC9zZWN0aW9uPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8ZGl2PiA8ZGl2ID4gPHNlY3Rpb24gPiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPHVsPiA8bGk+PGEgPkNPTVBBTlk8L2E+IDx1bD4gPGxpPjxhID5BYm91dCBVczwvYT48L2xpPiA8bGk+PGEgPkFkdmVydGlzZSB3aXRoIFVzPC9hPjwvbGk+IDxsaT48YSA+Q2FyZWVyczwvYT48L2xpPiA8bGk+PGEgPlByZXNzPC9hPjwvbGk+IDwvdWw+IDwvbGk+IDxsaT48YSA+RU5URVJQUklTRSBTT0xVVElPTlM8L2E+IDx1bD4gPGxpPjxhID5Qb3J0YWw8L2E+PC9saT4gPGxpPjxhID5NYW51ZmFjdHVyaW5nPC9hPjwvbGk+IDxsaT48YSA+UmV0YWlsPC9hPjwvbGk+IDxsaT48YSA+RmluYW5jZSBhbmQgQmFua2luZzwvYT48L2xpPiA8bGk+PGEgPkVuZXJneTwvYT48L2xpPiA8bGk+PGEgPkZvcmVuc2ljcyBXZWF0aGVyIEV4cGVydHM8L2E+PC9saT4gPGxpPjxhID5EMzogRGF0YSBEcml2ZW4gRGVjaXNpb25zPC9hPjwvbGk+IDwvdWw+IDwvbGk+IDxsaT48YSA+U1VCU0NSSVBUSU9OIFNFUlZJQ0VTPC9hPiA8dWw+IDxsaT48YSA+QWNjdVdlYXRoZXIgUHJlbWl1bTwvYT48L2xpPiA8bGk+PGEgPkFjY3VXZWF0aGVyIFByb2Zlc3Npb25hbDwvYT48L2xpPiA8L3VsPiA8L2xpPiA8bGk+PGEgPkFQUFMgQU5EIERPV05MT0FEUzwvYT48L2xpPiA8L3VsPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID7CqSBBY2N1V2VhdGhlciwgSW5jLjwvZGl2PiA8ZGl2ID4gPHVsID4gPGxpID48YSA+SG9tZTwvYT48L2xpPiA8bGk+PGEgPkFjY3VXZWF0aGVyLmNvbSBIb21lPC9hPjwvbGk+IDxsaT48YSA+Q2FyZWVyczwvYT48L2xpPiA8bGk+PGEgPlByaXZhY3k8L2E+PC9saT4gPGxpPjxhID5UZXJtcyBvZiBVc2FnZTwvYT48L2xpPiA8bGk+PGEgPlNpdGVtYXA8L2E+PC9saT4gPGxpPjxhID5TeXN0ZW0gU3RhdHVzPC9hPjwvbGk+IDwvdWw+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9zZWN0aW9uPiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8ZGl2ID4gPGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoNCA+TG9nIGluPC9oND4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+PGRpdiA+IDxkaXYgPiA8ZGl2ID4gPGRpdiA+IDxoNCA+UmVnaXN0ZXIgYSBuZXcgdXNlcjwvaDQ+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+IDwvZGl2PiA8L2Rpdj4gPC9kaXY+PC9oZWFkZXI+PC9ib2R5Pg=='</script>
+
+      </head>
+        <body class="valid" valid="valid" title="valid: True, node: 1, level: 1" node_number="1"> <div class="valid" valid="valid" title="valid: True, node: 2, level: 2" node_number="2"> <a class="valid" valid="valid" title="valid: True, node: 3, level: 3" node_number="3">Skip to main content</a> </div> <header class="valid" valid="valid" title="valid: True, node: 4, level: 2" node_number="4"> <div class="valid" valid="valid" title="valid: True, node: 5, level: 3" node_number="5"> <div class="valid" valid="valid" title="valid: True, node: 6, level: 4" node_number="6">  </div> </div> </header> <header class="valid" valid="valid" title="valid: True, node: 7, level: 2" node_number="7"> <div class="valid" valid="valid" title="valid: True, node: 8, level: 3" node_number="8"> <div class="valid" valid="valid" title="valid: True, node: 9, level: 4" node_number="9"> <div class="valid" valid="valid" title="valid: True, node: 10, level: 5" node_number="10">  </div> </div> <div class="valid" valid="valid" title="valid: True, node: 11, level: 4" node_number="11"> <section class="valid" valid="valid" title="valid: True, node: 12, level: 5" node_number="12"> <div class="valid" valid="valid" title="valid: True, node: 13, level: 6" node_number="13"> <ol class="valid" valid="valid" title="valid: True, node: 14, level: 7" node_number="14"> <li class="valid" valid="valid" title="valid: True, node: 15, level: 8" node_number="15"> <li class="valid" valid="valid" title="valid: True, node: 16, level: 9" node_number="16"> <li class="valid" valid="valid" title="valid: True, node: 17, level: 10" node_number="17"> <li class="valid" valid="valid" title="valid: True, node: 18, level: 11" node_number="18"> </li> <div class="valid" valid="valid" title="valid: True, node: 19, level: 11" node_number="19"> <div class="valid" valid="valid" title="valid: True, node: 20, level: 12" node_number="20"> <div class="valid" valid="valid" title="valid: True, node: 21, level: 13" node_number="21"> BUILD THE WEATHER EXPERIENCE LIKE NEVER BEFORE. </div> </div> <div class="valid" valid="valid" title="valid: True, node: 22, level: 12" node_number="22"> <div class="valid" valid="valid" title="valid: True, node: 23, level: 13" node_number="23"> NEED A GLOBALWEATHER APITHAT DELIVERS? </div> </div> <div class="valid" valid="valid" title="valid: True, node: 24, level: 12" node_number="24"> <div class="valid" valid="valid" title="valid: True, node: 25, level: 13" node_number="25"> PUT THE POWER OF ACCUWEATHER BEHIND YOUR PRODUCT. </div> </div> <div class="valid" valid="valid" title="valid: True, node: 26, level: 12" node_number="26"> <div class="valid" valid="valid" title="valid: True, node: 27, level: 13" node_number="27"> NEED A GLOBALWEATHER APITHAT DELIVERS? </div> </div> </div> </li> </li> <div class="valid" valid="valid" title="valid: True, node: 28, level: 9" node_number="28"> <div class="valid" valid="valid" title="valid: True, node: 29, level: 10" node_number="29"> <header class="valid" valid="valid" title="valid: True, node: 30, level: 11" node_number="30"> </header> <div class="valid" valid="valid" title="valid: True, node: 31, level: 11" node_number="31"> <section class="valid" valid="valid" title="valid: True, node: 32, level: 12" node_number="32"> <div class="valid" valid="valid" title="valid: True, node: 33, level: 13" node_number="33"> <section class="valid" valid="valid" title="valid: True, node: 34, level: 14" node_number="34"> <p title="valid: False, node: 35, level: 15" node_number="35">Tweets by @AccuWeather_Dev</p> </section> <section class="valid" valid="valid" title="valid: True, node: 36, level: 14" node_number="36"> <h2 title="valid: False, node: 37, level: 15" node_number="37">Recently Added APIs</h2> <div title="valid: False, node: 38, level: 15" node_number="38"> <div title="valid: False, node: 39, level: 16" node_number="39"> <div title="valid: False, node: 40, level: 17" node_number="40"> <div title="valid: False, node: 41, level: 18" node_number="41"> <span title="valid: False, node: 42, level: 19" node_number="42"><div title="valid: False, node: 43, level: 20" node_number="43"> <div title="valid: False, node: 44, level: 21" node_number="44"> <div title="valid: False, node: 45, level: 22" node_number="45"><p title="valid: False, node: 46, level: 23" node_number="46">GET</p></div> <div title="valid: False, node: 47, level: 22" node_number="47">MinuteCast&#8482;<p title="valid: False, node: 48, level: 23" node_number="48">/forecasts/v1/minute</p></div> </div> </div></span> </div> </div> <div title="valid: False, node: 49, level: 17" node_number="49"> <div title="valid: False, node: 50, level: 18" node_number="50"> <span title="valid: False, node: 51, level: 19" node_number="51"><div title="valid: False, node: 52, level: 20" node_number="52"> <div title="valid: False, node: 53, level: 21" node_number="53"> <div title="valid: False, node: 54, level: 22" node_number="54"><p title="valid: False, node: 55, level: 23" node_number="55">GET</p></div> <div title="valid: False, node: 56, level: 22" node_number="56">Government Issued Storms by year<p title="valid: False, node: 57, level: 23" node_number="57">/tropical/v1/gov/storms/{yyyy}</p></div> </div> </div></span> </div> </div> <div title="valid: False, node: 58, level: 17" node_number="58"> <div title="valid: False, node: 59, level: 18" node_number="59"> <span title="valid: False, node: 60, level: 19" node_number="60"><div title="valid: False, node: 61, level: 20" node_number="61"> <div title="valid: False, node: 62, level: 21" node_number="62"> <div title="valid: False, node: 63, level: 22" node_number="63"><p title="valid: False, node: 64, level: 23" node_number="64">GET</p></div> <div title="valid: False, node: 65, level: 22" node_number="65">Active government-issued storms by basin ID and government ID<p title="valid: False, node: 66, level: 23" node_number="66">/tropical/v1/gov/storms/active/{basinID}/{governmentID}</p></div> </div> </div></span> </div> </div> <div title="valid: False, node: 67, level: 17" node_number="67"> <div title="valid: False, node: 68, level: 18" node_number="68"> <span title="valid: False, node: 69, level: 19" node_number="69"><div title="valid: False, node: 70, level: 20" node_number="70"> <div title="valid: False, node: 71, level: 21" node_number="71"> <div title="valid: False, node: 72, level: 22" node_number="72"><p title="valid: False, node: 73, level: 23" node_number="73">GET</p></div> <div title="valid: False, node: 74, level: 22" node_number="74">Positions for an individual government-issued storm<p title="valid: False, node: 75, level: 23" node_number="75">/tropical/{version}/gov/storms/{yyyy}/{basinID}/{governmentID}/positions</p></div> </div> </div></span> </div> </div> <div title="valid: False, node: 76, level: 17" node_number="76"> <div title="valid: False, node: 77, level: 18" node_number="77"> <span title="valid: False, node: 78, level: 19" node_number="78"><div title="valid: False, node: 79, level: 20" node_number="79"> <div title="valid: False, node: 80, level: 21" node_number="80"> <div title="valid: False, node: 81, level: 22" node_number="81"><p title="valid: False, node: 82, level: 23" node_number="82">GET</p></div> <div title="valid: False, node: 83, level: 22" node_number="83">Active government-issued storms <p title="valid: False, node: 84, level: 23" node_number="84">/tropical/v1/gov/storms/active</p></div> </div> </div></span> </div> </div> </div> </div> </section> <section class="valid" valid="valid" title="valid: True, node: 85, level: 14" node_number="85"> <h2 title="valid: False, node: 86, level: 15" node_number="86">About AccuWeather APIs</h2> <h4 title="valid: False, node: 87, level: 15" node_number="87">Try it Out.</h4> <p title="valid: False, node: 88, level: 15" node_number="88"><a title="valid: False, node: 89, level: 16" node_number="89">Sign up</a> for an AccuWeather APIs account and get free access to a sampling of our weather API endpoints, including Locations, Current Conditions, and Daily and Hourly Forecasts.</p> <p title="valid: False, node: 90, level: 15" node_number="90">Limited Trial access allows each developer up to 50 calls per day.&#160;</p> <h4 title="valid: False, node: 91, level: 15" node_number="91">Getting Started.</h4> <p title="valid: False, node: 92, level: 15" node_number="92"><a title="valid: False, node: 93, level: 16" node_number="93">Basic instructions</a> for signing up, creating an App to get your API Key, and testing our weather APIs.</p> <h4 title="valid: False, node: 94, level: 15" node_number="94">Want More?</h4> <p title="valid: False, node: 95, level: 15" node_number="95"><a title="valid: False, node: 96, level: 16" node_number="96">Contact</a> our sales department to learn how you can leverage our full range of weather API offerings.</p> </section> </div> </section> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 97, level: 9" node_number="97"> <div class="valid" valid="valid" title="valid: True, node: 98, level: 10" node_number="98"> <section class="valid" valid="valid" title="valid: True, node: 99, level: 11" node_number="99"> <div class="valid" valid="valid" title="valid: True, node: 100, level: 12" node_number="100"> <div class="valid" valid="valid" title="valid: True, node: 101, level: 13" node_number="101"> <div class="valid" valid="valid" title="valid: True, node: 102, level: 14" node_number="102"> <div title="valid: False, node: 103, level: 15" node_number="103"> <ul title="valid: False, node: 104, level: 16" node_number="104"> <li title="valid: False, node: 105, level: 17" node_number="105"><a title="valid: False, node: 106, level: 18" node_number="106">COMPANY</a> <ul title="valid: False, node: 107, level: 18" node_number="107"> <li title="valid: False, node: 108, level: 19" node_number="108"><a title="valid: False, node: 109, level: 20" node_number="109">About Us</a></li> <li title="valid: False, node: 110, level: 19" node_number="110"><a title="valid: False, node: 111, level: 20" node_number="111">Advertise with Us</a></li> <li title="valid: False, node: 112, level: 19" node_number="112"><a title="valid: False, node: 113, level: 20" node_number="113">Careers</a></li> <li title="valid: False, node: 114, level: 19" node_number="114"><a title="valid: False, node: 115, level: 20" node_number="115">Press</a></li> </ul> </li> <li title="valid: False, node: 116, level: 17" node_number="116"><a title="valid: False, node: 117, level: 18" node_number="117">ENTERPRISE SOLUTIONS</a> <ul title="valid: False, node: 118, level: 18" node_number="118"> <li title="valid: False, node: 119, level: 19" node_number="119"><a title="valid: False, node: 120, level: 20" node_number="120">Portal</a></li> <li title="valid: False, node: 121, level: 19" node_number="121"><a title="valid: False, node: 122, level: 20" node_number="122">Manufacturing</a></li> <li title="valid: False, node: 123, level: 19" node_number="123"><a title="valid: False, node: 124, level: 20" node_number="124">Retail</a></li> <li title="valid: False, node: 125, level: 19" node_number="125"><a title="valid: False, node: 126, level: 20" node_number="126">Finance and Banking</a></li> <li title="valid: False, node: 127, level: 19" node_number="127"><a title="valid: False, node: 128, level: 20" node_number="128">Energy</a></li> <li title="valid: False, node: 129, level: 19" node_number="129"><a title="valid: False, node: 130, level: 20" node_number="130">Forensics Weather Experts</a></li> <li title="valid: False, node: 131, level: 19" node_number="131"><a title="valid: False, node: 132, level: 20" node_number="132">D3: Data Driven Decisions</a></li> </ul> </li> <li title="valid: False, node: 133, level: 17" node_number="133"><a title="valid: False, node: 134, level: 18" node_number="134">SUBSCRIPTION SERVICES</a> <ul title="valid: False, node: 135, level: 18" node_number="135"> <li title="valid: False, node: 136, level: 19" node_number="136"><a title="valid: False, node: 137, level: 20" node_number="137">AccuWeather Premium</a></li> <li title="valid: False, node: 138, level: 19" node_number="138"><a title="valid: False, node: 139, level: 20" node_number="139">AccuWeather Professional</a></li> </ul> </li> <li title="valid: False, node: 140, level: 17" node_number="140"><a title="valid: False, node: 141, level: 18" node_number="141">APPS AND DOWNLOADS</a></li> </ul> </div> </div> </div> <div class="valid" valid="valid" title="valid: True, node: 142, level: 13" node_number="142"> <div class="valid" valid="valid" title="valid: True, node: 143, level: 14" node_number="143"> <div title="valid: False, node: 144, level: 15" node_number="144"> <div title="valid: False, node: 145, level: 16" node_number="145">&#169; AccuWeather, Inc.</div> <div title="valid: False, node: 146, level: 16" node_number="146"> <ul title="valid: False, node: 147, level: 17" node_number="147"> <li title="valid: False, node: 148, level: 18" node_number="148"><a title="valid: False, node: 149, level: 19" node_number="149">Home</a></li> <li title="valid: False, node: 150, level: 18" node_number="150"><a title="valid: False, node: 151, level: 19" node_number="151">AccuWeather.com Home</a></li> <li title="valid: False, node: 152, level: 18" node_number="152"><a title="valid: False, node: 153, level: 19" node_number="153">Careers</a></li> <li title="valid: False, node: 154, level: 18" node_number="154"><a title="valid: False, node: 155, level: 19" node_number="155">Privacy</a></li> <li title="valid: False, node: 156, level: 18" node_number="156"><a title="valid: False, node: 157, level: 19" node_number="157">Terms of Usage</a></li> <li title="valid: False, node: 158, level: 18" node_number="158"><a title="valid: False, node: 159, level: 19" node_number="159">Sitemap</a></li> <li title="valid: False, node: 160, level: 18" node_number="160"><a title="valid: False, node: 161, level: 19" node_number="161">System Status</a></li> </ul> </div> </div> </div> </div> </div> </section> </div> </div> </li> <div class="valid" valid="valid" title="valid: True, node: 162, level: 8" node_number="162"> <div class="valid" valid="valid" title="valid: True, node: 163, level: 9" node_number="163"> <div class="valid" valid="valid" title="valid: True, node: 164, level: 10" node_number="164"> <div class="valid" valid="valid" title="valid: True, node: 165, level: 11" node_number="165"> <div class="valid" valid="valid" title="valid: True, node: 166, level: 12" node_number="166"> <h4 class="valid" valid="valid" title="valid: True, node: 167, level: 13" node_number="167">Log in</h4> </div> </div> </div> </div><div class="valid" valid="valid" title="valid: True, node: 168, level: 9" node_number="168"> <div class="valid" valid="valid" title="valid: True, node: 169, level: 10" node_number="169"> <div class="valid" valid="valid" title="valid: True, node: 170, level: 11" node_number="170"> <div class="valid" valid="valid" title="valid: True, node: 171, level: 12" node_number="171"> <h4 class="valid" valid="valid" title="valid: True, node: 172, level: 13" node_number="172">Register a new user</h4> </div> </div> </div> </div> </div> </ol></div></section></div></div></header></body>
+        <style tyle='text/css'>
+body{
+    position: relative;
+    padding-left: 30px;
+    top: 60px;
+}
+* {
+    border: 1px solid #eee;
+    padding: 5px 12px;
+    margin: 3px 0;
+    box-sizing: content-box;
+    background-color: #fff;
+    cursor: no-drop;
+}
+main:hover > *, section:hover > *, header:hover > *, nav:hover > *, a:hover > *, div:hover > *, p:hover > *, ul:hover > *, h1:hover > *, h2:hover > *, h3:hover > *, li:hover > *, span:hover > *{
+    border: 2px solid green;
+    background-color: #fffeee;
+    padding: 5px 23px !important;
+    margin: 1px 0;
+    color: green;
+}
+main:hover, section:hover, header:hover, nav:hover, a:hover, div:hover, p:hover, ul:hover, h1:hover, h2:hover, h3:hover, li:hover, span:hover{
+    border: 1px solid #fff;
+    background-color: #eee;
+}
+a, span {
+    display: block;
+}
+.selected {
+    border: 2px solid orchid !important;
+    opacity: 0.8;
+    color: orchid !important;
+}
+.selected * {
+    padding: 2px !important;
+    color: orchid !important;
+}
+.valid {
+  cursor: pointer;
+}
+.btn{
+  cursor: pointer;
+  font-weight: bolder;
+  padding: 8px;
+}
+</style> 
+        <script>function OpenOriginalLink($event){
+    $event.stopPropagation();
+    console.log(url);
+}
+
+function removeItem($event){
+    $event.stopPropagation();
+    console.log('Remove item: ', url)
+    localStorage.removeItem(url)
+}
+
+function exportData($event){
+    $event.stopPropagation();
+
+    result = []
+    for(let i=0; i<localStorage.length; i++) {
+        let key = localStorage.key(i);
+        result.push(localStorage.getItem(key))
+    }
+    const _url = URL.createObjectURL(new Blob([result.join("\n")], {type: 'text/plain'}))
+    $event.target.href = _url;
+    localStorage.clear()
+}
+
+var removeItemBtn = document.createElement("BUTTON");   // Create a <button> element
+removeItemBtn.innerHTML = "Remove Item";
+removeItemBtn.classList.add('btn');
+removeItemBtn.style.position = "fixed";
+removeItemBtn.style.left = '5px';
+removeItemBtn.style.top = 0;
+removeItemBtn.style.border = "1px solid";
+removeItemBtn.style.boxShadow = "3px 3px #888";
+removeItemBtn.onclick = removeItem;
+document.body.appendChild(removeItemBtn);
+
+var goToOriginLink = document.createElement("A");   // Create a <button> element
+goToOriginLink.innerHTML = "GoToOrigin";
+goToOriginLink.classList.add('btn');
+goToOriginLink.style.position = "fixed"
+goToOriginLink.style.left = '115px'
+goToOriginLink.style.top = 0;
+goToOriginLink.onclick = OpenOriginalLink;
+goToOriginLink.setAttribute('href', decodeURIComponent(url));
+goToOriginLink.target = '_blank';
+document.body.appendChild(goToOriginLink);
+
+var current = new Date
+var exportDataLink = document.createElement("A");   // Create a <button> element
+exportDataLink.innerHTML = "Export data";
+exportDataLink.classList.add('btn');
+exportDataLink.download = current.toISOString() + '.exported.txt';
+exportDataLink.style.position = "fixed";
+exportDataLink.style.right = '5px';
+exportDataLink.style.top = 0;
+exportDataLink.style.border = "1px solid #888";
+exportDataLink.style.boxShadow = "3px 3px #888";
+exportDataLink.onclick = exportData;
+document.body.appendChild(exportDataLink);
+
+data = {
+    'title': null ,
+    'article': null
+}
+
+var body = document.getElementsByTagName("body")[0];
+
+body.onclick = function($e){
+    var num = $e.target.getAttribute('node_number')
+    var valid = $e.target.getAttribute('valid')
+
+    if(!valid){
+        console.log("Element is invalid")
+        return
+    }
+
+    if(data.length > 2){
+        data = data.splice(0, 2)
+    }
+
+    console.log("node:", $e.target)
+
+    if(!data.title && !data.article){
+        data.title = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else if (data.title && !data.article){
+        data.article = num;
+        console.log("data:", data)
+        $e.target.classList.add('selected')
+    }else{
+        selected = Array.from(document.getElementsByClassName("selected"))
+        selected.forEach(function(el){
+            el.classList.remove('selected')
+        })
+
+        data.title = num;
+        data.article = null;
+        $e.target.classList.add('selected')
+
+    }
+
+    if(data.title && data.article){
+        var obj = {
+            url: url,
+            text: body_html,
+            title: data.title,
+            article: data.article,
+        }
+
+        var datasetItem = JSON.stringify(obj)
+        localStorage.setItem(url, datasetItem)
+    }
+}
+</script> 
+      </html>
