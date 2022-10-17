@@ -6,8 +6,8 @@ jupyter:
     text_representation:
       extension: .md
       format_name: markdown
-      format_version: '1.2'
-      jupytext_version: 1.7.1
+      format_version: '1.3'
+      jupytext_version: 1.14.1
   kernelspec:
     display_name: Python 3
     language: python
@@ -16,7 +16,7 @@ jupyter:
 
 ```python
 import os
-os.chdir('/workspace/upwork/martien_brouver/mylapi/scraping')
+os.chdir('/workspace/HtmlSecReg')
 # os.environ["CUDA_VISIBLE_DEVICES"]="-1"
 
 import math
@@ -39,19 +39,10 @@ from tensorflow.keras.models import Model, Sequential
 from tensorflow import config as config
 from tensorflow.keras.utils import to_categorical
 
-from textgenrnn import textgenrnn
-from textgenrnn.AttentionWeightedAverage import AttentionWeightedAverage
-from textgenrnn.utils import (
-    generate_after_epoch,
-    save_model_weights,
-    textgenrnn_encode_sequence,
-    textgenrnn_generate,
-    textgenrnn_texts_from_file,
-    textgenrnn_texts_from_file_context,
-)
+from .parser.v3x24x00 import HierarchyV3x24x00
 ```
 ```python
-loaded_model = tf.keras.models.load_model('parser/models/v6')
+loaded_model = tf.keras.models.load_model('parser/models/v3x24x00x00r44.h5')
 ```
 ```python
 from importlib import reload
@@ -70,6 +61,17 @@ transform_top_level_nodes_to_sequence = transformer.transform_top_level_nodes_to
 num_nodes = cfg['num_encoded_nodes']
 max_length = cfg['max_length']
 
+def charrnn_encode_sequence(text, vocab, maxlen):
+    '''
+    Encodes a text into the corresponding encoding for prediction with
+    the model.
+    '''
+
+    oov = vocab['oov']
+    encoded = np.array([vocab.get(x, oov) for x in text])
+    return sequence.pad_sequences([encoded], padding='post', maxlen=maxlen)
+
+
 class Extractor():
   def __init__(self, model):
     self.model = model
@@ -82,7 +84,7 @@ class Extractor():
     x = np.zeros((num_nodes, max_length))
     x_index = 0
     for node in hierarchy:
-      encoded_text = textgenrnn_encode_sequence(_text[-max_length:], vocab, max_length)
+      encoded_text = charrnn_encode_sequence(_text[-max_length:], vocab, max_length)
       x[x_index] = encoded_text
       x_index += 1
       if x_index >= num_nodes:

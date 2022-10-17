@@ -1,8 +1,10 @@
 .ipynb_checkpoints/
 __pycache__/
 
-parser/tmp/
-parser/charemb-dataset/tmp/
-parser/htmlsecreg-dataset/tmp/
+article-body-recognizer/tmp/
+article-body-recognizer/charemb-dataset/tmp/
+article-body-recognizer/htmlsecreg-dataset/tmp/
+
+logs/
 
 *.ipynb
