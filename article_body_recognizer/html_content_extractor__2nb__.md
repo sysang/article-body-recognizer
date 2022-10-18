@@ -30,7 +30,7 @@ from lxml import etree
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras import backend as K
-from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.optimizers import Adam, RMSprop
 
 from tensorflow.keras.layers import Input, Embedding, Dense, LSTM, Bidirectional, Dropout
 from tensorflow.keras.layers import concatenate, Reshape, SpatialDropout1D
@@ -39,77 +39,136 @@ from tensorflow.keras.models import Model, Sequential
 from tensorflow import config as config
 from tensorflow.keras.utils import to_categorical
 
-from article-body-recognizer.v3x24x00 import HierarchyV3x24x00
+from requests_html import HTMLSession
+
+from article_body_recognizer.ANNs.v3x24x00 import HierarchyV3x24x00
+from article_body_recognizer.system_specs import char_emb_training_specs
+from article_body_recognizer.training_utils import charrnn_encode_sequence
 ```
 ```python
-loaded_model = tf.keras.models.load_model('parser/models/v3x24x00x00r44.h5')
+
 ```
 ```python
 from importlib import reload
-from scraping import utils, transformer, configurations
+from article_body_recognizer.char_dict import vocabularies as vocab
+from article_body_recognizer import utils, transformer
+from article_body_recognizer.transformer import LxmlTree
 
 reload(utils)
 reload(transformer)
-reload(configurations)
-
-cfg = configurations.cfg
-vocab= configurations.vocab
 
 filter_html = utils.filter_html
 transform_top_level_nodes_to_sequence = transformer.transform_top_level_nodes_to_sequence
 
-num_nodes = cfg['num_encoded_nodes']
-max_length = cfg['max_length']
 
-def charrnn_encode_sequence(text, vocab, maxlen):
-    '''
-    Encodes a text into the corresponding encoding for prediction with
-    the model.
-    '''
+class Recognizer():
+  TEXT_LENGTH_POS = 5
 
-    oov = vocab['oov']
-    encoded = np.array([vocab.get(x, oov) for x in text])
-    return sequence.pad_sequences([encoded], padding='post', maxlen=maxlen)
+  def __init__(self):
+    self.cfg = {
+      'num_categories': 501,
+      'num_classes': char_emb_training_specs['NUM_CLASSES'],
+      'max_length': 75000,
+      'learning_rate': 5e-4,
+      'emb_trainable': False,
+      'decoder_trainable': False,
+      'optimizer': RMSprop,
+    }
+    self.model = HierarchyV3x24x00(self.cfg)
+    self.model.load_weights(f"article_body_recognizer/models/v3x24x00x00r44.h5")
+
+  def parse_html_to_plain(self, node):
+    texts = []
+    for txt in node.itertext():
+      txt = txt.strip().replace('\t', '').replace('\n', '')
+      # check fo empty string
+      if txt:
+        texts.append(txt)
+
+    return ' '.join(texts)
 
 
-class Extractor():
-  def __init__(self, model):
-    self.model = model
+  def pred_to_content(self, content_node_index, pred):
+    pred_np = pred.numpy()
+    pred_np = pred_np.squeeze()
+    top_k_num = 5
+    # likelihook is ascending from left to right
+    # higher level nodes should be left-oriented
+    top_k = pred_np.argpartition(-top_k_num)[-top_k_num:]
+    contents = []
+
+    for num in top_k.tolist():
+      if num >= len(content_node_index):
+        print('[INFO] The predicted index was out of range. Can not extract content from html text.')
+        continue
+
+      content_node = content_node_index[num]
+      content = self.parse_html_to_plain(content_node)
+      prob = float(pred_np[num])
+      children = list(content_node.iterchildren()) if getattr(content_node, 'iterchildren', None) else []
+      contents.append((num, content_node, prob, children, content, len(content)))
+
+    # sort by content length
+    # content length is descending from left to right
+    # higher level nodes should be left-oriented
+    contents.sort(key=lambda r: r[self.TEXT_LENGTH_POS], reverse=True)
+
+    if not len(contents):
+      return None
+
+    result = contents[0]
+    for ctn in contents[1:]:
+      # check if successor is child of and successor's probability is higher
+      if ctn[1] in result[3] and ctn[2] >= result[2]:
+        result = ctn
+
+    # print('target: ', result)
+
+    return result
+
 
   def getContent(self, html_text):
-    _text = filter_html(html_text)
-    root = etree.XML(_text)
-    hierarchy = transform_top_level_nodes_to_sequence(_text)
+    simplified_html = filter_html(html_text)
+    lxmltree = LxmlTree(simplified_html)
+    content_node_index = [el for el in lxmltree.root.iter()]
 
-    x = np.zeros((num_nodes, max_length))
-    x_index = 0
-    for node in hierarchy:
-      encoded_text = charrnn_encode_sequence(_text[-max_length:], vocab, max_length)
-      x[x_index] = encoded_text
-      x_index += 1
-      if x_index >= num_nodes:
-        break
+    original = self.parse_html_to_plain(lxmltree.root)
+    print('[Original (length of %s): ]' % len(original), original)
 
-    content_preds, _ = self.model(np.array([x]))
-    content_preds = content_preds.numpy()
+    hierarchy = transform_top_level_nodes_to_sequence(lxmltree)
+    encoded_text = charrnn_encode_sequence(hierarchy, vocab, self.cfg['max_length'])
 
-    content_node_number = content_preds.argmax()
-    print('content_node_number: ', content_node_number)
+    preds= self.model(encoded_text)
+    abstract_pred = preds[0]
+    detail_pred = preds[1]
 
-    index = [el for el in root.iter()]
-    if content_node_number > len(index):
-      raise Exception('The predicted index was out of range. Can not extract content from html text.')
+    candidate_1 = self.pred_to_content(content_node_index, abstract_pred)
+    candidate_2 = self.pred_to_content(content_node_index, detail_pred)
 
-    content_node = index[content_node_number]
-    content = str(etree.tostring(content_node), 'utf-8') # Need to filter out html tag
+    # priority longer content
+    candidate = candidate_1 if candidate_1[self.TEXT_LENGTH_POS] > candidate_2[self.TEXT_LENGTH_POS] else candidate_2
 
-    return content
+    return candidate
 
-F_PATH = "scraping/etc/tmp.html"
+```
+```python
+# F_PATH = "article_body_recognizer/tmp.html"
+# with open(F_PATH, 'r') as f:
+#   html_text = f.read()
 
-with open(F_PATH, 'r') as f:
-  html_text = f.read()
+html_text = ''
+url = 'https://vitalik.ca/general/2022/09/17/layer_3.html'
+with HTMLSession() as session:
+  r = session.get(url)
+  html_text = r.text
 
-extractor = Extractor(loaded_model)
-content = extractor.getContent(html_text)
+recognizer = Recognizer()
+candidate = recognizer.getContent(html_text)
+print('[Result (length of %s): ]' % len(candidate[4]), candidate[4])
+
+with open('article_body_recognizer/result.txt', 'w') as f:
+  html_text = f.write(candidate[4])
+```
+```python
+# html_text
 ```

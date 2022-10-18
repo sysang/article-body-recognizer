@@ -48,6 +48,9 @@ def filter_html(html):
       (re.compile('\<form[^\>]*\>.*?\<\/form\>'), ''),
       (re.compile('\<button[^\>]*\>.*?\<\/button\>'), ''),
       (re.compile('\<table[^\>]*\>.*?\<\/table\>'), ''),
+      # (re.compile('\<header[^\>]*\>.*?\<\/header\>'), ''),
+      # (re.compile('\<head[^\>]*\>.*?\<\/head\>'), ''),
+      (re.compile('\<title[^\>]*\>.*?\<\/title\>'), ''),
       (re.compile('\<footer[^\>]*\>.*?\<\/footer\>'), ''),
       (re.compile('\<style[^\>]*\>.*?\<\/style\>'), ''),
       (re.compile('\<script[^\>]*\>.*?\<\/script\>'), ''),
@@ -121,4 +124,5 @@ def base64StrDecode(encoded_str: str, scheme='utf-8') -> str:
   decoded_str = str(decoded_bytes, scheme)
 
   return decoded_str
+
 

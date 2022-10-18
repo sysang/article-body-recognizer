@@ -7,8 +7,8 @@ jupyter:
     text_representation:
       extension: .md
       format_name: markdown
-      format_version: '1.2'
-      jupytext_version: 1.7.1
+      format_version: '1.3'
+      jupytext_version: 1.14.1
 ---
 
 ```python
@@ -46,12 +46,13 @@ from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.preprocessing import sequence
 from tensorflow.keras.callbacks import TensorBoard, Callback
 
-from scraping.utils import base64StrDecode
-from scraping import models
-from scraping import vers_models
-from scraping.system_specs import char_emb_training_specs
-from scraping.transformer import LxmlTree
-from scraping.transformer import transform_top_level_nodes_to_sequence
+from article_body_recognizer.utils import base64StrDecode
+from article_body_recognizer.ANNs import designs
+from article_body_recognizer.ANNs import versions
+from article_body_recognizer.system_specs import char_emb_training_specs
+from article_body_recognizer.transformer import LxmlTree
+from article_body_recognizer.transformer import transform_top_level_nodes_to_sequence
+from article_body_recognizer.training_utils import charrnn_encode_sequence
 ```
 ```python
 # from urllib import parse
@@ -120,28 +121,18 @@ cfg = {
     'pribuf_looping': True, # If is True then buffer_size makes no affect and is set to steps_per_epoch
     # 'decay_steps': 10,
     # 'decay_rate': 0.2479,  # Formular: (2e-4 / 5e-5 - 1) / floor(121 / 10)
-    # 'model': vers_models.HierarchyV3_100100,
+    # 'model': versions.HierarchyV3_100100,
     'emb_trainable': False,
     'decoder_trainable': True,
-    'model': models.Hierarchy,
+    'model': designs.Hierarchy,
   }
 
 print(cfg)
 SLEEP_TIME = 0.15
 ```
 ```python
-from scraping.char_dict import vocabularies as vocab
+from article_body_recognizer.char_dict import vocabularies as vocab
 print('Vocabuary index: ', vocab)
-
-def charrnn_encode_sequence(text, vocab, maxlen):
-    '''
-    Encodes a text into the corresponding encoding for prediction with
-    the model.
-    '''
-
-    oov = vocab['oov']
-    encoded = np.array([vocab.get(x, oov) for x in text])
-    return sequence.pad_sequences([encoded], padding='post', maxlen=maxlen)
 
 ```
 ```python

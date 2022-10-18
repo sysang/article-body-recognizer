@@ -1,16 +1,10 @@
-import numpy as np
 import tensorflow as tf
-from tensorflow.keras import backend as K
 from tensorflow.keras.optimizers import Adam, RMSprop, SGD, Adagrad, Nadam
-from tensorflow.keras.optimizers.schedules import InverseTimeDecay
 from tensorflow.keras.layers import Input, Embedding, Dense, LSTM, Bidirectional, Dropout, LayerNormalization, Layer, BatchNormalization
 from tensorflow.keras.layers import concatenate, Reshape, SpatialDropout1D, Conv1D, Flatten, AveragePooling1D, MaxPool1D, Average, Maximum, Multiply, Add, Minimum
 from tensorflow.keras.models import Model, Sequential
 
-from tensorflow import config as config
-from tensorflow.keras.utils import to_categorical
-from tensorflow.keras.preprocessing import sequence
-from tensorflow.keras.callbacks import TensorBoard, Callback
+from article_body_recognizer.ANNs.charemb_networks import CharEmbeddingV5
 
 
 def HierarchyV3x24x00(cfg, learning_rate=None):
@@ -20,6 +14,11 @@ def HierarchyV3x24x00(cfg, learning_rate=None):
   lr = learning_rate if learning_rate else cfg['learning_rate']
   emb_trainable = cfg['emb_trainable']
   decoder_trainable = cfg['decoder_trainable']
+
+  fine_tuning = cfg.get('dropout_fine_tuning', 0)
+
+  Optimizer = cfg['optimizer']
+  print('[INFO] optimizer: ', Optimizer)
 
   conv_activation = 'swish'
   dense_activation = 'swish'
@@ -34,7 +33,6 @@ def HierarchyV3x24x00(cfg, learning_rate=None):
   abs_content_dense_3_size = 16
   dense_4_size = 8
 
-  fine_tuning = cfg.get('dropout_fine_tuning', 0)
   dense_1_dropout_ratio = 0.75 - fine_tuning
   dense_2_dropout_ratio = 0.50 - fine_tuning
   detail_content_outdrop_3_ratio = 0.50 - fine_tuning
@@ -54,7 +52,7 @@ def HierarchyV3x24x00(cfg, learning_rate=None):
   print('[INFO] abstract_content_outdrop_3_ratio: ', abstract_content_outdrop_3_ratio)
   print('[INFO] dense_4_dropout_ratio: ', dense_4_dropout_ratio)
 
-  char_embedding_layer = CharEmbeddingV5(cfg, trainable=emb_trainable, name='char_embedding')
+  char_embedding_layer = CharEmbeddingV5(num_classes=num_classes, max_length=max_length, trainable=emb_trainable, name='char_embedding')
 
   input = Input(shape=(max_length,), dtype='int32', name='input')
 
@@ -246,9 +244,6 @@ def HierarchyV3x24x00(cfg, learning_rate=None):
     )(abstract_content_dense_norm_4)
 
   model = Model(inputs=[input], outputs=[abstract_content_output, detail_content_output, detail_title_output])
-
-  Optimizer = cfg['optimizer']
-  print('[INFO] optimizer: ', Optimizer)
 
   optimizer = Optimizer(learning_rate=lr)
 

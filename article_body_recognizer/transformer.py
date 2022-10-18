@@ -2,6 +2,7 @@ import re
 import html
 import base64
 import math
+import io
 
 from lxml import etree
 
@@ -76,7 +77,7 @@ def transform_top_level_nodes_to_sequence(lxmltree=None, html_text=''):
     return text
 
   def traverse_down(node, level=1, parents=[]):
-    if level >= _lxmltree.THRESHOLD_DEPTH_LV or not len(node.getchildren()):
+    if level >= _lxmltree.THRESHOLD_DEPTH_LV or not getattr(node, 'getchildren', None) or not len(node.getchildren()):
       node_list.append(path_to_root(node, parents))
       return True
 
@@ -99,8 +100,9 @@ class LxmlTree():
     # This hyperparameter affects how sequence represent hierarchical data.
     self.THRESHOLD_DEPTH_LV = 14
 
-    parser = etree.XMLParser(recover=True)
-    self.root = etree.XML(xml_text, parser=parser)
+    # parser = etree.XMLParser(recover=True)
+    # self.root = etree.XML(xml_text, parser=parser) # error when broken html text
+    self.root = etree.HTML(xml_text)
     self.index_table = {}
 
     counter = 1
