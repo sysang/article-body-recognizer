@@ -1,7 +1,7 @@
-from article_body_recognizer.char_dict import get_size
+from article_body_recognizer import char_dict
 
 char_emb_training_specs = {
       'MAX_LENGTH' : 256,
       'MIN_LENGTH' : 32,
-      'NUM_CLASSES' : get_size(),
+      'NUM_CLASSES' : char_dict.get_size(),
     }

@@ -7,8 +7,8 @@ jupyter:
     text_representation:
       extension: .md
       format_name: markdown
-      format_version: '1.2'
-      jupytext_version: 1.7.1
+      format_version: '1.3'
+      jupytext_version: 1.14.1
 ---
 
 ```python
@@ -47,8 +47,9 @@ from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.preprocessing import sequence
 from tensorflow.keras.callbacks import TensorBoard, Callback
 
-from scraping.system_specs import char_emb_training_specs
-from scraping.models import CharEmbeddingV5
+from article_body_recognizer.ANNs.charemb_comparator import CharembComparatorV1
+from article_body_recognizer.ANNs.charemb_network import CharEmbeddingV5
+
 ```
 ```python
 cfg = {
@@ -179,7 +180,7 @@ def design_model(cfg):
   return model
 
 def create_model(cfg):
-  model = design_model(cfg)
+  model = CharembComparatorV1(cfg)
   model.summary()
 
   emb_trainable = cfg['emb_trainable']
