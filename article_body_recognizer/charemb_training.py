@@ -1,3 +1,4 @@
+import random
 from collections import deque
 
 import numpy as np
@@ -6,7 +7,7 @@ from article_body_recognizer.char_dict import vocabularies as vocab
 from article_body_recognizer.training_utils import charrnn_encode_sequence
 
 class Tester:
-  def __init__(self, model, dataset):
+  def __init__(self, model, dataset, cfg):
     self.size = 501
     self.model = model
     self.dataset = dataset
@@ -15,6 +16,7 @@ class Tester:
       'preds1': None,
       'preds2': None,
     }
+    self.input_max_length = cfg['max_length']
 
     for i in range(self.size):
       self.arguments.appendleft(random.choice(self.dataset))
@@ -37,12 +39,12 @@ class Tester:
     _argument = '<p>This implementation of RMSprop uses plain momentum, not Nesterov momentum.</p>'
     for item in self.dataset:
 
-      _data1['input_1'].append(charrnn_encode_sequence(item, vocab, max_length)[0])
-      _data1['input_2'].append(charrnn_encode_sequence(_argument, vocab, max_length)[0])
+      _data1['input_1'].append(charrnn_encode_sequence(item, vocab, self.input_max_length)[0])
+      _data1['input_2'].append(charrnn_encode_sequence(_argument, vocab, self.input_max_length)[0])
 
       # Reverse the order of item and argument
-      _data2['input_1'].append(charrnn_encode_sequence(_argument, vocab, max_length)[0])
-      _data2['input_2'].append(charrnn_encode_sequence(item, vocab, max_length)[0])
+      _data2['input_1'].append(charrnn_encode_sequence(_argument, vocab, self.input_max_length)[0])
+      _data2['input_2'].append(charrnn_encode_sequence(item, vocab, self.input_max_length)[0])
 
       # in case of argument pool is not full yet, always use previous one as argument and stack item into pool
       if self.size != len(self.arguments):

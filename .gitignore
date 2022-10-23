@@ -8,3 +8,4 @@ article-body-recognizer/htmlsecreg-dataset/tmp/
 logs/
 
 *.ipynb
+!char_embedding_training__2nb__.ipynb
